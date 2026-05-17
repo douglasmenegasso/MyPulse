@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Consignado">
+<title>Venda Consignada</title>
+<style>
+:root{
+  --bg:#0f0f12;--bg2:#18181f;--bg3:#22222c;--surface:#1e1e28;
+  --border:#2e2e3d;--accent:#6c63ff;--accent2:#a78bfa;
+  --green:#22c55e;--red:#ef4444;--amber:#f59e0b;--blue:#3b82f6;
+  --text:#f0f0f5;--text2:#9999b3;--text3:#5a5a75;
+  --radius:14px;--radius-sm:8px;
+  --font:'SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent;}
+html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--font);overflow:hidden;}
+#app{display:flex;flex-direction:column;height:100dvh;}
+.header{background:var(--bg2);border-bottom:1px solid var(--border);padding:12px 16px;flex-shrink:0;}
+.header-title{font-size:18px;font-weight:700;letter-spacing:-0.4px;}
+.header-sub{font-size:12px;color:var(--text2);margin-top:1px;}
+.content{flex:1;overflow-y:auto;padding:16px;-webkit-overflow-scrolling:touch;}
+.nav{background:var(--bg2);border-top:1px solid var(--border);display:flex;flex-shrink:0;}
+.nav-btn{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;padding:10px 2px 12px;cursor:pointer;border:none;background:none;color:var(--text2);font-size:9px;font-family:var(--font);transition:color .15s;}
+.nav-btn.active{color:var(--accent2);}
+.nav-btn .icon{font-size:20px;}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:12px;}
+.card-title{font-size:12px;font-weight:600;color:var(--text2);text-transform:uppercase;letter-spacing:.6px;margin-bottom:12px;}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;padding:14px 20px;border-radius:var(--radius-sm);font-size:15px;font-weight:600;font-family:var(--font);cursor:pointer;border:none;transition:all .15s;width:100%;}
+.btn:active{transform:scale(0.97);}
+.btn-primary{background:var(--accent);color:#fff;}
+.btn-green{background:var(--green);color:#fff;}
+.btn-red{background:var(--red);color:#fff;}
+.btn-amber{background:var(--amber);color:#000;}
+.btn-outline{background:transparent;border:1px solid var(--border);color:var(--text);}
+.btn-sm{padding:8px 14px;font-size:13px;width:auto;}
+.form-group{margin-bottom:14px;}
+.form-label{font-size:13px;color:var(--text2);margin-bottom:6px;display:block;}
+.form-hint{font-size:11px;color:var(--text3);margin-top:4px;}
+.form-input{width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:var(--radius-sm);padding:12px 14px;font-size:16px;color:var(--text);font-family:var(--font);outline:none;transition:border-color .15s;-webkit-appearance:none;}
+.form-input:focus{border-color:var(--accent);}
+.form-input::placeholder{color:var(--text3);}
+.search-wrap{position:relative;margin-bottom:14px;}
+.search-wrap .form-input{padding-left:40px;}
+.search-icon{position:absolute;left:13px;top:50%;transform:translateY(-50%);font-size:16px;pointer-events:none;}
+/* Scanner */
+.scan-box{position:relative;border-radius:var(--radius);overflow:hidden;background:#000;height:min(40vh, 280px);margin-bottom:4px;}
+.scan-box video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;}
+.scan-overlay{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;pointer-events:none;}
+.scan-frame{width:70%;height:40%;position:relative;}
+.sc{position:absolute;width:24px;height:24px;border-color:var(--accent2);border-style:solid;}
+.sc.tl{top:0;left:0;border-width:3px 0 0 3px;border-radius:4px 0 0 0;}
+.sc.tr{top:0;right:0;border-width:3px 3px 0 0;border-radius:0 4px 0 0;}
+.sc.bl{bottom:0;left:0;border-width:0 0 3px 3px;border-radius:0 0 0 4px;}
+.sc.br{bottom:0;right:0;border-width:0 3px 3px 0;border-radius:0 0 4px 0;}
+.scan-line{position:absolute;width:100%;height:2px;background:linear-gradient(90deg,transparent,var(--accent2),transparent);animation:scanline 2s linear infinite;}
+@keyframes scanline{0%{top:0}100%{top:100%}}
+.cam-overlay{position:absolute;inset:0;background:rgba(15,15,18,.96);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:20px;text-align:center;border-radius:var(--radius);}
+.manual-bar{display:flex;gap:8px;margin-bottom:14px;}
+.manual-bar .form-input{flex:1;}
+.manual-bar button{flex-shrink:0;padding:0 18px;height:46px;border-radius:var(--radius-sm);border:none;background:var(--accent);color:#fff;font-size:14px;font-weight:600;font-family:var(--font);cursor:pointer;}
+.item-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--border);}
+.item-row:last-child{border-bottom:none;}
+.item-icon{width:38px;height:38px;border-radius:var(--radius-sm);background:var(--bg3);display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0;}
+.item-info{flex:1;min-width:0;}
+.item-name{font-size:14px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.item-sub{font-size:11px;color:var(--text2);margin-top:2px;}
+.item-price{font-size:15px;font-weight:700;color:var(--green);flex-shrink:0;}
+.client-card{background:var(--bg3);border-radius:var(--radius-sm);padding:12px 14px;display:flex;align-items:center;gap:12px;margin-bottom:8px;cursor:pointer;border:1px solid transparent;transition:border-color .15s;}
+.client-card:active{border-color:var(--accent);}
+.avatar{border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;color:#fff;flex-shrink:0;}
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.75);display:flex;align-items:center;justify-content:center;z-index:2000;animation:fadeIn .15s;padding:20px;}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+.modal{background:var(--bg2);border-radius:var(--radius);width:100%;max-width:400px;padding:24px;max-height:90dvh;overflow-y:auto;animation:modalPop .2s;box-shadow:0 20px 40px rgba(0,0,0,0.4);border:1px solid var(--border);}
+@keyframes modalPop{from{opacity:0;transform:scale(0.95)}to{opacity:1;transform:scale(1)}}
+.modal-handle{width:36px;height:4px;background:var(--border);border-radius:2px;margin:0 auto 20px;}
+.modal-title{font-size:20px;font-weight:700;margin-bottom:6px;}
+.modal-sub{font-size:14px;color:var(--text2);margin-bottom:16px;line-height:1.5;}
+.toast{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:var(--bg2);border:1px solid var(--border);border-radius:30px;padding:10px 20px;font-size:14px;font-weight:500;z-index:200;white-space:nowrap;animation:toastIn .2s;pointer-events:none;}
+@keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(10px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+.toast.ok{border-color:var(--green);color:var(--green);}
+.toast.err{border-color:var(--red);color:var(--red);}
+.toast.info{border-color:var(--accent2);color:var(--accent2);}
+.total-bar{background:var(--bg2);border-top:1px solid var(--border);padding:12px 16px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0;}
+.empty{text-align:center;padding:40px 24px;color:var(--text2);}
+.empty .icon{font-size:44px;margin-bottom:10px;}
+.qty-ctrl{display:flex;align-items:center;gap:8px;}
+.qty-btn{width:28px;height:28px;border-radius:50%;border:1px solid var(--border);background:var(--bg3);color:var(--text);font-size:17px;display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;}
+.qty-num{font-size:14px;font-weight:700;min-width:18px;text-align:center;}
+.divider{height:1px;background:var(--border);margin:14px 0;}
+.row{display:flex;gap:10px;}
+.row .form-group{flex:1;}
+.badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:10px;font-weight:700;letter-spacing:.4px;}
+.badge-amber{background:rgba(245,158,11,.15);color:var(--amber);}
+.badge-green{background:rgba(34,197,94,.15);color:var(--green);}
+.badge-blue{background:rgba(59,130,246,.15);color:var(--blue);}
+.scan-icon-btn{flex-shrink:0;width:44px;height:44px;border-radius:var(--radius-sm);border:1px solid var(--border);background:var(--bg3);color:var(--text);font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center;}
+.section-label{font-size:12px;font-weight:600;color:var(--text2);text-transform:uppercase;letter-spacing:.6px;margin-bottom:10px;}
+.status-banner{border-radius:var(--radius-sm);padding:10px 14px;font-size:13px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:8px;}
+.status-waiting{background:rgba(245,158,11,.1);border:1px solid rgba(245,158,11,.3);color:var(--amber);}
+/* Login Screen */
+#login-screen{position:fixed;inset:0;background:var(--bg);z-index:1000;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;}
+.login-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:32px 24px;width:100%;max-width:360px;text-align:center;}
+.login-logo{font-size:48px;margin-bottom:16px;}
+.login-title{font-size:24px;font-weight:800;margin-bottom:8px;}
+.login-sub{font-size:14px;color:var(--text2);margin-bottom:32px;}
+.login-btn{margin-bottom:12px;}
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px;}
+</style>
+</head>
+<body>
+<div id="login-screen">
+  <div class="login-card">
+    <div class="login-logo">📦</div>
+    <div class="login-title">Venda Consignada</div>
+    <div class="login-sub">Escolha seu perfil de acesso</div>
+    <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
+    <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
+    <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.03.00</div>
+  </div>
+</div>
+
+<div id="app" style="display:none;">
+  <div class="header">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+      <div>
+        <div class="header-title">📦 Venda Consignada</div>
+        <div class="header-sub" id="header-sub">Selecione um cliente para iniciar</div>
+      </div>
+      <div style="text-align:right;">
+        <div style="font-size:10px;color:var(--text3);font-weight:600;letter-spacing:.5px;">v3.03.00</div>
+        <div id="user-badge" style="font-size:9px;color:var(--accent2);font-weight:700;margin-top:2px;text-transform:uppercase;"></div>
+      </div>
+    </div>
+  </div>
+  <div class="content" id="content"></div>
+  <div id="total-slot"></div>
+  <div class="nav">
+    <button class="nav-btn active" id="nav-scan"     onclick="showTab('scan')">    <span class="icon">⚡</span>Escanear</button>
+    <button class="nav-btn"        id="nav-clients"  onclick="showTab('clients')"> <span class="icon">👥</span>Clientes</button>
+    <button class="nav-btn"        id="nav-products" onclick="showTab('products')"><span class="icon">🏷️</span>Produtos</button>
+    <button class="nav-btn"        id="nav-orders"   onclick="showTab('orders')">  <span class="icon">📋</span>Pedidos</button>
+    <button class="nav-btn"        id="nav-settings" onclick="showTab('settings')"><span class="icon">⚙️</span>Config</button>
+  </div>
+</div>
+<div id="modal-root"></div>
+<div id="toast-root"></div>
+
+<script>
+// ══════════════════════════════════════════════════════════
+// STATE
+// ══════════════════════════════════════════════════════════
+const DB = {
+  load(k, d) { try { const v = localStorage.getItem(k); return v != null ? JSON.parse(v) : d; } catch { return d; } },
+  save(k, v) { localStorage.setItem(k, JSON.stringify(v)); }
+};
+
+let S = {
+  products: DB.load('csn_products', {}),
+  clients:  DB.load('csn_clients',  {}),
+  orders:   DB.load('csn_orders',   {}),
+  closed:   DB.load('csn_closed',   []),
+  ghToken:  DB.load('csn_ghtoken',  ''),
+  ghRepo:   DB.load('csn_ghrepo',   ''),
+  userRole: DB.load('csn_userrole', null), // 'admin' ou 'user'
+  adminPass: DB.load('csn_adminpass', ''), // Senha do admin
+  recoveryKey: DB.load('csn_recoverykey', ''), // Chave de recuperação
+  recoveryEmail: DB.load('csn_recoveryemail', ''), // Email de recuperação
+  activeClient: null,
+  scanMode: 'sale',
+  tab: 'scan',
+  lastSaved: null
+};
+
+function saveLocal() {
+  DB.save('csn_products', S.products);
+  DB.save('csn_clients',  S.clients);
+  DB.save('csn_orders',   S.orders);
+  DB.save('csn_closed',   S.closed);
+}
+
+function save() {
+  saveLocal();
+  S.lastSaved = Date.now();
+  ghSaveQueued();
+}
+
+// ══════════════════════════════════════════════════════════
+// LOGIN & RECOVERY LOGIC
+// ══════════════════════════════════════════════════════════
+function loginAsUser() {
+  console.log('Login direto como Usuário');
+  doLogin('user');
+}
+
+function loginAsAdmin() {
+  console.log('Iniciando fluxo de Admin');
+  if (!S.adminPass) {
+    showModal(`
+      <div class="modal-handle"></div>
+      <div class="modal-title">Configurar Administrador</div>
+      <div class="modal-sub">Crie uma senha e um e-mail de recuperação para proteger o sistema.</div>
+      <div class="form-group">
+        <label class="form-label">Senha de Admin</label>
+        <input class="form-input" id="new-pass" type="password" placeholder="Digite uma senha segura" autocomplete="new-password" spellcheck="false"/>
+      </div>
+      <div class="form-group">
+        <label class="form-label">E-mail de Recuperação</label>
+        <input class="form-input" id="new-email" type="email" placeholder="seu@email.com" autocomplete="off" spellcheck="false"/>
+        <div class="form-hint">Enviaremos sua chave de segurança para este e-mail.</div>
+      </div>
+      <button class="btn btn-primary" onclick="setupAdmin()">Salvar e Enviar Chave</button>
+    `);
+  } else {
+    showModal(`
+      <div class="modal-handle"></div>
+      <div class="modal-title">Acesso Restrito</div>
+      <div class="modal-sub">Digite a senha de Administrador para continuar.</div>
+    <div class="form-group">
+      <input class="form-input" id="login-pass" type="password" placeholder="Senha de Admin" autofocus autocomplete="one-time-code" spellcheck="false"/>
+    </div>
+      <button class="btn btn-primary" onclick="checkAdminPass()">Entrar</button>
+      <button class="btn btn-outline" style="margin-top:10px;" onclick="showRecoveryModal()">Esqueci a senha</button>
+      <button class="btn btn-outline" style="margin-top:10px;" onclick="closeModal()">Cancelar</button>
+    `);
+    setTimeout(() => document.getElementById('login-pass')?.focus(), 200);
+  }
+}
+
+function setupAdmin() {
+  const pass = document.getElementById('new-pass').value;
+  const email = document.getElementById('new-email').value;
+  if (!pass || !email) { toast('Preencha todos os campos', 'err'); return; }
+  
+  const key = Math.random().toString(36).substring(2, 10).toUpperCase() + '-' + Math.random().toString(36).substring(2, 6).toUpperCase();
+  
+  S.adminPass = pass;
+  S.recoveryEmail = email;
+  S.recoveryKey = key;
+  
+  DB.save('csn_adminpass', pass);
+  DB.save('csn_recoveryemail', email);
+  DB.save('csn_recoverykey', key);
+  
+  const subject = encodeURIComponent("Chave de Segurança - Venda Consignada");
+  const body = encodeURIComponent(`Olá!\n\nSua chave de recuperação para o App Venda Consignada é:\n\n${key}\n\nGuarde este e-mail com cuidado. Você precisará desta chave caso esqueça sua senha de administrador.`);
+  
+  // Resetar a tela de login para o estado normal (com os dois botões)
+  renderLoginScreen();
+  
+  window.location.href = `mailto:${email}?subject=${subject}&body=${body}`;
+  
+  closeModal();
+  doLogin('admin');
+  toast('Chave enviada para o seu e-mail!', 'ok');
+}
+
+function renderLoginScreen() {
+  document.getElementById('login-screen').innerHTML = `
+    <div class="login-card">
+      <div class="login-logo">📦</div>
+      <div class="login-title">Venda Consignada</div>
+      <div class="login-sub">Escolha seu perfil de acesso</div>
+      <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
+      <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
+      <div style="display:flex;align-items:center;justify-content:center;gap:4px;margin-top:16px;">
+        <span style="font-size:11px;color:var(--text3);">v3.03.00</span>
+        <button onclick="showChangelog()" style="background:none;border:none;color:var(--accent2);font-size:14px;cursor:pointer;padding:4px;">❓</button>
+      </div>
+    </div>
+  `;
+}
+
+const CHANGELOG = [
+  { v: 'v3.03.00', t: 'Funcionalidade', d: 'Adicionado botão de suporte direto via WhatsApp nas configurações.' },
+  { v: 'v3.02.00', t: 'Funcionalidade', d: 'Adicionado Histórico de Atualizações (Changelog) e correção no fluxo de login pós-cadastro.' },
+  { v: 'v3.01.00', t: 'Segurança', d: 'Implementado fluxo obrigatório de configuração de Admin no primeiro acesso.' },
+  { v: 'v3.00.01', t: 'Correção', d: 'Corrigida visibilidade do modal de senha (z-index) e renomeado para Venda Consignada.' },
+  { v: 'v3.0', t: 'Interface', d: 'Reestruturação completa da tela de login com botões independentes.' },
+  { v: 'v2.9', t: 'Correção', d: 'Ajuste na lógica de botões de login para evitar inversão de perfis.' },
+  { v: 'v2.8', t: 'Performance', d: 'Login instantâneo e independência de carregamento de bibliotecas externas.' },
+  { v: 'v2.7', t: 'Segurança', d: 'Sistema de recuperação de senha via e-mail com chave de segurança única.' },
+  { v: 'v2.6', t: 'Segurança', d: 'Proteção por senha para o perfil de Administrador.' },
+  { v: 'v2.5', t: 'Funcionalidade', d: 'Sistema de login com níveis de acesso (Admin e Usuário).' },
+  { v: 'v2.4', t: 'Interface', d: 'Atualização visual da versão e selos de identificação de perfil.' }
+];
+
+function showChangelog() {
+  let html = `
+    <div class="modal-handle"></div>
+    <div class="modal-title">Histórico de Versões</div>
+    <div class="modal-sub">Confira as últimas melhorias do sistema.</div>
+    <div style="display:flex;flex-direction:column;gap:12px;margin-bottom:20px;">
+  `;
+  
+  CHANGELOG.forEach(item => {
+    const color = item.t === 'Segurança' ? 'var(--red)' : (item.t === 'Correção' ? 'var(--amber)' : 'var(--accent2)');
+    html += `
+      <div style="background:var(--bg3);padding:12px;border-radius:var(--radius-sm);border-left:3px solid ${color};">
+        <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
+          <span style="font-weight:700;font-size:13px;">${item.v}</span>
+          <span style="font-size:10px;text-transform:uppercase;font-weight:800;color:${color}">${item.t}</span>
+        </div>
+        <div style="font-size:12px;color:var(--text2);line-height:1.4;">${item.d}</div>
+      </div>
+    `;
+  });
+  
+  html += `</div><button class="btn btn-primary" onclick="closeModal()">Fechar</button>`;
+  showModal(html);
+}
+
+function checkAdminPass() {
+  const p = document.getElementById('login-pass').value;
+  if (p === S.adminPass) {
+    closeModal();
+    doLogin('admin');
+  } else {
+    toast('Senha incorreta', 'err');
+  }
+}
+
+function showRecoveryModal() {
+  showModal(`
+    <div class="modal-handle"></div>
+    <div class="modal-title">Recuperar Acesso</div>
+    <div class="modal-sub">Insira a chave de segurança enviada para o e-mail: <br><b>${S.recoveryEmail || 'seu e-mail cadastrado'}</b></div>
+    <div class="form-group">
+      <label class="form-label">Chave de Segurança</label>
+      <input class="form-input" id="rec-key" placeholder="XXXX-XXXX" style="text-transform:uppercase;"/>
+    </div>
+    <button class="btn btn-primary" onclick="validateRecoveryKey()">Validar Chave</button>
+    <button class="btn btn-outline" style="margin-top:10px;" onclick="closeModal()">Voltar</button>
+  `);
+}
+
+function validateRecoveryKey() {
+  const key = document.getElementById('rec-key').value.trim().toUpperCase();
+  if (key === S.recoveryKey) {
+    showModal(`
+      <div class="modal-handle"></div>
+      <div class="modal-title">Nova Senha</div>
+      <div class="modal-sub">Chave validada com sucesso! Defina sua nova senha de administrador.</div>
+      <div class="form-group">
+        <input class="form-input" id="reset-pass" type="password" placeholder="Nova Senha"/>
+      </div>
+      <button class="btn btn-primary" onclick="resetAdminPass()">Salvar Nova Senha</button>
+    `);
+  } else {
+    toast('Chave inválida', 'err');
+  }
+}
+
+function resetAdminPass() {
+  const p = document.getElementById('reset-pass').value;
+  if (!p) { toast('Digite a nova senha', 'err'); return; }
+  S.adminPass = p;
+  DB.save('csn_adminpass', p);
+  closeModal();
+  doLogin('admin');
+  toast('Senha redefinida com sucesso!', 'ok');
+}
+
+function doLogin(role) {
+  S.userRole = role;
+  DB.save('csn_userrole', role);
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('app').style.display = 'flex';
+  document.getElementById('user-badge').textContent = role === 'admin' ? '👑 Admin' : '👤 Usuário';
+  initApp();
+}
+
+function logout() {
+  if (!confirm('Deseja sair e voltar para a tela de login?')) return;
+  S.userRole = null;
+  DB.save('csn_userrole', null);
+  _stopScanner();
+  document.getElementById('app').style.display = 'none';
+  document.getElementById('login-screen').style.display = 'flex';
+}
+
+// ══════════════════════════════════════════════════════════
+// GITHUB SYNC
+// ══════════════════════════════════════════════════════════
+const GH_FILE = 'dados.json';
+function utf8_to_b64(str) { return btoa(unescape(encodeURIComponent(str))); }
+function b64_to_utf8(str) { return decodeURIComponent(escape(atob(str))); }
+
+async function ghReq(method, path, body) {
+  if (!S.ghToken || !S.ghRepo) return null;
+  const r = await fetch(`https://api.github.com/repos/${S.ghRepo}/contents/${path}`, {
+    method,
+    headers: {
+      'Authorization': 'token ' + S.ghToken,
+      'Content-Type': 'application/json',
+      'Accept': 'application/vnd.github.v3+json'
+    },
+    body: body ? JSON.stringify(body) : undefined
+  });
+  if (!r.ok) { const e = await r.json(); throw new Error(e.message); }
+  return r.json();
+}
+
+async function ghLoad() {
+  if (!S.ghToken || !S.ghRepo) return false;
+  try {
+    const f = await ghReq('GET', GH_FILE);
+    const d = JSON.parse(b64_to_utf8(f.content.replace(/\n/g, '')));
+    S.products = JSON.parse(JSON.stringify(d.products || {}));
+    S.clients  = JSON.parse(JSON.stringify(d.clients  || {}));
+    S.orders   = JSON.parse(JSON.stringify(d.orders   || {}));
+    S.closed   = JSON.parse(JSON.stringify(d.closed   || []));
+    if (d.security) {
+      if (!S.adminPass) { S.adminPass = d.security.adminPass; DB.save('csn_adminpass', S.adminPass); }
+      if (!S.recoveryKey) { S.recoveryKey = d.security.recoveryKey; DB.save('csn_recoverykey', S.recoveryKey); }
+      if (!S.recoveryEmail) { S.recoveryEmail = d.security.recoveryEmail; DB.save('csn_recoveryemail', S.recoveryEmail); }
+    }
+    S.lastSaved = d.savedAt ? new Date(d.savedAt).getTime() : 0;
+    saveLocal();
+    return true;
+  } catch(e) {
+    if (e.message && e.message.includes('Not Found')) return false;
+    throw e;
+  }
+}
+
+let _ghSaving = false;
+let _ghQueued = false;
+
+async function ghSaveQueued() {
+  if (!S.ghToken || !S.ghRepo) return;
+  if (_ghSaving) { _ghQueued = true; return; }
+  _ghSaving = true;
+  _ghQueued = false;
+  try { await _ghDoSave(); }
+  catch(e) {}
+  finally {
+    _ghSaving = false;
+    if (_ghQueued) { _ghQueued = false; setTimeout(ghSaveQueued, 1000); }
+  }
+}
+
+async function _ghDoSave() {
+  const savedAt = new Date().toISOString();
+  const d = {
+    products: JSON.parse(JSON.stringify(S.products)),
+    clients:  JSON.parse(JSON.stringify(S.clients)),
+    orders:   JSON.parse(JSON.stringify(S.orders)),
+    closed:   JSON.parse(JSON.stringify(S.closed)),
+    security: { adminPass: S.adminPass, recoveryKey: S.recoveryKey, recoveryEmail: S.recoveryEmail },
+    savedAt
+  };
+  const content = utf8_to_b64(JSON.stringify(d, null, 2));
+  let sha;
+  try { const f = await ghReq('GET', GH_FILE); sha = f.sha; } catch(e) {}
+  try {
+    await ghReq('PUT', GH_FILE, { message: 'Sync ' + new Date().toLocaleString('pt-BR'), content, ...(sha ? { sha } : {}) });
+    S.lastSaved = new Date(savedAt).getTime();
+  } catch(e) {
+    if (e.message && e.message.includes('does not match')) {
+      let sha2;
+      try { const f2 = await ghReq('GET', GH_FILE); sha2 = f2.sha; } catch(e2) {}
+      await ghReq('PUT', GH_FILE, { message: 'Sync retry ' + new Date().toLocaleString('pt-BR'), content, ...(sha2 ? { sha: sha2 } : {}) });
+      S.lastSaved = new Date(savedAt).getTime();
+    } else { throw e; }
+  }
+}
+
+async function syncNow() {
+  if (!S.ghToken || !S.ghRepo) { toast('Configure o GitHub nas ⚙️ Config', 'info'); return; }
+  toast('Sincronizando…', 'info');
+  try { await _ghDoSave(); toast('✓ Sincronizado!', 'ok'); }
+  catch(e) { toast('Erro: ' + e.message, 'err'); }
+}
+
+let _saveTimer = null;
+let _pullTimer = null;
+
+function startAutoSync() {
+  stopAutoSync();
+  if (!S.ghToken || !S.ghRepo) return;
+  _saveTimer = setInterval(() => ghSaveQueued(), 60000);
+  _pullTimer = setInterval(() => ghPull(), 30000);
+}
+function stopAutoSync() {
+  if (_saveTimer) { clearInterval(_saveTimer); _saveTimer = null; }
+  if (_pullTimer) { clearInterval(_pullTimer); _pullTimer = null; }
+}
+
+async function ghPull() {
+  if (_ghSaving || !S.ghToken || !S.ghRepo) return;
+  try {
+    const f = await ghReq('GET', GH_FILE);
+    if (!f) return;
+    const d = JSON.parse(b64_to_utf8(f.content.replace(/\n/g, '')));
+    if (!d.savedAt) return;
+    const remoteT = new Date(d.savedAt).getTime();
+    const localT  = S.lastSaved || 0;
+    if (remoteT > localT + 3000) {
+      S.products  = JSON.parse(JSON.stringify(d.products || {}));
+      S.clients   = JSON.parse(JSON.stringify(d.clients  || {}));
+      S.orders    = JSON.parse(JSON.stringify(d.orders   || {}));
+      S.closed    = JSON.parse(JSON.stringify(d.closed   || []));
+      if (d.security) {
+        S.adminPass = d.security.adminPass;
+        S.recoveryKey = d.security.recoveryKey;
+        S.recoveryEmail = d.security.recoveryEmail;
+        DB.save('csn_adminpass', S.adminPass);
+        DB.save('csn_recoverykey', S.recoveryKey);
+        DB.save('csn_recoveryemail', S.recoveryEmail);
+      }
+      S.lastSaved = remoteT;
+      saveLocal();
+      toast('☁️ Dados atualizados de outro dispositivo', 'info');
+      refreshCurrentTab();
+    }
+  } catch(e) {}
+}
+
+function refreshCurrentTab() {
+  const t = S.tab;
+  if      (t === 'scan')     renderScan();
+  else if (t === 'clients')  renderClients();
+  else if (t === 'products') renderProducts();
+  else if (t === 'orders')   renderOrders();
+  else if (t === 'settings') renderSettings();
+}
+
+// ══════════════════════════════════════════════════════════
+// UTILS
+// ══════════════════════════════════════════════════════════
+function fmt(v) { return 'R$ ' + Number(v || 0).toFixed(2).replace('.', ','); }
+function initials(n) { return (n || '?').split(' ').slice(0, 2).map(w => w[0]).join('').toUpperCase(); }
+function fmtDate(iso) { return new Date(iso).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', year: '2-digit', hour: '2-digit', minute: '2-digit' }); }
+
+function toast(msg, type = 'ok') {
+  const el = document.createElement('div');
+  el.className = 'toast ' + type;
+  el.textContent = msg;
+  document.getElementById('toast-root').appendChild(el);
+  setTimeout(() => el.remove(), 3000);
+}
+
+function showModal(html) {
+  _stopScanner();
+  document.getElementById('modal-root').innerHTML =
+    `<div class="modal-overlay" onclick="if(event.target===this)closeModal()"><div class="modal">${html}</div></div>`;
+}
+function closeModal() {
+  _stopScanner();
+  document.getElementById('modal-root').innerHTML = '';
+}
+
+// ══════════════════════════════════════════════════════════
+// SCANNER ENGINE
+// ══════════════════════════════════════════════════════════
+let _stream  = null;
+let _reader  = null;
+let _scanRAF = null;
+let _bd      = null;
+let _active  = false;
+
+function _hasBarcodeDetector() { return typeof BarcodeDetector !== 'undefined'; }
+
+function beep() {
+  try {
+    const ctx = new (window.AudioContext || window.webkitAudioContext)();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.connect(gain); gain.connect(ctx.destination);
+    osc.frequency.value = 1800;
+    osc.type = 'square';
+    gain.gain.setValueAtTime(0.3, ctx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.12);
+    osc.start(ctx.currentTime);
+    osc.stop(ctx.currentTime + 0.12);
+  } catch(e) {}
+}
+
+async function _getStream() {
+  const constraints = { video: { facingMode: { ideal: 'environment' }, width: { ideal: 1280, max: 1920 }, height: { ideal: 720, max: 1080 } } };
+  try { return await navigator.mediaDevices.getUserMedia(constraints); }
+  catch(e) {
+    try { return await navigator.mediaDevices.getUserMedia({ video: { facingMode: { exact: 'environment' } } }); }
+    catch(e2) { return await navigator.mediaDevices.getUserMedia({ video: true }); }
+  }
+}
+
+async function _playVideo(video, stream) {
+  video.srcObject = stream;
+  video.setAttribute('playsinline', '');
+  video.setAttribute('webkit-playsinline', '');
+  video.muted = true;
+  await new Promise((res, rej) => {
+    const tid = setTimeout(() => rej(new Error('timeout')), 10000);
+    const go = () => { clearTimeout(tid); video.play().then(res).catch(rej); };
+    video.readyState >= 3 ? go() : video.addEventListener('canplay', go, { once: true });
+  });
+}
+
+function _makeZXingReader() {
+  if (typeof ZXing === 'undefined') return null;
+  const hints = new Map();
+  hints.set(ZXing.DecodeHintType.POSSIBLE_FORMATS, [
+    ZXing.BarcodeFormat.EAN_13, ZXing.BarcodeFormat.EAN_8, ZXing.BarcodeFormat.CODE_128,
+    ZXing.BarcodeFormat.QR_CODE, ZXing.BarcodeFormat.UPC_A, ZXing.BarcodeFormat.UPC_E,
+    ZXing.BarcodeFormat.CODE_39, ZXing.BarcodeFormat.ITF,
+  ]);
+  hints.set(ZXing.DecodeHintType.TRY_HARDER, true);
+  return new ZXing.BrowserMultiFormatReader(hints, { delayBetweenScanAttempts: 150, delayBetweenScanSuccess: 2000 });
+}
+
+async function _startBarcodeDetectorLoop(video, onCode) {
+  _bd = new BarcodeDetector({ formats: ['ean_13','ean_8','code_128','qr_code','upc_a','upc_e','code_39','itf'] });
+  let last = '', lastT = 0, frameCount = 0;
+  async function tick() {
+    if (!_active) return;
+    frameCount++;
+    if (frameCount % 3 !== 0) { _scanRAF = requestAnimationFrame(tick); return; }
+    try {
+      if (video.readyState >= 2) {
+        const results = await _bd.detect(video);
+        if (results && results.length > 0) {
+          const code = results[0].rawValue;
+          const now = Date.now();
+          if (code !== last || now - lastT > 2500) { last = code; lastT = now; onCode(code); }
+        }
+      }
+    } catch(e) {}
+    if (_active) _scanRAF = requestAnimationFrame(tick);
+  }
+  _scanRAF = requestAnimationFrame(tick);
+}
+
+function _stopScanner() {
+  _active = false;
+  if (_scanRAF) { cancelAnimationFrame(_scanRAF); _scanRAF = null; }
+  if (_reader)  { try { _reader.reset(); } catch(e) {} _reader = null; }
+  if (_stream)  { _stream.getTracks().forEach(t => t.stop()); _stream = null; }
+  _bd = null;
+}
+
+async function _startScanner(videoId, onCode, overlayId, msgId, btnId) {
+  const video = document.getElementById(videoId); if (!video) return;
+  _stopScanner(); _active = true;
+  await new Promise(res => setTimeout(res, 300)); if (!_active) return;
+  const overlay = document.getElementById(overlayId);
+  const msg = document.getElementById(msgId);
+  const btn = document.getElementById(btnId);
+  if (overlay) overlay.style.display = 'flex';
+  if (msg) msg.innerHTML = '⏳ Iniciando câmera…';
+  if (btn) btn.style.display = 'none';
+  try {
+    _stream = await _getStream();
+    await _playVideo(video, _stream);
+    if (overlay) overlay.style.display = 'none';
+    const wrappedOnCode = (code) => { beep(); onCode(code); };
+    if (_hasBarcodeDetector()) { await _startBarcodeDetectorLoop(video, wrappedOnCode); }
+    else {
+      _reader = _makeZXingReader();
+      if (!_reader) { throw new Error('ZXing not loaded'); }
+      _reader.decodeFromStream(_stream, video, (result) => { if (!result || !_active) return; wrappedOnCode(result.getText()); });
+    }
+  } catch(err) {
+    _active = false;
+    const denied = err.name === 'NotAllowedError' || err.name === 'SecurityError';
+    if (overlay) overlay.style.display = 'flex';
+    if (msg) msg.innerHTML = denied ? '🍎 <b>iPhone:</b> Ajustes → Safari → Câmera → Permitir<br><br>Ou use a entrada manual abaixo.' : 'Câmera não disponível.<br>Use a entrada manual abaixo.';
+    if (btn) btn.style.display = denied ? 'flex' : 'none';
+  }
+}
+
+// ══════════════════════════════════════════════════════════
+// TABS
+// ══════════════════════════════════════════════════════════
+function showTab(tab) {
+  S.tab = tab;
+  ['scan','clients','products','orders','settings'].forEach(t =>
+    document.getElementById('nav-' + t).classList.toggle('active', t === tab));
+  _stopScanner();
+  document.getElementById('total-slot').innerHTML = '';
+  if      (tab === 'scan')     renderScan();
+  else if (tab === 'clients')  renderClients();
+  else if (tab === 'products') renderProducts();
+  else if (tab === 'orders')   renderOrders();
+  else if (tab === 'settings') renderSettings();
+}
+
+// ══════════════════════════════════════════════════════════
+// SCAN TAB
+// ══════════════════════════════════════════════════════════
+function renderScan() {
+  const client = S.activeClient ? S.clients[S.activeClient] : null;
+  const order  = S.activeClient ? S.orders[S.activeClient]  : null;
+  const items  = order ? Object.values(order.items || {}) : [];
+  const status = order ? (order.status || 'open') : 'open';
+
+  const clientBanner = client
+    ? `<div class="client-card" onclick="showClientPicker()" style="margin-bottom:4px;">
+        <div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--accent);">${initials(client.name)}</div>
+        <div style="flex:1;"><div style="font-size:15px;font-weight:600;">${client.name}</div>
+        <div style="font-size:12px;color:var(--text2);">${client.phone || 'Sem telefone'}</div></div>
+        <div style="font-size:20px;color:var(--text2);">›</div>
+      </div>`
+    : `<button class="btn btn-outline" onclick="showClientPicker()" style="margin-bottom:4px;">👤 Selecionar / Novo Cliente</button>`;
+
+  const statusBanner = (order && items.length && status === 'waiting')
+    ? `<div class="status-banner status-waiting">⏳ Aguardando devolução — pode adicionar ou devolver itens</div>`
+    : '';
+
+  const itemsHtml = items.length ? `<div class="card">
+    <div class="card-title">Itens no pedido</div>
+    ${items.map(i => `<div class="item-row">
+      <div class="item-icon">📦</div>
+      <div class="item-info"><div class="item-name">${i.name}</div><div class="item-sub">${i.code}</div></div>
+      <div class="qty-ctrl">
+        <button class="qty-btn" onclick="changeQty('${i.code}',-1)">−</button>
+        <span class="qty-num">${i.qty}</span>
+        <button class="qty-btn" onclick="changeQty('${i.code}',1)">+</button>
+      </div>
+      <div class="item-price">${fmt(i.price * i.qty)}</div>
+    </div>`).join('')}
+  </div>` : '';
+
+  let actionBtns = '';
+  if (client && items.length) {
+    if (status === 'open') {
+      actionBtns = `<button class="btn btn-amber" style="margin-bottom:10px;" onclick="setOrderWaiting()">⏳ Finalizar pedido (aguardar devolução)</button>`;
+    } else if (status === 'waiting') {
+      actionBtns = `<button class="btn btn-green" style="margin-bottom:10px;" onclick="showPaymentModal()">💰 Registrar pagamento</button>
+      <button class="btn btn-outline" style="margin-bottom:10px;" onclick="reopenOrder()">↩ Reabrir pedido</button>`;
+    }
+  }
+
+  document.getElementById('content').innerHTML = `
+    <div style="margin-bottom:12px;">${clientBanner}</div>
+    <div class="mode-bar" style="display:flex;background:var(--bg3);border-radius:var(--radius-sm);padding:4px;gap:4px;margin-bottom:14px;">
+      <button class="mode-opt ${S.scanMode === 'sale' ? 'active' : ''}" onclick="setScanMode('sale')" style="flex:1;padding:8px;border-radius:6px;border:none;font-size:13px;font-weight:600;font-family:var(--font);cursor:pointer;background:${S.scanMode === 'sale' ? 'var(--accent)' : 'none'};color:${S.scanMode === 'sale' ? '#fff' : 'var(--text2)'};">🛒 Venda</button>
+      <button class="mode-opt ${S.scanMode === 'return' ? 'active' : ''}" onclick="setScanMode('return')" style="flex:1;padding:8px;border-radius:6px;border:none;font-size:13px;font-weight:600;font-family:var(--font);cursor:pointer;background:${S.scanMode === 'return' ? 'var(--accent)' : 'none'};color:${S.scanMode === 'return' ? '#fff' : 'var(--text2)'};">↩ Devolução</button>
+    </div>
+    <div class="scan-box">
+      <video id="main-video" playsinline webkit-playsinline muted autoplay></video>
+      <div class="scan-overlay"><div class="scan-frame">
+        <span class="sc tl"></span><span class="sc tr"></span>
+        <span class="sc bl"></span><span class="sc br"></span>
+        <div class="scan-line"></div>
+      </div></div>
+      <div class="cam-overlay" id="cam-overlay" style="display:none;">
+        <div style="font-size:40px;">📷</div>
+        <div style="font-size:15px;font-weight:700;">Acesso à câmera</div>
+        <div id="cam-msg" style="font-size:13px;color:var(--text2);line-height:1.7;max-width:270px;"></div>
+        <button class="btn btn-primary" id="cam-btn" style="width:auto;padding:12px 24px;" onclick="_startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn')">Permitir câmera</button>
+      </div>
+    </div>
+    <div style="text-align:center;font-size:12px;color:var(--text2);margin-bottom:10px;">
+      📏 Mantenha o código centralizado · distância ~15cm
+    </div>
+    <div class="manual-bar">
+      <input class="form-input" id="manual-code" placeholder="Ou digite o código…" inputmode="numeric" autocomplete="off"/>
+      <button onclick="submitManualCode()">Buscar</button>
+    </div>
+    ${S.activeClient ? `<button class="btn btn-outline" style="margin-bottom:10px;font-size:13px;" onclick="showAddItemManual('${S.activeClient}')">🔍 Buscar produto por nome</button>` : ''}
+    ${statusBanner}
+    ${itemsHtml}
+    ${actionBtns}
+    <div style="height:16px;"></div>
+  `;
+
+  document.getElementById('header-sub').textContent = client ? `Cliente: ${client.name}` : 'Selecione um cliente para iniciar';
+  document.getElementById('manual-code').addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); submitManualCode(); } });
+  if (order && items.length) {
+    document.getElementById('total-slot').innerHTML = `<div class="total-bar"><span style="font-size:14px;color:var(--text2);">Total</span><span style="font-size:22px;font-weight:800;color:var(--green);">${fmt(order.total)}</span></div>`;
+  }
+  requestAnimationFrame(() => _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'));
+}
+
+function submitManualCode() {
+  const inp = document.getElementById('manual-code');
+  const code = (inp?.value || '').trim();
+  if (!code) { toast('Digite um código', 'err'); return; }
+  inp.value = ''; handleCode(code);
+}
+
+function setScanMode(m) { S.scanMode = m; renderScan(); }
+
+function handleCode(code) {
+  code = code.trim(); if (!code) return;
+  const product = S.products[code];
+  if (!product) { showRegisterProduct(code); return; }
+  if (S.scanMode === 'sale') handleSaleScan(code, product);
+  else handleReturnScan(code, product);
+}
+
+function changeQty(code, delta) {
+  const order = S.orders[S.activeClient]; if (!order || !order.items[code]) return;
+  order.items[code].qty += delta;
+  order.total = Math.max(0, (order.total || 0) + delta * order.items[code].price);
+  if (order.items[code].qty <= 0) delete order.items[code];
+  save(); renderScan();
+}
+
+// ══════════════════════════════════════════════════════════
+// ORDER FLOW
+// ══════════════════════════════════════════════════════════
+function handleSaleScan(code, product) {
+  if (!S.activeClient) { showSelectOrCreateClient(code, product); return; }
+  addToOrder(code, product);
+}
+
+function handleReturnScan(code, product) {
+  if (!S.activeClient) { toast('Selecione um cliente', 'err'); return; }
+  const order = S.orders[S.activeClient];
+  if (!order || !order.items[code] || order.items[code].qty <= 0) { toast('Item não está no pedido deste cliente', 'err'); return; }
+  order.items[code].qty--;
+  order.total = Math.max(0, (order.total || 0) - product.price);
+  if (order.items[code].qty === 0) delete order.items[code];
+  save(); toast(`↩ Devolvido: ${product.name}`); renderScan();
+}
+
+function addToOrder(code, product) {
+  if (!S.orders[S.activeClient]) S.orders[S.activeClient] = { clientId: S.activeClient, items: {}, total: 0, status: 'open' };
+  const order = S.orders[S.activeClient];
+  if (order.items[code]) order.items[code].qty++;
+  else order.items[code] = { code, name: product.name, price: product.price, qty: 1 };
+  order.total = (order.total || 0) + product.price;
+  save(); toast(`✓ ${product.name}`); renderScan();
+}
+
+function setOrderWaiting() {
+  const order = S.orders[S.activeClient]; if (!order) return;
+  order.status = 'waiting'; save(); toast('⏳ Aguardando devolução'); renderScan();
+}
+
+function reopenOrder() {
+  const order = S.orders[S.activeClient]; if (!order) return;
+  order.status = 'open'; save(); toast('Pedido reaberto'); renderScan();
+}
+
+function showPaymentModal() {
+  const client = S.clients[S.activeClient];
+  const order  = S.orders[S.activeClient]; if (!order) return;
+  const items = Object.values(order.items || {});
+  showModal(`
+    <div class="modal-handle"></div>
+    <div class="modal-title">💰 Registrar pagamento</div>
+    <div class="modal-sub">${client.name}${client.phone ? ' · ' + client.phone : ''}</div>
+    <div class="card" style="margin-bottom:16px;">
+      ${items.map(i => `<div class="item-row"><div class="item-info"><div class="item-name">${i.name}</div><div class="item-sub">Qtd: ${i.qty}</div></div><div class="item-price">${fmt(i.price * i.qty)}</div></div>`).join('')}
+      <div class="divider"></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-weight:600;">Valor recebido</span><span style="font-size:28px;font-weight:800;color:var(--green);">${fmt(order.total)}</span></div>
+    </div>
+    <div style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-radius:var(--radius-sm);padding:12px;font-size:13px;color:var(--text2);margin-bottom:16px;line-height:1.6;">✅ Após confirmar, o pedido será registrado como PAGO e não poderá ser editado.</div>
+    <button class="btn btn-green" style="margin-bottom:10px;" onclick="confirmPayment('${S.activeClient}')">✅ Confirmar pagamento</button>
+    <button class="btn btn-outline" onclick="closeModal()">Cancelar</button>
+  `);
+}
+
+function confirmPayment(clientId) {
+  const client = S.clients[clientId];
+  const order  = S.orders[clientId]; if (!order) return;
+  S.closed.unshift({ clientId, clientName: client.name, clientPhone: client.phone || '', items: { ...order.items }, total: order.total, closedAt: new Date().toISOString() });
+  delete S.orders[clientId];
+  if (S.activeClient === clientId) S.activeClient = null;
+  save(); closeModal(); toast(`✅ Pagamento de ${client.name} registrado!`); showTab('orders');
+}
+
+// ══════════════════════════════════════════════════════════
+// REGISTER PRODUCT
+// ══════════════════════════════════════════════════════════
+function showRegisterProduct(code) {
+  if (S.products[code]) { handleCode(code); return; }
+  showModal(`
+    <div class="modal-handle"></div>
+    <div class="modal-title">Produto não cadastrado</div>
+    <div style="font-family:monospace;font-size:12px;background:var(--bg3);padding:8px 12px;border-radius:8px;margin-bottom:16px;color:var(--text2);">📷 ${code}</div>
+    <div class="form-group"><label class="form-label">Descrição *</label><input class="form-input" id="rp-name" placeholder="Ex: Camisa Social Azul M"/></div>
+    <div class="form-group"><label class="form-label">Valor (R$) *</label><input class="form-input" id="rp-price" type="number" step="0.01" placeholder="0,00" inputmode="decimal"/></div>
+    <div class="row"><div class="form-group"><button class="btn btn-outline" onclick="cancelRegister()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveProductAndContinue('${code}')">Cadastrar</button></div></div>
+  `);
+  setTimeout(() => document.getElementById('rp-name')?.focus(), 100);
+}
+
+function cancelRegister() { closeModal(); setTimeout(() => _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'), 400); }
+
+function saveProductAndContinue(code) {
+  const name = document.getElementById('rp-name').value.trim();
+  const price = parseFloat(document.getElementById('rp-price').value);
+  if (!name || isNaN(price) || price <= 0) { toast('Preencha todos os campos', 'err'); return; }
+  S.products[code] = { code, name, price };
+  save(); closeModal(); toast('✓ Produto cadastrado!');
+  setTimeout(() => { _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'); setTimeout(() => handleCode(code), 600); }, 400);
+}
+
+// ══════════════════════════════════════════════════════════
+// CLIENT PICKER
+// ══════════════════════════════════════════════════════════
+function showClientPicker() {
+  const clients = Object.values(S.clients);
+  showModal(`
+    <div class="modal-handle"></div>
+    <div class="modal-title">Selecionar cliente</div>
+    <button class="btn btn-primary" style="margin-bottom:12px;" onclick="closeModal();showNewClientForm()">+ Novo Cliente</button>
+    ${clients.length ? `<div class="search-wrap"><span class="search-icon">🔍</span><input class="form-input" id="picker-search" placeholder="Buscar…" oninput="filterPickerClients(this.value)"/></div><div id="picker-list">${renderPickerList(clients, '')}</div>` : `<div class="empty" style="padding:24px;"><p>Nenhum cliente</p></div>`}
+  `);
+}
+
+function renderPickerList(clients, q) {
+  const f = clients.filter(c => (c.name || '').toLowerCase().includes(q.toLowerCase()) || (c.phone || '').includes(q));
+  if (!f.length) return `<div style="text-align:center;padding:16px;color:var(--text2);font-size:14px;">Nenhum resultado</div>`;
+  return f.map(c => {
+    const o = S.orders[c.id]; const count = o ? Object.keys(o.items || {}).length : 0; const st = o?.status;
+    return `<div class="client-card" onclick="selectClient('${c.id}')">
+      <div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--accent);">${initials(c.name)}</div>
+      <div style="flex:1;"><div style="font-size:15px;font-weight:600;">${c.name}</div><div style="font-size:12px;color:var(--text2);">${c.phone || 'Sem telefone'}</div>
+      ${count > 0 ? `<div style="font-size:12px;color:${st === 'waiting' ? 'var(--amber)' : 'var(--green)'};margin-top:2px;">${fmt(o.total)} · ${st === 'waiting' ? '⏳ Aguardando' : 'Em aberto'}</div>` : ''}</div>
+      <div style="font-size:20px;color:var(--text2);">›</div>
+    </div>`;
+  }).join('');
+}
+
+function filterPickerClients(q) { const l = document.getElementById('picker-list'); if (l) l.innerHTML = renderPickerList(Object.values(S.clients), q); }
+function selectClient(id) { S.activeClient = id; S.scanMode = 'sale'; closeModal(); setTimeout(() => renderScan(), 100); }
+
+function showSelectOrCreateClient(code, product) {
+  const clients = Object.values(S.clients);
+  showModal(`
+    <div class="modal-handle"></div>
+    <div class="modal-title">Produto detectado!</div>
+    <div class="modal-sub">📦 ${product.name} · ${fmt(product.price)}<br>Para qual cliente?</div>
+    ${clients.map(c => `<div class="client-card" onclick="selectClientAndAdd('${c.id}','${code}')"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--accent);">${initials(c.name)}</div><div><div style="font-size:15px;font-weight:600;">${c.name}</div><div style="font-size:12px;color:var(--text2);">${c.phone || 'Sem telefone'}</div></div></div>`).join('')}
+    <button class="btn btn-primary" style="margin-top:8px;" onclick="closeModal();showNewClientFormThen('${code}')">+ Novo Cliente</button>
+  `);
+}
+
+function selectClientAndAdd(clientId, code) { S.activeClient = clientId; closeModal(); setTimeout(() => { _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'); addToOrder(code, S.products[code]); }, 400); }
+
+// ══════════════════════════════════════════════════════════
+// CLIENT FORMS
+// ══════════════════════════════════════════════════════════
+function _clientModal(title, nameDef, phoneDef, btns) {
+  showModal(`<div class="modal-handle"></div><div class="modal-title">${title}</div><div class="form-group"><label class="form-label">Nome *</label><input class="form-input" id="cf-name" placeholder="Ex: Maria Silva" value="${nameDef}"/></div><div class="form-group"><label class="form-label">Telefone <span style="color:var(--text3);font-size:11px;">(opcional)</span></label><input class="form-input" id="cf-phone" type="tel" placeholder="Ex: 41999990000" value="${phoneDef}"/><div class="form-hint">Pode deixar em branco</div></div>${btns}`);
+  setTimeout(() => document.getElementById('cf-name')?.focus(), 100);
+}
+function _readCF() { return { name: (document.getElementById('cf-name')?.value || '').trim(), phone: (document.getElementById('cf-phone')?.value || '').trim() }; }
+
+function showNewClientForm(redirect) { _clientModal('Novo Cliente', '', '', `<div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveNewClient('${redirect || ''}')">Salvar</button></div></div>`); }
+function showNewClientFormThen(code) { _clientModal('Novo Cliente', '', '', `<div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveNewClientAndAdd('${code}')">Salvar e Adicionar</button></div></div>`); }
+
+function saveNewClient(redirect) {
+  const { name, phone } = _readCF(); if (!name) { toast('Preencha o nome', 'err'); return; }
+  const id = phone ? phone.replace(/\D/g, '') : 'c_' + Date.now();
+  S.clients[id] = { id, name, phone }; save(); closeModal(); toast(`Cliente ${name} cadastrado!`);
+  if (redirect) showTab(redirect); else setTimeout(() => renderScan(), 100);
+}
+
+function saveNewClientAndAdd(code) {
+  const { name, phone } = _readCF(); if (!name) { toast('Preencha o nome', 'err'); return; }
+  const id = phone ? phone.replace(/\D/g, '') : 'c_' + Date.now();
+  S.clients[id] = { id, name, phone }; S.activeClient = id; save(); closeModal();
+  setTimeout(() => { _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'); addToOrder(code, S.products[code]); }, 400);
+}
+
+function showEditClient(id) {
+  const c = S.clients[id];
+  _clientModal('Editar Cliente', c.name, c.phone || '', `<div class="row"><div class="form-group"><button class="btn btn-outline" onclick="showClientDetail('${id}')">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="updateClient('${id}')">Salvar</button></div></div>`);
+}
+
+function updateClient(id) {
+  const { name, phone } = _readCF(); if (!name) { toast('Preencha o nome', 'err'); return; }
+  S.clients[id] = { ...S.clients[id], name, phone }; save(); closeModal(); renderClients(); toast('Cliente atualizado!');
+}
+
+function deleteClient(id) {
+  if (!confirm('Excluir este cliente e seu pedido?')) return;
+  delete S.clients[id]; delete S.orders[id]; if (S.activeClient === id) S.activeClient = null;
+  save(); closeModal(); renderClients(); toast('Cliente excluído');
+}
+
+function showAddItemManual(clientId) {
+  const products = Object.values(S.products);
+  window.renderAddItemList = (q, cid) => {
+    const prods = Object.values(S.products);
+    const f = q ? prods.filter(p => p.name.toLowerCase().includes(q.toLowerCase()) || p.code.includes(q)) : prods;
+    if (!f.length) return `<div style="text-align:center;padding:16px;color:var(--text2);font-size:14px;">${q ? 'Nenhum resultado' : 'Nenhum produto cadastrado'}</div>`;
+    return f.map(p => `<div class="item-row" style="cursor:pointer;" onclick="addItemToClient('${cid}','${p.code}')"><div class="item-icon">📦</div><div class="item-info"><div class="item-name">${p.name}</div><div class="item-sub">${p.code}</div></div><div class="item-price">${fmt(p.price)}</div><div style="font-size:22px;color:var(--accent);margin-left:8px;">+</div></div>`).join('');
+  };
+  showModal(`<div class="modal-handle"></div><div class="modal-title">🔍 Adicionar produto</div><div class="search-wrap"><span class="search-icon">🔍</span><input class="form-input" id="add-item-search" placeholder="Buscar por nome ou código…" oninput="document.getElementById('add-item-list').innerHTML=window.renderAddItemList(this.value,'${clientId}')"/></div><div id="add-item-list">${window.renderAddItemList('', clientId)}</div>`);
+}
+
+function addItemToClient(clientId, code) {
+  const product = S.products[code]; if (!product) return;
+  S.activeClient = clientId; addToOrder(code, product);
+  const list = document.getElementById('add-item-list'); if (list) { const q = document.getElementById('add-item-search')?.value || ''; list.innerHTML = window.renderAddItemList(q, clientId); }
+}
+
+// ══════════════════════════════════════════════════════════
+// CLIENTS TAB
+// ══════════════════════════════════════════════════════════
+function renderClients() {
+  document.getElementById('content').innerHTML = `<button class="btn btn-primary" style="margin-bottom:12px;" onclick="showNewClientForm('clients')">+ Novo Cliente</button><div class="search-wrap"><span class="search-icon">🔍</span><input class="form-input" id="client-search" placeholder="Buscar por nome ou telefone…" oninput="filterClients(this.value)"/></div><div id="client-list"></div><div style="height:12px;"></div>`;
+  filterClients('');
+}
+function filterClients(q) {
+  const list = document.getElementById('client-list'); if (!list) return;
+  const all = Object.values(S.clients); const f = q ? all.filter(c => (c.name || '').toLowerCase().includes(q.toLowerCase()) || (c.phone || '').includes(q)) : all;
+  if (!f.length) { list.innerHTML = `<div class="empty"><div class="icon">👥</div><p>${q ? 'Nenhum resultado' : 'Nenhum cliente'}</p></div>`; return; }
+  list.innerHTML = f.map(c => {
+    const o = S.orders[c.id]; const count = o ? Object.values(o.items || {}).reduce((s, i) => s + i.qty, 0) : 0; const st = o?.status;
+    return `<div class="client-card" onclick="showClientDetail('${c.id}')"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--accent);">${initials(c.name)}</div><div style="flex:1;"><div style="font-size:15px;font-weight:600;">${c.name}</div><div style="font-size:12px;color:var(--text2);">${c.phone || 'Sem telefone'}</div>${count > 0 ? `<div style="font-size:12px;color:${st === 'waiting' ? 'var(--amber)' : 'var(--green)'};margin-top:2px;">${count} item(s) · ${fmt(o.total)} · ${st === 'waiting' ? '⏳ Aguardando' : 'Em aberto'}</div>` : ''}</div><div style="font-size:20px;color:var(--text2);">›</div></div>`;
+  }).join('');
+}
+
+function showClientDetail(id) {
+  const c = S.clients[id]; const order = S.orders[id]; const items = order ? Object.values(order.items || {}) : []; const st = order?.status || 'open';
+  showModal(`
+    <div class="modal-handle"></div><div style="display:flex;align-items:center;gap:14px;margin-bottom:16px;"><div class="avatar" style="width:52px;height:52px;font-size:20px;background:var(--accent);">${initials(c.name)}</div><div><div class="modal-title" style="margin-bottom:2px;">${c.name}</div><div style="font-size:14px;color:var(--text2);">${c.phone ? '📱 ' + c.phone : 'Sem telefone'}</div></div></div>
+    <button class="btn btn-outline" style="margin-bottom:10px;" onclick="showEditClient('${id}')">✏️ Editar dados</button>
+    ${items.length ? `${st === 'waiting' ? `<div class="status-banner status-waiting" style="margin-bottom:12px;">⏳ Aguardando devolução</div>` : ''}<div class="card" style="margin-bottom:12px;"><div class="card-title">Pedido</div>${items.map(i => `<div class="item-row"><div class="item-info"><div class="item-name">${i.name}</div><div class="item-sub">Qtd: ${i.qty}</div></div><div class="item-price">${fmt(i.price * i.qty)}</div></div>`).join('')}<div class="divider"></div><div style="display:flex;justify-content:space-between;"><span style="font-weight:600;">Total</span><span style="color:var(--green);font-weight:700;font-size:18px;">${fmt(order.total)}</span></div></div><button class="btn btn-primary" style="margin-bottom:10px;" onclick="S.activeClient='${id}';S.scanMode='sale';closeModal();setTimeout(()=>renderScan(),100)">🛒 Escanear / Adicionar itens</button><button class="btn btn-outline" style="margin-bottom:10px;" onclick="showAddItemManual('${id}')">🔍 Buscar produto manualmente</button>${st === 'open' ? `<button class="btn btn-amber" style="margin-bottom:10px;" onclick="S.activeClient='${id}';closeModal();setTimeout(()=>setOrderWaiting(),100)">⏳ Finalizar (aguardar devolução)</button>` : ''}${st === 'waiting' ? `<button class="btn btn-green" style="margin-bottom:10px;" onclick="S.activeClient='${id}';closeModal();setTimeout(()=>showPaymentModal(),100)">💰 Registrar pagamento</button>` : ''}` : `<div style="padding:12px 0;text-align:center;color:var(--text2);font-size:14px;margin-bottom:12px;">Sem pedido em aberto</div><button class="btn btn-primary" style="margin-bottom:10px;" onclick="S.activeClient='${id}';S.scanMode='sale';closeModal();setTimeout(()=>renderScan(),100)">🛒 Criar pedido</button>`}
+    <button class="btn btn-red btn-sm" style="width:auto;margin:4px auto 0;" onclick="deleteClient('${id}')">🗑 Excluir</button>
+  `);
+}
+
+// ══════════════════════════════════════════════════════════
+// PRODUCTS TAB
+// ══════════════════════════════════════════════════════════
+function renderProducts() {
+  document.getElementById('content').innerHTML = `<button class="btn btn-primary" style="margin-bottom:12px;" onclick="showAddProductForm()">+ Cadastrar Produto</button><div class="search-wrap"><span class="search-icon">🔍</span><input class="form-input" id="product-search" placeholder="Buscar por nome ou código…" oninput="filterProducts(this.value)"/></div><div id="product-list"></div><div style="height:12px;"></div>`;
+  filterProducts('');
+}
+function filterProducts(q) {
+  const list = document.getElementById('product-list'); if (!list) return;
+  const all = Object.values(S.products); const f = q ? all.filter(p => (p.name || '').toLowerCase().includes(q.toLowerCase()) || p.code.includes(q)) : all;
+  if (!f.length) { list.innerHTML = `<div class="empty"><div class="icon">📦</div><p>${q ? 'Nenhum resultado' : 'Nenhum produto'}</p></div>`; return; }
+  list.innerHTML = f.map(p => `<div class="item-row" style="padding:12px;background:var(--surface);border-radius:var(--radius-sm);border:1px solid var(--border);margin-bottom:8px;"><div class="item-icon">📦</div><div class="item-info"><div class="item-name">${p.name}</div><div class="item-sub">${p.code}</div></div><div class="item-price">${fmt(p.price)}</div><button class="btn btn-sm btn-outline" onclick="editProduct('${p.code}')" style="margin-left:8px;">✏</button></div>`).join('');
+}
+
+function showAddProductForm() {
+  showModal(`
+    <div class="modal-handle"></div><div class="modal-title">Cadastrar Produto</div><div class="form-group"><label class="form-label">Código de barras / QR Code *</label><div style="display:flex;gap:8px;align-items:center;"><input class="form-input" id="mp-code" placeholder="Ex: 7891234567890" style="flex:1;" inputmode="numeric"/><button class="scan-icon-btn" id="modal-scan-btn" onclick="toggleModalScan()" title="Escanear">📷</button></div></div>
+    <div id="modal-scan-wrap" style="display:none;margin-bottom:14px;"><div class="scan-box" style="height:200px;max-height:200px;"><video id="modal-video" playsinline webkit-playsinline muted autoplay></video><div class="scan-overlay"><div class="scan-frame" style="width:80%;height:50%;"><span class="sc tl"></span><span class="sc tr"></span><span class="sc bl"></span><span class="sc br"></span></div></div><div class="cam-overlay" id="modal-cam-overlay" style="display:none;"><div id="modal-cam-msg" style="font-size:12px;color:var(--text2);"></div></div></div><div style="text-align:center;font-size:13px;color:var(--text2);margin-top:8px;">Aponte para o código · ~15cm de distância</div></div>
+    <div class="form-group"><label class="form-label">Descrição *</label><input class="form-input" id="mp-name" placeholder="Ex: Camisa Polo Azul M"/></div><div class="form-group"><label class="form-label">Valor (R$) *</label><input class="form-input" id="mp-price" type="number" step="0.01" placeholder="0,00" inputmode="decimal"/></div>
+    <div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveManualProduct()">Salvar</button></div></div>
+  `);
+}
+
+let _modalScanOn = false;
+function toggleModalScan() {
+  if (_modalScanOn) { _stopScanner(); _modalScanOn = false; document.getElementById('modal-scan-wrap').style.display = 'none'; return; }
+  _modalScanOn = true; document.getElementById('modal-scan-wrap').style.display = 'block';
+  _startScanner('modal-video', (code) => {
+    if (S.products[code]) { _stopScanner(); _modalScanOn = false; document.getElementById('modal-scan-wrap').style.display = 'none'; toast('⚠️ Produto já cadastrado: ' + S.products[code].name, 'err'); setTimeout(() => editProduct(code), 500); return; }
+    document.getElementById('mp-code').value = code; _stopScanner(); _modalScanOn = false; document.getElementById('modal-scan-wrap').style.display = 'none'; toast('Código lido!'); setTimeout(() => document.getElementById('mp-name')?.focus(), 150);
+  }, 'modal-cam-overlay', 'modal-cam-msg', '');
+}
+
+function saveManualProduct() {
+  const code = document.getElementById('mp-code').value.trim(); const name = document.getElementById('mp-name').value.trim(); const price = parseFloat(document.getElementById('mp-price').value);
+  if (!code || !name || isNaN(price) || price <= 0) { toast('Preencha todos os campos', 'err'); return; }
+  if (S.products[code]) { toast('⚠️ Este código já pertence a: ' + S.products[code].name, 'err'); return; }
+  S.products[code] = { code, name, price }; save(); closeModal(); renderProducts(); toast('Produto cadastrado!');
+}
+
+function editProduct(code) {
+  const p = S.products[code];
+  showModal(`<div class="modal-handle"></div><div class="modal-title">Editar Produto</div><div style="font-family:monospace;font-size:12px;background:var(--bg3);padding:8px 12px;border-radius:8px;margin-bottom:16px;">${code}</div><div class="form-group"><label class="form-label">Descrição *</label><input class="form-input" id="ep-name" value="${p.name}"/></div><div class="form-group"><label class="form-label">Valor (R$) *</label><input class="form-input" id="ep-price" type="number" step="0.01" value="${p.price}" inputmode="decimal"/></div><div class="row"><div class="form-group"><button class="btn btn-red btn-sm" onclick="deleteProduct('${p.code}')">Excluir</button></div><div class="form-group" style="flex:2;"><button class="btn btn-primary" onclick="updateProduct('${p.code}')">Salvar</button></div></div>`);
+}
+function updateProduct(code) {
+  const name = document.getElementById('ep-name').value.trim(); const price = parseFloat(document.getElementById('ep-price').value);
+  if (!name || isNaN(price) || price <= 0) { toast('Preencha todos os campos', 'err'); return; }
+  S.products[code] = { code, name, price }; save(); closeModal(); renderProducts(); toast('Produto atualizado!');
+}
+function deleteProduct(code) { delete S.products[code]; save(); closeModal(); renderProducts(); toast('Produto excluído'); }
+
+// ══════════════════════════════════════════════════════════
+// ORDERS TAB
+// ══════════════════════════════════════════════════════════
+function renderOrders() {
+  const allOrders = Object.values(S.orders).filter(o => Object.keys(o.items || {}).length > 0);
+  const openOrders = allOrders.filter(o => (o.status || 'open') === 'open');
+  const waitingOrders = allOrders.filter(o => o.status === 'waiting');
+  const closed = S.closed || [];
+  function orderCard(o) {
+    const c = S.clients[o.clientId]; if (!c) return ''; const count = Object.values(o.items).reduce((s, i) => s + i.qty, 0); const isW = o.status === 'waiting';
+    return `<div class="card" style="cursor:pointer;" onclick="showOrderDetail('${o.clientId}')"><div style="display:flex;align-items:center;gap:12px;"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:${isW ? 'var(--amber)' : 'var(--accent)'};">${initials(c.name)}</div><div style="flex:1;"><div style="font-size:15px;font-weight:600;">${c.name}</div><div style="font-size:12px;color:var(--text2);">${count} item(s)${c.phone ? ' · ' + c.phone : ''}</div></div><div style="text-align:right;"><div style="font-size:17px;font-weight:800;color:var(--green);">${fmt(o.total)}</div><span class="badge ${isW ? 'badge-amber' : 'badge-blue'}">${isW ? '⏳ AGUARDANDO' : 'EM ABERTO'}</span></div></div></div>`;
+  }
+  document.getElementById('content').innerHTML = `${waitingOrders.length ? `<div class="section-label">⏳ Aguardando devolução</div>${waitingOrders.map(o => orderCard(o)).join('')}<div style="height:8px;"></div>` : ''}<div class="section-label">Em aberto</div>${openOrders.length ? openOrders.map(o => orderCard(o)).join('') : `<div style="padding:16px 0;text-align:center;color:var(--text2);font-size:14px;">Nenhum pedido em aberto</div>`}${closed.length ? `<div class="section-label" style="margin-top:16px;">Histórico de pagamentos</div>${closed.map((o, i) => `<div class="card" style="cursor:pointer;opacity:.85;" onclick="showClosedDetail(${i})"><div style="display:flex;align-items:center;gap:12px;"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--bg3);color:var(--text2);">${initials(o.clientName)}</div><div style="flex:1;"><div style="font-size:15px;font-weight:600;">${o.clientName}</div><div style="font-size:12px;color:var(--text2);">${fmtDate(o.closedAt)}</div></div><div style="text-align:right;"><div style="font-size:17px;font-weight:800;color:var(--green);">${fmt(o.total)}</div><span class="badge badge-green">PAGO ✅</span></div></div></div>`).join('')}` : ''}<div style="height:12px;"></div>`;
+}
+
+function showOrderDetail(clientId) {
+  const client = S.clients[clientId]; const order = S.orders[clientId]; if (!order) return; const items = Object.values(order.items || {}); const st = order.status || 'open';
+  showModal(`
+    <div class="modal-handle"></div><div class="modal-title">${client.name}</div><div class="modal-sub">${client.phone ? '📱 ' + client.phone : 'Sem telefone'}</div>
+    ${st === 'waiting' ? `<div class="status-banner status-waiting" style="margin-bottom:12px;">⏳ Aguardando devolução</div>` : ''}<div class="card" style="margin-bottom:16px;">${items.map(i => `<div class="item-row"><div class="item-icon">📦</div><div class="item-info"><div class="item-name">${i.name}</div><div class="item-sub">${i.code} · Qtd: ${i.qty}</div></div><div class="item-price">${fmt(i.price * i.qty)}</div></div>`).join('')}<div class="divider"></div><div style="display:flex;justify-content:space-between;align-items:center;"><span style="font-weight:600;">Total</span><span style="color:var(--green);font-size:20px;font-weight:800;">${fmt(order.total)}</span></div></div>
+    ${st === 'waiting' ? `<button class="btn btn-green" style="margin-bottom:10px;" onclick="S.activeClient='${clientId}';closeModal();setTimeout(()=>showPaymentModal(),100)">💰 Registrar pagamento</button><button class="btn btn-primary" style="margin-bottom:10px;" onclick="S.activeClient='${clientId}';S.scanMode='return';closeModal();setTimeout(()=>renderScan(),100)">↩ Registrar devolução</button><button class="btn btn-primary" style="margin-bottom:10px;" onclick="S.activeClient='${clientId}';S.scanMode='sale';closeModal();setTimeout(()=>renderScan(),100)">🛒 Adicionar itens</button><button class="btn btn-outline" style="margin-bottom:10px;" onclick="S.activeClient='${clientId}';closeModal();setTimeout(()=>reopenOrder(),100)">↩ Reabrir pedido</button>` : `<button class="btn btn-amber" style="margin-bottom:10px;" onclick="S.activeClient='${clientId}';closeModal();setTimeout(()=>setOrderWaiting(),100)">⏳ Finalizar (aguardar devolução)</button><button class="btn btn-primary" style="margin-bottom:10px;" onclick="S.activeClient='${clientId}';S.scanMode='sale';closeModal();setTimeout(()=>renderScan(),100)">🛒 Adicionar itens</button>`}
+    <button class="btn btn-outline" onclick="closeModal()">Fechar</button>
+  `);
+}
+
+function showClosedDetail(idx) {
+  const o = S.closed[idx]; if (!o) return; const items = Object.values(o.items || {});
+  showModal(`<div class="modal-handle"></div><div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;"><div style="font-size:28px;">✅</div><div><div class="modal-title" style="margin-bottom:2px;">${o.clientName}</div><div style="font-size:13px;color:var(--text2);">${o.clientPhone ? '📱 ' + o.clientPhone + ' · ' : ''}Pago em ${fmtDate(o.closedAt)}</div></div></div><div class="card" style="margin-bottom:16px;">${items.map(i => `<div class="item-row"><div class="item-info"><div class="item-name">${i.name}</div><div class="item-sub">Qtd: ${i.qty}</div></div><div class="item-price">${fmt(i.price * i.qty)}</div></div>`).join('')}<div class="divider"></div><div style="display:flex;justify-content:space-between;"><span style="font-weight:600;">Total pago</span><span style="color:var(--green);font-size:20px;font-weight:800;">${fmt(o.total)}</span></div></div><button class="btn btn-red btn-sm" style="width:auto;margin:0 auto 8px;" onclick="deleteClosedOrder(${idx})">🗑 Excluir do histórico</button><button class="btn btn-outline" onclick="closeModal()">Fechar</button>`);
+}
+function deleteClosedOrder(idx) { S.closed.splice(idx, 1); save(); closeModal(); renderOrders(); toast('Registro excluído'); }
+
+// ══════════════════════════════════════════════════════════
+// SETTINGS TAB
+// ══════════════════════════════════════════════════════════
+function renderSettings() {
+  const isAdmin = S.userRole === 'admin';
+  const nP = Object.keys(S.products).length; const nC = Object.keys(S.clients).length;
+  const allO = Object.values(S.orders).filter(o => Object.keys(o.items || {}).length > 0);
+  const nW = allO.filter(o => o.status === 'waiting').length; const nCl = (S.closed || []).length;
+  const ghOk = S.ghToken && S.ghRepo;
+
+  let html = `
+    <div class="card">
+      <div class="card-title">Resumo</div>
+      <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;text-align:center;">
+        ${[['Produtos', nP, 'var(--accent2)'], ['Clientes', nC, 'var(--accent2)'], ['Aguardando', nW, 'var(--amber)'], ['Pagos ✅', nCl, 'var(--green)']].map(([l, v, c]) => `<div style="background:var(--bg3);border-radius:var(--radius-sm);padding:10px;"><div style="font-size:20px;font-weight:800;color:${c};">${v}</div><div style="font-size:10px;color:var(--text2);margin-top:2px;">${l}</div></div>`).join('')}
+      </div>
+    </div>`;
+
+  if (isAdmin) {
+    html += `
+      <div class="card">
+        <div class="card-title">☁️ Sincronização GitHub</div>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:14px;line-height:1.6;">Salva automaticamente no arquivo <code style="background:var(--bg3);padding:1px 5px;border-radius:4px;">dados.json</code> do repositório.${ghOk ? `<br><br>✅ Conectado: <strong>${S.ghRepo}</strong>` : ''}</p>
+        <button class="btn ${ghOk ? 'btn-outline' : 'btn-primary'}" style="margin-bottom:10px;" onclick="showGitHubSetup()">${ghOk ? '⚙️ Alterar configuração' : '🔗 Conectar ao GitHub'}</button>
+        ${ghOk ? `<button class="btn btn-green" style="margin-bottom:10px;" onclick="syncNow()">☁️ Sincronizar agora</button><button class="btn btn-red" onclick="disconnectGitHub()">🔌 Desconectar GitHub</button>` : ''}
+      </div>
+      <div class="card">
+        <div class="card-title">💾 Backup local</div>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:14px;">Exporta todos os dados para um arquivo .json.</p>
+        <button class="btn btn-primary" style="margin-bottom:10px;" onclick="exportBackup()">⬇️ Exportar backup</button>
+        <label style="display:block;"><div class="btn btn-outline" style="cursor:pointer;">⬆️ Importar backup</div><input type="file" accept=".json" onchange="importBackup(event)" style="display:none;"/></label>
+      </div>
+      <div class="card">
+        <div class="card-title">🔑 Segurança</div>
+        <button class="btn btn-outline" style="margin-bottom:10px;" onclick="changeAdminPass()">Alterar senha de Admin</button>
+        <button class="btn btn-outline" onclick="showRecoveryInfo()">Ver chave de recuperação</button>
+      </div>
+      <div class="card">
+        <div class="card-title" style="color:var(--red);">⚠️ Zona de perigo</div>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:14px;">Apaga todos os dados permanentemente.</p>
+        <button class="btn btn-red" onclick="clearAll()">🗑 Apagar todos os dados</button>
+      </div>`;
+  } else {
+    html += `
+      <div class="card">
+        <div class="card-title">☁️ Sincronização</div>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:14px;line-height:1.6;">A sincronização automática está ativa em segundo plano.</p>
+        <button class="btn btn-green" style="margin-bottom:10px;" onclick="syncNow()">☁️ Sincronizar agora</button>
+      </div>
+      <div class="card">
+        <div class="card-title">💾 Backup</div>
+        <p style="font-size:13px;color:var(--text2);margin-bottom:14px;">Exporta todos os dados para um arquivo .json.</p>
+        <button class="btn btn-primary" onclick="exportBackup()">⬇️ Exportar backup</button>
+      </div>
+      <div style="background:rgba(108,99,255,.1);border:1px solid rgba(108,99,255,.2);border-radius:var(--radius-sm);padding:14px;margin-bottom:12px;text-align:center;">
+        <div style="font-size:13px;color:var(--text2);margin-bottom:8px;">Acesso de Usuário</div>
+        <div style="font-size:11px;color:var(--text3);">Configurações avançadas estão disponíveis apenas para Administradores.</div>
+      </div>`;
+  }
+
+  html += `<button class="btn btn-outline" style="margin-bottom:12px;" onclick="logout()">🚪 Sair / Trocar Perfil</button>
+           <div style="text-align:center;padding:12px 0 4px;font-size:11px;color:var(--text3);">📦 Venda Consignada · versão 3.02.00 <button onclick="showChangelog()" style="background:none;border:none;color:var(--accent2);font-size:12px;cursor:pointer;padding:2px;vertical-align:middle;">❓</button></div><div style="height:12px;"></div>`;
+  document.getElementById('content').innerHTML = html;
+}
+
+function showRecoveryInfo() {
+  showModal(`
+    <div class="modal-handle"></div>
+    <div class="modal-title">Chave de Segurança</div>
+    <div class="modal-sub">Esta chave permite redefinir sua senha de administrador.</div>
+    <div class="card" style="text-align:center;background:var(--bg3);">
+      <div style="font-size:24px;font-weight:800;letter-spacing:2px;color:var(--accent2);">${S.recoveryKey}</div>
+    </div>
+    <div style="font-size:13px;color:var(--text2);margin-bottom:16px;">E-mail cadastrado: <b>${S.recoveryEmail}</b></div>
+    <button class="btn btn-primary" onclick="closeModal()">Entendido</button>
+  `);
+}
+
+function changeAdminPass() {
+  showModal(`
+    <div class="modal-handle"></div>
+    <div class="modal-title">Alterar Senha</div>
+    <div class="form-group">
+      <label class="form-label">Senha Atual</label>
+      <input class="form-input" id="old-pass" type="password"/>
+    </div>
+    <div class="form-group">
+      <label class="form-label">Nova Senha</label>
+      <input class="form-input" id="upd-pass" type="password"/>
+    </div>
+    <button class="btn btn-primary" onclick="updateAdminPass()">Atualizar Senha</button>
+  `);
+}
+
+function updateAdminPass() {
+  const oldP = document.getElementById('old-pass').value;
+  const newP = document.getElementById('upd-pass').value;
+  if (oldP !== S.adminPass) { toast('Senha atual incorreta', 'err'); return; }
+  if (!newP) { toast('Digite a nova senha', 'err'); return; }
+  S.adminPass = newP;
+  DB.save('csn_adminpass', newP);
+  closeModal();
+  toast('Senha atualizada!');
+}
+
+function disconnectGitHub() {
+  if (!confirm('Desconectar o GitHub? Os dados locais serão mantidos, mas a sincronização automática será desativada.')) return;
+  S.ghToken = ''; S.ghRepo = ''; DB.save('csn_ghtoken', ''); DB.save('csn_ghrepo', ''); stopAutoSync(); toast('GitHub desconectado', 'info'); renderSettings();
+}
+function showGitHubSetup() {
+  showModal(`<div class="modal-handle"></div><div class="modal-title">🔗 Configurar GitHub</div><div class="form-group"><label class="form-label">Repositório (usuário/repo) *</label><input class="form-input" id="gh-repo" placeholder="Ex: douglas/Consignado" value="${S.ghRepo}"/></div><div class="form-group"><label class="form-label">Token de acesso (PAT) *</label><input class="form-input" id="gh-token" type="password" placeholder="ghp_xxxxxxxxxxxx" value="${S.ghToken}"/><div class="form-hint">github.com → foto de perfil → Settings → Developer settings → Personal access tokens → Tokens (classic) → marque <b>repo</b></div></div><div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveGitHubConfig()">Salvar e testar</button></div></div>`);
+}
+async function saveGitHubConfig() {
+  const repo = document.getElementById('gh-repo').value.trim(); const token = document.getElementById('gh-token').value.trim();
+  if (!repo || !token) { toast('Preencha todos os campos', 'err'); return; }
+  S.ghRepo = repo; S.ghToken = token; DB.save('csn_ghrepo', repo); DB.save('csn_ghtoken', token); toast('Testando conexão…', 'info'); closeModal();
+  try { const loaded = await ghLoad(); if (!loaded) await _ghDoSave(); toast('✅ GitHub conectado!', 'ok'); startAutoSync(); } catch(e) { toast('Erro: ' + e.message, 'err'); }
+  renderSettings();
+}
+function exportBackup() {
+  const data = { version: 2, exportedAt: new Date().toISOString(), products: S.products, clients: S.clients, orders: S.orders, closed: S.closed };
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' }); const url = URL.createObjectURL(blob); const a = document.createElement('a');
+  a.href = url; a.download = `consignado-backup-${new Date().toISOString().slice(0, 10)}.json`; document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(url); toast('Backup exportado!');
+}
+function importBackup(event) {
+  const file = event.target.files[0]; if (!file) return; const r = new FileReader();
+  r.onload = (e) => {
+    try {
+      const data = JSON.parse(e.target.result); if (!data.products || !data.clients) { toast('Arquivo inválido', 'err'); return; }
+      showModal(`<div class="modal-handle"></div><div class="modal-title">Confirmar importação</div><div class="modal-sub">Backup de ${new Date(data.exportedAt).toLocaleString('pt-BR')}. Dados atuais serão substituídos.</div><div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick='applyBackup(${JSON.stringify(JSON.stringify(data))})'>Importar</button></div></div>`);
+    } catch(e) { toast('Erro ao ler arquivo', 'err'); }
+  };
+  r.readAsText(file);
+}
+function applyBackup(jsonStr) { const data = JSON.parse(jsonStr); S.products = data.products; S.clients = data.clients; S.orders = data.orders || {}; S.closed = data.closed || []; S.activeClient = null; save(); closeModal(); toast('Backup importado!'); renderSettings(); }
+function clearAll() { showModal(`<div class="modal-handle"></div><div class="modal-title" style="color:var(--red);">Apagar tudo?</div><div class="modal-sub">Todos os dados serão apagados permanentemente.</div><div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-red" onclick="confirmClearAll()">Apagar tudo</button></div></div>`); }
+function confirmClearAll() { S.products = {}; S.clients = {}; S.orders = {}; S.closed = []; S.activeClient = null; saveLocal(); closeModal(); toast('Dados locais apagados'); renderSettings(); }
+
+// ══════════════════════════════════════════════════════════
+// INIT
+// ══════════════════════════════════════════════════════════
+function initApp() {
+  showTab('scan');
+  if (S.ghToken && S.ghRepo) {
+    ghLoad().then(updated => { if (updated) refreshCurrentTab(); }).catch(() => {});
+  }
+  startAutoSync();
+}
+
+function start() {
+  // Se não houver senha de admin, força a configuração inicial
+  if (!S.adminPass) {
+    document.getElementById('login-screen').style.display = 'flex';
+    document.getElementById('app').style.display = 'none';
+    // Remove botões normais e mostra aviso de configuração
+    document.querySelector('.login-card').innerHTML = `
+      <div class="login-logo">🛡️</div>
+      <div class="login-title">Configuração Inicial</div>
+      <div class="login-sub">Para sua segurança, crie uma senha de administrador antes de começar.</div>
+      <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">Criar Senha de Admin</button>
+      <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.03.00</div>
+    `;
+    return;
+  }
+
+  if (S.userRole) {
+    document.getElementById('login-screen').style.display = 'none';
+    document.getElementById('app').style.display = 'flex';
+    document.getElementById('user-badge').textContent = S.userRole === 'admin' ? '👑 Admin' : '👤 Usuário';
+    initApp();
+  } else {
+    document.getElementById('login-screen').style.display = 'flex';
+    document.getElementById('app').style.display = 'none';
+  }
+}
+
+(function loadLibs() {
+  const zxing = document.createElement('script');
+  zxing.src = 'https://unpkg.com/@zxing/library@0.19.1/umd/index.min.js';
+  zxing.async = true;
+  zxing.onload = () => { console.log('ZXing loaded'); };
+  document.head.appendChild(zxing);
+  start();
+})();
+</script>
+</body>
+</html>
