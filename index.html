@@ -107,6 +107,14 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 .status-waiting{background:rgba(245,158,11,.1);border:1px solid rgba(245,158,11,.3);color:var(--amber);}
 /* Login Screen */
 #login-screen{position:fixed;inset:0;background:var(--bg);z-index:1000;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;}
+	/* iOS Install Prompt */
+	#ios-install-prompt{position:fixed;bottom:20px;left:20px;right:20px;background:var(--bg2);border:1px solid var(--accent);border-radius:var(--radius);padding:16px;z-index:3000;display:none;box-shadow:0 10px 30px rgba(0,0,0,0.5);animation:slideUp 0.5s ease-out;}
+	@keyframes slideUp{from{transform:translateY(100%)}to{transform:translateY(0)}}
+	.install-header{display:flex;align-items:center;gap:12px;margin-bottom:12px;}
+	.install-icon{width:40px;height:40px;border-radius:8px;}
+	.install-text{font-size:14px;font-weight:600;}
+	.install-steps{font-size:12px;color:var(--text2);line-height:1.4;}
+	.install-steps span{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;background:var(--bg3);border-radius:4px;margin:0 2px;font-size:10px;vertical-align:middle;}
 .login-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius);padding:32px 24px;width:100%;max-width:360px;text-align:center;}
 .login-logo{font-size:48px;margin-bottom:16px;}
 .login-title{font-size:24px;font-weight:800;margin-bottom:8px;}
@@ -153,6 +161,18 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 </div>
 <div id="modal-root"></div>
 <div id="toast-root"></div>
+	
+	<div id="ios-install-prompt">
+	  <div class="install-header">
+	    <img src="apple-touch-icon.png" class="install-icon">
+	    <div class="install-text">Instale o MyPulse no seu iPhone</div>
+	  </div>
+	  <div class="install-steps">
+	    1. Toque no botão de <span>Compartilhar</span> (quadrado com seta)<br>
+	    2. Role para baixo e toque em <span>Adicionar à Tela de Início</span>
+	  </div>
+	  <button class="btn btn-primary btn-sm" style="margin-top:12px;width:100%" onclick="document.getElementById('ios-install-prompt').style.display='none'">Entendi</button>
+	</div>
 
 <script>
 if ('serviceWorker' in navigator) {
@@ -164,6 +184,16 @@ if ('serviceWorker' in navigator) {
     });
   });
 }
+
+// Lógica de Detecção de iOS para Instalação
+function checkIOSInstall() {
+  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+  const isStandalone = window.navigator.standalone === true;
+  if (isIOS && !isStandalone) {
+    document.getElementById('ios-install-prompt').style.display = 'block';
+  }
+}
+window.addEventListener('DOMContentLoaded', checkIOSInstall);
 
 // ══════════════════════════════════════════════════════════
 // STATE
