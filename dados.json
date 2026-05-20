@@ -1,0 +1,18 @@
+{
+  "products": {},
+  "clients": {
+    "c_1779302962130": {
+      "id": "c_1779302962130",
+      "name": "Douglas",
+      "phone": ""
+    }
+  },
+  "orders": {},
+  "closed": [],
+  "security": {
+    "adminPass": "1234",
+    "recoveryKey": "BPHHY8YX-XHD5",
+    "recoveryEmail": "teste@teste.com"
+  },
+  "savedAt": "2026-05-20T18:59:39.771Z"
+}
