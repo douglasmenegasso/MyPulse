@@ -43,7 +43,7 @@
         }
       },
       "total": 17.98,
-      "status": "open"
+      "status": "waiting"
     }
   },
   "closed": [],
@@ -52,5 +52,5 @@
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T20:56:38.783Z"
+  "savedAt": "2026-05-20T20:56:42.018Z"
 }
