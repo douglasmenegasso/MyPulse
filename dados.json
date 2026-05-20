@@ -12,6 +12,11 @@
     }
   },
   "clients": {
+    "419990000": {
+      "id": "419990000",
+      "name": "Janaina",
+      "phone": "419990000"
+    },
     "c_1779302962130": {
       "id": "c_1779302962130",
       "name": "Douglas",
@@ -26,9 +31,29 @@
   "orders": {
     "c_1779308747750": {
       "clientId": "c_1779308747750",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7894494749094": {
+          "code": "7894494749094",
+          "name": "Caderno",
+          "price": 10,
+          "qty": 2
+        }
+      },
+      "total": 20,
       "status": "open"
+    },
+    "c_1779302962130": {
+      "clientId": "c_1779302962130",
+      "items": {
+        "7896235354901": {
+          "code": "7896235354901",
+          "name": "Creme",
+          "price": 8.99,
+          "qty": 4
+        }
+      },
+      "total": 35.96,
+      "status": "waiting"
     }
   },
   "closed": [
@@ -65,8 +90,8 @@
   ],
   "security": {
     "adminPass": "1234",
-    "recoveryKey": "G9O8-WOJS",
-    "recoveryEmail": "douglas.menegasso@gmail.com"
+    "recoveryKey": "FM09MFT3-8CBA",
+    "recoveryEmail": "e"
   },
-  "savedAt": "2026-05-20T22:41:10.034Z"
+  "savedAt": "2026-05-20T23:08:17.717Z"
 }
