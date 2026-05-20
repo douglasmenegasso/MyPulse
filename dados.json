@@ -4,6 +4,11 @@
       "code": "7896235354901",
       "name": "Creme",
       "price": 8.99
+    },
+    "7894494749094": {
+      "code": "7894494749094",
+      "name": "Caderno",
+      "price": 10
     }
   },
   "clients": {
@@ -63,5 +68,5 @@
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T21:24:55.501Z"
+  "savedAt": "2026-05-20T21:25:05.484Z"
 }
