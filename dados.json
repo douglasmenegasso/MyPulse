@@ -31,8 +31,15 @@
   "orders": {
     "c_1779308747750": {
       "clientId": "c_1779308747750",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7894494749094": {
+          "code": "7894494749094",
+          "name": "Caderno",
+          "price": 10,
+          "qty": 1
+        }
+      },
+      "total": 10,
       "status": "open"
     },
     "c_1779302962130": {
@@ -86,5 +93,5 @@
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T22:19:52.919Z"
+  "savedAt": "2026-05-20T22:20:52.651Z"
 }
