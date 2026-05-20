@@ -1,5 +1,11 @@
 {
-  "products": {},
+  "products": {
+    "7896235354901": {
+      "code": "7896235354901",
+      "name": "Creme",
+      "price": 8.99
+    }
+  },
   "clients": {
     "c_1779302962130": {
       "id": "c_1779302962130",
@@ -12,12 +18,26 @@
       "phone": ""
     }
   },
-  "orders": {},
+  "orders": {
+    "c_1779302962130": {
+      "clientId": "c_1779302962130",
+      "items": {
+        "7896235354901": {
+          "code": "7896235354901",
+          "name": "Creme",
+          "price": 8.99,
+          "qty": 1
+        }
+      },
+      "total": 8.99,
+      "status": "open"
+    }
+  },
   "closed": [],
   "security": {
     "adminPass": "1234",
-    "recoveryKey": "GGRRD1VF-GPS3",
-    "recoveryEmail": "teste@teste.com"
+    "recoveryKey": "G9O8-WOJS",
+    "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T20:36:06.260Z"
+  "savedAt": "2026-05-20T20:41:59.561Z"
 }
