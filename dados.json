@@ -31,9 +31,13 @@
       },
       "total": 8.99,
       "status": "open"
-    },
-    "c_1779308747750": {
+    }
+  },
+  "closed": [
+    {
       "clientId": "c_1779308747750",
+      "clientName": "Maria",
+      "clientPhone": "",
       "items": {
         "7896235354901": {
           "code": "7896235354901",
@@ -43,14 +47,13 @@
         }
       },
       "total": 17.98,
-      "status": "waiting"
+      "closedAt": "2026-05-20T20:57:11.852Z"
     }
-  },
-  "closed": [],
+  ],
   "security": {
     "adminPass": "1234",
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T20:56:53.838Z"
+  "savedAt": "2026-05-20T20:57:11.852Z"
 }
