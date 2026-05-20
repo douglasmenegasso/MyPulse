@@ -37,10 +37,10 @@
           "code": "7896235354901",
           "name": "Creme",
           "price": 8.99,
-          "qty": 1
+          "qty": 2
         }
       },
-      "total": 8.99,
+      "total": 17.98,
       "status": "open"
     }
   },
@@ -81,5 +81,5 @@
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T21:47:18.258Z"
+  "savedAt": "2026-05-20T21:47:20.960Z"
 }
