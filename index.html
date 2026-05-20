@@ -10,6 +10,7 @@
 <title>MyPulse - Venda Consignada</title>
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="shortcut icon" href="apple-touch-icon.png">
 <meta name="theme-color" content="#6c63ff">
 <style>
 :root{
@@ -806,7 +807,7 @@ function renderScan() {
     </div>
     <div class="manual-bar">
       <input class="form-input" id="manual-code" placeholder="Ou digite o código…" inputmode="numeric" autocomplete="off"/>
-      <button onclick="submitManualCode()">Buscar</button>
+      <button class="btn btn-primary btn-sm" style="width:auto;padding:0 16px;" onclick="submitManualCode()">Buscar</button>
     </div>
     ${S.activeClient ? `<button class="btn btn-outline" style="margin-bottom:10px;font-size:13px;" onclick="showAddItemManual('${S.activeClient}')">🔍 Buscar produto por nome</button>` : ''}
     ${statusBanner}
@@ -1026,14 +1027,13 @@ function deleteClient(id) {
 }
 
 function showAddItemManual(clientId) {
-  const products = Object.values(S.products);
   window.renderAddItemList = (q, cid) => {
     const prods = Object.values(S.products);
-    const f = q ? prods.filter(p => p.name.toLowerCase().includes(q.toLowerCase()) || p.code.includes(q)) : prods;
+    const f = q ? prods.filter(p => (p.name || '').toLowerCase().includes(q.toLowerCase()) || (p.code || '').includes(q)) : prods;
     if (!f.length) return `<div style="text-align:center;padding:16px;color:var(--text2);font-size:14px;">${q ? 'Nenhum resultado' : 'Nenhum produto cadastrado'}</div>`;
     return f.map(p => `<div class="item-row" style="cursor:pointer;" onclick="addItemToClient('${cid}','${p.code}')"><div class="item-icon">📦</div><div class="item-info"><div class="item-name">${p.name}</div><div class="item-sub">${p.code}</div></div><div class="item-price">${fmt(p.price)}</div><div style="font-size:22px;color:var(--accent);margin-left:8px;">+</div></div>`).join('');
   };
-  showModal(`<div class="modal-handle"></div><div class="modal-title">🔍 Adicionar produto</div><div class="search-wrap"><span class="search-icon">🔍</span><input class="form-input" id="add-item-search" placeholder="Buscar por nome ou código…" oninput="document.getElementById('add-item-list').innerHTML=window.renderAddItemList(this.value,'${clientId}')"/></div><div id="add-item-list">${window.renderAddItemList('', clientId)}</div>`);
+  showModal(`<div class="modal-handle"></div><div class="modal-title">🔍 Adicionar produto</div><div class="search-wrap"><span class="search-icon">🔍</span><input class="form-input" id="add-item-search" placeholder="Buscar por nome ou código…" oninput="document.getElementById('add-item-list').innerHTML=window.renderAddItemList(this.value,'${clientId}')" autocomplete="off"/></div><div id="add-item-list" style="max-height:300px;overflow-y:auto;">${window.renderAddItemList('', clientId)}</div>`);
 }
 
 function addItemToClient(clientId, code) {
@@ -1190,7 +1190,7 @@ function renderSettings() {
         <div class="card-title">💾 Backup local</div>
         <p style="font-size:13px;color:var(--text2);margin-bottom:14px;">Exporta todos os dados para um arquivo .json.</p>
         <button class="btn btn-primary" style="margin-bottom:10px;" onclick="exportBackup()">⬇️ Exportar backup</button>
-        <label style="display:block;"><div class="btn btn-outline" style="cursor:pointer;">⬆️ Importar backup</div><input type="file" accept=".json" onchange="importBackup(event)" style="display:none;"/></label>
+        <label style="display:block;"><div class="btn btn-outline" style="cursor:pointer;">⬆️ Importar backup</div><input type="file" accept="application/json" onchange="importBackup(event)" style="display:none;"/></label>
       </div>
       <div class="card">
         <div class="card-title">🔑 Segurança</div>
@@ -1309,6 +1309,7 @@ function confirmClearAll() { S.products = {}; S.clients = {}; S.orders = {}; S.c
 // ══════════════════════════════════════════════════════════
 function initApp() {
   showTab('scan');
+  if (!S.activeClient) { setTimeout(() => showClientPicker(), 500); }
   if (S.ghToken && S.ghRepo) {
     ghLoad().then(updated => { if (updated) refreshCurrentTab(); }).catch(() => {});
   }
