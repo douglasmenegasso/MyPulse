@@ -19,8 +19,18 @@
     }
   },
   "orders": {
-    "c_1779302962130": {
+    "c_1779308747750": {
+      "clientId": "c_1779308747750",
+      "items": {},
+      "total": 0,
+      "status": "open"
+    }
+  },
+  "closed": [
+    {
       "clientId": "c_1779302962130",
+      "clientName": "Douglas",
+      "clientPhone": "",
       "items": {
         "7896235354901": {
           "code": "7896235354901",
@@ -30,16 +40,8 @@
         }
       },
       "total": 8.99,
-      "status": "waiting"
+      "closedAt": "2026-05-20T21:06:06.718Z"
     },
-    "c_1779308747750": {
-      "clientId": "c_1779308747750",
-      "items": {},
-      "total": 0,
-      "status": "open"
-    }
-  },
-  "closed": [
     {
       "clientId": "c_1779308747750",
       "clientName": "Maria",
@@ -61,5 +63,5 @@
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T21:06:01.738Z"
+  "savedAt": "2026-05-20T21:06:06.719Z"
 }
