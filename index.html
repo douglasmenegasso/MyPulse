@@ -145,7 +145,10 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
         <div class="header-sub" id="header-sub">Selecione um cliente para iniciar</div>
       </div>
       <div style="text-align:right;">
-        <div style="font-size:10px;color:var(--text3);font-weight:600;letter-spacing:.5px;display:flex;align-items:center;justify-content:flex-end;gap:4px;">v3.03.07 <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></div>
+        <div style="font-size:10px;color:var(--text3);font-weight:600;letter-spacing:.5px;display:flex;align-items:center;justify-content:flex-end;gap:8px;">
+          <span id="header-clock" style="color:var(--text2);"></span>
+          <span>v3.03.08 <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></span>
+        </div>
         <div id="user-badge" style="font-size:9px;color:var(--accent2);font-weight:700;margin-top:2px;text-transform:uppercase;"></div>
       </div>
     </div>
@@ -227,7 +230,8 @@ let S = {
   activeClient: null,
   scanMode: 'sale',
   tab: 'scan',
-  lastSaved: null
+  lastSaved: null,
+  lastSync: DB.load('csn_lastsync', null)
 };
 
 function saveLocal() {
@@ -514,12 +518,16 @@ async function _ghDoSave() {
   try {
     await ghReq('PUT', GH_FILE, { message: 'Sync ' + new Date().toLocaleString('pt-BR'), content, ...(sha ? { sha } : {}) });
     S.lastSaved = new Date(savedAt).getTime();
+    S.lastSync = new Date().getTime();
+    DB.save('csn_lastsync', S.lastSync);
   } catch(e) {
     if (e.message && e.message.includes('does not match')) {
       let sha2;
       try { const f2 = await ghReq('GET', GH_FILE); sha2 = f2.sha; } catch(e2) {}
       await ghReq('PUT', GH_FILE, { message: 'Sync retry ' + new Date().toLocaleString('pt-BR'), content, ...(sha2 ? { sha: sha2 } : {}) });
       S.lastSaved = new Date(savedAt).getTime();
+      S.lastSync = new Date().getTime();
+      DB.save('csn_lastsync', S.lastSync);
     } else { throw e; }
   }
 }
@@ -534,7 +542,17 @@ async function syncNow() {
 let _saveTimer = null;
 let _pullTimer = null;
 
+function updateClock() {
+  const now = new Date();
+  const timeStr = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+  const dateStr = now.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+  const clockEl = document.getElementById('header-clock');
+  if (clockEl) clockEl.textContent = `${dateStr} ${timeStr}`;
+}
+
 function startAutoSync() {
+  updateClock();
+  setInterval(updateClock, 1000);
   stopAutoSync();
   if (!S.ghToken || !S.ghRepo) return;
   _saveTimer = setInterval(() => ghSaveQueued(), 60000);
@@ -1260,7 +1278,13 @@ function renderSettings() {
         <div class="card-title">☁️ Sincronização GitHub</div>
         <p style="font-size:13px;color:var(--text2);margin-bottom:14px;line-height:1.6;">Salva automaticamente no arquivo <code style="background:var(--bg3);padding:1px 5px;border-radius:4px;">dados.json</code> do repositório.${ghOk ? `<br><br>✅ Conectado: <strong>${S.ghRepo}</strong>` : ''}</p>
         <button class="btn ${ghOk ? 'btn-outline' : 'btn-primary'}" style="margin-bottom:10px;" onclick="showGitHubSetup()">${ghOk ? '⚙️ Alterar configuração' : '🔗 Conectar ao GitHub'}</button>
-        ${ghOk ? `<button class="btn btn-green" style="margin-bottom:10px;" onclick="syncNow()">☁️ Sincronizar agora</button><button class="btn btn-red" onclick="disconnectGitHub()">🔌 Desconectar GitHub</button>` : ''}
+        ${ghOk ? `
+          <div style="font-size:11px;color:var(--text3);margin-bottom:10px;text-align:center;">
+            ☁️ Último sincronismo: <b>${S.lastSync ? new Date(S.lastSync).toLocaleString('pt-BR') : 'Nunca'}</b>
+          </div>
+          <button class="btn btn-green" style="margin-bottom:10px;" onclick="syncNow()">☁️ Sincronizar agora</button>
+          <button class="btn btn-red" onclick="disconnectGitHub()">🔌 Desconectar GitHub</button>
+        ` : ''}
       </div>
       <div class="card">
         <div class="card-title">💾 Backup local</div>
@@ -1271,8 +1295,7 @@ function renderSettings() {
       <div class="card">
         <div class="card-title">🔑 Segurança</div>
         <button class="btn btn-outline" style="margin-bottom:10px;" onclick="changeAdminPass()">Alterar senha de Admin</button>
-        <button class="btn btn-green" style="margin-top:10px;background:#25d366;border:none;" onclick="window.open('https://wa.me/5500000000000', '_blank')">💬 Suporte e Venda (WhatsApp)</button>
-        <button class="btn btn-outline" style="margin-top:10px;" onclick="showRecoveryInfo()">Ver chave de recuperação</button>
+        <button class="btn btn-outline" onclick="showRecoveryInfo()">Ver chave de recuperação</button>
       </div>
       <div class="card">
         <div class="card-title" style="color:var(--red);">⚠️ Zona de perigo</div>
@@ -1392,6 +1415,9 @@ function showChangelog() {
     sec: { label: 'SEGURANÇA', color: '#10b981' }
   };
   const logs = [
+    { v: 'v3.03.08', t: 'ui', d: 'Data e hora em tempo real no cabeçalho.' },
+    { v: 'v3.03.08', t: 'feat', d: 'Exibição do horário do último sincronismo com GitHub.' },
+    { v: 'v3.03.08', t: 'ui', d: 'Removida duplicidade de suporte e limpeza nas Config.' },
     { v: 'v3.03.07', t: 'sec', d: 'Forçado login obrigatório ao reiniciar o app.' },
     { v: 'v3.03.06', t: 'feat', d: 'Botões de adição rápida na lista de busca manual.' },
     { v: 'v3.03.05', t: 'feat', d: 'Verificação de histórico e duplicidade de itens.' },
