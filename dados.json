@@ -39,10 +39,10 @@
           "code": "7896235354901",
           "name": "Creme",
           "price": 8.99,
-          "qty": 2
+          "qty": 4
         }
       },
-      "total": 17.98,
+      "total": 35.96,
       "status": "open"
     }
   },
@@ -52,5 +52,5 @@
     "recoveryKey": "GGRRD1VF-GPS3",
     "recoveryEmail": "teste@teste.com"
   },
-  "savedAt": "2026-05-20T20:46:40.596Z"
+  "savedAt": "2026-05-20T20:46:42.926Z"
 }
