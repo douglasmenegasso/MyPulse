@@ -36,10 +36,10 @@
           "code": "7894494749094",
           "name": "Caderno",
           "price": 10,
-          "qty": 1
+          "qty": 2
         }
       },
-      "total": 10,
+      "total": 20,
       "status": "open"
     },
     "c_1779302962130": {
@@ -93,5 +93,5 @@
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T22:20:52.651Z"
+  "savedAt": "2026-05-20T22:20:55.261Z"
 }
