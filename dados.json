@@ -31,9 +31,13 @@
       },
       "total": 8.99,
       "status": "open"
-    },
-    "c_1779308747750": {
+    }
+  },
+  "closed": [
+    {
       "clientId": "c_1779308747750",
+      "clientName": "Maria",
+      "clientPhone": "",
       "items": {
         "7896235354901": {
           "code": "7896235354901",
@@ -43,14 +47,13 @@
         }
       },
       "total": 35.96,
-      "status": "waiting"
+      "closedAt": "2026-05-20T20:46:50.575Z"
     }
-  },
-  "closed": [],
+  ],
   "security": {
     "adminPass": "1234",
     "recoveryKey": "GGRRD1VF-GPS3",
     "recoveryEmail": "teste@teste.com"
   },
-  "savedAt": "2026-05-20T20:46:46.030Z"
+  "savedAt": "2026-05-20T20:46:50.575Z"
 }
