@@ -43,7 +43,7 @@
         }
       },
       "total": 8.99,
-      "status": "open"
+      "status": "waiting"
     }
   },
   "closed": [
@@ -68,5 +68,5 @@
     "recoveryKey": "GGRRD1VF-GPS3",
     "recoveryEmail": "teste@teste.com"
   },
-  "savedAt": "2026-05-20T20:47:06.060Z"
+  "savedAt": "2026-05-20T20:47:15.507Z"
 }
