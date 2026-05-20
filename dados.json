@@ -31,6 +31,19 @@
       },
       "total": 8.99,
       "status": "open"
+    },
+    "c_1779308747750": {
+      "clientId": "c_1779308747750",
+      "items": {
+        "7896235354901": {
+          "code": "7896235354901",
+          "name": "Creme",
+          "price": 8.99,
+          "qty": 1
+        }
+      },
+      "total": 8.99,
+      "status": "open"
     }
   },
   "closed": [
@@ -55,5 +68,5 @@
     "recoveryKey": "GGRRD1VF-GPS3",
     "recoveryEmail": "teste@teste.com"
   },
-  "savedAt": "2026-05-20T20:47:03.923Z"
+  "savedAt": "2026-05-20T20:47:06.060Z"
 }
