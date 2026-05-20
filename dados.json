@@ -29,6 +29,19 @@
       "items": {},
       "total": 0,
       "status": "open"
+    },
+    "c_1779302962130": {
+      "clientId": "c_1779302962130",
+      "items": {
+        "7896235354901": {
+          "code": "7896235354901",
+          "name": "Creme",
+          "price": 8.99,
+          "qty": 1
+        }
+      },
+      "total": 8.99,
+      "status": "open"
     }
   },
   "closed": [
@@ -68,5 +81,5 @@
     "recoveryKey": "G9O8-WOJS",
     "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T21:30:23.034Z"
+  "savedAt": "2026-05-20T21:47:18.258Z"
 }
