@@ -31,42 +31,13 @@
       },
       "total": 8.99,
       "status": "open"
-    },
-    "c_1779308747750": {
-      "clientId": "c_1779308747750",
-      "items": {
-        "7896235354901": {
-          "code": "7896235354901",
-          "name": "Creme",
-          "price": 8.99,
-          "qty": 1
-        }
-      },
-      "total": 8.99,
-      "status": "waiting"
     }
   },
-  "closed": [
-    {
-      "clientId": "c_1779308747750",
-      "clientName": "Maria",
-      "clientPhone": "",
-      "items": {
-        "7896235354901": {
-          "code": "7896235354901",
-          "name": "Creme",
-          "price": 8.99,
-          "qty": 4
-        }
-      },
-      "total": 35.96,
-      "closedAt": "2026-05-20T20:46:50.575Z"
-    }
-  ],
+  "closed": [],
   "security": {
     "adminPass": "1234",
-    "recoveryKey": "GGRRD1VF-GPS3",
-    "recoveryEmail": "teste@teste.com"
+    "recoveryKey": "G9O8-WOJS",
+    "recoveryEmail": "douglas.menegasso@gmail.com"
   },
-  "savedAt": "2026-05-20T20:54:03.875Z"
+  "savedAt": "2026-05-20T20:54:09.874Z"
 }
