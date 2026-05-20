@@ -133,7 +133,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
     <div class="login-sub">Escolha seu perfil de acesso</div>
     <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
     <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
-    <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.03.06</div>
+    <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.03.07</div>
   </div>
 </div>
 
@@ -145,7 +145,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
         <div class="header-sub" id="header-sub">Selecione um cliente para iniciar</div>
       </div>
       <div style="text-align:right;">
-        <div style="font-size:10px;color:var(--text3);font-weight:600;letter-spacing:.5px;display:flex;align-items:center;justify-content:flex-end;gap:4px;">v3.03.06 <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></div>
+        <div style="font-size:10px;color:var(--text3);font-weight:600;letter-spacing:.5px;display:flex;align-items:center;justify-content:flex-end;gap:4px;">v3.03.07 <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></div>
         <div id="user-badge" style="font-size:9px;color:var(--accent2);font-weight:700;margin-top:2px;text-transform:uppercase;"></div>
       </div>
     </div>
@@ -220,7 +220,7 @@ let S = {
   closed:   DB.load('csn_closed',   []),
   ghToken:  DB.load('csn_ghtoken',  ''),
   ghRepo:   DB.load('csn_ghrepo',   ''),
-  userRole: DB.load('csn_userrole', null), // 'admin' ou 'user'
+  userRole: null, // Forçar login ao reiniciar (v3.03.07)
   adminPass: DB.load('csn_adminpass', ''), // Senha do admin
   recoveryKey: DB.load('csn_recoverykey', ''), // Chave de recuperação
   recoveryEmail: DB.load('csn_recoveryemail', ''), // Email de recuperação
@@ -322,7 +322,7 @@ function renderLoginScreen() {
       <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
       <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
       <div style="display:flex;align-items:center;justify-content:center;gap:4px;margin-top:16px;">
-        <span style="font-size:11px;color:var(--text3);">v3.03.06</span>
+        <span style="font-size:11px;color:var(--text3);">v3.03.07</span>
         <button onclick="showChangelog()" style="background:none;border:none;color:var(--accent2);font-size:14px;cursor:pointer;padding:4px;">❓</button>
       </div>
     </div>
@@ -330,7 +330,7 @@ function renderLoginScreen() {
 }
 
 const CHANGELOG = [
-  { v: 'v3.03.06', t: 'Correção', d: 'Corrigida falha na exibição do botão de suporte via WhatsApp.' },
+  { v: 'v3.03.07', t: 'Correção', d: 'Corrigida falha na exibição do botão de suporte via WhatsApp.' },
   { v: 'v3.03.00', t: 'Funcionalidade', d: 'Adicionado botão de suporte direto via WhatsApp nas configurações.' },
   { v: 'v3.02.00', t: 'Funcionalidade', d: 'Adicionado Histórico de Atualizações (Changelog) e correção no fluxo de login pós-cadastro.' },
   { v: 'v3.01.00', t: 'Segurança', d: 'Implementado fluxo obrigatório de configuração de Admin no primeiro acesso.' },
@@ -422,7 +422,7 @@ function resetAdminPass() {
 
 function doLogin(role) {
   S.userRole = role;
-  DB.save('csn_userrole', role);
+  // Não salvamos no DB para que ao reiniciar peça login novamente
   document.getElementById('login-screen').style.display = 'none';
   document.getElementById('app').style.display = 'flex';
   document.getElementById('user-badge').textContent = role === 'admin' ? '👑 Admin' : '👤 Usuário';
@@ -432,7 +432,6 @@ function doLogin(role) {
 function logout() {
   if (!confirm('Deseja sair e voltar para a tela de login?')) return;
   S.userRole = null;
-  DB.save('csn_userrole', null);
   _stopScanner();
   document.getElementById('app').style.display = 'none';
   document.getElementById('login-screen').style.display = 'flex';
@@ -1393,6 +1392,7 @@ function showChangelog() {
     sec: { label: 'SEGURANÇA', color: '#10b981' }
   };
   const logs = [
+    { v: 'v3.03.07', t: 'sec', d: 'Forçado login obrigatório ao reiniciar o app.' },
     { v: 'v3.03.06', t: 'feat', d: 'Botões de adição rápida na lista de busca manual.' },
     { v: 'v3.03.05', t: 'feat', d: 'Verificação de histórico e duplicidade de itens.' },
     { v: 'v3.03.05', t: 'feat', d: 'Seletor de quantidade e contador de itens no pedido.' },
@@ -1412,7 +1412,7 @@ function showChangelog() {
       ${logs.map(l => `
         <div style="margin-bottom:12px;padding-bottom:8px;border-bottom:1px solid var(--border);">
           <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
-            <b style="color:${l.v.includes('v3.03.06') ? 'var(--accent)' : 'var(--text2)'};">${l.v}</b>
+            <b style="color:${l.v.includes('v3.03.07') ? 'var(--accent)' : 'var(--text2)'};">${l.v}</b>
             <span style="font-size:9px;font-weight:800;padding:2px 6px;border-radius:4px;background:${types[l.t].color}22;color:${types[l.t].color};border:1px solid ${types[l.t].color}44;">${types[l.t].label}</span>
           </div>
           <div style="color:var(--text2);font-size:12px;">${l.d}</div>
@@ -1448,7 +1448,7 @@ function start() {
       <div class="login-title">Configuração Inicial</div>
       <div class="login-sub">Para sua segurança, crie uma senha de administrador antes de começar.</div>
       <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">Criar Senha de Admin</button>
-      <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.03.06</div>
+      <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.03.07</div>
     `;
     return;
   }
