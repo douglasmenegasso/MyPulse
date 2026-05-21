@@ -72,10 +72,10 @@
           "code": "7894494729225",
           "name": "Caderno",
           "price": 100,
-          "qty": 3
+          "qty": 2
         }
       },
-      "total": 300,
+      "total": 200,
       "status": "waiting"
     }
   },
@@ -116,5 +116,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T15:50:31.486Z"
+  "savedAt": "2026-05-21T15:50:33.860Z"
 }
