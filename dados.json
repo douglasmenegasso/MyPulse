@@ -13,12 +13,26 @@
       "phone": ""
     }
   },
-  "orders": {},
+  "orders": {
+    "c_1779370593963": {
+      "clientId": "c_1779370593963",
+      "items": {
+        "123": {
+          "code": "123",
+          "name": "Oi",
+          "price": 1,
+          "qty": 1
+        }
+      },
+      "total": 1,
+      "status": "open"
+    }
+  },
   "closed": [],
   "security": {
     "adminPass": "1234",
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T13:36:51.174Z"
+  "savedAt": "2026-05-21T13:37:02.862Z"
 }
