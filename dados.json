@@ -9,6 +9,11 @@
       "code": "7894494749094",
       "name": "Caderno",
       "price": 10
+    },
+    "7894494729225": {
+      "code": "7894494729225",
+      "name": "Caderno",
+      "price": 100
     }
   },
   "clients": {
@@ -93,5 +98,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T15:49:22.510Z"
+  "savedAt": "2026-05-21T15:49:24.747Z"
 }
