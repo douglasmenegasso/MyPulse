@@ -1,6 +1,12 @@
 {
   "products": {},
-  "clients": {},
+  "clients": {
+    "c_1779370593963": {
+      "id": "c_1779370593963",
+      "name": "Teste",
+      "phone": ""
+    }
+  },
   "orders": {},
   "closed": [],
   "security": {
@@ -8,5 +14,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T12:58:46.044Z"
+  "savedAt": "2026-05-21T13:36:33.964Z"
 }
