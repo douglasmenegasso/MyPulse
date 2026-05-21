@@ -64,6 +64,19 @@
       },
       "total": 35.96,
       "status": "waiting"
+    },
+    "41996989942": {
+      "clientId": "41996989942",
+      "items": {
+        "7894494729225": {
+          "code": "7894494729225",
+          "name": "Caderno",
+          "price": 100,
+          "qty": 1
+        }
+      },
+      "total": 100,
+      "status": "open"
     }
   },
   "closed": [
@@ -103,5 +116,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T15:49:40.507Z"
+  "savedAt": "2026-05-21T15:49:42.368Z"
 }
