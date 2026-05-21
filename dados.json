@@ -1,5 +1,11 @@
 {
-  "products": {},
+  "products": {
+    "123": {
+      "code": "123",
+      "name": "Oi",
+      "price": 1
+    }
+  },
   "clients": {
     "c_1779370593963": {
       "id": "c_1779370593963",
@@ -14,5 +20,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T13:36:33.964Z"
+  "savedAt": "2026-05-21T13:36:51.174Z"
 }
