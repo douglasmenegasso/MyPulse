@@ -449,12 +449,26 @@ function resetAdminPass() {
 }
 
 function doLogin(role) {
-  S.userRole = role;
-  // Não salvamos no DB para que ao reiniciar peça login novamente
-  document.getElementById('login-screen').style.display = 'none';
-  document.getElementById('app').style.display = 'flex';
-  document.getElementById('user-badge').textContent = role === 'admin' ? '👑 Admin' : '👤 Usuário';
-  initApp();
+  try {
+    console.log('Fazendo login como:', role);
+    S.userRole = role;
+    const loginScreen = document.getElementById('login-screen');
+    const app = document.getElementById('app');
+    const userBadge = document.getElementById('user-badge');
+    
+    if (!loginScreen || !app || !userBadge) {
+      throw new Error('Elementos do DOM nao encontrados');
+    }
+    
+    loginScreen.style.display = 'none';
+    app.style.display = 'flex';
+    userBadge.textContent = role === 'admin' ? '👑 Admin' : '👤 Usuário';
+    console.log('Elementos do DOM atualizados, iniciando app...');
+    initApp();
+  } catch(err) {
+    console.error('Erro ao fazer login:', err);
+    alert('Erro ao fazer login: ' + err.message);
+  }
 }
 
 function logout() {
@@ -767,6 +781,7 @@ async function _startScanner(videoId, onCode, overlayId, msgId, btnId) {
     if (overlay) overlay.style.display = 'flex';
     if (msg) msg.innerHTML = denied ? '🍎 <b>iPhone:</b> Ajustes → Safari → Câmera → Permitir<br><br>Ou use a entrada manual abaixo.' : 'Câmera não disponível.<br>Use a entrada manual abaixo.';
     if (btn) btn.style.display = denied ? 'flex' : 'none';
+    console.error('Erro ao iniciar scanner:', err);
   }
 }
 
@@ -774,16 +789,26 @@ async function _startScanner(videoId, onCode, overlayId, msgId, btnId) {
 // TABS
 // ══════════════════════════════════════════════════════════
 function showTab(tab) {
-  S.tab = tab;
-  ['scan','clients','products','orders','settings'].forEach(t =>
-    document.getElementById('nav-' + t).classList.toggle('active', t === tab));
-  _stopScanner();
-  document.getElementById('total-slot').innerHTML = '';
-  if      (tab === 'scan')     renderScan();
-  else if (tab === 'clients')  renderClients();
-  else if (tab === 'products') renderProducts();
-  else if (tab === 'orders')   renderOrders();
-  else if (tab === 'settings') renderSettings();
+  try {
+    console.log('Mostrando aba:', tab);
+    S.tab = tab;
+    ['scan','clients','products','orders','settings'].forEach(t => {
+      const navEl = document.getElementById('nav-' + t);
+      if (navEl) navEl.classList.toggle('active', t === tab);
+    });
+    _stopScanner();
+    const totalSlot = document.getElementById('total-slot');
+    if (totalSlot) totalSlot.innerHTML = '';
+    
+    if      (tab === 'scan')     renderScan();
+    else if (tab === 'clients')  renderClients();
+    else if (tab === 'products') renderProducts();
+    else if (tab === 'orders')   renderOrders();
+    else if (tab === 'settings') renderSettings();
+    console.log('Aba renderizada com sucesso:', tab);
+  } catch(err) {
+    console.error('Erro ao mostrar aba:', tab, err);
+  }
 }
 
 // ══════════════════════════════════════════════════════════
@@ -871,12 +896,30 @@ function renderScan() {
     <div style="height:16px;"></div>
   `;
 
-  document.getElementById('header-sub').textContent = client ? `Cliente: ${client.name}` : 'Selecione um cliente para iniciar';
-  document.getElementById('manual-code').addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); submitManualCode(); } });
-  if (order && items.length) {
-    document.getElementById('total-slot').innerHTML = `<div class="total-bar"><span style="font-size:14px;color:var(--text2);">Total</span><span style="font-size:22px;font-weight:800;color:var(--green);">${fmt(order.total)}</span></div>`;
+  const headerSub = document.getElementById('header-sub');
+  if (headerSub) {
+    headerSub.textContent = client ? `Cliente: ${client.name}` : 'Selecione um cliente para iniciar';
   }
-  requestAnimationFrame(() => _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'));
+  
+  const manualCode = document.getElementById('manual-code');
+  if (manualCode) {
+    manualCode.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); submitManualCode(); } });
+  }
+  
+  if (order && items.length) {
+    const totalSlot = document.getElementById('total-slot');
+    if (totalSlot) {
+      totalSlot.innerHTML = `<div class="total-bar"><span style="font-size:14px;color:var(--text2);">Total</span><span style="font-size:22px;font-weight:800;color:var(--green);">${fmt(order.total)}</span></div>`;
+    }
+  }
+  
+  requestAnimationFrame(() => {
+    try {
+      _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn');
+    } catch(err) {
+      console.error('Erro ao iniciar scanner:', err);
+    }
+  });
 }
 
 function submitManualCode() {
@@ -1471,17 +1514,24 @@ function showChangelog() {
 }
 
 function initApp() {
-  showTab('scan');
-  if (!S.activeClient) { 
-    // Apenas mostra se houver clientes cadastrados
-    if (Object.keys(S.clients).length > 0) {
-      setTimeout(() => showClientPicker(), 500); 
+  try {
+    console.log('Iniciando aplicação...');
+    showTab('scan');
+    if (!S.activeClient) { 
+      // Apenas mostra se houver clientes cadastrados
+      if (Object.keys(S.clients).length > 0) {
+        setTimeout(() => showClientPicker(), 500); 
+      }
     }
+    if (S.ghToken && S.ghRepo) {
+      ghLoad().then(updated => { if (updated) refreshCurrentTab(); }).catch(() => {});
+    }
+    startAutoSync();
+    console.log('Aplicação iniciada com sucesso!');
+  } catch(err) {
+    console.error('Erro ao inicializar aplicação:', err);
+    toast('Erro ao inicializar aplicação. Tente recarregar a página.', 'err');
   }
-  if (S.ghToken && S.ghRepo) {
-    ghLoad().then(updated => { if (updated) refreshCurrentTab(); }).catch(() => {});
-  }
-  startAutoSync();
 }
 
 function start() {
