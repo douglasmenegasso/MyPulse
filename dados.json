@@ -1,38 +1,97 @@
 {
   "products": {
-    "123": {
-      "code": "123",
-      "name": "Oi",
-      "price": 1
+    "7896235354901": {
+      "code": "7896235354901",
+      "name": "Creme",
+      "price": 8.99
+    },
+    "7894494749094": {
+      "code": "7894494749094",
+      "name": "Caderno",
+      "price": 10
     }
   },
   "clients": {
-    "c_1779370593963": {
-      "id": "c_1779370593963",
-      "name": "Teste",
+    "419990000": {
+      "id": "419990000",
+      "name": "Janaina",
+      "phone": "419990000"
+    },
+    "c_1779302962130": {
+      "id": "c_1779302962130",
+      "name": "Douglas",
+      "phone": ""
+    },
+    "c_1779308747750": {
+      "id": "c_1779308747750",
+      "name": "Maria",
       "phone": ""
     }
   },
   "orders": {
-    "c_1779370593963": {
-      "clientId": "c_1779370593963",
+    "c_1779308747750": {
+      "clientId": "c_1779308747750",
       "items": {
-        "123": {
-          "code": "123",
-          "name": "Oi",
-          "price": 1,
+        "7894494749094": {
+          "code": "7894494749094",
+          "name": "Caderno",
+          "price": 10,
           "qty": 2
         }
       },
-      "total": 2,
+      "total": 20,
       "status": "open"
+    },
+    "c_1779302962130": {
+      "clientId": "c_1779302962130",
+      "items": {
+        "7896235354901": {
+          "code": "7896235354901",
+          "name": "Creme",
+          "price": 8.99,
+          "qty": 4
+        }
+      },
+      "total": 35.96,
+      "status": "waiting"
     }
   },
-  "closed": [],
+  "closed": [
+    {
+      "clientId": "c_1779302962130",
+      "clientName": "Douglas",
+      "clientPhone": "",
+      "items": {
+        "7896235354901": {
+          "code": "7896235354901",
+          "name": "Creme",
+          "price": 8.99,
+          "qty": 1
+        }
+      },
+      "total": 8.99,
+      "closedAt": "2026-05-20T21:06:06.718Z"
+    },
+    {
+      "clientId": "c_1779308747750",
+      "clientName": "Maria",
+      "clientPhone": "",
+      "items": {
+        "7896235354901": {
+          "code": "7896235354901",
+          "name": "Creme",
+          "price": 8.99,
+          "qty": 2
+        }
+      },
+      "total": 17.98,
+      "closedAt": "2026-05-20T20:57:11.852Z"
+    }
+  ],
   "security": {
     "adminPass": "1234",
-    "recoveryKey": "1CUV4DUZ-ZZSJ",
-    "recoveryEmail": "a"
+    "recoveryKey": "FM09MFT3-8CBA",
+    "recoveryEmail": "e"
   },
-  "savedAt": "2026-05-21T13:38:12.670Z"
+  "savedAt": "2026-05-21T14:15:08.761Z"
 }
