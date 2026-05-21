@@ -41,15 +41,8 @@
   "orders": {
     "419990000": {
       "clientId": "419990000",
-      "items": {
-        "7894494729225": {
-          "code": "7894494729225",
-          "name": "Caderno",
-          "price": 100,
-          "qty": 1
-        }
-      },
-      "total": 100,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1779308747750": {
@@ -146,5 +139,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T20:12:17.215Z"
+  "savedAt": "2026-05-21T20:12:34.651Z"
 }
