@@ -76,7 +76,7 @@
         }
       },
       "total": 100,
-      "status": "waiting"
+      "status": "open"
     }
   },
   "closed": [
@@ -116,5 +116,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T15:49:55.349Z"
+  "savedAt": "2026-05-21T15:50:06.621Z"
 }
