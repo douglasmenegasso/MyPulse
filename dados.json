@@ -64,9 +64,13 @@
       },
       "total": 35.96,
       "status": "waiting"
-    },
-    "41996989942": {
+    }
+  },
+  "closed": [
+    {
       "clientId": "41996989942",
+      "clientName": "Jessica",
+      "clientPhone": "41996989942",
       "items": {
         "7894494729225": {
           "code": "7894494729225",
@@ -76,10 +80,8 @@
         }
       },
       "total": 200,
-      "status": "waiting"
-    }
-  },
-  "closed": [
+      "closedAt": "2026-05-21T15:50:37.376Z"
+    },
     {
       "clientId": "c_1779302962130",
       "clientName": "Douglas",
@@ -116,5 +118,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-21T15:50:33.860Z"
+  "savedAt": "2026-05-21T15:50:37.377Z"
 }
