@@ -1,51 +1,45 @@
-const CACHE_NAME = 'mypulse-v3.5.0';
+const CACHE_NAME = 'mypulse-v3.5.6';
 const ASSETS = [
   './',
   'index.html',
   'manifest.json',
-  'icon-192.png',
-  'icon-512.png',
   'icon-192-dark.png',
   'icon-512-dark.png',
-  'apple-touch-icon.png',
-  'apple-touch-icon-dark.png'
+  'icon-192.png',
+  'icon-512.png',
+  'apple-touch-icon-dark.png',
+  'apple-touch-icon.png'
 ];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS);
-    })
+    caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS))
   );
   self.skipWaiting();
 });
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((keys) => {
-      return Promise.all(
-        keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key))
-      );
-    })
+    caches.keys().then((keys) =>
+      Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k)))
+    )
   );
-  // Força o controle imediato das abas abertas
   self.clients.claim();
 });
 
 self.addEventListener('fetch', (event) => {
+  if (event.request.url.includes('version.json')) {
+    event.respondWith(
+      fetch(event.request, { cache: 'no-store' })
+        .catch(() => new Response('{}', { headers: { 'Content-Type': 'application/json' } }))
+    );
+    return;
+  }
   event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      if (cachedResponse) {
-        return cachedResponse;
-      }
-      return fetch(event.request);
-    })
+    caches.match(event.request).then(cached => cached || fetch(event.request))
   );
 });
 
-// Mensagem para forçar atualização
 self.addEventListener('message', (event) => {
-  if (event.data === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
+  if (event.data === 'SKIP_WAITING') self.skipWaiting();
 });
