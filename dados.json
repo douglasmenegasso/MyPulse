@@ -6,7 +6,13 @@
       "price": 100
     }
   },
-  "clients": {},
+  "clients": {
+    "c_1779646171882": {
+      "id": "c_1779646171882",
+      "name": "Teste 1",
+      "phone": ""
+    }
+  },
   "orders": {},
   "closed": [],
   "security": {
@@ -14,5 +20,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-24T18:09:12.432Z"
+  "savedAt": "2026-05-24T18:09:31.882Z"
 }
