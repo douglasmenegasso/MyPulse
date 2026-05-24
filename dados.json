@@ -13,12 +13,26 @@
       "phone": ""
     }
   },
-  "orders": {},
+  "orders": {
+    "c_1779646171882": {
+      "clientId": "c_1779646171882",
+      "items": {
+        "7897653549146": {
+          "code": "7897653549146",
+          "name": "Teste",
+          "price": 100,
+          "qty": 1
+        }
+      },
+      "total": 100,
+      "status": "open"
+    }
+  },
   "closed": [],
   "security": {
     "adminPass": "1234",
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-24T18:09:31.882Z"
+  "savedAt": "2026-05-24T18:09:33.828Z"
 }
