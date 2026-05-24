@@ -1,5 +1,11 @@
 {
-  "products": {},
+  "products": {
+    "7897653549146": {
+      "code": "7897653549146",
+      "name": "Teste",
+      "price": 100
+    }
+  },
   "clients": {},
   "orders": {},
   "closed": [],
@@ -8,5 +14,5 @@
     "recoveryKey": "1CUV4DUZ-ZZSJ",
     "recoveryEmail": "a"
   },
-  "savedAt": "2026-05-23T21:15:44.993Z"
+  "savedAt": "2026-05-24T18:09:12.432Z"
 }
