@@ -133,10 +133,10 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
   <div class="login-card">
     <div class="login-logo"><img src="icon-192-dark.png" style="width:80px;height:80px;border-radius:20px;box-shadow:0 10px 20px rgba(0,0,0,0.3);"></div>
     <div class="login-title">Venda Consignada</div>
-    <div class="login-sub">Escolha seu perfil de acesso</div>
-    <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
-    <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
-    <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.5.9</div>
+<div class="login-sub">Escolha seu perfil de acesso</div>
+	    <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
+	    <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
+	    <div style="font-size:11px;color:var(--text3);margin-top:16px;" id="login-ver">v3.8.5</div>
   </div>
 </div>
 
@@ -149,9 +149,9 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
       </div>
       <div style="text-align:right;">
         <div style="font-size:10px;color:var(--text3);font-weight:600;letter-spacing:.5px;display:flex;align-items:center;justify-content:flex-end;gap:8px;">
-          <span id="header-clock" style="color:var(--text2);"></span>
-          <span id="cloud-status" style="color:var(--text2); margin-left: 8px;"></span>
-          <span>v3.5.9 <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></span>
+<span id="header-clock" style="color:var(--text2);"></span>
+	          <span id="cloud-status" style="color:var(--text2); margin-left: 8px;"></span>
+	          <span><span id="hdr-ver">v3.8.5</span> <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></span>
         </div>
         <div id="user-badge" style="font-size:9px;color:var(--accent2);font-weight:700;margin-top:2px;text-transform:uppercase;"></div>
       </div>
@@ -164,6 +164,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
     <button class="nav-btn"        id="nav-clients"  onclick="showTab('clients')"> <span class="icon">👥</span>Clientes</button>
     <button class="nav-btn"        id="nav-products" onclick="showTab('products')"><span class="icon">🏷️</span>Produtos</button>
     <button class="nav-btn"        id="nav-orders"   onclick="showTab('orders')">  <span class="icon">📋</span>Pedidos</button>
+    <button class="nav-btn"        id="nav-history"  onclick="showTab('history')"> <span class="icon">📊</span>Histórico</button>
     <button class="nav-btn"        id="nav-settings" onclick="showTab('settings')"><span class="icon">⚙️</span>Config</button>
   </div>
 </div>
@@ -265,7 +266,13 @@ function checkIOSInstall() {
   }
 }
 // Tenta rodar em diferentes estágios para garantir
-window.addEventListener('DOMContentLoaded', checkIOSInstall);
+window.addEventListener('DOMContentLoaded', function() {
+  checkIOSInstall();
+  ['login-ver','hdr-ver','cfg-ver'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.textContent = APP_VERSION;
+  });
+});
 window.addEventListener('load', checkIOSInstall);
 setTimeout(checkIOSInstall, 2000); // Backup caso demore a carregar
 
@@ -286,8 +293,9 @@ let S = {
   closed:   DB.load('csn_closed',   []),
   ghToken:  DB.load('csn_ghtoken',  ''),
   ghRepo:   DB.load('csn_ghrepo',   ''),
-  userRole: null, // Forçar login ao reiniciar (v3.5.9)
+  userRole: null, // Forçar login ao reiniciar (v3.8.0)
   adminPass: DB.load('csn_adminpass', ''), // Senha do admin
+  company: DB.load('csn_company', { name: '', responsible: '', phone: '' }), // Dados da empresa
   recoveryKey: DB.load('csn_recoverykey', ''), // Chave de recuperação
   recoveryEmail: DB.load('csn_recoveryemail', ''), // Email de recuperação
   activeClient: null,
@@ -303,6 +311,7 @@ function saveLocal() {
   DB.save('csn_clients',  S.clients);
   DB.save('csn_orders',   S.orders);
   DB.save('csn_closed',   S.closed);
+  DB.save('csn_returned', S.returned);
 }
 
 function save() {
@@ -390,7 +399,7 @@ function renderLoginScreen() {
       <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
       <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
       <div style="display:flex;align-items:center;justify-content:center;gap:4px;margin-top:16px;">
-        <span style="font-size:11px;color:var(--text3);">v3.5.9</span>
+        <span style="font-size:11px;color:var(--text3);">${APP_VERSION}</span>
         <button onclick="showChangelog()" style="background:none;border:none;color:var(--accent2);font-size:14px;cursor:pointer;padding:4px;">❓</button>
       </div>
     </div>
@@ -398,11 +407,16 @@ function renderLoginScreen() {
 }
 
 const CHANGELOG = [
-  { v: 'v3.5.9', t: 'Correção', d: 'Corrigidos bugs críticos: sintaxe JS, geração de PDF, acentuação, datas e versionamento.' },
-  { v: 'v3.5.9', t: 'Funcionalidade', d: 'PDF reformulado com logo, título centralizado, itens em tabela e total correto.' },
-  { v: 'v3.5.9', t: 'Funcionalidade', d: 'Histórico de itens devolvidos por cliente com opção de adicionar ao novo pedido.' },
-  { v: 'v3.5.9', t: 'Interface', d: 'Sincronização renomeada para Nuvem e Backup.' },
-  { v: 'v3.6.0', t: 'Funcionalidade', d: 'Geração e compartilhamento de PDF para pedidos.' },
+  { v: 'v3.8.5', t: 'Correção', d: 'Persistência global de devoluções corrigida: histórico agora é salvo localmente e sincronizado com o GitHub.' },
+  { v: 'v3.8.4', t: 'Otimização', d: 'Câmera persistente entre scans, debounce de 3s para evitar múltiplas leituras e remoção de devoluções da lista de pedidos.' },
+  { v: 'v3.8.3', t: 'Interface', d: 'Botão "+" ao lado da quantidade no modal, correção na busca de código de barras e trava de edição em pedidos aguardando.' },
+  { v: 'v3.8.2', t: 'Funcionalidade', d: 'Botão "Adicionar Mais" no modal de itens e persistência cumulativa de histórico por cliente.' },
+  { v: 'v3.8.1', t: 'Funcionalidade', d: 'Novo relatório de histórico individual por cliente com visão de itens enviados, pagos e devolvidos.' },
+  { v: 'v3.8.0', t: 'Correção', d: 'Corrigidos bugs críticos: sintaxe JS, geração de PDF, acentuação, datas e versionamento.' },
+  { v: 'v3.8.0', t: 'Funcionalidade', d: 'PDF reformulado com logo, título centralizado, itens em tabela e total correto.' },
+  { v: 'v3.8.0', t: 'Funcionalidade', d: 'Histórico de itens devolvidos por cliente com opção de adicionar ao novo pedido.' },
+  { v: 'v3.8.0', t: 'Interface', d: 'Sincronização renomeada para Nuvem e Backup.' },
+  { v: 'v3.8.0', t: 'Funcionalidade', d: 'Geração e compartilhamento de PDF para pedidos.' },
   { v: 'v3.5.0', t: 'Funcionalidade', d: 'Indicador de status da nuvem no cabeçalho.' },
   { v: 'v3.4.2', t: 'Correção', d: 'Corrigida exibição da versão no rodapé das configurações.' },
   { v: 'v3.4.0', t: 'Segurança', d: 'Aviso de segurança ao apagar dados.' },
@@ -435,6 +449,39 @@ function showChangelog() {
   
   html += `</div><button class="btn btn-primary" onclick="closeModal()">Fechar</button>`;
   showModal(html);
+}
+
+function showCompanySetup(onDone) {
+  showModal(`
+    <div class="modal-handle"></div>
+    <div style="text-align:center;margin-bottom:20px;">
+      <div style="font-size:40px;margin-bottom:8px;">🏪</div>
+      <div class="modal-title">Configuração Inicial</div>
+      <div class="modal-sub">Preencha os dados da sua empresa para personalizar os recibos.</div>
+    </div>
+    <div class="form-group">
+      <label class="form-label">Nome da Empresa *</label>
+      <input type="text" id="co-name" class="form-input" placeholder="Ex: Boutique da Maria" maxlength="50">
+    </div>
+    <div class="form-group">
+      <label class="form-label">Responsável *</label>
+      <input type="text" id="co-resp" class="form-input" placeholder="Seu nome completo" maxlength="50">
+    </div>
+    <div class="form-group">
+      <label class="form-label">Telefone / WhatsApp</label>
+      <input type="tel" id="co-phone" class="form-input" placeholder="(00) 00000-0000" maxlength="20">
+    </div>
+    <button class="btn btn-primary" style="margin-top:8px;" onclick="
+      const n=document.getElementById('co-name').value.trim();
+      const r=document.getElementById('co-resp').value.trim();
+      const p=document.getElementById('co-phone').value.trim();
+      if(!n||!r){toast('Preencha nome e responsável','err');return;}
+      S.company={name:n,responsible:r,phone:p};
+      DB.save('csn_company',S.company);
+      closeModal();
+      if(typeof onDone==='function') onDone();
+    ">Salvar e Continuar</button>
+  `);
 }
 
 function checkAdminPass() {
@@ -582,6 +629,7 @@ async function _ghDoSave() {
     clients:  JSON.parse(JSON.stringify(S.clients)),
     orders:   JSON.parse(JSON.stringify(S.orders)),
     closed:   JSON.parse(JSON.stringify(S.closed)),
+    returned: JSON.parse(JSON.stringify(S.returned || {})),
     security: { adminPass: S.adminPass, recoveryKey: S.recoveryKey, recoveryEmail: S.recoveryEmail },
     savedAt
   };
@@ -623,13 +671,18 @@ function updateClock() {
   const cloudStatusEl = document.getElementById('cloud-status');
   if (cloudStatusEl) {
     if (S.ghToken && S.ghRepo) {
-      // Verifica se a última sincronização foi há mais de 5 minutos (300000 ms)
-      if (S.lastSync && (Date.now() - S.lastSync < 300000)) {
-        cloudStatusEl.innerHTML = '☁️ Online';
-        cloudStatusEl.style.color = 'var(--green)';
-      } else {
+      // Online se conectado — só marca Offline se lastSync > 10min ou nunca sincronizou nesta sessão
+      const tenMin = 10 * 60 * 1000;
+      const isOnline = navigator.onLine;
+      if (!isOnline) {
         cloudStatusEl.innerHTML = '☁️ Offline';
         cloudStatusEl.style.color = 'var(--amber)';
+      } else if (S.lastSync && (Date.now() - S.lastSync > tenMin)) {
+        cloudStatusEl.innerHTML = '☁️ Sincronizando...';
+        cloudStatusEl.style.color = 'var(--amber)';
+      } else {
+        cloudStatusEl.innerHTML = '☁️ Online';
+        cloudStatusEl.style.color = 'var(--green)';
       }
     } else {
       cloudStatusEl.innerHTML = '☁️ Desconectado';
@@ -688,6 +741,7 @@ function refreshCurrentTab() {
   else if (t === 'clients')  renderClients();
   else if (t === 'products') renderProducts();
   else if (t === 'orders')   renderOrders();
+  else if (t === 'history')  renderHistory();
   else if (t === 'settings') renderSettings();
 }
 
@@ -830,8 +884,12 @@ function showModal(html) {
     `<div class="modal-overlay" onclick="if(event.target===this)closeModal()"><div class="modal">${html}</div></div>`;
 }
 function closeModal() {
-  _stopScanner();
+  // Não paramos o scanner ao fechar modal para manter a câmera ativa
   document.getElementById('modal-root').innerHTML = '';
+  // Se estiver na aba scan e a câmera estiver desligada, religa
+  if (S.tab === 'scan' && !_active) {
+    _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn');
+  }
 }
 
 // ══════════════════════════════════════════════════════════
@@ -841,7 +899,7 @@ let _stream  = null;
 let _reader  = null;
 let _scanRAF = null;
 let _bd      = null;
-let _active  = false;
+let _active  = false, _lastScan = 0, _lastCode = '';
 
 function _hasBarcodeDetector() { return typeof BarcodeDetector !== 'undefined'; }
 
@@ -937,7 +995,12 @@ async function _startScanner(videoId, onCode, overlayId, msgId, btnId) {
     _stream = await _getStream();
     await _playVideo(video, _stream);
     if (overlay) overlay.style.display = 'none';
-    const wrappedOnCode = (code) => { beep(); onCode(code); };
+    const wrappedOnCode = (code) => {
+      const now = Date.now();
+      if (code === _lastCode && (now - _lastScan) < 3000) return; // Debounce de 3 segundos para o mesmo código
+      _lastCode = code; _lastScan = now;
+      beep(); onCode(code);
+    };
     if (_hasBarcodeDetector()) { await _startBarcodeDetectorLoop(video, wrappedOnCode); }
     else {
       _reader = _makeZXingReader();
@@ -966,6 +1029,7 @@ function showTab(tab) {
   else if (tab === 'clients')  renderClients();
   else if (tab === 'products') renderProducts();
   else if (tab === 'orders')   renderOrders();
+  else if (tab === 'history')  renderHistory();
   else if (tab === 'settings') renderSettings();
 }
 
@@ -977,6 +1041,11 @@ function renderScan() {
   const order  = S.activeClient ? S.orders[S.activeClient]  : null;
   const items  = order ? Object.values(order.items || {}) : [];
   const status = order ? (order.status || 'open') : 'open';
+
+  // Se o scanner não estiver ativo e estivermos na aba scan, inicia
+  if (!_active && S.tab === 'scan') {
+    setTimeout(() => _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'), 100);
+  }
 
   const clientBanner = client
     ? `<div class="client-card" onclick="showClientPicker()" style="margin-bottom:4px;">
@@ -1072,15 +1141,38 @@ function submitManualCode() {
 function setScanMode(m) { S.scanMode = m; renderScan(); }
 
 function handleCode(code) {
-  code = code.trim(); if (!code) return;
-  const product = S.products[code];
+  code = code.toString().trim(); if (!code) return;
+  // Busca exata ou com fallback para string se for número
+  let product = S.products[code];
+  
+  // Se não achou, tenta buscar por código numérico se o input for string
+  if (!product) {
+    product = Object.values(S.products).find(p => String(p.code).trim() === code);
+    if (product) code = product.code; // Normaliza o código para o encontrado
+  }
+
   if (!product) { showRegisterProduct(code); return; }
+  
+  // Bloqueio de edição em status 'waiting'
+  const order = S.orders[S.activeClient];
+  if (order && order.status === 'waiting') {
+    toast('Pedido em espera. Reabra para editar.', 'err');
+    return;
+  }
+
   if (S.scanMode === 'sale') handleSaleScan(code, product);
   else handleReturnScan(code, product);
 }
 
 function changeQty(code, delta) {
   const order = S.orders[S.activeClient]; if (!order || !order.items[code]) return;
+  
+  // Bloqueio de edição em status 'waiting'
+  if (order.status === 'waiting') {
+    toast('Reabra o pedido para alterar quantidades.', 'err');
+    return;
+  }
+
   order.items[code].qty += delta;
   order.total = Math.max(0, (order.total || 0) + delta * order.items[code].price);
   if (order.items[code].qty <= 0) delete order.items[code];
@@ -1124,10 +1216,11 @@ function addToOrder(code, product, force = false) {
         + '<div class="modal-title" style="color:var(--blue);">&#8629; Item Ja Devolvido</div>'
         + '<div class="modal-sub">' + rMsg + '</div>'
         + '<div class="form-group" style="margin-top:12px;"><label class="form-label">Quantidade:</label>'
-        + '<input type="number" id="ret-qty" class="form-input" value="1" min="1" style="text-align:center;font-size:18px;"></div>'
-        + '<div class="row">'
-        + '<div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div>'
-        + '<div class="form-group"><button class="btn btn-primary" onclick="const q=parseInt(document.getElementById(\'ret-qty\').value)||1;addToOrder(\''+code+'\',S.products[\''+code+'\'],true,q);closeModal();">Adicionar</button></div>'
+        + '<div style="display:flex;gap:8px;"><input type="number" id="ret-qty" class="form-input" value="1" min="1" style="text-align:center;font-size:18px;flex:1;">'
+        + '<button class="btn btn-primary" style="width:48px;font-size:24px;" onclick="const q=parseInt(document.getElementById(\'ret-qty\').value)||1;addToOrder(\''+code+'\',S.products[\''+code+'\'],true,q);toast(\'✓ Adicionado\');">+</button></div></div>'
+        + '<div style="display:flex;flex-direction:column;gap:8px;margin-top:8px;">'
+        + '<button class="btn btn-outline" style="background:var(--accent);color:#fff;border:none;" onclick="closeModal()">Concluir</button>'
+        + '<button class="btn btn-outline" onclick="closeModal()">Cancelar</button>'
         + '</div>');
       return;
     }
@@ -1137,20 +1230,48 @@ function addToOrder(code, product, force = false) {
     const inCurrentOrder = order.items[code];
     
     if (boughtBefore || inCurrentOrder) {
-      let msg = boughtBefore ? `⚠️ O cliente já comprou "${product.name}" anteriormente.` : `⚠️ "${product.name}" já está no pedido.`;
-      showModal(`
-        <div class="modal-handle"></div>
-        <div class="modal-title" style="color:var(--amber);">Aviso de Item</div>
-        <div class="modal-sub">${msg}</div>
-        <div class="form-group">
-          <label>Quantidade:</label>
-          <input type="number" id="confirm-qty" class="form-input" value="1" min="1" style="text-align:center;font-size:18px;">
-        </div>
-        <div class="row">
-          <div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div>
-          <div class="form-group"><button class="btn btn-primary" onclick="const q=parseInt(document.getElementById('confirm-qty').value)||1; addToOrder('${code}', S.products['${code}'], true, q); closeModal();">Adicionar</button></div>
-        </div>
-      `);
+      // Busca histórico de compras deste item pelo cliente
+      const pastOrders = S.closed.filter(o => o.clientId === S.activeClient && o.items[code]);
+      let historyHtml = '';
+      if (pastOrders.length) {
+        historyHtml += '<div style="margin:10px 0 4px;font-size:12px;color:var(--text3);font-weight:600;">Histórico de compras</div>';
+        historyHtml += '<div style="background:var(--bg2);border-radius:10px;padding:8px 12px;margin-bottom:8px;">';
+        pastOrders.slice(-3).reverse().forEach(o => {
+          historyHtml += '<div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--bg3);">'
+            + '<span style="font-size:12px;color:var(--text2);">' + fmtDate(o.closedAt) + '</span>'
+            + '<span style="font-size:12px;font-weight:700;color:var(--text1);">' + o.items[code].qty + 'x &nbsp;' + fmt(o.items[code].price * o.items[code].qty) + '</span>'
+            + '</div>';
+        });
+        historyHtml += '</div>';
+      }
+      const currentQtyHtml = inCurrentOrder
+        ? '<div style="font-size:12px;color:var(--amber);margin-bottom:8px;">⚠️ Já no pedido: <b>' + order.items[code].qty + 'x</b></div>'
+        : '';
+      showModal(
+        '<div class="modal-handle"></div>'
+        + '<div class="modal-title" style="color:var(--amber);">⚠️ Aviso de Item</div>'
+        + '<div style="font-weight:600;font-size:15px;margin-bottom:6px;">' + product.name + '</div>'
+        + currentQtyHtml
+        + historyHtml
+        + '<div class="form-group">'
+        + '<label class="form-label">Quantidade a adicionar:</label>'
+        + '<div style="display:flex;gap:8px;"><input type="number" id="confirm-qty" class="form-input" value="1" min="1" style="text-align:center;font-size:20px;font-weight:700;flex:1;">'
+        + '<button class="btn btn-primary" style="width:48px;font-size:24px;" onclick="'
+          + 'const q=parseInt(document.getElementById(\'confirm-qty\').value)||1;'
+          + 'addToOrder(\''+code+'\',S.products[\''+code+'\'],true,q);'
+          + 'toast(\'✓ Adicionado\');'
+          + 'const cur=S.orders[S.activeClient];'
+          + 'const nq=cur&&cur.items[\''+code+'\']?cur.items[\''+code+'\'].qty:0;'
+          + 'const el=document.querySelector(\'.modal [style*=amber]\');'
+          + 'if(el)el.innerHTML=\'⚠️ Já no pedido: <b>\'+nq+\'x</b>\';'
+          + 'else{const d=document.createElement(\'div\');d.style=\'font-size:12px;color:var(--amber);margin-bottom:8px;\';d.innerHTML=\'⚠️ Já no pedido: <b>\'+nq+\'x</b>\';const container=document.getElementById(\'confirm-qty\').parentNode.parentNode; container.parentNode.insertBefore(d, container);}'
+        + '">+</button></div>'
+        + '</div>'
+        + '<div style="display:flex;flex-direction:column;gap:8px;margin-top:8px;">'
+        + '<button class="btn btn-outline" style="background:var(--accent);color:#fff;border:none;" onclick="closeModal()">Concluir</button>'
+        + '<button class="btn btn-outline" onclick="closeModal()">Cancelar</button>'
+        + '</div>'
+      );
       return;
     }
     
@@ -1159,13 +1280,21 @@ function addToOrder(code, product, force = false) {
       <div class="modal-handle"></div>
       <div class="modal-title">📦 Adicionar Item</div>
       <div class="modal-sub">${product.name}</div>
+      <div style="font-size:13px;color:var(--text3);margin-bottom:8px;">Preço unit.: ${fmt(product.price)}</div>
       <div class="form-group">
-        <label>Quantidade:</label>
-        <input type="number" id="new-item-qty" class="form-input" value="1" min="1" style="text-align:center;font-size:18px;">
+        <label class="form-label">Quantidade:</label>
+        <div style="display:flex;align-items:center;gap:8px;margin-top:6px;">
+          <button class="btn btn-outline" style="width:52px;height:52px;font-size:24px;padding:0;flex-shrink:0;"
+            onclick="const el=document.getElementById('new-item-qty');const v=parseInt(el.value)||1;if(v>1){el.value=v-1;}">−</button>
+          <input type="number" id="new-item-qty" class="form-input" value="1" min="1"
+            style="text-align:center;font-size:22px;font-weight:700;flex:1;height:52px;">
+          <button class="btn btn-primary" style="width:52px;height:52px;font-size:24px;padding:0;flex-shrink:0;"
+            onclick="const el=document.getElementById('new-item-qty');const v=parseInt(el.value)||1;el.value=v+1;">+</button>
+        </div>
       </div>
-      <div class="row">
-        <div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div>
-        <div class="form-group"><button class="btn btn-primary" onclick="const q=parseInt(document.getElementById('new-item-qty').value)||1; addToOrder('${code}', S.products['${code}'], true, q); closeModal();">Adicionar</button></div>
+      <div style="display:flex;flex-direction:column;gap:8px;margin-top:12px;">
+        <button class="btn btn-primary" onclick="const q=parseInt(document.getElementById('new-item-qty').value)||1;addToOrder('${code}',S.products['${code}'],true,q);closeModal();">✅ Adicionar ao Pedido</button>
+        <button class="btn btn-outline" onclick="closeModal()">Cancelar</button>
       </div>
     `);
     return;
@@ -1212,8 +1341,23 @@ function showPaymentModal() {
 function confirmPayment(clientId) {
   const client = S.clients[clientId];
   const order  = S.orders[clientId]; if (!order) return;
-  S.closed.unshift({ clientId, clientName: client.name, clientPhone: client.phone || '', items: { ...order.items }, total: order.total, closedAt: new Date().toISOString() });
+  
+  // Persistência cumulativa: Se já existe um histórico de devoluções, mantemos.
+  // A lógica de S.returned já é cumulativa por natureza no handleReturnScan.
+  // O que vamos garantir é que S.closed registre o pedido sem apagar o histórico de devoluções.
+  
+  S.closed.unshift({ 
+    clientId, 
+    clientName: client.name, 
+    clientPhone: client.phone || '', 
+    items: { ...order.items }, 
+    total: order.total, 
+    closedAt: new Date().toISOString() 
+  });
+  
   delete S.orders[clientId];
+  // Não deletamos S.returned[clientId] para manter o histórico cumulativo de devoluções.
+  
   if (S.activeClient === clientId) S.activeClient = null;
   save(); closeModal(); toast(`✅ Pagamento de ${client.name} registrado!`); showTab('orders');
 }
@@ -1250,52 +1394,39 @@ function saveProductAndContinue(code) {
 // ══════════════════════════════════════════════════════════
 function showClientPicker() {
   const clients = Object.values(S.clients);
+  const rows = clients.length
+    ? clients.map(c => {
+        const o = S.orders[c.id];
+        const st = o ? o.status : null;
+        const badge = st === 'open' ? '📋' : st === 'waiting' ? '⏳' : '';
+        return `<div class="client-card" style="margin-bottom:6px;" onclick="S.activeClient='${c.id}';closeModal();renderScan();">
+          <div class="avatar" style="width:38px;height:38px;font-size:14px;">${initials(c.name)}</div>
+          <div style="flex:1;">
+            <div class="client-name">${c.name}</div>
+            <div style="font-size:11px;color:var(--text3);">${c.phone || 'Sem telefone'}</div>
+          </div>
+          ${badge ? `<span style="font-size:18px;">${badge}</span>` : ''}
+        </div>`;
+      }).join('')
+    : '<div class="empty" style="padding:24px 0;"><p>Nenhum cliente cadastrado.</p></div>';
+
   showModal(`
     <div class="modal-handle"></div>
-    <div class="modal-title">Selecionar cliente</div>
-    <button class="btn btn-primary" style="margin-bottom:12px;" onclick="closeModal();showNewClientForm()">+ Novo Cliente</button>
-    ${clients.length ? `<div class="search-wrap"><span class="search-icon">🔍</span><input class="form-input" id="picker-search" placeholder="Buscar…" oninput="filterPickerClients(this.value)"/></div><div id="picker-list">${renderPickerList(clients, '')}</div>` : `<div class="empty" style="padding:24px;"><p>Nenhum cliente</p></div>`}
+    <div class="modal-title">Selecionar Cliente</div>
+    <input type="text" class="form-input" placeholder="🔍 Buscar cliente..." oninput="
+      const q=this.value.toLowerCase();
+      document.querySelectorAll('#picker-list .client-card').forEach(el=>{
+        el.style.display=el.textContent.toLowerCase().includes(q)?'flex':'none';
+      });" style="margin-bottom:12px;">
+    <div id="picker-list" style="max-height:52vh;overflow-y:auto;padding-right:2px;">
+      ${rows}
+    </div>
+    <div style="margin-top:12px;display:flex;flex-direction:column;gap:8px;">
+      <button class="btn btn-primary" onclick="showNewClientFormThen(null);closeModal();">➕ Novo Cliente</button>
+      <button class="btn btn-outline" onclick="closeModal();">Fechar</button>
+    </div>
   `);
 }
-
-function renderPickerList(clients, q) {
-  const f = clients.filter(c => (c.name || '').toLowerCase().includes(q.toLowerCase()) || (c.phone || '').includes(q));
-  if (!f.length) return `<div style="text-align:center;padding:16px;color:var(--text2);font-size:14px;">Nenhum resultado</div>`;
-  return f.map(c => {
-    const o = S.orders[c.id]; const count = o ? Object.keys(o.items || {}).length : 0; const st = o?.status;
-    return `<div class="client-card" onclick="selectClient('${c.id}')">
-      <div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--accent);">${initials(c.name)}</div>
-      <div style="flex:1;"><div style="font-size:15px;font-weight:600;">${c.name}</div><div style="font-size:12px;color:var(--text2);">${c.phone || 'Sem telefone'}</div>
-      ${count > 0 ? `<div style="font-size:12px;color:${st === 'waiting' ? 'var(--amber)' : 'var(--green)'};margin-top:2px;">${fmt(o.total)} · ${st === 'waiting' ? '⏳ Aguardando' : 'Em aberto'}</div>` : ''}</div>
-      <div style="font-size:20px;color:var(--text2);">›</div>
-    </div>`;
-  }).join('');
-}
-
-function filterPickerClients(q) { const l = document.getElementById('picker-list'); if (l) l.innerHTML = renderPickerList(Object.values(S.clients), q); }
-function selectClient(id) { S.activeClient = id; S.scanMode = 'sale'; closeModal(); setTimeout(() => renderScan(), 100); }
-
-function showSelectOrCreateClient(code, product) {
-  const clients = Object.values(S.clients);
-  showModal(`
-    <div class="modal-handle"></div>
-    <div class="modal-title">Produto detectado!</div>
-    <div class="modal-sub">📦 ${product.name} · ${fmt(product.price)}<br>Para qual cliente?</div>
-    ${clients.map(c => `<div class="client-card" onclick="selectClientAndAdd('${c.id}','${code}')"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--accent);">${initials(c.name)}</div><div><div style="font-size:15px;font-weight:600;">${c.name}</div><div style="font-size:12px;color:var(--text2);">${c.phone || 'Sem telefone'}</div></div></div>`).join('')}
-    <button class="btn btn-primary" style="margin-top:8px;" onclick="closeModal();showNewClientFormThen('${code}')">+ Novo Cliente</button>
-  `);
-}
-
-function selectClientAndAdd(clientId, code) { S.activeClient = clientId; closeModal(); setTimeout(() => { _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'); addToOrder(code, S.products[code]); }, 400); }
-
-// ══════════════════════════════════════════════════════════
-// CLIENT FORMS
-// ══════════════════════════════════════════════════════════
-function _clientModal(title, nameDef, phoneDef, btns) {
-  showModal(`<div class="modal-handle"></div><div class="modal-title">${title}</div><div class="form-group"><label class="form-label">Nome *</label><input class="form-input" id="cf-name" placeholder="Ex: Maria Silva" value="${nameDef}"/></div><div class="form-group"><label class="form-label">Telefone <span style="color:var(--text3);font-size:11px;">(opcional)</span></label><input class="form-input" id="cf-phone" type="tel" placeholder="Ex: 41999990000" value="${phoneDef}"/><div class="form-hint">Pode deixar em branco</div></div>${btns}`);
-  setTimeout(() => document.getElementById('cf-name')?.focus(), 100);
-}
-function _readCF() { return { name: (document.getElementById('cf-name')?.value || '').trim(), phone: (document.getElementById('cf-phone')?.value || '').trim() }; }
 
 function showNewClientForm(redirect) { _clientModal('Novo Cliente', '', '', `<div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveNewClient('${redirect || ''}')">Salvar</button></div></div>`); }
 function showNewClientFormThen(code) { _clientModal('Novo Cliente', '', '', `<div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveNewClientAndAdd('${code}')">Salvar e Adicionar</button></div></div>`); }
@@ -1444,6 +1575,203 @@ function deleteProduct(code) { delete S.products[code]; save(); closeModal(); re
 // ══════════════════════════════════════════════════════════
 // ORDERS TAB
 // ══════════════════════════════════════════════════════════
+
+// ══════════════════════════════════════════════════════════
+// HISTORY TAB — Relatório geral + ficha individual
+// ══════════════════════════════════════════════════════════
+function renderHistory() {
+  const clients = Object.values(S.clients);
+  if (!clients.length) {
+    document.getElementById('content').innerHTML =
+      '<div class="empty"><div class="icon">📊</div><p>Nenhum cliente cadastrado ainda.</p></div>';
+    return;
+  }
+
+  // Build client summary: total items sent, paid, returned, open
+  const summaries = clients.map(c => {
+    const cid = c.id;
+    // Active order
+    const order = S.orders[cid];
+    const activeItems = order ? Object.values(order.items || {}) : [];
+    const activeQty = activeItems.reduce((s,i) => s + i.qty, 0);
+    const activeTotal = activeItems.reduce((s,i) => s + i.price * i.qty, 0);
+    const activeStatus = order ? (order.status || 'open') : null;
+
+    // Closed/paid
+    const closedOrders = (S.closed || []).filter(o => o.clientId === cid);
+    const paidQty = closedOrders.reduce((s,o) => s + Object.values(o.items||{}).reduce((ss,i) => ss+i.qty,0), 0);
+    const paidTotal = closedOrders.reduce((s,o) => s + (o.total||0), 0);
+
+    // Returned
+    const retItems = S.returned && S.returned[cid] ? Object.values(S.returned[cid]) : [];
+    const retQty = retItems.reduce((s,i) => s + i.qty, 0);
+
+    // All unique products ever touched
+    const allProducts = new Set();
+    activeItems.forEach(i => allProducts.add(i.code || i.name));
+    closedOrders.forEach(o => Object.keys(o.items||{}).forEach(k => allProducts.add(k)));
+    retItems.forEach(i => allProducts.add(i.code || i.name));
+
+    return { c, cid, activeQty, activeTotal, activeStatus, paidQty, paidTotal, retQty, totalProducts: allProducts.size, closedOrders };
+  }).filter(s => s.activeQty > 0 || s.paidQty > 0 || s.retQty > 0)
+    .sort((a,b) => (b.paidTotal + b.activeTotal) - (a.paidTotal + a.activeTotal));
+
+  const searchBar = `
+    <div style="position:relative;margin-bottom:16px;">
+      <input type="text" id="history-search" class="form-input"
+        placeholder="🔍 Buscar cliente..."
+        oninput="filterHistory(this.value)"
+        style="padding-left:16px;">
+    </div>`;
+
+  const cards = summaries.map(s => {
+    const { c, cid, activeQty, activeTotal, activeStatus, paidQty, paidTotal, retQty, totalProducts } = s;
+    const statusBadge = activeStatus === 'waiting'
+      ? '<span style="background:rgba(251,191,36,.15);color:var(--amber);padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;">⏳ Aguardando</span>'
+      : activeStatus === 'open'
+      ? '<span style="background:rgba(108,99,255,.15);color:var(--accent2);padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;">📋 Em aberto</span>'
+      : '';
+
+    return `<div class="card history-card" data-name="${c.name.toLowerCase()}" style="cursor:pointer;margin-bottom:10px;" onclick="showClientHistory('${cid}')">
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+        <div class="avatar" style="width:44px;height:44px;font-size:16px;flex-shrink:0;">${initials(c.name)}</div>
+        <div style="flex:1;min-width:0;">
+          <div style="font-weight:700;font-size:15px;">${c.name}</div>
+          <div style="font-size:12px;color:var(--text3);">${c.phone || 'Sem telefone'} · ${totalProducts} produto${totalProducts !== 1 ? 's' : ''}</div>
+        </div>
+        ${statusBadge}
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;text-align:center;">
+        <div style="background:var(--bg2);border-radius:10px;padding:8px 4px;">
+          <div style="font-size:18px;font-weight:700;color:var(--accent2);">${activeQty}</div>
+          <div style="font-size:10px;color:var(--text3);">Em mãos</div>
+        </div>
+        <div style="background:var(--bg2);border-radius:10px;padding:8px 4px;">
+          <div style="font-size:18px;font-weight:700;color:var(--green);">${paidQty}</div>
+          <div style="font-size:10px;color:var(--text3);">Pagos</div>
+        </div>
+        <div style="background:var(--bg2);border-radius:10px;padding:8px 4px;">
+          <div style="font-size:18px;font-weight:700;color:var(--text3);">${retQty}</div>
+          <div style="font-size:10px;color:var(--text3);">Devolvidos</div>
+        </div>
+      </div>
+      ${paidTotal > 0 ? `<div style="margin-top:10px;text-align:right;font-size:13px;color:var(--text3);">Total pago: <b style="color:var(--green);">${fmt(paidTotal)}</b></div>` : ''}
+    </div>`;
+  }).join('');
+
+  document.getElementById('content').innerHTML = summaries.length
+    ? searchBar + cards
+    : '<div class="empty"><div class="icon">📊</div><p>Nenhuma movimentação registrada.</p></div>';
+}
+
+function filterHistory(q) {
+  const term = q.toLowerCase();
+  document.querySelectorAll('.history-card').forEach(el => {
+    el.style.display = el.dataset.name.includes(term) ? '' : 'none';
+  });
+}
+
+function showClientHistory(cid) {
+  const c = S.clients[cid]; if (!c) return;
+
+  // ── Active order items
+  const order = S.orders[cid];
+  const activeItems = order ? Object.values(order.items || {}) : [];
+  const activeStatus = order ? (order.status || 'open') : null;
+
+  // ── Closed orders
+  const closedOrders = (S.closed || []).filter(o => o.clientId === cid)
+    .sort((a,b) => new Date(b.closedAt) - new Date(a.closedAt));
+
+  // ── Returned items
+  const retMap = (S.returned && S.returned[cid]) ? S.returned[cid] : {};
+  const retItems = Object.values(retMap);
+
+  // ── Build sections
+  let html = `<div class="modal-handle"></div>
+    <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+      <div class="avatar" style="width:48px;height:48px;font-size:18px;">${initials(c.name)}</div>
+      <div>
+        <div style="font-weight:700;font-size:17px;">${c.name}</div>
+        <div style="font-size:12px;color:var(--text3);">${c.phone || 'Sem telefone'}</div>
+      </div>
+    </div>`;
+
+  // Active/Waiting items
+  if (activeItems.length) {
+    const stLabel = activeStatus === 'waiting' ? '⏳ Aguardando devolução' : '📋 Em aberto';
+    const stColor = activeStatus === 'waiting' ? 'var(--amber)' : 'var(--accent2)';
+    html += `<div style="font-size:11px;font-weight:700;color:${stColor};text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px;">${stLabel}</div>`;
+    html += '<div style="background:var(--bg2);border-radius:12px;padding:10px 12px;margin-bottom:14px;">';
+    activeItems.forEach(i => {
+      const retEntry = retMap[i.code] || Object.values(retMap).find(r => r.name === i.name) || null;
+      const retQty = retEntry ? (retEntry.qty || 0) : 0;
+      const inHands = i.qty - retQty;
+      html += `<div style="display:flex;justify-content:space-between;align-items:center;padding:6px 0;border-bottom:1px solid var(--bg3);">
+        <div>
+          <div style="font-size:13px;font-weight:600;">${i.name}</div>
+          <div style="font-size:11px;color:var(--text3);">Enviado: ${i.qty}x${retQty > 0 ? ` · Devolvido: ${retQty}x` : ''} · Em mãos: ${Math.max(0,inHands)}x</div>
+        </div>
+        <div style="font-size:13px;font-weight:700;color:${stColor};">${fmt(i.price * i.qty)}</div>
+      </div>`;
+    });
+    const activeTotal = activeItems.reduce((s,i) => s + i.price * i.qty, 0);
+    html += `<div style="display:flex;justify-content:space-between;padding-top:8px;">
+      <span style="font-size:12px;font-weight:600;">Total em aberto</span>
+      <span style="font-size:14px;font-weight:700;color:${stColor};">${fmt(activeTotal)}</span>
+    </div></div>`;
+  }
+
+  // Paid orders
+  if (closedOrders.length) {
+    html += `<div style="font-size:11px;font-weight:700;color:var(--green);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px;">✅ Pedidos Pagos (${closedOrders.length})</div>`;
+    closedOrders.forEach((o, oi) => {
+      const oItems = Object.values(o.items || {});
+      html += `<div style="background:var(--bg2);border-radius:12px;padding:10px 12px;margin-bottom:8px;">
+        <div style="display:flex;justify-content:space-between;margin-bottom:8px;">
+          <span style="font-size:11px;color:var(--text3);">📅 ${fmtDate(o.closedAt)}</span>
+          <span style="font-size:12px;font-weight:700;color:var(--green);">${fmt(o.total)}</span>
+        </div>`;
+      oItems.forEach(i => {
+        html += `<div style="display:flex;justify-content:space-between;padding:4px 0;border-top:1px solid var(--bg3);">
+          <span style="font-size:12px;color:var(--text2);">${i.name} <span style="color:var(--text3);">×${i.qty}</span></span>
+          <span style="font-size:12px;font-weight:600;">${fmt(i.price * i.qty)}</span>
+        </div>`;
+      });
+      html += '</div>';
+    });
+  }
+
+  // Returned items — always show section
+  html += '<div style="font-size:11px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px;">↩ Itens Devolvidos (' + retItems.length + ')</div>';
+  html += '<div style="background:var(--bg2);border-radius:12px;padding:10px 12px;margin-bottom:14px;">';
+  if (retItems.length) {
+    retItems.forEach(i => {
+      const retEntry = retMap[i.code] || Object.values(retMap).find(r => r.name === i.name) || i;
+      html += '<div style="display:flex;justify-content:space-between;align-items:center;padding:6px 0;border-bottom:1px solid var(--bg3);">'
+        + '<div>'
+        + '<div style="font-size:13px;font-weight:600;color:var(--text1);">' + i.name + '</div>'
+        + '<div style="font-size:11px;color:var(--text3);">Devolvido ' + i.qty + 'x' + (i.lastAt ? ' · ' + fmtDate(i.lastAt) : '') + '</div>'
+        + '</div>'
+        + '<div style="text-align:right;">'
+        + '<div style="font-size:13px;font-weight:700;color:var(--text3);">↩ ' + i.qty + 'x</div>'
+        + (i.price ? '<div style="font-size:11px;color:var(--text3);">' + fmt(i.price * i.qty) + '</div>' : '')
+        + '</div>'
+        + '</div>';
+    });
+  } else {
+    html += '<div style="text-align:center;font-size:13px;color:var(--text3);padding:8px 0;">Nenhum item devolvido registrado.</div>';
+  }
+  html += '</div>';
+
+  if (!activeItems.length && !closedOrders.length && !retItems.length) {
+    html += '<div class="empty" style="padding:20px 0;"><p>Nenhuma movimentação registrada para este cliente.</p></div>';
+  }
+
+  html += '<button class="btn btn-outline" style="margin-top:4px;" onclick="closeModal()">Fechar</button>';
+  showModal(html);
+}
+
 function renderOrders() {
   const allOrders = Object.values(S.orders).filter(o => Object.keys(o.items || {}).length > 0);
   const openOrders = allOrders.filter(o => (o.status || 'open') === 'open');
@@ -1453,7 +1781,7 @@ function renderOrders() {
     const c = S.clients[o.clientId]; if (!c) return ''; const count = Object.values(o.items).reduce((s, i) => s + i.qty, 0); const isW = o.status === 'waiting';
     return `<div class="card" style="cursor:pointer;" onclick="showOrderDetail('${o.clientId}')"><div style="display:flex;align-items:center;gap:12px;"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:${isW ? 'var(--amber)' : 'var(--accent)'};">${initials(c.name)}</div><div style="flex:1;"><div style="font-size:15px;font-weight:600;">${c.name}</div><div style="font-size:12px;color:var(--text2);">${count} item(s)${c.phone ? ' · ' + c.phone : ''}</div></div><div style="text-align:right;"><div style="font-size:17px;font-weight:800;color:var(--green);">${fmt(o.total)}</div><span class="badge ${isW ? 'badge-amber' : 'badge-blue'}">${isW ? '⏳ AGUARDANDO' : 'EM ABERTO'}</span></div></div></div>`;
   }
-  document.getElementById('content').innerHTML = `${waitingOrders.length ? `<div class="section-label">⏳ Aguardando devolução</div>${waitingOrders.map(o => orderCard(o)).join('')}<div style="height:8px;"></div>` : ''}<div class="section-label">Em aberto</div>${openOrders.length ? openOrders.map(o => orderCard(o)).join('') : `<div style="padding:16px 0;text-align:center;color:var(--text2);font-size:14px;">Nenhum pedido em aberto</div>`}${(function(){ var entries=Object.entries(S.returned||{}).filter(function(e){ return S.clients[e[0]] && Object.keys(e[1]).length; }); if(!entries.length) return ""; var html='<div class="section-label" style="margin-top:16px;">↩ Histórico de Devoluções</div>'; entries.forEach(function(e){ var cid=e[0]; var items=e[1]; var cl=S.clients[cid]; if(!cl) return; html+='<div class="card" style="opacity:.85;margin-bottom:8px;">'; html+='<div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">'; html+='<div class="avatar" style="width:36px;height:36px;font-size:13px;background:var(--blue);color:#fff;">'+initials(cl.name)+'</div>'; html+='<div style="font-weight:600;">'+cl.name+'</div></div>'; Object.values(items).forEach(function(i){ html+='<div class="item-row"><div class="item-info"><div class="item-name">'+i.name+'</div><div class="item-sub">Devolvido '+i.qty+'x &middot; '+fmtDate(i.lastAt)+'</div></div></div>'; }); html+='</div>'; }); return html; })()}${closed.length ? `<div class="section-label" style="margin-top:16px;">Histórico de pagamentos</div>${closed.map((o, i) => `<div class="card" style="cursor:pointer;opacity:.85;" onclick="showClosedDetail(${i})"><div style="display:flex;align-items:center;gap:12px;"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--bg3);color:var(--text2);">${initials(o.clientName)}</div><div style="flex:1;"><div style="font-size:15px;font-weight:600;">${o.clientName}</div><div style="font-size:12px;color:var(--text2);">${fmtDate(o.closedAt)}</div></div><div style="text-align:right;"><div style="font-size:17px;font-weight:800;color:var(--green);">${fmt(o.total)}</div><span class="badge badge-green">PAGO ✅</span></div></div></div>`).join('')}` : ''}<div style="height:12px;"></div>`;
+  document.getElementById('content').innerHTML = `${waitingOrders.length ? `<div class="section-label">⏳ Aguardando devolução</div>${waitingOrders.map(o => orderCard(o)).join('')}<div style="height:8px;"></div>` : ''}<div class="section-label">Em aberto</div>${openOrders.length ? openOrders.map(o => orderCard(o)).join('') : `<div style="padding:16px 0;text-align:center;color:var(--text2);font-size:14px;">Nenhum pedido em aberto</div>`}${closed.length ? `<div class="section-label" style="margin-top:16px;">Histórico de pagamentos</div>${closed.map((o, i) => `<div class="card" style="cursor:pointer;opacity:.85;" onclick="showClosedDetail(${i})"><div style="display:flex;align-items:center;gap:12px;"><div class="avatar" style="width:44px;height:44px;font-size:16px;background:var(--bg3);color:var(--text2);">${initials(o.clientName)}</div><div style="flex:1;"><div style="font-size:15px;font-weight:600;">${o.clientName}</div><div style="font-size:12px;color:var(--text2);">${fmtDate(o.closedAt)}</div></div><div style="text-align:right;"><div style="font-size:17px;font-weight:800;color:var(--green);">${fmt(o.total)}</div><span class="badge badge-green">PAGO ✅</span></div></div></div>`).join('')}` : ''}<div style="height:12px;"></div>`;
 }
 
 function showOrderDetail(clientId) {
@@ -1550,7 +1878,7 @@ function renderSettings() {
   }
 
   html += `<button class="btn btn-outline" style="margin-bottom:12px;" onclick="logout()">🚪 Sair / Trocar Perfil</button>
-           <div style="text-align:center;padding:12px 0 4px;font-size:11px;color:var(--text3);">📦 Venda Consignada · versão v3.5.9 <button onclick="showChangelog()" style="background:none;border:none;color:var(--accent2);font-size:12px;cursor:pointer;padding:2px;vertical-align:middle;">❓</button></div><div style="height:12px;"></div>`;
+           <div style="text-align:center;padding:12px 0 4px;font-size:11px;color:var(--text3);">📦 Venda Consignada · versão ${APP_VERSION} <button onclick="showChangelog()" style="background:none;border:none;color:var(--accent2);font-size:12px;cursor:pointer;padding:2px;vertical-align:middle;">❓</button></div><div style="height:12px;"></div>`;
   document.getElementById('content').innerHTML = html;
 }
 
@@ -1629,9 +1957,9 @@ function importBackup(event) {
   };
   r.readAsText(file);
 }
-function applyBackup(jsonStr) { const data = JSON.parse(jsonStr); S.products = data.products; S.clients = data.clients; S.orders = data.orders || {}; S.closed = data.closed || []; S.activeClient = null; save(); closeModal(); toast('Backup importado!'); renderSettings(); }
+function applyBackup(jsonStr) { const data = JSON.parse(jsonStr); S.products = data.products; S.clients = data.clients; S.orders = data.orders || {}; S.closed = data.closed || []; S.returned = data.returned || {}; S.activeClient = null; save(); closeModal(); toast('Backup importado!'); renderSettings(); }
 function clearAll() { showModal(`<div class="modal-handle"></div><div class="modal-title" style="color:var(--red);">Apagar tudo?</div><div class="modal-sub">Todos os dados serão apagados permanentemente.</div><div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-red" onclick="confirmClearAll()">Apagar tudo</button></div></div>`); }
-function confirmClearAll() { S.products = {}; S.clients = {}; S.orders = {}; S.closed = []; S.activeClient = null; saveLocal(); closeModal(); toast('Dados locais apagados'); renderSettings(); }
+function confirmClearAll() { S.products = {}; S.clients = {}; S.orders = {}; S.closed = []; S.returned = {}; S.activeClient = null; saveLocal(); closeModal(); toast('Dados locais apagados'); renderSettings(); }
 
 // ══════════════════════════════════════════════════════════
 // INIT
@@ -1644,6 +1972,18 @@ function showChangelog() {
     sec:  { label: 'SEGURANÇA',color: '#10b981' }
   };
   const logs = [
+    { v: 'v3.8.7', t: 'fix',  d: 'Banner de atualização: remove ao recarregar, limpa se versão já for atual. Modal +/- corrigido. Devolvidos no histórico. Versão centralizada.' },
+    { v: 'v3.8.5', t: 'fix',  d: 'Correção crítica na persistência: histórico de devoluções incluído no salvamento local e sincronização na nuvem.' },
+    { v: 'v3.8.4', t: 'feat', d: 'Melhoria no scanner: câmera ativa pós-fechamento de modal e debounce de leitura. Limpeza visual na aba pedidos.' },
+    { v: 'v3.8.3', t: 'ui', d: 'Novo layout de modal com botão "+" lateral, busca robusta de códigos e trava de segurança em status aguardando.' },
+    { v: 'v3.8.2', t: 'feat', d: 'Botão "Adicionar Mais" no modal de itens e correção de persistência de histórico.' },
+    { v: 'v3.8.1', t: 'feat', d: 'Geração de relatório consolidado de histórico individual por cliente (Markdown).' },
+    { v: 'v3.8.0', t: 'feat', d: 'Nova aba Histórico: relatório geral por cliente + ficha individual com todos os produtos enviados, pagos e devolvidos.' },
+    { v: 'v3.8.0', t: 'fix',  d: 'Status da nuvem corrigido — mostra Online imediatamente ao abrir se conectado.' },
+    { v: 'v3.8.0', t: 'feat', d: 'Configuração inicial de empresa (nome, responsável, telefone) exibida no setup e nos PDFs.' },
+    { v: 'v3.7.0', t: 'feat', d: 'Modal de clientes com botão Fechar, busca e altura limitada com scroll.' },
+    { v: 'v3.6.1', t: 'fix',  d: 'Botão Excluir do histórico oculto para perfil Usuário — visível apenas para Admin.' },
+    { v: 'v3.6.0', t: 'feat', d: 'Modal de aviso de item: exibe data e histórico das últimas compras, botão Adicionar Mais sem fechar o modal.' },
     { v: 'v3.5.9', t: 'fix',  d: 'PDF: titulo corrigido para Recibo de Pagamento.' },
     { v: 'v3.5.8', t: 'fix',  d: 'PDF: icone da sacola com cantos arredondados mantendo fundo escuro original.' },
     { v: 'v3.5.7', t: 'fix',  d: 'PDF: icone da sacola com fundo preto removido via Canvas — agora aparece transparente.' },
@@ -1673,7 +2013,7 @@ function showChangelog() {
       ${logs.map(l => `
         <div style="margin-bottom:12px;padding-bottom:8px;border-bottom:1px solid var(--border);">
           <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
-            <b style="color:${l.v.includes('v3.5.9') ? 'var(--accent)' : 'var(--text2)'};">${l.v}</b>
+            <b style="color:${l.v.includes(APP_VERSION) ? 'var(--accent)' : 'var(--text2)'};">${l.v}</b>
             <span style="font-size:9px;font-weight:800;padding:2px 6px;border-radius:4px;background:${types[l.t].color}22;color:${types[l.t].color};border:1px solid ${types[l.t].color}44;">${types[l.t].label}</span>
           </div>
           <div style="color:var(--text2);font-size:12px;">${l.d}</div>
@@ -1685,6 +2025,10 @@ function showChangelog() {
 }
 
 function initApp() {
+  ['login-ver','hdr-ver','cfg-ver'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.textContent = APP_VERSION;
+  });
   showTab('scan');
   if (!S.activeClient) { 
     // Apenas mostra se houver clientes cadastrados
@@ -1709,7 +2053,7 @@ function start() {
       <div class="login-title">Configuração Inicial</div>
       <div class="login-sub">Para sua segurança, crie uma senha de administrador antes de começar.</div>
       <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">Criar Senha de Admin</button>
-      <div style="font-size:11px;color:var(--text3);margin-top:16px;">v3.5.9</div>
+      <div style="font-size:11px;color:var(--text3);margin-top:16px;" id="cfg-ver">v3.8.0</div>
     `;
     return;
   }
@@ -1770,6 +2114,15 @@ function start() {
       doc.setDrawColor(180,180,180); doc.line(10, 50, pageW-10, 50);
       doc.setFont('helvetica','normal'); doc.setFontSize(10); doc.setTextColor(30,30,30);
       const closedAt = order.closedAt || order.date || new Date().toISOString();
+      // Dados da empresa no topo do PDF
+      if (S.company && S.company.name) {
+        doc.setFontSize(9); doc.setFont('helvetica', 'bold'); doc.setTextColor(80,80,80);
+        doc.text(S.company.name, pageW / 2, 46, { align: 'center' });
+        doc.setFont('helvetica', 'normal');
+        if (S.company.responsible) doc.text(S.company.responsible, pageW / 2, 51, { align: 'center' });
+        if (S.company.phone) doc.text(S.company.phone, pageW / 2, 56, { align: 'center' });
+        doc.setTextColor(30,30,30);
+      }
       doc.text('Cliente: ' + (order.clientName || '--'), 10, 58);
       doc.text('Telefone: ' + (order.clientPhone || '--'), 10, 64);
       doc.text('Data: ' + fmtDate(closedAt), 10, 70);
@@ -1858,7 +2211,7 @@ function start() {
     }
 
     // ── Verificação automática de versão ─────────────────────
-const APP_VERSION = 'v3.5.9';
+const APP_VERSION = 'v3.8.7';
 
 function showUpdateBanner(newVersion) {
   if (document.getElementById('update-banner')) return;
@@ -1885,9 +2238,9 @@ function doAppUpdate() {
   if (b) b.innerHTML = '<div style="text-align:center;color:#fff;padding:4px 0;font-size:13px;">Atualizando...</div>';
   if ('caches' in window) {
     caches.keys().then(keys => Promise.all(keys.map(k => caches.delete(k))))
-      .finally(() => window.location.reload(true));
+      .finally(() => { location.href = location.href; });
   } else {
-    window.location.reload(true);
+    location.href = location.href;
   }
 }
 
@@ -1902,6 +2255,10 @@ async function checkAppUpdate() {
       if (navigator.serviceWorker && navigator.serviceWorker.controller) {
         navigator.serviceWorker.controller.postMessage('SKIP_WAITING');
       }
+    } else {
+      // Versão atual — remove banner caso tenha ficado de sessão anterior
+      const b = document.getElementById('update-banner');
+      if (b) b.remove();
     }
   } catch(e) {}
 }
