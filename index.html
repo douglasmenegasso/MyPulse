@@ -86,7 +86,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 .modal-handle{width:36px;height:4px;background:var(--border);border-radius:2px;margin:0 auto 20px;}
 .modal-title{font-size:20px;font-weight:700;margin-bottom:6px;}
 .modal-sub{font-size:14px;color:var(--text2);margin-bottom:16px;line-height:1.5;}
-.toast{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:var(--bg2);border:1px solid var(--border);border-radius:30px;padding:10px 20px;font-size:14px;font-weight:500;z-index:200;white-space:nowrap;animation:toastIn .2s;pointer-events:none;}
+.toast{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:var(--bg2);border:1px solid var(--border);border-radius:30px;padding:10px 20px;font-size:14px;font-weight:500;z-index:3000;white-space:nowrap;animation:toastIn .2s;pointer-events:none;}
 @keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(10px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
 .toast.ok{border-color:var(--green);color:var(--green);}
 .toast.err{border-color:var(--red);color:var(--red);}
@@ -136,7 +136,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
 <div class="login-sub">Escolha seu perfil de acesso</div>
 	    <button class="btn btn-primary login-btn" onclick="loginAsAdmin()">👑 Administrador</button>
 	    <button class="btn btn-outline login-btn" onclick="loginAsUser()">👤 Usuário</button>
-	    <div style="font-size:11px;color:var(--text3);margin-top:16px;" id="login-ver">v3.8.5</div>
+	    <div style="font-size:11px;color:var(--text3);margin-top:16px;" id="login-ver">v3.9.2</div>
   </div>
 </div>
 
@@ -151,7 +151,7 @@ html,body{height:100%;background:var(--bg);color:var(--text);font-family:var(--f
         <div style="font-size:10px;color:var(--text3);font-weight:600;letter-spacing:.5px;display:flex;align-items:center;justify-content:flex-end;gap:8px;">
 <span id="header-clock" style="color:var(--text2);"></span>
 	          <span id="cloud-status" style="color:var(--text2); margin-left: 8px;"></span>
-	          <span><span id="hdr-ver">v3.8.5</span> <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></span>
+	          <span><span id="hdr-ver">v3.9.2</span> <span onclick="showChangelog()" style="cursor:pointer;background:var(--bg3);width:14px;height:14px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:9px;color:var(--accent2);">?</span></span>
         </div>
         <div id="user-badge" style="font-size:9px;color:var(--accent2);font-weight:700;margin-top:2px;text-transform:uppercase;"></div>
       </div>
@@ -406,49 +406,51 @@ function renderLoginScreen() {
   `;
 }
 
-const CHANGELOG = [
-  { v: 'v3.8.5', t: 'Correção', d: 'Persistência global de devoluções corrigida: histórico agora é salvo localmente e sincronizado com o GitHub.' },
-  { v: 'v3.8.4', t: 'Otimização', d: 'Câmera persistente entre scans, debounce de 3s para evitar múltiplas leituras e remoção de devoluções da lista de pedidos.' },
-  { v: 'v3.8.3', t: 'Interface', d: 'Botão "+" ao lado da quantidade no modal, correção na busca de código de barras e trava de edição em pedidos aguardando.' },
-  { v: 'v3.8.2', t: 'Funcionalidade', d: 'Botão "Adicionar Mais" no modal de itens e persistência cumulativa de histórico por cliente.' },
-  { v: 'v3.8.1', t: 'Funcionalidade', d: 'Novo relatório de histórico individual por cliente com visão de itens enviados, pagos e devolvidos.' },
-  { v: 'v3.8.0', t: 'Correção', d: 'Corrigidos bugs críticos: sintaxe JS, geração de PDF, acentuação, datas e versionamento.' },
-  { v: 'v3.8.0', t: 'Funcionalidade', d: 'PDF reformulado com logo, título centralizado, itens em tabela e total correto.' },
-  { v: 'v3.8.0', t: 'Funcionalidade', d: 'Histórico de itens devolvidos por cliente com opção de adicionar ao novo pedido.' },
-  { v: 'v3.8.0', t: 'Interface', d: 'Sincronização renomeada para Nuvem e Backup.' },
-  { v: 'v3.8.0', t: 'Funcionalidade', d: 'Geração e compartilhamento de PDF para pedidos.' },
-  { v: 'v3.5.0', t: 'Funcionalidade', d: 'Indicador de status da nuvem no cabeçalho.' },
-  { v: 'v3.4.2', t: 'Correção', d: 'Corrigida exibição da versão no rodapé das configurações.' },
-  { v: 'v3.4.0', t: 'Segurança', d: 'Aviso de segurança ao apagar dados.' },
-  { v: 'v3.3.0', t: 'Funcionalidade', d: 'Data e hora em tempo real no cabeçalho.' },
-  { v: 'v3.2.0', t: 'Segurança', d: 'Login obrigatório ao reiniciar o app.' },
-  { v: 'v3.1.0', t: 'Funcionalidade', d: 'Verificação de histórico e adição rápida de itens.' },
-  { v: 'v3.0.0', t: 'Interface', d: 'Transformação em PWA com ícones iOS.' }
-];
-
 function showChangelog() {
-  let html = `
+  const types = {
+    feat: { label: 'MELHORIA', color: '#6c63ff' },
+    fix:  { label: 'CORREÇÃO', color: '#f59e0b' },
+    ui:   { label: 'VISUAL',   color: '#a78bfa' },
+    sec:  { label: 'SEGURANÇA',color: '#10b981' }
+  };
+  const logs = [
+    { v: 'v3.9.5', t: 'fix',  d: 'Correção de camada visual: Mensagens de confirmação agora aparecem na frente de todas as telas.' },
+    { v: 'v3.9.4', t: 'fix',  d: 'Confirmação visual: Agora o sistema avisa na tela quando um item é adicionado manualmente.' },
+    { v: 'v3.9.3', t: 'feat', d: 'Segurança de Dados: Separação completa de pedidos, históricos e devoluções para o arquivo dados.json externo.' },
+    { v: 'v3.9.2', t: 'fix',  d: 'Sistema de atualização forçada robusto: limpeza agressiva de cache e ativação imediata do Service Worker.' },
+    { v: 'v3.9.1', t: 'ui',   d: 'Correção no fluxo de Novo Cliente: formulário agora abre corretamente sem fechar a modal prematuramente.' },
+    { v: 'v3.9.0', t: 'fix',  d: 'Recuperação das funções de cadastro de cliente e correção de cache persistente do Service Worker.' },
+    { v: 'v3.8.9', t: 'fix',  d: 'Novo cliente: funções _clientModal e _readCF ausentes criadas — formulário de cadastro volta a funcionar.' },
+    { v: 'v3.8.8', t: 'fix',  d: 'Devolução manual via botão − registra em S.returned e aparece no histórico.' },
+    { v: 'v3.8.7', t: 'fix',  d: 'Banner de atualização, modal +/-, devolvidos no histórico e versão centralizada.' },
+    { v: 'v3.8.5', t: 'fix',  d: 'Correção crítica na persistência: histórico de devoluções incluído no salvamento local e sincronização na nuvem.' },
+    { v: 'v3.8.4', t: 'feat', d: 'Melhoria no scanner: câmera ativa pós-fechamento de modal e debounce de leitura. Limpeza visual na aba pedidos.' },
+    { v: 'v3.8.3', t: 'ui',   d: 'Novo layout de modal com botão "+" lateral, busca robusta de códigos e trava de segurança em status aguardando.' },
+    { v: 'v3.8.2', t: 'feat', d: 'Botão "Adicionar Mais" no modal de itens e correção de persistência de histórico.' },
+    { v: 'v3.8.1', t: 'feat', d: 'Geração de relatório consolidado de histórico individual por cliente (Markdown).' },
+    { v: 'v3.8.0', t: 'feat', d: 'Nova aba Histórico: relatório geral por cliente + ficha individual com todos os produtos enviados, pagos e devolvidos.' },
+    { v: 'v3.7.0', t: 'feat', d: 'Modal de clientes com botão Fechar, busca e altura limitada com scroll.' },
+    { v: 'v3.6.0', t: 'feat', d: 'Modal de aviso de item: exibe data e histórico das últimas compras, botão Adicionar Mais sem fechar o modal.' },
+    { v: 'v3.5.0', t: 'feat', d: 'PDF reformulado com logo, tabela de itens e total. Histórico de devoluções por cliente com aviso ao escanear item já devolvido.' },
+    { v: 'v3.0.0', t: 'feat', d: 'Lançamento: PWA com suporte offline, ícones iOS, adição rápida de itens e verificação de histórico.' }
+  ];
+  
+  showModal(`
     <div class="modal-handle"></div>
-    <div class="modal-title">Histórico de Versões</div>
-    <div class="modal-sub">Confira as últimas melhorias do sistema.</div>
-    <div style="display:flex;flex-direction:column;gap:12px;margin-bottom:20px;">
-  `;
-  
-  CHANGELOG.forEach(item => {
-    const color = item.t === 'Segurança' ? 'var(--red)' : (item.t === 'Correção' ? 'var(--amber)' : 'var(--accent2)');
-    html += `
-      <div style="background:var(--bg3);padding:12px;border-radius:var(--radius-sm);border-left:3px solid ${color};">
-        <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
-          <span style="font-weight:700;font-size:13px;">${item.v}</span>
-          <span style="font-size:10px;text-transform:uppercase;font-weight:800;color:${color}">${item.t}</span>
+    <div class="modal-title">Histórico de Atualizações</div>
+    <div style="text-align:left;font-size:13px;line-height:1.6;max-height:400px;overflow-y:auto;padding-right:4px;">
+      ${logs.map(l => `
+        <div style="margin-bottom:12px;padding-bottom:8px;border-bottom:1px solid var(--border);">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
+            <b style="color:${l.v.includes(APP_VERSION) ? 'var(--accent)' : 'var(--text2)'};">${l.v}</b>
+            <span style="font-size:9px;font-weight:800;padding:2px 6px;border-radius:4px;background:${types[l.t].color}22;color:${types[l.t].color};border:1px solid ${types[l.t].color}44;">${types[l.t].label}</span>
+          </div>
+          <div style="color:var(--text2);font-size:12px;">${l.d}</div>
         </div>
-        <div style="font-size:12px;color:var(--text2);line-height:1.4;">${item.d}</div>
-      </div>
-    `;
-  });
-  
-  html += `</div><button class="btn btn-primary" onclick="closeModal()">Fechar</button>`;
-  showModal(html);
+      `).join('')}
+    </div>
+    <button class="btn btn-primary" onclick="closeModal()" style="margin-top:10px;">Fechar</button>
+  `);
 }
 
 function showCompanySetup(onDone) {
@@ -1057,7 +1059,7 @@ function renderScan() {
     : `<button class="btn btn-outline" onclick="showClientPicker()" style="margin-bottom:4px;">👤 Selecionar / Novo Cliente</button>`;
 
   const statusBanner = (order && items.length && status === 'waiting')
-    ? `<div class="status-banner status-waiting">⏳ Aguardando devolução — pode adicionar ou devolver itens</div>`
+    ? `<div class="status-banner status-waiting">⏳ Aguardando devolução — pode adicionar ou devolver itens. <br> <small>(Para editar quantidades, reabra o pedido abaixo)</small></div>`
     : '';
 
   const itemCount = items.reduce((s, i) => s + i.qty, 0);
@@ -1166,11 +1168,20 @@ function handleCode(code) {
 
 function changeQty(code, delta) {
   const order = S.orders[S.activeClient]; if (!order || !order.items[code]) return;
-  
-  // Bloqueio de edição em status 'waiting'
+
   if (order.status === 'waiting') {
     toast('Reabra o pedido para alterar quantidades.', 'err');
     return;
+  }
+
+  if (delta < 0) {
+    const item = order.items[code];
+    if (!S.returned[S.activeClient]) S.returned[S.activeClient] = {};
+    if (!S.returned[S.activeClient][code]) {
+      S.returned[S.activeClient][code] = { code: code, name: item.name, price: item.price, qty: 0, lastAt: '' };
+    }
+    S.returned[S.activeClient][code].qty += Math.abs(delta);
+    S.returned[S.activeClient][code].lastAt = new Date().toISOString();
   }
 
   order.items[code].qty += delta;
@@ -1178,6 +1189,7 @@ function changeQty(code, delta) {
   if (order.items[code].qty <= 0) delete order.items[code];
   save(); renderScan();
 }
+
 
 // ══════════════════════════════════════════════════════════
 // ORDER FLOW
@@ -1422,10 +1434,30 @@ function showClientPicker() {
       ${rows}
     </div>
     <div style="margin-top:12px;display:flex;flex-direction:column;gap:8px;">
-      <button class="btn btn-primary" onclick="showNewClientFormThen(null);closeModal();">➕ Novo Cliente</button>
+      <button class="btn btn-primary" onclick="showNewClientFormThen(null)">➕ Novo Cliente</button>
       <button class="btn btn-outline" onclick="closeModal();">Fechar</button>
     </div>
   `);
+}
+
+// ── Helpers para modal de cliente ──────────────────
+function _clientModal(title, name, phone, footer) {
+  showModal(
+    '<div class="modal-handle"></div>'
+    + '<div class="modal-title">' + title + '</div>'
+    + '<div class="form-group"><label class="form-label">Nome *</label>'
+    + '<input type="text" id="cf-name" class="form-input" placeholder="Nome do cliente" value="' + (name||'') + '"></div>'
+    + '<div class="form-group"><label class="form-label">Telefone / WhatsApp</label>'
+    + '<input type="tel" id="cf-phone" class="form-input" placeholder="(00) 00000-0000" value="' + (phone||'') + '"></div>'
+    + (footer || '')
+  );
+  setTimeout(() => { const el = document.getElementById('cf-name'); if (el) el.focus(); }, 100);
+}
+
+function _readCF() {
+  const name  = (document.getElementById('cf-name')  || {}).value || '';
+  const phone = (document.getElementById('cf-phone') || {}).value || '';
+  return { name: name.trim(), phone: phone.trim() };
 }
 
 function showNewClientForm(redirect) { _clientModal('Novo Cliente', '', '', `<div class="row"><div class="form-group"><button class="btn btn-outline" onclick="closeModal()">Cancelar</button></div><div class="form-group"><button class="btn btn-primary" onclick="saveNewClient('${redirect || ''}')">Salvar</button></div></div>`); }
@@ -1488,6 +1520,7 @@ function addItemToClient(clientId, code, qty = null) {
   if (qty) {
     // Adição direta via botão + na lista
     addToOrder(code, product, true, qty);
+    toast('✅ Item adicionado: ' + product.name, 'ok');
   } else {
     // Adição via clique na linha (abre o modal de confirmação/quantidade)
     addToOrder(code, product);
@@ -1964,65 +1997,7 @@ function confirmClearAll() { S.products = {}; S.clients = {}; S.orders = {}; S.c
 // ══════════════════════════════════════════════════════════
 // INIT
 // ══════════════════════════════════════════════════════════
-function showChangelog() {
-  const types = {
-    feat: { label: 'MELHORIA', color: '#6c63ff' },
-    fix:  { label: 'CORREÇÃO', color: '#f59e0b' },
-    ui:   { label: 'VISUAL',   color: '#a78bfa' },
-    sec:  { label: 'SEGURANÇA',color: '#10b981' }
-  };
-  const logs = [
-    { v: 'v3.8.7', t: 'fix',  d: 'Banner de atualização: remove ao recarregar, limpa se versão já for atual. Modal +/- corrigido. Devolvidos no histórico. Versão centralizada.' },
-    { v: 'v3.8.5', t: 'fix',  d: 'Correção crítica na persistência: histórico de devoluções incluído no salvamento local e sincronização na nuvem.' },
-    { v: 'v3.8.4', t: 'feat', d: 'Melhoria no scanner: câmera ativa pós-fechamento de modal e debounce de leitura. Limpeza visual na aba pedidos.' },
-    { v: 'v3.8.3', t: 'ui', d: 'Novo layout de modal com botão "+" lateral, busca robusta de códigos e trava de segurança em status aguardando.' },
-    { v: 'v3.8.2', t: 'feat', d: 'Botão "Adicionar Mais" no modal de itens e correção de persistência de histórico.' },
-    { v: 'v3.8.1', t: 'feat', d: 'Geração de relatório consolidado de histórico individual por cliente (Markdown).' },
-    { v: 'v3.8.0', t: 'feat', d: 'Nova aba Histórico: relatório geral por cliente + ficha individual com todos os produtos enviados, pagos e devolvidos.' },
-    { v: 'v3.8.0', t: 'fix',  d: 'Status da nuvem corrigido — mostra Online imediatamente ao abrir se conectado.' },
-    { v: 'v3.8.0', t: 'feat', d: 'Configuração inicial de empresa (nome, responsável, telefone) exibida no setup e nos PDFs.' },
-    { v: 'v3.7.0', t: 'feat', d: 'Modal de clientes com botão Fechar, busca e altura limitada com scroll.' },
-    { v: 'v3.6.1', t: 'fix',  d: 'Botão Excluir do histórico oculto para perfil Usuário — visível apenas para Admin.' },
-    { v: 'v3.6.0', t: 'feat', d: 'Modal de aviso de item: exibe data e histórico das últimas compras, botão Adicionar Mais sem fechar o modal.' },
-    { v: 'v3.5.9', t: 'fix',  d: 'PDF: titulo corrigido para Recibo de Pagamento.' },
-    { v: 'v3.5.8', t: 'fix',  d: 'PDF: icone da sacola com cantos arredondados mantendo fundo escuro original.' },
-    { v: 'v3.5.7', t: 'fix',  d: 'PDF: icone da sacola com fundo preto removido via Canvas — agora aparece transparente.' },
-    { v: 'v3.5.6', t: 'feat', d: 'Banner de nova versao com botao Atualizar agora — limpa cache e recarrega automaticamente.' },
-    { v: 'v3.5.5', t: 'fix',  d: 'PDF: título corrigido (Consignação com acento) e ícone da sacola substituído por versão com fundo branco.' },
-    { v: 'v3.5.4', t: 'fix',  d: 'sharePDF exposta no escopo global (window) — botão PDF em pedidos aguardando devolução agora funciona.' },
-    { v: 'v3.5.3', t: 'fix',  d: 'Ícone de login revertido ao original, barra do PDF removida e logo com fundo transparente.' },
-    { v: 'v3.5.2', t: 'fix',  d: 'Auto-atualização corrigida, logo da tela de login via base64 e tecla Enter habilitada em todos os campos.' },
-    { v: 'v3.5.1', t: 'fix',  d: 'Nome do arquivo PDF corrigido, botão PDF apenas em pedidos aguardando devolução e interface renomeada para Nuvem e Backup.' },
-    { v: 'v3.5.0', t: 'feat', d: 'PDF reformulado com logo, tabela de itens e total. Histórico de devoluções por cliente com aviso ao escanear item já devolvido.' },
-    { v: 'v3.4.2', t: 'fix',  d: 'Corrigidos bugs de sintaxe JS que impediam o login, acentuação UTF-8 em nomes e datas "Invalid Date".' },
-    { v: 'v3.4.1', t: 'fix',  d: 'Corrigido botão de compartilhar PDF que não executava.' },
-    { v: 'v3.4.0', t: 'feat', d: 'Geração e compartilhamento de PDF para pedidos em espera de devolução.' },
-    { v: 'v3.3.0', t: 'feat', d: 'Indicador de status da nuvem (online/offline/desconectado) no cabeçalho.' },
-    { v: 'v3.2.1', t: 'fix',  d: 'Corrigida exibição da versão nas configurações e detecção de iOS para guia de instalação.' },
-    { v: 'v3.2.0', t: 'sec',  d: 'Aviso de segurança ao apagar dados para prevenir perda de backup na nuvem.' },
-    { v: 'v3.1.1', t: 'feat', d: 'Exibição do horário do último sincronismo com a nuvem.' },
-    { v: 'v3.1.0', t: 'feat', d: 'Data e hora em tempo real no cabeçalho.' },
-    { v: 'v3.0.1', t: 'sec',  d: 'Login obrigatório ao reiniciar o app.' },
-    { v: 'v3.0.0', t: 'feat', d: 'Lançamento: PWA com suporte offline, ícones iOS, adição rápida de itens e verificação de histórico.' }
-  ];
-  
-  showModal(`
-    <div class="modal-handle"></div>
-    <div class="modal-title">Histórico de Atualizações</div>
-    <div style="text-align:left;font-size:13px;line-height:1.6;max-height:400px;overflow-y:auto;padding-right:4px;">
-      ${logs.map(l => `
-        <div style="margin-bottom:12px;padding-bottom:8px;border-bottom:1px solid var(--border);">
-          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
-            <b style="color:${l.v.includes(APP_VERSION) ? 'var(--accent)' : 'var(--text2)'};">${l.v}</b>
-            <span style="font-size:9px;font-weight:800;padding:2px 6px;border-radius:4px;background:${types[l.t].color}22;color:${types[l.t].color};border:1px solid ${types[l.t].color}44;">${types[l.t].label}</span>
-          </div>
-          <div style="color:var(--text2);font-size:12px;">${l.d}</div>
-        </div>
-      `).join('')}
-    </div>
-    <button class="btn btn-primary" onclick="closeModal()" style="margin-top:10px;">Fechar</button>
-  `);
-}
+
 
 function initApp() {
   ['login-ver','hdr-ver','cfg-ver'].forEach(id => {
@@ -2211,7 +2186,7 @@ function start() {
     }
 
     // ── Verificação automática de versão ─────────────────────
-const APP_VERSION = 'v3.8.7';
+const APP_VERSION = 'v3.9.5';
 
 function showUpdateBanner(newVersion) {
   if (document.getElementById('update-banner')) return;
@@ -2235,12 +2210,23 @@ function showUpdateBanner(newVersion) {
 
 function doAppUpdate() {
   const b = document.getElementById('update-banner');
-  if (b) b.innerHTML = '<div style="text-align:center;color:#fff;padding:4px 0;font-size:13px;">Atualizando...</div>';
+  if (b) b.innerHTML = '<div style="text-align:center;color:#fff;padding:4px 0;font-size:13px;">Limpando cache e reiniciando...</div>';
+  
+  if (navigator.serviceWorker && navigator.serviceWorker.controller) {
+    navigator.serviceWorker.controller.postMessage('SKIP_WAITING');
+  }
+
   if ('caches' in window) {
-    caches.keys().then(keys => Promise.all(keys.map(k => caches.delete(k))))
-      .finally(() => { location.href = location.href; });
+    caches.keys().then(keys => {
+      return Promise.all(keys.map(k => caches.delete(k)));
+    }).then(() => {
+      window.location.reload(true);
+      setTimeout(() => { window.location.href = window.location.origin + window.location.pathname + '?v=' + Date.now(); }, 500);
+    }).catch(() => {
+      window.location.reload(true);
+    });
   } else {
-    location.href = location.href;
+    window.location.reload(true);
   }
 }
 
