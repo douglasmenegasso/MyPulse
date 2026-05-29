@@ -1,40 +1,13 @@
 {
-  "products": {
-    "7897653549146": {
-      "code": "7897653549146",
-      "name": "Teste",
-      "price": 100
-    }
-  },
-  "clients": {
-    "c_1779646171882": {
-      "id": "c_1779646171882",
-      "name": "Teste 1",
-      "phone": ""
-    }
-  },
+  "products": {},
+  "clients": {},
   "orders": {},
-  "closed": [
-    {
-      "clientId": "c_1779646171882",
-      "clientName": "Teste 1",
-      "clientPhone": "",
-      "items": {
-        "7897653549146": {
-          "code": "7897653549146",
-          "name": "Teste",
-          "price": 100,
-          "qty": 1
-        }
-      },
-      "total": 100,
-      "closedAt": "2026-05-24T18:10:36.082Z"
-    }
-  ],
+  "closed": [],
+  "returned": {},
   "security": {
     "adminPass": "1234",
-    "recoveryKey": "1CUV4DUZ-ZZSJ",
-    "recoveryEmail": "a"
+    "recoveryKey": "NAH0I2ZZ-LBFO",
+    "recoveryEmail": "1"
   },
-  "savedAt": "2026-05-24T18:14:40.355Z"
+  "savedAt": "2026-05-29T18:32:43.551Z"
 }
