@@ -414,13 +414,15 @@ function showChangelog() {
     sec:  { label: 'SEGURANÇA',color: '#10b981' }
   };
   const logs = [
+    { v: 'v3.9.6', t: 'fix',  d: 'Modal Aviso de Item: botão − adicionado, + só incrementa, Adicionar ao Pedido confirma.' },
     { v: 'v3.9.5', t: 'fix',  d: 'Correção de camada visual: Mensagens de confirmação agora aparecem na frente de todas as telas.' },
     { v: 'v3.9.4', t: 'fix',  d: 'Confirmação visual: Agora o sistema avisa na tela quando um item é adicionado manualmente.' },
     { v: 'v3.9.3', t: 'feat', d: 'Segurança de Dados: Separação completa de pedidos, históricos e devoluções para o arquivo dados.json externo.' },
     { v: 'v3.9.2', t: 'fix',  d: 'Sistema de atualização forçada robusto: limpeza agressiva de cache e ativação imediata do Service Worker.' },
     { v: 'v3.9.1', t: 'ui',   d: 'Correção no fluxo de Novo Cliente: formulário agora abre corretamente sem fechar a modal prematuramente.' },
     { v: 'v3.9.0', t: 'fix',  d: 'Recuperação das funções de cadastro de cliente e correção de cache persistente do Service Worker.' },
-    { v: 'v3.8.9', t: 'fix',  d: 'Novo cliente: funções _clientModal e _readCF ausentes criadas — formulário de cadastro volta a funcionar.' },
+    { v: 'v3.9.0', t: 'fix',  d: 'Modais de quantidade: botão − adicionado, + só incrementa, confirmação apenas ao tocar Adicionar ao Pedido.' },
+    { v: 'v3.8.9', t: 'fix',  d: 'Novo cliente: _clientModal e _readCF criadas — cadastro volta a funcionar.' },
     { v: 'v3.8.8', t: 'fix',  d: 'Devolução manual via botão − registra em S.returned e aparece no histórico.' },
     { v: 'v3.8.7', t: 'fix',  d: 'Banner de atualização, modal +/-, devolvidos no histórico e versão centralizada.' },
     { v: 'v3.8.5', t: 'fix',  d: 'Correção crítica na persistência: histórico de devoluções incluído no salvamento local e sincronização na nuvem.' },
@@ -1267,20 +1269,14 @@ function addToOrder(code, product, force = false) {
         + historyHtml
         + '<div class="form-group">'
         + '<label class="form-label">Quantidade a adicionar:</label>'
-        + '<div style="display:flex;gap:8px;"><input type="number" id="confirm-qty" class="form-input" value="1" min="1" style="text-align:center;font-size:20px;font-weight:700;flex:1;">'
-        + '<button class="btn btn-primary" style="width:48px;font-size:24px;" onclick="'
-          + 'const q=parseInt(document.getElementById(\'confirm-qty\').value)||1;'
-          + 'addToOrder(\''+code+'\',S.products[\''+code+'\'],true,q);'
-          + 'toast(\'✓ Adicionado\');'
-          + 'const cur=S.orders[S.activeClient];'
-          + 'const nq=cur&&cur.items[\''+code+'\']?cur.items[\''+code+'\'].qty:0;'
-          + 'const el=document.querySelector(\'.modal [style*=amber]\');'
-          + 'if(el)el.innerHTML=\'⚠️ Já no pedido: <b>\'+nq+\'x</b>\';'
-          + 'else{const d=document.createElement(\'div\');d.style=\'font-size:12px;color:var(--amber);margin-bottom:8px;\';d.innerHTML=\'⚠️ Já no pedido: <b>\'+nq+\'x</b>\';const container=document.getElementById(\'confirm-qty\').parentNode.parentNode; container.parentNode.insertBefore(d, container);}'
-        + '">+</button></div>'
+        + '<div style="display:flex;align-items:center;gap:8px;margin-top:6px;">'
+        + '<button class="btn btn-outline" style="width:52px;height:52px;font-size:24px;padding:0;flex-shrink:0;" onclick="const el=document.getElementById(\'confirm-qty\');const v=parseInt(el.value)||1;if(v>1)el.value=v-1;">−</button>'
+        + '<input type="number" id="confirm-qty" class="form-input" value="1" min="1" style="text-align:center;font-size:22px;font-weight:700;flex:1;height:52px;">'
+        + '<button class="btn btn-primary" style="width:52px;height:52px;font-size:24px;padding:0;flex-shrink:0;" onclick="const el=document.getElementById(\'confirm-qty\');const v=parseInt(el.value)||1;el.value=v+1;">+</button>'
         + '</div>'
-        + '<div style="display:flex;flex-direction:column;gap:8px;margin-top:8px;">'
-        + '<button class="btn btn-outline" style="background:var(--accent);color:#fff;border:none;" onclick="closeModal()">Concluir</button>'
+        + '</div>'
+        + '<div style="display:flex;flex-direction:column;gap:8px;margin-top:12px;">'
+        + '<button class="btn btn-primary" onclick="const q=parseInt(document.getElementById(\'confirm-qty\').value)||1;addToOrder(\''+code+'\',S.products[\''+code+'\'],true,q);closeModal();">✅ Adicionar ao Pedido</button>'
         + '<button class="btn btn-outline" onclick="closeModal()">Cancelar</button>'
         + '</div>'
       );
@@ -2186,7 +2182,7 @@ function start() {
     }
 
     // ── Verificação automática de versão ─────────────────────
-const APP_VERSION = 'v3.9.5';
+const APP_VERSION = 'v3.9.6';
 
 function showUpdateBanner(newVersion) {
   if (document.getElementById('update-banner')) return;
