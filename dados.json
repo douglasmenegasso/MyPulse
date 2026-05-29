@@ -1,5 +1,11 @@
 {
-  "products": {},
+  "products": {
+    "740617261219": {
+      "code": "740617261219",
+      "name": "Teste",
+      "price": 2
+    }
+  },
   "clients": {},
   "orders": {},
   "closed": [],
@@ -9,5 +15,5 @@
     "recoveryKey": "NAH0I2ZZ-LBFO",
     "recoveryEmail": "1"
   },
-  "savedAt": "2026-05-29T18:32:43.551Z"
+  "savedAt": "2026-05-29T18:32:55.317Z"
 }
