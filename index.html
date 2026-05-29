@@ -414,6 +414,7 @@ function showChangelog() {
     sec:  { label: 'SEGURANÇA',color: '#10b981' }
   };
   const logs = [
+    { v: 'v3.9.7', t: 'fix',  d: 'Bloqueio de código de barras duplicado em saveProductAndContinue — impede cadastrar o mesmo código 2x.' },
     { v: 'v3.9.6', t: 'fix',  d: 'Modal Aviso de Item: botão − adicionado, + só incrementa, Adicionar ao Pedido confirma.' },
     { v: 'v3.9.5', t: 'fix',  d: 'Correção de camada visual: Mensagens de confirmação agora aparecem na frente de todas as telas.' },
     { v: 'v3.9.4', t: 'fix',  d: 'Confirmação visual: Agora o sistema avisa na tela quando um item é adicionado manualmente.' },
@@ -1392,6 +1393,7 @@ function saveProductAndContinue(code) {
   const name = document.getElementById('rp-name').value.trim();
   const price = parseFloat(document.getElementById('rp-price').value);
   if (!name || isNaN(price) || price <= 0) { toast('Preencha todos os campos', 'err'); return; }
+  if (S.products[code]) { toast('⚠️ Código já cadastrado: ' + S.products[code].name, 'err'); return; }
   S.products[code] = { code, name, price };
   save(); closeModal(); toast('✓ Produto cadastrado!');
   setTimeout(() => { _startScanner('main-video', handleCode, 'cam-overlay', 'cam-msg', 'cam-btn'); setTimeout(() => handleCode(code), 600); }, 400);
@@ -2182,7 +2184,7 @@ function start() {
     }
 
     // ── Verificação automática de versão ─────────────────────
-const APP_VERSION = 'v3.9.6';
+const APP_VERSION = 'v3.9.7';
 
 function showUpdateBanner(newVersion) {
   if (document.getElementById('update-banner')) return;
