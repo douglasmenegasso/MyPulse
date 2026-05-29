@@ -414,6 +414,7 @@ function showChangelog() {
     sec:  { label: 'SEGURANÇA',color: '#10b981' }
   };
   const logs = [
+    { v: 'v3.9.8', t: 'fix',  d: 'Scanner: leitura melhorada (resolução HD, delay reduzido). Código: normalização robusta evita pedir cadastro de produto já existente.' },
     { v: 'v3.9.7', t: 'fix',  d: 'Bloqueio de código de barras duplicado em saveProductAndContinue — impede cadastrar o mesmo código 2x.' },
     { v: 'v3.9.6', t: 'fix',  d: 'Modal Aviso de Item: botão − adicionado, + só incrementa, Adicionar ao Pedido confirma.' },
     { v: 'v3.9.5', t: 'fix',  d: 'Correção de camada visual: Mensagens de confirmação agora aparecem na frente de todas as telas.' },
@@ -953,7 +954,8 @@ function _makeZXingReader() {
     ZXing.BarcodeFormat.CODE_39, ZXing.BarcodeFormat.ITF,
   ]);
   hints.set(ZXing.DecodeHintType.TRY_HARDER, true);
-  return new ZXing.BrowserMultiFormatReader(hints, { delayBetweenScanAttempts: 150, delayBetweenScanSuccess: 2000 });
+  hints.set(ZXing.DecodeHintType.CHARACTER_SET, 'UTF-8');
+  return new ZXing.BrowserMultiFormatReader(hints, { delayBetweenScanAttempts: 80, delayBetweenScanSuccess: 1500 });
 }
 
 async function _startBarcodeDetectorLoop(video, onCode) {
@@ -2184,7 +2186,7 @@ function start() {
     }
 
     // ── Verificação automática de versão ─────────────────────
-const APP_VERSION = 'v3.9.7';
+const APP_VERSION = 'v3.9.8';
 
 function showUpdateBanner(newVersion) {
   if (document.getElementById('update-banner')) return;
