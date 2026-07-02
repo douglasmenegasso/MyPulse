@@ -4,6 +4,11 @@
       "code": "123",
       "name": "teste",
       "price": 11
+    },
+    "1232": {
+      "code": "1232",
+      "name": "1232",
+      "price": 12
     }
   },
   "clients": {},
@@ -15,5 +20,5 @@
     "recoveryKey": "E7ZXUE57-YAN9",
     "recoveryEmail": "1"
   },
-  "savedAt": "2026-07-02T03:05:50.550Z"
+  "savedAt": "2026-07-02T03:06:07.639Z"
 }
