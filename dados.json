@@ -1,13 +1,19 @@
 {
-  "products": {},
+  "products": {
+    "123": {
+      "code": "123",
+      "name": "teste",
+      "price": 11
+    }
+  },
   "clients": {},
   "orders": {},
   "closed": [],
   "returned": {},
   "security": {
     "adminPass": "123",
-    "recoveryKey": "CW6SGJPW-Q3OH",
-    "recoveryEmail": "123"
+    "recoveryKey": "E7ZXUE57-YAN9",
+    "recoveryEmail": "1"
   },
-  "savedAt": "2026-07-01T23:28:01.845Z"
+  "savedAt": "2026-07-02T03:05:50.550Z"
 }
