@@ -2744,27 +2744,9 @@
           "name": "Regata canelada bordo AG M",
           "price": 159,
           "qty": 1
-        },
-        "7900292244997": {
-          "code": "7900292244997",
-          "name": "Calça cargo bege LP pp",
-          "price": 697,
-          "qty": 1
-        },
-        "7900292059096": {
-          "code": "7900292059096",
-          "name": "Colete over bege com zíper LP P",
-          "price": 497,
-          "qty": 1
-        },
-        "7900292997794": {
-          "code": "7900292997794",
-          "name": "Calça pantalona moletom azul LP P",
-          "price": 563,
-          "qty": 1
         }
       },
-      "total": 7935.799999999999,
+      "total": 6178.799999999999,
       "status": "open"
     },
     "c_1779816929745": {
@@ -4561,6 +4543,27 @@
         "price": 159,
         "qty": 1,
         "lastAt": "2026-07-07T20:13:26.053Z"
+      },
+      "7900292997794": {
+        "code": "7900292997794",
+        "name": "Calça pantalona moletom azul LP P",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:26.780Z"
+      },
+      "7900292059096": {
+        "code": "7900292059096",
+        "name": "Colete over bege com zíper LP P",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:27.413Z"
+      },
+      "7900292244997": {
+        "code": "7900292244997",
+        "name": "Calça cargo bege LP pp",
+        "price": 697,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:28.423Z"
       }
     }
   },
@@ -4569,5 +4572,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:13:26.054Z"
+  "savedAt": "2026-07-07T20:13:28.424Z"
 }
