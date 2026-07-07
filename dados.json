@@ -4227,6 +4227,19 @@
       "items": {},
       "total": 0,
       "status": "open"
+    },
+    "c_1783444825678": {
+      "clientId": "c_1783444825678",
+      "items": {
+        "7908990956839": {
+          "code": "7908990956839",
+          "name": "Legging hydefit preto live gg",
+          "price": 199.9,
+          "qty": 1
+        }
+      },
+      "total": 199.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -4681,5 +4694,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:20:48.780Z"
+  "savedAt": "2026-07-07T17:20:52.641Z"
 }
