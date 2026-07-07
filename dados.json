@@ -2702,6 +2702,19 @@
       },
       "total": 4145,
       "status": "waiting"
+    },
+    "41991098260": {
+      "clientId": "41991098260",
+      "items": {
+        "7901072429160": {
+          "code": "7901072429160",
+          "name": "Top curve marrom live live g",
+          "price": 219.9,
+          "qty": 1
+        }
+      },
+      "total": 219.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -4819,5 +4832,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:36:08.180Z"
+  "savedAt": "2026-07-07T20:36:10.979Z"
 }
