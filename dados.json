@@ -2732,21 +2732,9 @@
           "name": "Calça em linho bordo LP pp",
           "price": 673,
           "qty": 1
-        },
-        "7909746614522": {
-          "code": "7909746614522",
-          "name": "Regata alça fina bordo vivame P ",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171615263": {
-          "code": "7890171615263",
-          "name": "Regata canelada bordo AG M",
-          "price": 159,
-          "qty": 1
         }
       },
-      "total": 6178.799999999999,
+      "total": 5760.799999999999,
       "status": "open"
     },
     "c_1779816929745": {
@@ -4564,6 +4552,20 @@
         "price": 697,
         "qty": 1,
         "lastAt": "2026-07-07T20:13:28.423Z"
+      },
+      "7890171615263": {
+        "code": "7890171615263",
+        "name": "Regata canelada bordo AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:29.003Z"
+      },
+      "7909746614522": {
+        "code": "7909746614522",
+        "name": "Regata alça fina bordo vivame P ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:30.451Z"
       }
     }
   },
@@ -4572,5 +4574,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:13:28.424Z"
+  "savedAt": "2026-07-07T20:13:31.581Z"
 }
