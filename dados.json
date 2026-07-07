@@ -2484,105 +2484,9 @@
           "name": "Regata ajuste lateral marrom AG P",
           "price": 198,
           "qty": 1
-        },
-        "7908931977695": {
-          "code": "7908931977695",
-          "name": "Legging race verde live P",
-          "price": 349.9,
-          "qty": 1
-        },
-        "7908931945977": {
-          "code": "7908931945977",
-          "name": "Top cut out verde live M",
-          "price": 259.9,
-          "qty": 1
-        },
-        "7908931977053": {
-          "code": "7908931977053",
-          "name": "Camiseta verde live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7909746618933": {
-          "code": "7909746618933",
-          "name": "Legging curve uva listra branca DT P",
-          "price": 419,
-          "qty": 1
-        },
-        "7909746618919": {
-          "code": "7909746618919",
-          "name": "Top curve uva listra branca vivame M ",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171615256": {
-          "code": "7890171615256",
-          "name": "Regata canelada vinho AG P ",
-          "price": 159,
-          "qty": 1
-        },
-        "7908990930204": {
-          "code": "7908990930204",
-          "name": "Jaqueta estampa marrom live P",
-          "price": 599.9,
-          "qty": 1
-        },
-        "5501000724425249350025": {
-          "code": "5501000724425249350025",
-          "name": "Legging allure preto live P",
-          "price": 319.9,
-          "qty": 1
-        },
-        "5535000714754160600004": {
-          "code": "5535000714754160600004",
-          "name": "Top curve allure preto live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990957324": {
-          "code": "7908990957324",
-          "name": "Camiseta cropped pima preto live P",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7909746563646": {
-          "code": "7909746563646",
-          "name": "Jaqueta Parka azul DT P",
-          "price": 959,
-          "qty": 1
-        },
-        "7909746563707": {
-          "code": "7909746563707",
-          "name": "Shorts Sport azul DT P",
-          "price": 399,
-          "qty": 1
-        },
-        "7890171643488": {
-          "code": "7890171643488",
-          "name": "Jaqueta esportiva bege AG P",
-          "price": 449,
-          "qty": 1
-        },
-        "7908990904892": {
-          "code": "7908990904892",
-          "name": "Legging azul live live P",
-          "price": 329.9,
-          "qty": 1
-        },
-        "5547000742558362020052": {
-          "code": "5547000742558362020052",
-          "name": "Shorts azul live live P",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990938880": {
-          "code": "7908990938880",
-          "name": "Top curve azul live live P",
-          "price": 219.9,
-          "qty": 1
         }
       },
-      "total": 9681.099999999997,
+      "total": 4058.1,
       "status": "open"
     },
     "c_1779386183182": {
@@ -4730,6 +4634,118 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-07T20:10:53.959Z"
+      },
+      "7908990938880": {
+        "code": "7908990938880",
+        "name": "Top curve azul live live P",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:54.103Z"
+      },
+      "5547000742558362020052": {
+        "code": "5547000742558362020052",
+        "name": "Shorts azul live live P",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:54.348Z"
+      },
+      "7908990904892": {
+        "code": "7908990904892",
+        "name": "Legging azul live live P",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:54.473Z"
+      },
+      "7890171643488": {
+        "code": "7890171643488",
+        "name": "Jaqueta esportiva bege AG P",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:54.608Z"
+      },
+      "7909746563707": {
+        "code": "7909746563707",
+        "name": "Shorts Sport azul DT P",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:54.766Z"
+      },
+      "7909746563646": {
+        "code": "7909746563646",
+        "name": "Jaqueta Parka azul DT P",
+        "price": 959,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:55.049Z"
+      },
+      "7908990957324": {
+        "code": "7908990957324",
+        "name": "Camiseta cropped pima preto live P",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:55.194Z"
+      },
+      "5535000714754160600004": {
+        "code": "5535000714754160600004",
+        "name": "Top curve allure preto live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:55.339Z"
+      },
+      "5501000724425249350025": {
+        "code": "5501000724425249350025",
+        "name": "Legging allure preto live P",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:55.473Z"
+      },
+      "7908990930204": {
+        "code": "7908990930204",
+        "name": "Jaqueta estampa marrom live P",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:55.608Z"
+      },
+      "7890171615256": {
+        "code": "7890171615256",
+        "name": "Regata canelada vinho AG P ",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:55.739Z"
+      },
+      "7909746618919": {
+        "code": "7909746618919",
+        "name": "Top curve uva listra branca vivame M ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:55.900Z"
+      },
+      "7909746618933": {
+        "code": "7909746618933",
+        "name": "Legging curve uva listra branca DT P",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:56.042Z"
+      },
+      "7908931977053": {
+        "code": "7908931977053",
+        "name": "Camiseta verde live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:56.191Z"
+      },
+      "7908931945977": {
+        "code": "7908931945977",
+        "name": "Top cut out verde live M",
+        "price": 259.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:56.462Z"
+      },
+      "7908931977695": {
+        "code": "7908931977695",
+        "name": "Legging race verde live P",
+        "price": 349.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:56.607Z"
       }
     }
   },
@@ -4738,5 +4754,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:53.960Z"
+  "savedAt": "2026-07-07T20:10:56.607Z"
 }
