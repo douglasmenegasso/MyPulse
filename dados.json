@@ -2394,63 +2394,8 @@
     },
     "c_1779470225053": {
       "clientId": "c_1779470225053",
-      "items": {
-        "7909746609283": {
-          "code": "7909746609283",
-          "name": "Pijama preto DT M",
-          "price": 339,
-          "qty": 1
-        },
-        "7908990992264": {
-          "code": "7908990992264",
-          "name": "Camiseta rosado live men M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990993667": {
-          "code": "7908990993667",
-          "name": "Camiseta run roxo live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7890171618011": {
-          "code": "7890171618011",
-          "name": "Jaqueta corta vento preto AG M",
-          "price": 538,
-          "qty": 1
-        },
-        "7890171627235": {
-          "code": "7890171627235",
-          "name": "Camiseta polo com zíper preto AG M men",
-          "price": 328,
-          "qty": 1
-        },
-        "7890171616055": {
-          "code": "7890171616055",
-          "name": "Camiseta Sport preta AG men M",
-          "price": 228,
-          "qty": 1
-        },
-        "7890171628218": {
-          "code": "7890171628218",
-          "name": "Camiseta com dry preto AG men M",
-          "price": 228,
-          "qty": 1
-        },
-        "7890171177525": {
-          "code": "7890171177525",
-          "name": "Shorts eterno preto men M",
-          "price": 289,
-          "qty": 1
-        },
-        "7890171065723": {
-          "code": "7890171065723",
-          "name": "Calça eterna preta AG men M",
-          "price": 319,
-          "qty": 1
-        }
-      },
-      "total": 2688.8,
+      "items": {},
+      "total": 2.2737367544323206e-13,
       "status": "open"
     },
     "41995409638": {
@@ -4681,6 +4626,71 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:10:20.598Z"
       }
+    },
+    "c_1779470225053": {
+      "7890171065723": {
+        "code": "7890171065723",
+        "name": "Calça eterna preta AG men M",
+        "price": 319,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:29.367Z"
+      },
+      "7890171177525": {
+        "code": "7890171177525",
+        "name": "Shorts eterno preto men M",
+        "price": 289,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:29.516Z"
+      },
+      "7890171628218": {
+        "code": "7890171628218",
+        "name": "Camiseta com dry preto AG men M",
+        "price": 228,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:29.644Z"
+      },
+      "7890171616055": {
+        "code": "7890171616055",
+        "name": "Camiseta Sport preta AG men M",
+        "price": 228,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:29.798Z"
+      },
+      "7890171627235": {
+        "code": "7890171627235",
+        "name": "Camiseta polo com zíper preto AG M men",
+        "price": 328,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:29.952Z"
+      },
+      "7890171618011": {
+        "code": "7890171618011",
+        "name": "Jaqueta corta vento preto AG M",
+        "price": 538,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:30.088Z"
+      },
+      "7908990993667": {
+        "code": "7908990993667",
+        "name": "Camiseta run roxo live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:30.236Z"
+      },
+      "7908990992264": {
+        "code": "7908990992264",
+        "name": "Camiseta rosado live men M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:30.393Z"
+      },
+      "7909746609283": {
+        "code": "7909746609283",
+        "name": "Pijama preto DT M",
+        "price": 339,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:30.546Z"
+      }
     }
   },
   "security": {
@@ -4688,5 +4698,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:28.638Z"
+  "savedAt": "2026-07-07T20:10:31.688Z"
 }
