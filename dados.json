@@ -2588,68 +2588,14 @@
           "price": 399.9,
           "qty": 1
         },
-        "7908990951032": {
-          "code": "7908990951032",
-          "name": "Top curve allure vermelho live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7908990985440": {
           "code": "7908990985440",
           "name": "Macaquinho allure marrom live M",
           "price": 359.9,
           "qty": 1
-        },
-        "7901072427517": {
-          "code": "7901072427517",
-          "name": "Macaquinho azul petróleo live live M",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7908990973812": {
-          "code": "7908990973812",
-          "name": "Saia sobreposta com zíper verde live M",
-          "price": 349.9,
-          "qty": 1
-        },
-        "7908990956365": {
-          "code": "7908990956365",
-          "name": "Regata cropped verde live g",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990971511": {
-          "code": "7908990971511",
-          "name": "Shorts rosa live live icon M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901072410298": {
-          "code": "7901072410298",
-          "name": "Top nadador rosa live live M",
-          "price": 259.9,
-          "qty": 1
-        },
-        "2615000776109241130032": {
-          "code": "2615000776109241130032",
-          "name": "Cropped icon rosa live M",
-          "price": 179.9,
-          "qty": 1
-        },
-        "7908990937586": {
-          "code": "7908990937586",
-          "name": "Shorts equilíbrio azul live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990937814": {
-          "code": "7908990937814",
-          "name": "Top equilíbrio azul live M",
-          "price": 259.9,
-          "qty": 1
         }
       },
-      "total": 10785.699999999993,
+      "total": 8436.599999999997,
       "status": "open"
     },
     "c_1779740193414": {
@@ -4594,6 +4540,71 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:15:17.004Z"
       }
+    },
+    "c_1779735439830": {
+      "7908990937814": {
+        "code": "7908990937814",
+        "name": "Top equilíbrio azul live M",
+        "price": 259.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:56.498Z"
+      },
+      "7908990937586": {
+        "code": "7908990937586",
+        "name": "Shorts equilíbrio azul live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:56.649Z"
+      },
+      "2615000776109241130032": {
+        "code": "2615000776109241130032",
+        "name": "Cropped icon rosa live M",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:56.869Z"
+      },
+      "7901072410298": {
+        "code": "7901072410298",
+        "name": "Top nadador rosa live live M",
+        "price": 259.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:57.215Z"
+      },
+      "7908990971511": {
+        "code": "7908990971511",
+        "name": "Shorts rosa live live icon M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:57.464Z"
+      },
+      "7908990956365": {
+        "code": "7908990956365",
+        "name": "Regata cropped verde live g",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:57.603Z"
+      },
+      "7908990973812": {
+        "code": "7908990973812",
+        "name": "Saia sobreposta com zíper verde live M",
+        "price": 349.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:57.816Z"
+      },
+      "7901072427517": {
+        "code": "7901072427517",
+        "name": "Macaquinho azul petróleo live live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:57.921Z"
+      },
+      "7908990951032": {
+        "code": "7908990951032",
+        "name": "Top curve allure vermelho live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:58.149Z"
+      }
     }
   },
   "security": {
@@ -4601,5 +4612,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:15:55.762Z"
+  "savedAt": "2026-07-07T20:15:58.150Z"
 }
