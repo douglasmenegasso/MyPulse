@@ -2410,19 +2410,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1779727528255": {
-      "clientId": "c_1779727528255",
-      "items": {
-        "7909746591755": {
-          "code": "7909746591755",
-          "name": "Pijama Maisa longo bege DT P",
-          "price": 429,
-          "qty": 1
-        }
-      },
-      "total": 429,
-      "status": "waiting"
-    },
     "c_1779210547825": {
       "clientId": "c_1779210547825",
       "items": {
@@ -3475,6 +3462,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779727528255",
+      "clientName": "Cris estivadores lojista",
+      "clientPhone": "",
+      "items": {
+        "7909746591755": {
+          "code": "7909746591755",
+          "name": "Pijama Maisa longo bege DT P",
+          "price": 429,
+          "qty": 1
+        }
+      },
+      "total": 429,
+      "closedAt": "2026-07-07T20:11:15.517Z"
+    },
     {
       "clientId": "41991098260",
       "clientName": "Cleu estivadores",
@@ -4771,5 +4773,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:11:15.079Z"
+  "savedAt": "2026-07-07T20:11:18.335Z"
 }
