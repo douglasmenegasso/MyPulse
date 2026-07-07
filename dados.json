@@ -2421,99 +2421,9 @@
           "name": "Regata canelada marrom DT M",
           "price": 199,
           "qty": 1
-        },
-        "7909746618049": {
-          "code": "7909746618049",
-          "name": "Calça roxo DT P",
-          "price": 449,
-          "qty": 1
-        },
-        "7909746617288": {
-          "code": "7909746617288",
-          "name": "Regata elite roxo DT g",
-          "price": 299,
-          "qty": 1
-        },
-        "7900292537341": {
-          "code": "7900292537341",
-          "name": "Moletom golo polo bordo LP M",
-          "price": 483,
-          "qty": 1
-        },
-        "7900292539826": {
-          "code": "7900292539826",
-          "name": "Calça wide leg bordo LP M",
-          "price": 597,
-          "qty": 1
-        },
-        "7900292631650": {
-          "code": "7900292631650",
-          "name": "Blusa tricot off com marrom azul LP M",
-          "price": 577,
-          "qty": 1
-        },
-        "7909746614164": {
-          "code": "7909746614164",
-          "name": "Vestido canelado bordo DT M",
-          "price": 449,
-          "qty": 1
-        },
-        "7890171618219": {
-          "code": "7890171618219",
-          "name": "Camisa ajustável preta AG M",
-          "price": 668,
-          "qty": 1
-        },
-        "7890171616406": {
-          "code": "7890171616406",
-          "name": "Calça alfaiataria preto AG M",
-          "price": 498,
-          "qty": 1
-        },
-        "7890171636787": {
-          "code": "7890171636787",
-          "name": "Legging elástico rose AG M",
-          "price": 359,
-          "qty": 1
-        },
-        "7890171622452": {
-          "code": "7890171622452",
-          "name": "Top elástico rose AG M",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171614501": {
-          "code": "7890171614501",
-          "name": "T-shirt inspiracional terracota AG M",
-          "price": 198,
-          "qty": 1
-        },
-        "7890171619513": {
-          "code": "7890171619513",
-          "name": "Jaqueta piquet rose AG M",
-          "price": 578,
-          "qty": 1
-        },
-        "7909746616908": {
-          "code": "7909746616908",
-          "name": "Legging dash rose vivame M",
-          "price": 429,
-          "qty": 1
-        },
-        "7909746616786": {
-          "code": "7909746616786",
-          "name": "Shorts dash rose vivame M",
-          "price": 259,
-          "qty": 1
-        },
-        "7909746616854": {
-          "code": "7909746616854",
-          "name": "Top dash cruzado rose vivame g",
-          "price": 359,
-          "qty": 1
         }
       },
-      "total": 9684.2,
+      "total": 3263.2000000000007,
       "status": "open"
     },
     "c1779296356399": {
@@ -4765,11 +4675,119 @@
       "closedAt": "2026-05-20T19:50:48.506Z"
     }
   ],
-  "returned": {},
+  "returned": {
+    "c_1779214900706": {
+      "7909746616854": {
+        "code": "7909746616854",
+        "name": "Top dash cruzado rose vivame g",
+        "price": 359,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:33.323Z"
+      },
+      "7909746616786": {
+        "code": "7909746616786",
+        "name": "Shorts dash rose vivame M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:33.468Z"
+      },
+      "7909746616908": {
+        "code": "7909746616908",
+        "name": "Legging dash rose vivame M",
+        "price": 429,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:33.729Z"
+      },
+      "7890171619513": {
+        "code": "7890171619513",
+        "name": "Jaqueta piquet rose AG M",
+        "price": 578,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:33.875Z"
+      },
+      "7890171614501": {
+        "code": "7890171614501",
+        "name": "T-shirt inspiracional terracota AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:33.888Z"
+      },
+      "7890171622452": {
+        "code": "7890171622452",
+        "name": "Top elástico rose AG M",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:34.066Z"
+      },
+      "7890171636787": {
+        "code": "7890171636787",
+        "name": "Legging elástico rose AG M",
+        "price": 359,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:34.208Z"
+      },
+      "7890171616406": {
+        "code": "7890171616406",
+        "name": "Calça alfaiataria preto AG M",
+        "price": 498,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:34.361Z"
+      },
+      "7890171618219": {
+        "code": "7890171618219",
+        "name": "Camisa ajustável preta AG M",
+        "price": 668,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:34.522Z"
+      },
+      "7909746614164": {
+        "code": "7909746614164",
+        "name": "Vestido canelado bordo DT M",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:34.685Z"
+      },
+      "7900292631650": {
+        "code": "7900292631650",
+        "name": "Blusa tricot off com marrom azul LP M",
+        "price": 577,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:34.947Z"
+      },
+      "7900292539826": {
+        "code": "7900292539826",
+        "name": "Calça wide leg bordo LP M",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:35.082Z"
+      },
+      "7900292537341": {
+        "code": "7900292537341",
+        "name": "Moletom golo polo bordo LP M",
+        "price": 483,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:35.093Z"
+      },
+      "7909746617288": {
+        "code": "7909746617288",
+        "name": "Regata elite roxo DT g",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:35.238Z"
+      },
+      "7909746618049": {
+        "code": "7909746618049",
+        "name": "Calça roxo DT P",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:35.410Z"
+      }
+    }
+  },
   "security": {
     "adminPass": "My@pulse01",
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:29:32.424Z"
+  "savedAt": "2026-07-07T17:29:35.410Z"
 }
