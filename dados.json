@@ -2654,39 +2654,8 @@
     },
     "c_1779740193414": {
       "clientId": "c_1779740193414",
-      "items": {
-        "7900292886524": {
-          "code": "7900292886524",
-          "name": "Legging jacquard marrom LP P",
-          "price": 297,
-          "qty": 1
-        },
-        "7900292823093": {
-          "code": "7900292823093",
-          "name": "Vestido curto manga longa bege LP P",
-          "price": 553,
-          "qty": 1
-        },
-        "7900292717484": {
-          "code": "7900292717484",
-          "name": "Vestido canelado longo bege alça vinho LP P",
-          "price": 417,
-          "qty": 1
-        },
-        "7908990960058": {
-          "code": "7908990960058",
-          "name": "Blusão texturizado verde live P",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960218": {
-          "code": "7908990960218",
-          "name": "Calça texturizada verde live P",
-          "price": 599.9,
-          "qty": 1
-        }
-      },
-      "total": 2366.7999999999993,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1779816929745": {
@@ -4574,6 +4543,41 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-07T20:13:37.457Z"
+      },
+      "7900292823093": {
+        "code": "7900292823093",
+        "name": "Vestido curto manga longa bege LP P",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:37.595Z"
+      },
+      "7900292717484": {
+        "code": "7900292717484",
+        "name": "Vestido canelado longo bege alça vinho LP P",
+        "price": 417,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:37.740Z"
+      },
+      "7908990960058": {
+        "code": "7908990960058",
+        "name": "Blusão texturizado verde live P",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:37.894Z"
+      },
+      "7900292886524": {
+        "code": "7900292886524",
+        "name": "Legging jacquard marrom LP P",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:38.032Z"
+      },
+      "7908990960218": {
+        "code": "7908990960218",
+        "name": "Calça texturizada verde live P",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:40.271Z"
       }
     }
   },
@@ -4582,5 +4586,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:13:37.457Z"
+  "savedAt": "2026-07-07T20:13:41.723Z"
 }
