@@ -2383,18 +2383,6 @@
     "41991098260": {
       "clientId": "41991098260",
       "items": {
-        "7901072413381": {
-          "code": "7901072413381",
-          "name": "Top icon azul petróleo live gg",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901072413596": {
-          "code": "7901072413596",
-          "name": "Legging icon azul petróleo live gg",
-          "price": 319.9,
-          "qty": 1
-        },
         "7901072437806": {
           "code": "7901072437806",
           "name": "Jaqueta máxi branco live P",
@@ -2402,8 +2390,8 @@
           "qty": 1
         }
       },
-      "total": 1069.6999999999998,
-      "status": "open"
+      "total": 499.89999999999986,
+      "status": "waiting"
     },
     "c_1779389649186": {
       "clientId": "c_1779389649186",
@@ -4646,6 +4634,20 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-07T20:09:53.129Z"
+      },
+      "7901072413596": {
+        "code": "7901072413596",
+        "name": "Legging icon azul petróleo live gg",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:09:53.874Z"
+      },
+      "7901072413381": {
+        "code": "7901072413381",
+        "name": "Top icon azul petróleo live gg",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:09:54.459Z"
       }
     }
   },
@@ -4654,5 +4656,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:09:53.130Z"
+  "savedAt": "2026-07-07T20:09:56.068Z"
 }
