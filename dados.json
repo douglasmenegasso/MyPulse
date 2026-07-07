@@ -4280,9 +4280,15 @@
           "name": "Camiseta icon branco live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7908354077002": {
+          "code": "7908354077002",
+          "name": "Top curve branco live gg",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 979.5,
+      "total": 1169.4,
       "status": "open"
     }
   },
@@ -4738,5 +4744,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:23:05.876Z"
+  "savedAt": "2026-07-07T17:23:09.204Z"
 }
