@@ -2449,8 +2449,15 @@
     },
     "c_1779470225053": {
       "clientId": "c_1779470225053",
-      "items": {},
-      "total": 2.2737367544323206e-13,
+      "items": {
+        "7890171656426": {
+          "code": "7890171656426",
+          "name": "Camiseta pima bege AG men M",
+          "price": 269,
+          "qty": 1
+        }
+      },
+      "total": 269,
       "status": "open"
     },
     "41995409638": {
@@ -4763,5 +4770,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:29:44.623Z"
+  "savedAt": "2026-07-07T20:29:48.773Z"
 }
