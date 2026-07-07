@@ -2580,141 +2580,9 @@
           "name": "Top curve azul live live P",
           "price": 219.9,
           "qty": 1
-        },
-        "7908990928133": {
-          "code": "7908990928133",
-          "name": "Macaquinho azul live live P",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7908931949029": {
-          "code": "7908931949029",
-          "name": "Legging allure azul petróleo live P",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908931913907": {
-          "code": "7908931913907",
-          "name": "Top curve allure azul petróleo live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908931963377": {
-          "code": "7908931963377",
-          "name": "Camiseta icon azul live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990994312": {
-          "code": "7908990994312",
-          "name": "Legging canelado com zíper marrom live P",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7908990982951": {
-          "code": "7908990982951",
-          "name": "Top neopren cancelado marrom live M",
-          "price": 299.9,
-          "qty": 1
-        },
-        "7908990920267": {
-          "code": "7908990920267",
-          "name": "Regata pima  marrom live P",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901072414067": {
-          "code": "7901072414067",
-          "name": "Headband preto live",
-          "price": 119.9,
-          "qty": 1
-        },
-        "7908139715495": {
-          "code": "7908139715495",
-          "name": "Toalha preta live",
-          "price": 79.9,
-          "qty": 1
-        },
-        "2616000804433149590023": {
-          "code": "2616000804433149590023",
-          "name": "Legging com bolso verde água live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908931962936": {
-          "code": "7908931962936",
-          "name": "Top cut out verde água live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7908990962557": {
-          "code": "7908990962557",
-          "name": "Regata verde água live M",
-          "price": 179.9,
-          "qty": 1
-        },
-        "7890171637692": {
-          "code": "7890171637692",
-          "name": "Legging elástico cinza AG P ",
-          "price": 359,
-          "qty": 1
-        },
-        "7890171636848": {
-          "code": "7890171636848",
-          "name": "Top elástico cinza AG P",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171616017": {
-          "code": "7890171616017",
-          "name": "Cropped bege refletivo AG M",
-          "price": 198,
-          "qty": 1
-        },
-        "7909746573089": {
-          "code": "7909746573089",
-          "name": "Legging azul listra branca vivame P",
-          "price": 399,
-          "qty": 1
-        },
-        "7909746569549": {
-          "code": "7909746569549",
-          "name": "Top assimétrico azul DT M",
-          "price": 299,
-          "qty": 1
-        },
-        "7908990961215": {
-          "code": "7908990961215",
-          "name": "Legging icon violeta live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908990965329": {
-          "code": "7908990965329",
-          "name": "Shorts icon violeta live P",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7908990976189": {
-          "code": "7908990976189",
-          "name": "Top icon violeta live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "2612000784905202870027": {
-          "code": "2612000784905202870027",
-          "name": "Camiseta icon violeta live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072428927": {
-          "code": "7901072428927",
-          "name": "Legging azul petróleo live live M",
-          "price": 329.9,
-          "qty": 1
         }
       },
-      "total": 15543.39999999999,
+      "total": 9681.099999999997,
       "status": "open"
     },
     "c_1779386183182": {
@@ -4708,6 +4576,160 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-07T20:10:50.543Z"
+      },
+      "7901072428927": {
+        "code": "7901072428927",
+        "name": "Legging azul petróleo live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:50.782Z"
+      },
+      "2612000784905202870027": {
+        "code": "2612000784905202870027",
+        "name": "Camiseta icon violeta live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:50.907Z"
+      },
+      "7908990976189": {
+        "code": "7908990976189",
+        "name": "Top icon violeta live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:51.018Z"
+      },
+      "7908990965329": {
+        "code": "7908990965329",
+        "name": "Shorts icon violeta live P",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:51.154Z"
+      },
+      "7908990961215": {
+        "code": "7908990961215",
+        "name": "Legging icon violeta live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:51.307Z"
+      },
+      "7909746569549": {
+        "code": "7909746569549",
+        "name": "Top assimétrico azul DT M",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:51.557Z"
+      },
+      "7909746573089": {
+        "code": "7909746573089",
+        "name": "Legging azul listra branca vivame P",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:51.681Z"
+      },
+      "7890171616017": {
+        "code": "7890171616017",
+        "name": "Cropped bege refletivo AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:51.824Z"
+      },
+      "7890171636848": {
+        "code": "7890171636848",
+        "name": "Top elástico cinza AG P",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:51.970Z"
+      },
+      "7890171637692": {
+        "code": "7890171637692",
+        "name": "Legging elástico cinza AG P ",
+        "price": 359,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:52.107Z"
+      },
+      "7908990962557": {
+        "code": "7908990962557",
+        "name": "Regata verde água live M",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:52.253Z"
+      },
+      "7908931962936": {
+        "code": "7908931962936",
+        "name": "Top cut out verde água live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:52.391Z"
+      },
+      "2616000804433149590023": {
+        "code": "2616000804433149590023",
+        "name": "Legging com bolso verde água live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:52.682Z"
+      },
+      "7908139715495": {
+        "code": "7908139715495",
+        "name": "Toalha preta live",
+        "price": 79.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:52.698Z"
+      },
+      "7901072414067": {
+        "code": "7901072414067",
+        "name": "Headband preto live",
+        "price": 119.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:52.971Z"
+      },
+      "7908990920267": {
+        "code": "7908990920267",
+        "name": "Regata pima  marrom live P",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:53.118Z"
+      },
+      "7908990982951": {
+        "code": "7908990982951",
+        "name": "Top neopren cancelado marrom live M",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:53.264Z"
+      },
+      "7908990994312": {
+        "code": "7908990994312",
+        "name": "Legging canelado com zíper marrom live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:53.397Z"
+      },
+      "7908931963377": {
+        "code": "7908931963377",
+        "name": "Camiseta icon azul live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:53.545Z"
+      },
+      "7908931913907": {
+        "code": "7908931913907",
+        "name": "Top curve allure azul petróleo live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:53.677Z"
+      },
+      "7908931949029": {
+        "code": "7908931949029",
+        "name": "Legging allure azul petróleo live P",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:53.810Z"
+      },
+      "7908990928133": {
+        "code": "7908990928133",
+        "name": "Macaquinho azul live live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:53.959Z"
       }
     }
   },
@@ -4716,5 +4738,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:50.543Z"
+  "savedAt": "2026-07-07T20:10:53.960Z"
 }
