@@ -2869,9 +2869,15 @@
           "name": "Vestido canelado bordo DT M",
           "price": 449,
           "qty": 1
+        },
+        "7909746563653": {
+          "code": "7909746563653",
+          "name": "Jaqueta Sport azu com branco DT M",
+          "price": 959,
+          "qty": 1
         }
       },
-      "total": 1548.8,
+      "total": 2507.8,
       "status": "open"
     }
   },
@@ -4990,5 +4996,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T21:39:21.219Z"
+  "savedAt": "2026-07-07T21:39:24.071Z"
 }
