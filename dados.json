@@ -2817,33 +2817,9 @@
           "name": "Top curve roxo uva live M",
           "price": 189.9,
           "qty": 1
-        },
-        "7908990975434": {
-          "code": "7908990975434",
-          "name": "Regata soft off live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7908990930204": {
-          "code": "7908990930204",
-          "name": "Jaqueta estampa marrom live P",
-          "price": 599.9,
-          "qty": 1
-        },
-        "7908754515623": {
-          "code": "7908754515623",
-          "name": "Legging allure preto live P",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908011244655": {
-          "code": "7908011244655",
-          "name": "Top curve preto live M",
-          "price": 189.9,
-          "qty": 1
         }
       },
-      "total": 3095.4000000000005,
+      "total": 1765.8000000000002,
       "status": "open"
     },
     "c_1779821818362": {
@@ -4547,6 +4523,36 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:12:26.811Z"
       }
+    },
+    "c_1779816929745": {
+      "7908011244655": {
+        "code": "7908011244655",
+        "name": "Top curve preto live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:57.172Z"
+      },
+      "7908754515623": {
+        "code": "7908754515623",
+        "name": "Legging allure preto live P",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:58.127Z"
+      },
+      "7908990930204": {
+        "code": "7908990930204",
+        "name": "Jaqueta estampa marrom live P",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:58.734Z"
+      },
+      "7908990975434": {
+        "code": "7908990975434",
+        "name": "Regata soft off live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:59.223Z"
+      }
     }
   },
   "security": {
@@ -4554,5 +4560,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:12:56.351Z"
+  "savedAt": "2026-07-07T20:12:59.224Z"
 }
