@@ -4269,9 +4269,15 @@
           "name": "Legging hydefit verde militar live gg",
           "price": 199.9,
           "qty": 1
+        },
+        "7901128629841": {
+          "code": "7901128629841",
+          "name": "Camiseta icon branco live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 779.6,
+      "total": 979.5,
       "status": "open"
     }
   },
@@ -4727,5 +4733,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:22:20.421Z"
+  "savedAt": "2026-07-07T17:22:24.380Z"
 }
