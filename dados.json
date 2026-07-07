@@ -2169,6 +2169,11 @@
       "code": "7890171653463",
       "name": "Legging elástico roxo malva AG P",
       "price": 369
+    },
+    "7890171662229": {
+      "code": "7890171662229",
+      "name": "Top elástico roxo malva AG M",
+      "price": 219
     }
   },
   "clients": {
@@ -4742,5 +4747,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:27:45.918Z"
+  "savedAt": "2026-07-07T20:28:07.333Z"
 }
