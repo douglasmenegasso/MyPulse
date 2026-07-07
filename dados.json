@@ -2805,9 +2805,15 @@
           "name": "Legging curve bordo listra branca DT g",
           "price": 419,
           "qty": 1
+        },
+        "7901072491938": {
+          "code": "7901072491938",
+          "name": "Legging máxi azul petróleo live g",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 1188.6999999999998,
+      "total": 1518.6,
       "status": "open"
     }
   },
@@ -4926,5 +4932,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:57:07.172Z"
+  "savedAt": "2026-07-07T20:57:10.482Z"
 }
