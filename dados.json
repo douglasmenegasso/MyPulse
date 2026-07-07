@@ -2655,52 +2655,10 @@
     "c_1779740193414": {
       "clientId": "c_1779740193414",
       "items": {
-        "7900415002701": {
-          "code": "7900415002701",
-          "name": "Calça pantalona marrom LP pp ",
-          "price": 563,
-          "qty": 1
-        },
-        "7900292842049": {
-          "code": "7900292842049",
-          "name": "Shorts moletom marrom LP P",
-          "price": 297,
-          "qty": 1
-        },
-        "7900292990283": {
-          "code": "7900292990283",
-          "name": "T-shirt over estampa listras marrom LP P",
-          "price": 353,
-          "qty": 1
-        },
         "7900292886524": {
           "code": "7900292886524",
           "name": "Legging jacquard marrom LP P",
           "price": 297,
-          "qty": 1
-        },
-        "7909746630973": {
-          "code": "7909746630973",
-          "name": "Camiseta off escrita marrom DT P",
-          "price": 339,
-          "qty": 1
-        },
-        "7900292789757": {
-          "code": "7900292789757",
-          "name": "Calça em linho off LP P",
-          "price": 497,
-          "qty": 1
-        },
-        "7900292845798": {
-          "code": "7900292845798",
-          "name": "Regata canelada off LP P",
-          "price": 223,
-          "qty": 1
-        },
-        "7909746614157": {
-          "code": "7909746614157",
-          "name": "Vestido canelado bordo DT P ",
-          "price": 449,
           "qty": 1
         },
         "7900292823093": {
@@ -2728,7 +2686,7 @@
           "qty": 1
         }
       },
-      "total": 5087.799999999999,
+      "total": 2366.7999999999993,
       "status": "open"
     },
     "c_1779816929745": {
@@ -4567,6 +4525,55 @@
         "price": 673,
         "qty": 1,
         "lastAt": "2026-07-07T20:13:32.716Z"
+      },
+      "7900415002701": {
+        "code": "7900415002701",
+        "name": "Calça pantalona marrom LP pp ",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:36.630Z"
+      },
+      "7900292842049": {
+        "code": "7900292842049",
+        "name": "Shorts moletom marrom LP P",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:36.635Z"
+      },
+      "7900292990283": {
+        "code": "7900292990283",
+        "name": "T-shirt over estampa listras marrom LP P",
+        "price": 353,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:36.785Z"
+      },
+      "7909746630973": {
+        "code": "7909746630973",
+        "name": "Camiseta off escrita marrom DT P",
+        "price": 339,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:36.932Z"
+      },
+      "7900292789757": {
+        "code": "7900292789757",
+        "name": "Calça em linho off LP P",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:37.080Z"
+      },
+      "7900292845798": {
+        "code": "7900292845798",
+        "name": "Regata canelada off LP P",
+        "price": 223,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:37.219Z"
+      },
+      "7909746614157": {
+        "code": "7909746614157",
+        "name": "Vestido canelado bordo DT P ",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:37.457Z"
       }
     }
   },
@@ -4575,5 +4582,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:13:34.902Z"
+  "savedAt": "2026-07-07T20:13:37.457Z"
 }
