@@ -2064,6 +2064,11 @@
       "code": "7890171627839",
       "name": "Regata um ombro canelado preto AG M",
       "price": 288
+    },
+    "7908990956839": {
+      "code": "7908990956839",
+      "name": "Legging hydefit preto live gg",
+      "price": 199.9
     }
   },
   "clients": {
@@ -4676,5 +4681,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:20:38.947Z"
+  "savedAt": "2026-07-07T17:20:48.780Z"
 }
