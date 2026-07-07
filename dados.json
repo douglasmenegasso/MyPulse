@@ -2114,6 +2114,11 @@
       "code": "7900358017701",
       "name": "Camiseta poque off CCM p",
       "price": 219
+    },
+    "7900358029964": {
+      "code": "7900358029964",
+      "name": "Camiseta poque preta CCM",
+      "price": 219
     }
   },
   "clients": {
@@ -4814,5 +4819,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:30:20.304Z"
+  "savedAt": "2026-07-07T17:30:35.038Z"
 }
