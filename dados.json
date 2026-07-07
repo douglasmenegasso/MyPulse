@@ -2349,81 +2349,8 @@
     },
     "c_1779214900706": {
       "clientId": "c_1779214900706",
-      "items": {
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7909392821831": {
-          "code": "7909392821831",
-          "name": "Meia cano médio cinza lupo 36 a 39",
-          "price": 16.9,
-          "qty": 1
-        },
-        "7909392821824": {
-          "code": "7909392821824",
-          "name": "Meia cano médio branco lupo 36 a 39",
-          "price": 14.9,
-          "qty": 1
-        },
-        "7891186301424": {
-          "code": "7891186301424",
-          "name": "Segunda pele preto lupo fio 40 U",
-          "price": 59.9,
-          "qty": 1
-        },
-        "7891186620693": {
-          "code": "7891186620693",
-          "name": "Segunda pele preto lupo fio 60 U",
-          "price": 69.9,
-          "qty": 1
-        },
-        "7908990960027": {
-          "code": "7908990960027",
-          "name": "Blusão texturizado live verde M",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960102": {
-          "code": "7908990960102",
-          "name": "Camiseta texturizada live verde M",
-          "price": 349.9,
-          "qty": 1
-        },
-        "7908990960188": {
-          "code": "7908990960188",
-          "name": "Calça texturizada verde live M",
-          "price": 599.9,
-          "qty": 1
-        },
-        "7900292428939": {
-          "code": "7900292428939",
-          "name": "Calça moletom bege LP M",
-          "price": 577,
-          "qty": 1
-        },
-        "7900292370962": {
-          "code": "7900292370962",
-          "name": "T-shirt off bordado LP M",
-          "price": 263,
-          "qty": 1
-        },
-        "7900415002688": {
-          "code": "7900415002688",
-          "name": "Calça wide leg marrom LP M",
-          "price": 563,
-          "qty": 1
-        },
-        "7909746620479": {
-          "code": "7909746620479",
-          "name": "Regata canelada marrom DT M",
-          "price": 199,
-          "qty": 1
-        }
-      },
-      "total": 3263.2000000000007,
+      "items": {},
+      "total": 6.679101716144942e-13,
       "status": "open"
     },
     "c1779296356399": {
@@ -4781,6 +4708,90 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-07T17:29:35.410Z"
+      },
+      "7909746620479": {
+        "code": "7909746620479",
+        "name": "Regata canelada marrom DT M",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:35.680Z"
+      },
+      "7900415002688": {
+        "code": "7900415002688",
+        "name": "Calça wide leg marrom LP M",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:35.827Z"
+      },
+      "7900292370962": {
+        "code": "7900292370962",
+        "name": "T-shirt off bordado LP M",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:35.993Z"
+      },
+      "7900292428939": {
+        "code": "7900292428939",
+        "name": "Calça moletom bege LP M",
+        "price": 577,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:36.122Z"
+      },
+      "7908990960188": {
+        "code": "7908990960188",
+        "name": "Calça texturizada verde live M",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:36.258Z"
+      },
+      "7908990960102": {
+        "code": "7908990960102",
+        "name": "Camiseta texturizada live verde M",
+        "price": 349.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:36.420Z"
+      },
+      "7908990960027": {
+        "code": "7908990960027",
+        "name": "Blusão texturizado live verde M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:36.690Z"
+      },
+      "7891186620693": {
+        "code": "7891186620693",
+        "name": "Segunda pele preto lupo fio 60 U",
+        "price": 69.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:36.828Z"
+      },
+      "7891186301424": {
+        "code": "7891186301424",
+        "name": "Segunda pele preto lupo fio 40 U",
+        "price": 59.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:36.989Z"
+      },
+      "7909392821824": {
+        "code": "7909392821824",
+        "name": "Meia cano médio branco lupo 36 a 39",
+        "price": 14.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:37.134Z"
+      },
+      "7909392821831": {
+        "code": "7909392821831",
+        "name": "Meia cano médio cinza lupo 36 a 39",
+        "price": 16.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:37.257Z"
+      },
+      "7909392494240": {
+        "code": "7909392494240",
+        "name": "Kit 3 meias Lupo 34 a 39",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:37.543Z"
       }
     }
   },
@@ -4789,5 +4800,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:29:35.410Z"
+  "savedAt": "2026-07-07T17:29:39.672Z"
 }
