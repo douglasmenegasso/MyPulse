@@ -2272,11 +2272,6 @@
       "name": "Natalia Zen",
       "phone": "‪41995409638‬"
     },
-    "c_1779726795016": {
-      "id": "c_1779726795016",
-      "name": "Dani Lapelle 1",
-      "phone": ""
-    },
     "c_1779727528255": {
       "id": "c_1779727528255",
       "name": "Cris estivadores lojista",
@@ -3261,25 +3256,6 @@
         }
       },
       "total": 19596.100000000006,
-      "status": "waiting"
-    },
-    "c_1779726795016": {
-      "clientId": "c_1779726795016",
-      "items": {
-        "7908990997849": {
-          "code": "7908990997849",
-          "name": "Macacão allure azul petróleo live g",
-          "price": 449.9,
-          "qty": 1
-        },
-        "7908990956983": {
-          "code": "7908990956983",
-          "name": "Macacão Fit Green preto live g",
-          "price": 449.9,
-          "qty": 1
-        }
-      },
-      "total": 899.8,
       "status": "waiting"
     },
     "c_1779386183182": {
@@ -4766,5 +4742,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:24:40.413Z"
+  "savedAt": "2026-07-07T17:25:07.601Z"
 }
