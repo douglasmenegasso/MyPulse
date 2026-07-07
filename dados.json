@@ -2219,6 +2219,11 @@
       "code": "7901072449489",
       "name": "Regata cropped rosa ametista live g",
       "price": 169.9
+    },
+    "7908990961284": {
+      "code": "7908990961284",
+      "name": "Legging icon bordo live gg",
+      "price": 319.9
     }
   },
   "clients": {
@@ -4870,5 +4875,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:53:56.089Z"
+  "savedAt": "2026-07-07T20:54:28.861Z"
 }
