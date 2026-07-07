@@ -2750,21 +2750,9 @@
           "name": "Regata canelada off alças marrom LP g",
           "price": 233,
           "qty": 1
-        },
-        "7909746592264": {
-          "code": "7909746592264",
-          "name": "Pijama erica longo cinza DT M",
-          "price": 399,
-          "qty": 1
-        },
-        "7909746378172": {
-          "code": "7909746378172",
-          "name": "Pijama cashmere longo azul DT M",
-          "price": 469,
-          "qty": 1
         }
       },
-      "total": 6610.700000000001,
+      "total": 5742.700000000001,
       "status": "open"
     },
     "c_1779307807613": {
@@ -4579,6 +4567,22 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:13:40.271Z"
       }
+    },
+    "c_1779821818362": {
+      "7909746378172": {
+        "code": "7909746378172",
+        "name": "Pijama cashmere longo azul DT M",
+        "price": 469,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:06.978Z"
+      },
+      "7909746592264": {
+        "code": "7909746592264",
+        "name": "Pijama erica longo cinza DT M",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:08.084Z"
+      }
     }
   },
   "security": {
@@ -4586,5 +4590,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:14:05.753Z"
+  "savedAt": "2026-07-07T20:14:09.735Z"
 }
