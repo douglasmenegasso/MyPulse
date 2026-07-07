@@ -2229,6 +2229,11 @@
       "code": "7908990976226",
       "name": "Top icon bordo live g",
       "price": 249.9
+    },
+    "7908931977435": {
+      "code": "7908931977435",
+      "name": "Regata cropped branco live g",
+      "price": 199.9
     }
   },
   "clients": {
@@ -4899,5 +4904,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:54:56.421Z"
+  "savedAt": "2026-07-07T20:55:41.861Z"
 }
