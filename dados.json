@@ -2727,9 +2727,15 @@
           "name": "Legging icon rosa ametista live g",
           "price": 319.9,
           "qty": 1
+        },
+        "7901128627526": {
+          "code": "7901128627526",
+          "name": "Top icon rosa ametista live gg",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 539.8,
+      "total": 789.6999999999999,
       "status": "open"
     }
   },
@@ -4848,5 +4854,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:37:15.023Z"
+  "savedAt": "2026-07-07T20:37:27.769Z"
 }
