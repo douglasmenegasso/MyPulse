@@ -2762,21 +2762,9 @@
           "name": "Calça pantalona moletom azul LP P",
           "price": 563,
           "qty": 1
-        },
-        "7890171615201": {
-          "code": "7890171615201",
-          "name": "Regata canelada azul AG M",
-          "price": 159,
-          "qty": 1
-        },
-        "7909746620462": {
-          "code": "7909746620462",
-          "name": "Regata canelada marrom DT P",
-          "price": 199,
-          "qty": 1
         }
       },
-      "total": 8293.8,
+      "total": 7935.799999999999,
       "status": "open"
     },
     "c_1779816929745": {
@@ -4558,6 +4546,22 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:13:00.283Z"
       }
+    },
+    "c_1779740193414": {
+      "7909746620462": {
+        "code": "7909746620462",
+        "name": "Regata canelada marrom DT P",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:25.129Z"
+      },
+      "7890171615201": {
+        "code": "7890171615201",
+        "name": "Regata canelada azul AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:26.053Z"
+      }
     }
   },
   "security": {
@@ -4565,5 +4569,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:13:24.042Z"
+  "savedAt": "2026-07-07T20:13:26.054Z"
 }
