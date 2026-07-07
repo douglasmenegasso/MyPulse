@@ -2802,15 +2802,9 @@
           "name": "Top icon marrom live M",
           "price": 249.9,
           "qty": 1
-        },
-        "7890171617328": {
-          "code": "7890171617328",
-          "name": "T-shirt cropped rosa AG M",
-          "price": 198,
-          "qty": 1
         }
       },
-      "total": 19596.100000000006,
+      "total": 19398.100000000006,
       "status": "open"
     },
     "c_1779386183182": {
@@ -4691,6 +4685,15 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:10:30.546Z"
       }
+    },
+    "41995409638": {
+      "7890171617328": {
+        "code": "7890171617328",
+        "name": "T-shirt cropped rosa AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:48.379Z"
+      }
     }
   },
   "security": {
@@ -4698,5 +4701,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:45.591Z"
+  "savedAt": "2026-07-07T20:10:48.380Z"
 }
