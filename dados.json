@@ -4142,9 +4142,15 @@
           "name": "Top alça fina off com preto AG M",
           "price": 229,
           "qty": 1
+        },
+        "7900358017701": {
+          "code": "7900358017701",
+          "name": "Camiseta poque off CCM p",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 598,
+      "total": 817,
       "status": "open"
     }
   },
@@ -4808,5 +4814,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:30:14.805Z"
+  "savedAt": "2026-07-07T17:30:20.304Z"
 }
