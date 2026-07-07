@@ -4168,6 +4168,19 @@
       },
       "total": 1036,
       "status": "waiting"
+    },
+    "c_1779220272757": {
+      "clientId": "c_1779220272757",
+      "items": {
+        "7890171656938": {
+          "code": "7890171656938",
+          "name": "Bermuda elástico off com preto AG M",
+          "price": 369,
+          "qty": 1
+        }
+      },
+      "total": 369,
+      "status": "open"
     }
   },
   "closed": [
@@ -4830,5 +4843,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:52:36.581Z"
+  "savedAt": "2026-07-07T17:52:39.520Z"
 }
