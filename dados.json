@@ -2376,21 +2376,8 @@
     },
     "c1779301944640": {
       "clientId": "c1779301944640",
-      "items": {
-        "7908011244587": {
-          "code": "7908011244587",
-          "name": "Top curve branco live G",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7900415053116": {
-          "code": "7900415053116",
-          "name": "Regata canelada branca bandeira BR LP g ",
-          "price": 223,
-          "qty": 1
-        }
-      },
-      "total": 412.9,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c1779306442215": {
@@ -4635,11 +4622,28 @@
       "closedAt": "2026-05-20T19:50:48.506Z"
     }
   ],
-  "returned": {},
+  "returned": {
+    "c1779301944640": {
+      "7908011244587": {
+        "code": "7908011244587",
+        "name": "Top curve branco live G",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:09:26.369Z"
+      },
+      "7900415053116": {
+        "code": "7900415053116",
+        "name": "Regata canelada branca bandeira BR LP g ",
+        "price": 223,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:09:27.069Z"
+      }
+    }
+  },
   "security": {
     "adminPass": "My@pulse01",
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:09:25.697Z"
+  "savedAt": "2026-07-07T20:09:28.435Z"
 }
