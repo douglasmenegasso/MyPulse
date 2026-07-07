@@ -4291,9 +4291,15 @@
           "name": "Top curve branco live gg",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072413459": {
+          "code": "7901072413459",
+          "name": "Legging hydefit marrom live gg",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 1169.4,
+      "total": 1369.3000000000002,
       "status": "open"
     }
   },
@@ -4749,5 +4755,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:23:42.308Z"
+  "savedAt": "2026-07-07T17:23:45.653Z"
 }
