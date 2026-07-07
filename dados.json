@@ -2069,6 +2069,11 @@
       "code": "7908990956839",
       "name": "Legging hydefit preto live gg",
       "price": 199.9
+    },
+    "7908835804066": {
+      "code": "7908835804066",
+      "name": "Camiseta V action preta live g",
+      "price": 189.9
     }
   },
   "clients": {
@@ -4700,5 +4705,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:21:02.357Z"
+  "savedAt": "2026-07-07T17:21:21.935Z"
 }
