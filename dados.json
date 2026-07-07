@@ -2361,16 +2361,10 @@
           "name": "Camiseta icon preta live g ",
           "price": 199.9,
           "qty": 1
-        },
-        "7908990956822": {
-          "code": "7908990956822",
-          "name": "Legging hydefit preta live g ",
-          "price": 199.9,
-          "qty": 1
         }
       },
-      "total": 399.8,
-      "status": "waiting"
+      "total": 199.9,
+      "status": "open"
     },
     "c1779301944640": {
       "clientId": "c1779301944640",
@@ -4793,6 +4787,15 @@
         "qty": 1,
         "lastAt": "2026-07-07T17:29:37.543Z"
       }
+    },
+    "c1779296356399": {
+      "7908990956822": {
+        "code": "7908990956822",
+        "name": "Legging hydefit preta live g ",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T17:29:46.838Z"
+      }
     }
   },
   "security": {
@@ -4800,5 +4803,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:29:43.719Z"
+  "savedAt": "2026-07-07T17:29:46.839Z"
 }
