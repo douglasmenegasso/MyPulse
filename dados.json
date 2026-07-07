@@ -3197,21 +3197,8 @@
     },
     "c_1779307807613": {
       "clientId": "c_1779307807613",
-      "items": {
-        "7908990957287": {
-          "code": "7908990957287",
-          "name": "Cropped pima branco live P ",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990957324": {
-          "code": "7908990957324",
-          "name": "Camiseta cropped pima preto live P",
-          "price": 249.9,
-          "qty": 1
-        }
-      },
-      "total": 499.79999999999984,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "41988948469": {
@@ -4791,6 +4778,20 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-07T20:12:26.541Z"
+      },
+      "7908990957324": {
+        "code": "7908990957324",
+        "name": "Camiseta cropped pima preto live P",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:26.674Z"
+      },
+      "7908990957287": {
+        "code": "7908990957287",
+        "name": "Cropped pima branco live P ",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:26.811Z"
       }
     }
   },
@@ -4799,5 +4800,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:12:26.542Z"
+  "savedAt": "2026-07-07T20:12:29.457Z"
 }
