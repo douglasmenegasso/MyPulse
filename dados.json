@@ -2485,117 +2485,9 @@
           "name": "Legging pulse marrom live M",
           "price": 359.9,
           "qty": 1
-        },
-        "7908011244655": {
-          "code": "7908011244655",
-          "name": "Top curve preto live M",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7908754515616": {
-          "code": "7908754515616",
-          "name": "Legging allure preto live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908835808095": {
-          "code": "7908835808095",
-          "name": "Top cut out preto live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7908754537908": {
-          "code": "7908754537908",
-          "name": "Camiseta icon preta live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990965299": {
-          "code": "7908990965299",
-          "name": "Shorts icon marrom live M",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7908990976165": {
-          "code": "7908990976165",
-          "name": "Top icon marrom live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990956327": {
-          "code": "7908990956327",
-          "name": "Regata cropped marrom live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7890171616079": {
-          "code": "7890171616079",
-          "name": "Legging brilhosa terracota AG M",
-          "price": 319,
-          "qty": 1
-        },
-        "7890171618905": {
-          "code": "7890171618905",
-          "name": "Top nadador brilhoso terracota AG M",
-          "price": 238,
-          "qty": 1
-        },
-        "7890171629925": {
-          "code": "7890171629925",
-          "name": "Regata aberta lateral terracota AG P",
-          "price": 238,
-          "qty": 1
-        },
-        "7901072425193": {
-          "code": "7901072425193",
-          "name": "Shorts icon azul petróleo live M",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7901072413404": {
-          "code": "7901072413404",
-          "name": "Top icon azul petróleo live M ",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901072434348": {
-          "code": "7901072434348",
-          "name": "Camiseta icon azul petróleo live M ",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990978213": {
-          "code": "7908990978213",
-          "name": "Legging intense pink live M",
-          "price": 359.9,
-          "qty": 1
-        },
-        "7908990983705": {
-          "code": "7908990983705",
-          "name": "Camiseta training link live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908931918834": {
-          "code": "7908931918834",
-          "name": "Top curve terracota live M",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7901072402293": {
-          "code": "7901072402293",
-          "name": "Calça reta vermelha live P",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7908990985440": {
-          "code": "7908990985440",
-          "name": "Macaquinho allure marrom live M",
-          "price": 359.9,
-          "qty": 1
         }
       },
-      "total": 8436.599999999997,
+      "total": 3763.1000000000013,
       "status": "open"
     },
     "c_1779740193414": {
@@ -4604,6 +4496,132 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-07T20:15:58.149Z"
+      },
+      "7908990985440": {
+        "code": "7908990985440",
+        "name": "Macaquinho allure marrom live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:58.308Z"
+      },
+      "7901072402293": {
+        "code": "7901072402293",
+        "name": "Calça reta vermelha live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:58.521Z"
+      },
+      "7908931918834": {
+        "code": "7908931918834",
+        "name": "Top curve terracota live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:58.628Z"
+      },
+      "7908990983705": {
+        "code": "7908990983705",
+        "name": "Camiseta training link live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:58.763Z"
+      },
+      "7908990978213": {
+        "code": "7908990978213",
+        "name": "Legging intense pink live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:58.999Z"
+      },
+      "7901072434348": {
+        "code": "7901072434348",
+        "name": "Camiseta icon azul petróleo live M ",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:59.221Z"
+      },
+      "7901072413404": {
+        "code": "7901072413404",
+        "name": "Top icon azul petróleo live M ",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:59.319Z"
+      },
+      "7901072425193": {
+        "code": "7901072425193",
+        "name": "Shorts icon azul petróleo live M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:59.544Z"
+      },
+      "7890171629925": {
+        "code": "7890171629925",
+        "name": "Regata aberta lateral terracota AG P",
+        "price": 238,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:59.688Z"
+      },
+      "7890171618905": {
+        "code": "7890171618905",
+        "name": "Top nadador brilhoso terracota AG M",
+        "price": 238,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:59.911Z"
+      },
+      "7890171616079": {
+        "code": "7890171616079",
+        "name": "Legging brilhosa terracota AG M",
+        "price": 319,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:00.283Z"
+      },
+      "7908990956327": {
+        "code": "7908990956327",
+        "name": "Regata cropped marrom live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:00.412Z"
+      },
+      "7908990976165": {
+        "code": "7908990976165",
+        "name": "Top icon marrom live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:00.526Z"
+      },
+      "7908990965299": {
+        "code": "7908990965299",
+        "name": "Shorts icon marrom live M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:00.719Z"
+      },
+      "7908754537908": {
+        "code": "7908754537908",
+        "name": "Camiseta icon preta live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:00.812Z"
+      },
+      "7908835808095": {
+        "code": "7908835808095",
+        "name": "Top cut out preto live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:01.059Z"
+      },
+      "7908754515616": {
+        "code": "7908754515616",
+        "name": "Legging allure preto live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:01.193Z"
+      },
+      "7908011244655": {
+        "code": "7908011244655",
+        "name": "Top curve preto live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:16:01.358Z"
       }
     }
   },
@@ -4612,5 +4630,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:15:58.150Z"
+  "savedAt": "2026-07-07T20:16:01.359Z"
 }
