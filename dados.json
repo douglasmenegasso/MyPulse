@@ -2412,15 +2412,8 @@
     },
     "41995150547": {
       "clientId": "41995150547",
-      "items": {
-        "7908990959892": {
-          "code": "7908990959892",
-          "name": "Camiseta air move preta live P",
-          "price": 219.9,
-          "qty": 1
-        }
-      },
-      "total": 219.9,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1779729371390": {
@@ -4768,6 +4761,15 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:11:12.648Z"
       }
+    },
+    "41995150547": {
+      "7908990959892": {
+        "code": "7908990959892",
+        "name": "Camiseta air move preta live P",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:01.823Z"
+      }
     }
   },
   "security": {
@@ -4775,5 +4777,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:12:00.985Z"
+  "savedAt": "2026-07-07T20:12:03.725Z"
 }
