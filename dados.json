@@ -2214,6 +2214,11 @@
       "code": "7901128627526",
       "name": "Top icon rosa ametista live gg",
       "price": 249.9
+    },
+    "7901072449489": {
+      "code": "7901072449489",
+      "name": "Regata cropped rosa ametista live g",
+      "price": 169.9
     }
   },
   "clients": {
@@ -4854,5 +4859,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:37:27.769Z"
+  "savedAt": "2026-07-07T20:37:51.497Z"
 }
