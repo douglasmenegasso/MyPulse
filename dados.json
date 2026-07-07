@@ -2691,12 +2691,6 @@
           "price": 349.9,
           "qty": 1
         },
-        "7900292642472": {
-          "code": "7900292642472",
-          "name": "Calca texturizada off LP g",
-          "price": 443,
-          "qty": 1
-        },
         "7900415000745": {
           "code": "7900415000745",
           "name": "Calça em linho off LP M",
@@ -2704,7 +2698,7 @@
           "qty": 1
         }
       },
-      "total": 2886.7000000000007,
+      "total": 2443.7000000000007,
       "status": "open"
     },
     "c_1779307807613": {
@@ -4590,6 +4584,13 @@
         "price": 497,
         "qty": 1,
         "lastAt": "2026-07-07T20:15:12.865Z"
+      },
+      "7900292642472": {
+        "code": "7900292642472",
+        "name": "Calca texturizada off LP g",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:17.004Z"
       }
     }
   },
@@ -4598,5 +4599,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:15:12.866Z"
+  "savedAt": "2026-07-07T20:15:17.005Z"
 }
