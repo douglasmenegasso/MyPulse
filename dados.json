@@ -1,11 +1,5 @@
 {
-  "products": {
-    "1232": {
-      "code": "1232",
-      "name": "1232",
-      "price": 12
-    }
-  },
+  "products": {},
   "clients": {},
   "orders": {},
   "closed": [],
@@ -15,5 +9,5 @@
     "recoveryKey": "ROHQA59I-A3DY",
     "recoveryEmail": "1"
   },
-  "savedAt": "2026-07-07T17:00:34.437Z"
+  "savedAt": "2026-07-07T17:00:36.800Z"
 }
