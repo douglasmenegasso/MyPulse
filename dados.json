@@ -2094,6 +2094,11 @@
       "code": "7901072413459",
       "name": "Legging hydefit marrom live gg",
       "price": 199.9
+    },
+    "7908835803960": {
+      "code": "7908835803960",
+      "name": "Camiseta V action branca live g",
+      "price": 189.9
     }
   },
   "clients": {
@@ -4755,5 +4760,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:23:45.653Z"
+  "savedAt": "2026-07-07T17:24:04.084Z"
 }
