@@ -2886,9 +2886,15 @@
           "name": "Regata canelada azul DT g",
           "price": 259,
           "qty": 1
+        },
+        "7900292997794": {
+          "code": "7900292997794",
+          "name": "Calça pantalona moletom azul LP P",
+          "price": 563,
+          "qty": 1
         }
       },
-      "total": 2766.8,
+      "total": 3329.8,
       "status": "open"
     }
   },
@@ -5007,5 +5013,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T21:39:48.870Z"
+  "savedAt": "2026-07-07T21:39:55.082Z"
 }
