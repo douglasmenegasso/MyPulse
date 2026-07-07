@@ -2781,45 +2781,8 @@
     },
     "c_1779816929745": {
       "clientId": "c_1779816929745",
-      "items": {
-        "7909746618933": {
-          "code": "7909746618933",
-          "name": "Legging curve uva listra branca DT P",
-          "price": 419,
-          "qty": 1
-        },
-        "7909746618919": {
-          "code": "7909746618919",
-          "name": "Top curve uva listra branca vivame M ",
-          "price": 259,
-          "qty": 1
-        },
-        "7909746631048": {
-          "code": "7909746631048",
-          "name": "Camiseta uva escrita off vivame pp",
-          "price": 339,
-          "qty": 1
-        },
-        "7909746614522": {
-          "code": "7909746614522",
-          "name": "Regata alça fina bordo vivame P ",
-          "price": 259,
-          "qty": 1
-        },
-        "7908990981435": {
-          "code": "7908990981435",
-          "name": "Legging roxo com riscos lateral live P",
-          "price": 299.9,
-          "qty": 1
-        },
-        "7908990985877": {
-          "code": "7908990985877",
-          "name": "Top curve roxo uva live M",
-          "price": 189.9,
-          "qty": 1
-        }
-      },
-      "total": 1765.8000000000002,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1779821818362": {
@@ -4552,6 +4515,48 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-07T20:12:59.223Z"
+      },
+      "7908990985877": {
+        "code": "7908990985877",
+        "name": "Top curve roxo uva live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:59.377Z"
+      },
+      "7908990981435": {
+        "code": "7908990981435",
+        "name": "Legging roxo com riscos lateral live P",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:59.509Z"
+      },
+      "7909746614522": {
+        "code": "7909746614522",
+        "name": "Regata alça fina bordo vivame P ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:59.630Z"
+      },
+      "7909746631048": {
+        "code": "7909746631048",
+        "name": "Camiseta uva escrita off vivame pp",
+        "price": 339,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:00.024Z"
+      },
+      "7909746618919": {
+        "code": "7909746618919",
+        "name": "Top curve uva listra branca vivame M ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:00.048Z"
+      },
+      "7909746618933": {
+        "code": "7909746618933",
+        "name": "Legging curve uva listra branca DT P",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:00.283Z"
       }
     }
   },
@@ -4560,5 +4565,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:12:59.224Z"
+  "savedAt": "2026-07-07T20:13:02.237Z"
 }
