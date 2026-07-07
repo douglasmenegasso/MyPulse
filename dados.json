@@ -2388,75 +2388,8 @@
     },
     "c_1779392450894": {
       "clientId": "c_1779392450894",
-      "items": {
-        "7901072406413": {
-          "code": "7901072406413",
-          "name": "Blusão posh azul petróleo live P",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7901072407571": {
-          "code": "7901072407571",
-          "name": "Legging allure azul petróleo live M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "2616000796056061720019": {
-          "code": "2616000796056061720019",
-          "name": "Top curve allure azul live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072463669": {
-          "code": "7901072463669",
-          "name": "Blusão bege Live P",
-          "price": 349.9,
-          "qty": 1
-        },
-        "7908931976728": {
-          "code": "7908931976728",
-          "name": "Legging grafeno roxo malva live M",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7908931978333": {
-          "code": "7908931978333",
-          "name": "Top nadador grafeno roxo malva live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908990965527": {
-          "code": "7908990965527",
-          "name": "Blusão V marrom live P",
-          "price": 349.9,
-          "qty": 1
-        },
-        "7901072428842": {
-          "code": "7901072428842",
-          "name": "Legging marrom live live g",
-          "price": 329.9,
-          "qty": 1
-        },
-        "2615000802925220610016": {
-          "code": "2615000802925220610016",
-          "name": "Top curve marrom live live G",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7908990960058": {
-          "code": "7908990960058",
-          "name": "Blusão texturizado verde live P",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960218": {
-          "code": "7908990960218",
-          "name": "Calça texturizada verde live P",
-          "price": 599.9,
-          "qty": 1
-        }
-      },
-      "total": 3998.900000000001,
+      "items": {},
+      "total": 4.547473508864641e-13,
       "status": "open"
     },
     "c_1779470225053": {
@@ -4670,6 +4603,83 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-07T20:10:18.865Z"
+      },
+      "7908990960218": {
+        "code": "7908990960218",
+        "name": "Calça texturizada verde live P",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:19.002Z"
+      },
+      "7908990960058": {
+        "code": "7908990960058",
+        "name": "Blusão texturizado verde live P",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:19.147Z"
+      },
+      "2615000802925220610016": {
+        "code": "2615000802925220610016",
+        "name": "Top curve marrom live live G",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:19.292Z"
+      },
+      "7901072428842": {
+        "code": "7901072428842",
+        "name": "Legging marrom live live g",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:19.429Z"
+      },
+      "7908990965527": {
+        "code": "7908990965527",
+        "name": "Blusão V marrom live P",
+        "price": 349.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:19.581Z"
+      },
+      "7908931978333": {
+        "code": "7908931978333",
+        "name": "Top nadador grafeno roxo malva live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:19.731Z"
+      },
+      "7908931976728": {
+        "code": "7908931976728",
+        "name": "Legging grafeno roxo malva live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:19.881Z"
+      },
+      "7901072463669": {
+        "code": "7901072463669",
+        "name": "Blusão bege Live P",
+        "price": 349.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:20.153Z"
+      },
+      "2616000796056061720019": {
+        "code": "2616000796056061720019",
+        "name": "Top curve allure azul live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:20.294Z"
+      },
+      "7901072407571": {
+        "code": "7901072407571",
+        "name": "Legging allure azul petróleo live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:20.432Z"
+      },
+      "7901072406413": {
+        "code": "7901072406413",
+        "name": "Blusão posh azul petróleo live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:20.598Z"
       }
     }
   },
@@ -4678,5 +4688,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:18.865Z"
+  "savedAt": "2026-07-07T20:10:21.918Z"
 }
