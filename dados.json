@@ -2380,19 +2380,6 @@
       "total": 0,
       "status": "open"
     },
-    "c1779306442215": {
-      "clientId": "c1779306442215",
-      "items": {
-        "7901072437776": {
-          "code": "7901072437776",
-          "name": "Jaqueta máxi branco live M",
-          "price": 499.9,
-          "qty": 1
-        }
-      },
-      "total": 499.9,
-      "status": "waiting"
-    },
     "41991098260": {
       "clientId": "41991098260",
       "items": {
@@ -4166,6 +4153,21 @@
   },
   "closed": [
     {
+      "clientId": "c1779306442215",
+      "clientName": "Kharina Dario ",
+      "clientPhone": "",
+      "items": {
+        "7901072437776": {
+          "code": "7901072437776",
+          "name": "Jaqueta máxi branco live M",
+          "price": 499.9,
+          "qty": 1
+        }
+      },
+      "total": 499.9,
+      "closedAt": "2026-07-07T20:09:41.404Z"
+    },
+    {
       "clientId": "c_1779382988768",
       "clientName": "Fernanda estivadores",
       "clientPhone": "",
@@ -4649,5 +4651,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:09:39.625Z"
+  "savedAt": "2026-07-07T20:09:42.609Z"
 }
