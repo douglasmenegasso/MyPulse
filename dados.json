@@ -2816,9 +2816,15 @@
           "name": "Legging máxi azul petróleo live g",
           "price": 329.9,
           "qty": 1
+        },
+        "7908835819299": {
+          "code": "7908835819299",
+          "name": "Camiseta icon azul petróleo live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 1518.6,
+      "total": 1718.5,
       "status": "open"
     }
   },
@@ -4937,5 +4943,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:57:30.401Z"
+  "savedAt": "2026-07-07T20:57:33.768Z"
 }
