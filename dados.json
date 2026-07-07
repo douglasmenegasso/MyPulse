@@ -2204,6 +2204,11 @@
       "code": "7901072429160",
       "name": "Top curve marrom live live g",
       "price": 219.9
+    },
+    "7901072483032": {
+      "code": "7901072483032",
+      "name": "Legging icon rosa ametista live g",
+      "price": 319.9
     }
   },
   "clients": {
@@ -4832,5 +4837,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:36:14.577Z"
+  "savedAt": "2026-07-07T20:36:27.106Z"
 }
