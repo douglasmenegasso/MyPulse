@@ -2703,26 +2703,14 @@
           "price": 443,
           "qty": 1
         },
-        "7909746482176": {
-          "code": "7909746482176",
-          "name": "Regata canelada off DT g",
-          "price": 229,
-          "qty": 1
-        },
         "7900415000745": {
           "code": "7900415000745",
           "name": "Calça em linho off LP M",
           "price": 497,
           "qty": 1
-        },
-        "7900292893911": {
-          "code": "7900292893911",
-          "name": "Vestido canelado preto logo couro LP g",
-          "price": 333,
-          "qty": 1
         }
       },
-      "total": 3945.7000000000007,
+      "total": 3383.7000000000007,
       "status": "open"
     },
     "c_1779307807613": {
@@ -4587,6 +4575,20 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-07-07T20:14:16.368Z"
+      },
+      "7900292893911": {
+        "code": "7900292893911",
+        "name": "Vestido canelado preto logo couro LP g",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:17.150Z"
+      },
+      "7909746482176": {
+        "code": "7909746482176",
+        "name": "Regata canelada off DT g",
+        "price": 229,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:18.779Z"
       }
     }
   },
@@ -4595,5 +4597,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:14:16.369Z"
+  "savedAt": "2026-07-07T20:14:18.780Z"
 }
