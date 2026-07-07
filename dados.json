@@ -2454,69 +2454,9 @@
           "name": "Calça texturizada verde live P",
           "price": 599.9,
           "qty": 1
-        },
-        "7908990956891": {
-          "code": "7908990956891",
-          "name": "Legging hydefit verde live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990960027": {
-          "code": "7908990960027",
-          "name": "Blusão texturizado live verde M",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960188": {
-          "code": "7908990960188",
-          "name": "Calça texturizada verde live M",
-          "price": 599.9,
-          "qty": 1
-        },
-        "7909392821831": {
-          "code": "7909392821831",
-          "name": "Meia cano médio cinza lupo 36 a 39",
-          "price": 16.9,
-          "qty": 1
-        },
-        "7909392821824": {
-          "code": "7909392821824",
-          "name": "Meia cano médio branco lupo 36 a 39",
-          "price": 14.9,
-          "qty": 1
-        },
-        "7890171378908": {
-          "code": "7890171378908",
-          "name": "Meia rosa AG 34 a 39",
-          "price": 39.9,
-          "qty": 2
-        },
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7891186301424": {
-          "code": "7891186301424",
-          "name": "Segunda pele preto lupo fio 40 U",
-          "price": 59.9,
-          "qty": 1
-        },
-        "7891186620693": {
-          "code": "7891186620693",
-          "name": "Segunda pele preto lupo fio 60 U",
-          "price": 69.9,
-          "qty": 1
-        },
-        "7891186428695": {
-          "code": "7891186428695",
-          "name": "Top regulável preto lupo M",
-          "price": 49.9,
-          "qty": 1
         }
       },
-      "total": 5639.799999999997,
+      "total": 3998.900000000001,
       "status": "open"
     },
     "c_1779470225053": {
@@ -4659,6 +4599,78 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:10:07.496Z"
       }
+    },
+    "c_1779392450894": {
+      "7891186428695": {
+        "code": "7891186428695",
+        "name": "Top regulável preto lupo M",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:17.407Z"
+      },
+      "7891186620693": {
+        "code": "7891186620693",
+        "name": "Segunda pele preto lupo fio 60 U",
+        "price": 69.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:17.546Z"
+      },
+      "7891186301424": {
+        "code": "7891186301424",
+        "name": "Segunda pele preto lupo fio 40 U",
+        "price": 59.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:17.700Z"
+      },
+      "7909392494240": {
+        "code": "7909392494240",
+        "name": "Kit 3 meias Lupo 34 a 39",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:17.850Z"
+      },
+      "7890171378908": {
+        "code": "7890171378908",
+        "name": "Meia rosa AG 34 a 39",
+        "price": 39.9,
+        "qty": 2,
+        "lastAt": "2026-07-07T20:10:18.146Z"
+      },
+      "7909392821824": {
+        "code": "7909392821824",
+        "name": "Meia cano médio branco lupo 36 a 39",
+        "price": 14.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:18.298Z"
+      },
+      "7909392821831": {
+        "code": "7909392821831",
+        "name": "Meia cano médio cinza lupo 36 a 39",
+        "price": 16.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:18.458Z"
+      },
+      "7908990960188": {
+        "code": "7908990960188",
+        "name": "Calça texturizada verde live M",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:18.604Z"
+      },
+      "7908990960027": {
+        "code": "7908990960027",
+        "name": "Blusão texturizado live verde M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:18.739Z"
+      },
+      "7908990956891": {
+        "code": "7908990956891",
+        "name": "Legging hydefit verde live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:18.865Z"
+      }
     }
   },
   "security": {
@@ -4666,5 +4678,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:16.712Z"
+  "savedAt": "2026-07-07T20:10:18.865Z"
 }
