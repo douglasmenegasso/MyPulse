@@ -2400,93 +2400,8 @@
     },
     "41995409638": {
       "clientId": "41995409638",
-      "items": {
-        "7908931963278": {
-          "code": "7908931963278",
-          "name": "Macaquinho cut out vermelho live M",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7908990904601": {
-          "code": "7908990904601",
-          "name": "Shorts pink live live P",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990938972": {
-          "code": "7908990938972",
-          "name": "Top curve pink live live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7901072413411": {
-          "code": "7901072413411",
-          "name": "Legging allure com bolso vinho live P",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901072434201": {
-          "code": "7901072434201",
-          "name": "Camiseta icon vinho live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908011244761": {
-          "code": "7908011244761",
-          "name": "Top curve branco live P",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7890171622865": {
-          "code": "7890171622865",
-          "name": "Saia sobreposta off AG M",
-          "price": 289,
-          "qty": 1
-        },
-        "7890171617663": {
-          "code": "7890171617663",
-          "name": "Regata cropped mesh off AG M",
-          "price": 214,
-          "qty": 1
-        },
-        "7909746571870": {
-          "code": "7909746571870",
-          "name": "Jaqueta elite preta DT P",
-          "price": 569,
-          "qty": 1
-        },
-        "7909746568825": {
-          "code": "7909746568825",
-          "name": "Macaquinho powerli preto DT P",
-          "price": 399,
-          "qty": 1
-        },
-        "7908990943716": {
-          "code": "7908990943716",
-          "name": "Macaquinho seamless marrom live P",
-          "price": 359.9,
-          "qty": 1
-        },
-        "7908990911012": {
-          "code": "7908990911012",
-          "name": "Shorts allure rosa live P",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7908931940286": {
-          "code": "7908931940286",
-          "name": "Top curve allure rosa live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7890171636114": {
-          "code": "7890171636114",
-          "name": "Regata ajuste lateral marrom AG P",
-          "price": 198,
-          "qty": 1
-        }
-      },
-      "total": 4058.1,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1779386183182": {
@@ -4746,6 +4661,104 @@
         "price": 349.9,
         "qty": 1,
         "lastAt": "2026-07-07T20:10:56.607Z"
+      },
+      "7890171636114": {
+        "code": "7890171636114",
+        "name": "Regata ajuste lateral marrom AG P",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:56.779Z"
+      },
+      "7908931940286": {
+        "code": "7908931940286",
+        "name": "Top curve allure rosa live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:56.896Z"
+      },
+      "7908990911012": {
+        "code": "7908990911012",
+        "name": "Shorts allure rosa live P",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:57.112Z"
+      },
+      "7908990943716": {
+        "code": "7908990943716",
+        "name": "Macaquinho seamless marrom live P",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:57.244Z"
+      },
+      "7909746568825": {
+        "code": "7909746568825",
+        "name": "Macaquinho powerli preto DT P",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:57.400Z"
+      },
+      "7909746571870": {
+        "code": "7909746571870",
+        "name": "Jaqueta elite preta DT P",
+        "price": 569,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:57.539Z"
+      },
+      "7890171617663": {
+        "code": "7890171617663",
+        "name": "Regata cropped mesh off AG M",
+        "price": 214,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:57.685Z"
+      },
+      "7890171622865": {
+        "code": "7890171622865",
+        "name": "Saia sobreposta off AG M",
+        "price": 289,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:57.838Z"
+      },
+      "7908011244761": {
+        "code": "7908011244761",
+        "name": "Top curve branco live P",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:58.002Z"
+      },
+      "7901072434201": {
+        "code": "7901072434201",
+        "name": "Camiseta icon vinho live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:58.157Z"
+      },
+      "7901072413411": {
+        "code": "7901072413411",
+        "name": "Legging allure com bolso vinho live P",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:58.403Z"
+      },
+      "7908990938972": {
+        "code": "7908990938972",
+        "name": "Top curve pink live live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:58.553Z"
+      },
+      "7908990904601": {
+        "code": "7908990904601",
+        "name": "Shorts pink live live P",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:58.692Z"
+      },
+      "7908931963278": {
+        "code": "7908931963278",
+        "name": "Macaquinho cut out vermelho live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:58.945Z"
       }
     }
   },
@@ -4754,5 +4767,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:56.607Z"
+  "savedAt": "2026-07-07T20:11:00.190Z"
 }
