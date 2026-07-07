@@ -2720,27 +2720,9 @@
           "name": "Vestido canelado preto logo couro LP g",
           "price": 333,
           "qty": 1
-        },
-        "7909746613693": {
-          "code": "7909746613693",
-          "name": "Calça flare preto DT g",
-          "price": 399,
-          "qty": 1
-        },
-        "7900292979783": {
-          "code": "7900292979783",
-          "name": "Top Sport duplo com elástico preto LP g",
-          "price": 333,
-          "qty": 1
-        },
-        "7900041415388": {
-          "code": "7900041415388",
-          "name": "Blusa manga longa decote V preto LP M",
-          "price": 333,
-          "qty": 1
         }
       },
-      "total": 5010.700000000001,
+      "total": 3945.7000000000007,
       "status": "open"
     },
     "c_1779307807613": {
@@ -4584,6 +4566,27 @@
         "price": 499,
         "qty": 1,
         "lastAt": "2026-07-07T20:14:10.819Z"
+      },
+      "7900041415388": {
+        "code": "7900041415388",
+        "name": "Blusa manga longa decote V preto LP M",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:13.955Z"
+      },
+      "7900292979783": {
+        "code": "7900292979783",
+        "name": "Top Sport duplo com elástico preto LP g",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:15.411Z"
+      },
+      "7909746613693": {
+        "code": "7909746613693",
+        "name": "Calça flare preto DT g",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:16.368Z"
       }
     }
   },
@@ -4592,5 +4595,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:14:13.341Z"
+  "savedAt": "2026-07-07T20:14:16.369Z"
 }
