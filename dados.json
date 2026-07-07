@@ -2538,9 +2538,15 @@
           "name": "Saia detalhe estampa rosa AG P",
           "price": 319,
           "qty": 1
+        },
+        "7890171646335": {
+          "code": "7890171646335",
+          "name": "Regata franzida assimétrica rosa AG P",
+          "price": 239,
+          "qty": 1
         }
       },
-      "total": 1355,
+      "total": 1594,
       "status": "open"
     }
   },
@@ -4659,5 +4665,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:23:27.659Z"
+  "savedAt": "2026-07-07T20:23:31.080Z"
 }
