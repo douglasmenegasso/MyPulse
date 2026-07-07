@@ -2134,6 +2134,11 @@
       "code": "7890171646335",
       "name": "Regata franzida assimétrica rosa AG P",
       "price": 239
+    },
+    "7890171663479": {
+      "code": "7890171663479",
+      "name": "Legging elástico lilás AG P",
+      "price": 369
     }
   },
   "clients": {
@@ -4665,5 +4670,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:23:34.717Z"
+  "savedAt": "2026-07-07T20:23:47.053Z"
 }
