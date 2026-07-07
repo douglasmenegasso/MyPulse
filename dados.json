@@ -2726,15 +2726,9 @@
           "name": "Calça texturizada verde live P",
           "price": 599.9,
           "qty": 1
-        },
-        "7900292767526": {
-          "code": "7900292767526",
-          "name": "Calça em linho bordo LP pp",
-          "price": 673,
-          "qty": 1
         }
       },
-      "total": 5760.799999999999,
+      "total": 5087.799999999999,
       "status": "open"
     },
     "c_1779816929745": {
@@ -4566,6 +4560,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-07T20:13:30.451Z"
+      },
+      "7900292767526": {
+        "code": "7900292767526",
+        "name": "Calça em linho bordo LP pp",
+        "price": 673,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:13:32.716Z"
       }
     }
   },
@@ -4574,5 +4575,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:13:31.581Z"
+  "savedAt": "2026-07-07T20:13:34.902Z"
 }
