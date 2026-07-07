@@ -2712,99 +2712,9 @@
           "name": "Legging azul petróleo live live M",
           "price": 329.9,
           "qty": 1
-        },
-        "7901072429207": {
-          "code": "7901072429207",
-          "name": "Top curve azul petróleo live live P",
-          "price": 219.9,
-          "qty": 1
-        },
-        "2610000766018193200011": {
-          "code": "2610000766018193200011",
-          "name": "Cropped soft off live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7890171630433": {
-          "code": "7890171630433",
-          "name": "Legging shine brilhosa terracota AG P",
-          "price": 298,
-          "qty": 1
-        },
-        "7890171629154": {
-          "code": "7890171629154",
-          "name": "Top shine brilhoso terracota AG P",
-          "price": 198,
-          "qty": 1
-        },
-        "5127000273909036930015": {
-          "code": "5127000273909036930015",
-          "name": "Blusa manga longa salmão live P",
-          "price": 179.9,
-          "qty": 1
-        },
-        "7908990961277": {
-          "code": "7908990961277",
-          "name": "Legging icon bordo live P",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908990976240": {
-          "code": "7908990976240",
-          "name": "Top icon bordo live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901072438674": {
-          "code": "7901072438674",
-          "name": "Cropped icon bordo live M",
-          "price": 179.9,
-          "qty": 1
-        },
-        "7908990903482": {
-          "code": "7908990903482",
-          "name": "Legging máxi rosa live P",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7908931972768": {
-          "code": "7908931972768",
-          "name": "Top máxi rosa live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990957287": {
-          "code": "7908990957287",
-          "name": "Cropped pima branco live P ",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990972563": {
-          "code": "7908990972563",
-          "name": "Legging máxi vermelho live M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7908931962783": {
-          "code": "7908931962783",
-          "name": "Top cut out vermelho live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "5525000685269506800030": {
-          "code": "5525000685269506800030",
-          "name": "Legging icon marrom live P",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908990911227": {
-          "code": "7908990911227",
-          "name": "Top icon marrom live M",
-          "price": 249.9,
-          "qty": 1
         }
       },
-      "total": 19398.100000000006,
+      "total": 15543.39999999999,
       "status": "open"
     },
     "c_1779386183182": {
@@ -4693,6 +4603,111 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-07T20:10:48.379Z"
+      },
+      "7908990911227": {
+        "code": "7908990911227",
+        "name": "Top icon marrom live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:48.527Z"
+      },
+      "5525000685269506800030": {
+        "code": "5525000685269506800030",
+        "name": "Legging icon marrom live P",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:48.661Z"
+      },
+      "7908931962783": {
+        "code": "7908931962783",
+        "name": "Top cut out vermelho live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:48.804Z"
+      },
+      "7908990972563": {
+        "code": "7908990972563",
+        "name": "Legging máxi vermelho live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:48.937Z"
+      },
+      "7908990957287": {
+        "code": "7908990957287",
+        "name": "Cropped pima branco live P ",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:49.083Z"
+      },
+      "7908931972768": {
+        "code": "7908931972768",
+        "name": "Top máxi rosa live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:49.226Z"
+      },
+      "7908990903482": {
+        "code": "7908990903482",
+        "name": "Legging máxi rosa live P",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:49.375Z"
+      },
+      "7901072438674": {
+        "code": "7901072438674",
+        "name": "Cropped icon bordo live M",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:49.532Z"
+      },
+      "7908990976240": {
+        "code": "7908990976240",
+        "name": "Top icon bordo live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:49.690Z"
+      },
+      "7908990961277": {
+        "code": "7908990961277",
+        "name": "Legging icon bordo live P",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:49.838Z"
+      },
+      "5127000273909036930015": {
+        "code": "5127000273909036930015",
+        "name": "Blusa manga longa salmão live P",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:49.977Z"
+      },
+      "7890171629154": {
+        "code": "7890171629154",
+        "name": "Top shine brilhoso terracota AG P",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:50.122Z"
+      },
+      "7890171630433": {
+        "code": "7890171630433",
+        "name": "Legging shine brilhosa terracota AG P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:50.262Z"
+      },
+      "2610000766018193200011": {
+        "code": "2610000766018193200011",
+        "name": "Cropped soft off live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:50.403Z"
+      },
+      "7901072429207": {
+        "code": "7901072429207",
+        "name": "Top curve azul petróleo live live P",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:50.543Z"
       }
     }
   },
@@ -4701,5 +4716,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:48.380Z"
+  "savedAt": "2026-07-07T20:10:50.543Z"
 }
