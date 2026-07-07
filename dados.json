@@ -2174,6 +2174,11 @@
       "code": "7890171662229",
       "name": "Top elástico roxo malva AG M",
       "price": 219
+    },
+    "7890171656426": {
+      "code": "7890171656426",
+      "name": "Camiseta pima bege AG men M",
+      "price": 269
     }
   },
   "clients": {
@@ -4758,5 +4763,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:29:31.303Z"
+  "savedAt": "2026-07-07T20:29:44.623Z"
 }
