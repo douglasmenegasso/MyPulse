@@ -2424,15 +2424,9 @@
           "name": "Robe chloe curto verde água DT P",
           "price": 499,
           "qty": 1
-        },
-        "7909746435417": {
-          "code": "7909746435417",
-          "name": "Pijama Chloe lindo verde água DT P",
-          "price": 529,
-          "qty": 1
         }
       },
-      "total": 1457,
+      "total": 928,
       "status": "open"
     },
     "c_1779210547825": {
@@ -4760,6 +4754,15 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:10:58.945Z"
       }
+    },
+    "c_1779727528255": {
+      "7909746435417": {
+        "code": "7909746435417",
+        "name": "Pijama Chloe lindo verde água DT P",
+        "price": 529,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:11:11.908Z"
+      }
     }
   },
   "security": {
@@ -4767,5 +4770,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:11:06.815Z"
+  "savedAt": "2026-07-07T20:11:11.909Z"
 }
