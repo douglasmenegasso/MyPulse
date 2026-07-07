@@ -2772,9 +2772,15 @@
           "name": "Legging icon bordo live gg",
           "price": 319.9,
           "qty": 1
+        },
+        "7908990976226": {
+          "code": "7908990976226",
+          "name": "Top icon bordo live g",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 319.9,
+      "total": 569.8,
       "status": "open"
     }
   },
@@ -4893,5 +4899,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:54:49.465Z"
+  "savedAt": "2026-07-07T20:54:54.071Z"
 }
