@@ -2858,9 +2858,15 @@
           "name": "Calça texturizada verde live M",
           "price": 599.9,
           "qty": 1
+        },
+        "7909746614164": {
+          "code": "7909746614164",
+          "name": "Vestido canelado bordo DT M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 1099.8,
+      "total": 1548.8,
       "status": "open"
     }
   },
@@ -4979,5 +4985,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T21:38:34.595Z"
+  "savedAt": "2026-07-07T21:38:45.195Z"
 }
