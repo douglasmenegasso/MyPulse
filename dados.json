@@ -2794,9 +2794,15 @@
           "name": "Regata cropped branco live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7909746618957": {
+          "code": "7909746618957",
+          "name": "Legging curve bordo listra branca DT g",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 769.6999999999999,
+      "total": 1188.6999999999998,
       "status": "open"
     }
   },
@@ -4915,5 +4921,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:56:31.383Z"
+  "savedAt": "2026-07-07T20:56:34.318Z"
 }
