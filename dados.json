@@ -2074,6 +2074,11 @@
       "code": "7908835804066",
       "name": "Camiseta V action preta live g",
       "price": 189.9
+    },
+    "7908990956884": {
+      "code": "7908990956884",
+      "name": "Legging hydefit verde militar live gg",
+      "price": 199.9
     }
   },
   "clients": {
@@ -4711,5 +4716,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:21:39.356Z"
+  "savedAt": "2026-07-07T17:21:56.399Z"
 }
