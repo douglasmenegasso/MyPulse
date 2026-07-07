@@ -2526,9 +2526,13 @@
       },
       "total": 1036,
       "status": "waiting"
-    },
-    "c_1779220272757": {
+    }
+  },
+  "closed": [
+    {
       "clientId": "c_1779220272757",
+      "clientName": "Dani Lapelle",
+      "clientPhone": "",
       "items": {
         "7890171656938": {
           "code": "7890171656938",
@@ -2544,10 +2548,8 @@
         }
       },
       "total": 598,
-      "status": "waiting"
-    }
-  },
-  "closed": [
+      "closedAt": "2026-07-07T20:21:54.137Z"
+    },
     {
       "clientId": "c_1779821818362",
       "clientName": "Janaína Loren",
@@ -4641,5 +4643,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:21:28.461Z"
+  "savedAt": "2026-07-07T20:21:54.138Z"
 }
