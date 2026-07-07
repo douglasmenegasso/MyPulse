@@ -2124,6 +2124,11 @@
       "code": "7890171656938",
       "name": "Bermuda elástico off com preto AG M",
       "price": 369
+    },
+    "7890171645338": {
+      "code": "7890171645338",
+      "name": "Saia detalhe estampa rosa AG P",
+      "price": 319
     }
   },
   "clients": {
@@ -4643,5 +4648,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:22:28.711Z"
+  "savedAt": "2026-07-07T20:22:56.428Z"
 }
