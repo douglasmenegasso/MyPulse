@@ -2418,16 +2418,10 @@
           "name": "Pijama Maisa longo bege DT P",
           "price": 429,
           "qty": 1
-        },
-        "7909746435455": {
-          "code": "7909746435455",
-          "name": "Robe chloe curto verde água DT P",
-          "price": 499,
-          "qty": 1
         }
       },
-      "total": 928,
-      "status": "open"
+      "total": 429,
+      "status": "waiting"
     },
     "c_1779210547825": {
       "clientId": "c_1779210547825",
@@ -4762,6 +4756,13 @@
         "price": 529,
         "qty": 1,
         "lastAt": "2026-07-07T20:11:11.908Z"
+      },
+      "7909746435455": {
+        "code": "7909746435455",
+        "name": "Robe chloe curto verde água DT P",
+        "price": 499,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:11:12.648Z"
       }
     }
   },
@@ -4770,5 +4771,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:11:11.909Z"
+  "savedAt": "2026-07-07T20:11:15.079Z"
 }
