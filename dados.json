@@ -2184,6 +2184,11 @@
       "code": "7890171646533",
       "name": "Camiseta bicolor verde e cinza AG men g",
       "price": 259
+    },
+    "7890171656419": {
+      "code": "7890171656419",
+      "name": "Camiseta pima bege AG men g",
+      "price": 269
     }
   },
   "clients": {
@@ -4781,5 +4786,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:30:39.002Z"
+  "savedAt": "2026-07-07T20:30:50.603Z"
 }
