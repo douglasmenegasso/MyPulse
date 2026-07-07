@@ -2527,9 +2527,15 @@
           "name": "Camiseta poque preta CCM",
           "price": 219,
           "qty": 1
+        },
+        "7890171645338": {
+          "code": "7890171645338",
+          "name": "Saia detalhe estampa rosa AG P",
+          "price": 319,
+          "qty": 1
         }
       },
-      "total": 1036,
+      "total": 1355,
       "status": "open"
     }
   },
@@ -4648,5 +4654,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:23:00.576Z"
+  "savedAt": "2026-07-07T20:23:05.005Z"
 }
