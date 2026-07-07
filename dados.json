@@ -2482,9 +2482,15 @@
           "name": "Camiseta pima bege AG men g",
           "price": 269,
           "qty": 1
+        },
+        "7890171558089": {
+          "code": "7890171558089",
+          "name": "Bermuda eterno cinza AG men M",
+          "price": 329,
+          "qty": 1
         }
       },
-      "total": 797,
+      "total": 1126,
       "status": "open"
     },
     "41995409638": {
@@ -4797,5 +4803,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:34:01.822Z"
+  "savedAt": "2026-07-07T20:34:06.032Z"
 }
