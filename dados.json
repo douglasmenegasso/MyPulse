@@ -2673,12 +2673,6 @@
           "price": 497,
           "qty": 1
         },
-        "7900292699117": {
-          "code": "7900292699117",
-          "name": "Tênis com carimbo off LP 36",
-          "price": 497,
-          "qty": 1
-        },
         "7908990960041": {
           "code": "7908990960041",
           "name": "Blusão texturizado verde live g",
@@ -2710,7 +2704,7 @@
           "qty": 1
         }
       },
-      "total": 3383.7000000000007,
+      "total": 2886.7000000000007,
       "status": "open"
     },
     "c_1779307807613": {
@@ -4589,6 +4583,13 @@
         "price": 229,
         "qty": 1,
         "lastAt": "2026-07-07T20:14:18.779Z"
+      },
+      "7900292699117": {
+        "code": "7900292699117",
+        "name": "Tênis com carimbo off LP 36",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:15:12.865Z"
       }
     }
   },
@@ -4597,5 +4598,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:14:48.771Z"
+  "savedAt": "2026-07-07T20:15:12.866Z"
 }
