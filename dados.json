@@ -2758,6 +2758,19 @@
       },
       "total": 959.5999999999999,
       "status": "waiting"
+    },
+    "c_1783457601997": {
+      "clientId": "c_1783457601997",
+      "items": {
+        "7908990961284": {
+          "code": "7908990961284",
+          "name": "Legging icon bordo live gg",
+          "price": 319.9,
+          "qty": 1
+        }
+      },
+      "total": 319.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -4875,5 +4888,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:54:28.861Z"
+  "savedAt": "2026-07-07T20:54:31.359Z"
 }
