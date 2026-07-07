@@ -2410,25 +2410,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1779210547825": {
-      "clientId": "c_1779210547825",
-      "items": {
-        "7890171636947": {
-          "code": "7890171636947",
-          "name": "Legging canelada preta listra branca AG M",
-          "price": 349,
-          "qty": 1
-        },
-        "7890171630723": {
-          "code": "7890171630723",
-          "name": "Top canelado preto listra branca AG g",
-          "price": 238,
-          "qty": 1
-        }
-      },
-      "total": 587,
-      "status": "waiting"
-    },
     "41995150547": {
       "clientId": "41995150547",
       "items": {
@@ -3462,6 +3443,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779210547825",
+      "clientName": "July",
+      "clientPhone": "",
+      "items": {
+        "7890171636947": {
+          "code": "7890171636947",
+          "name": "Legging canelada preta listra branca AG M",
+          "price": 349,
+          "qty": 1
+        },
+        "7890171630723": {
+          "code": "7890171630723",
+          "name": "Top canelado preto listra branca AG g",
+          "price": 238,
+          "qty": 1
+        }
+      },
+      "total": 587,
+      "closedAt": "2026-07-07T20:11:53.108Z"
+    },
     {
       "clientId": "c_1779727528255",
       "clientName": "Cris estivadores lojista",
@@ -4773,5 +4775,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:11:47.391Z"
+  "savedAt": "2026-07-07T20:11:53.109Z"
 }
