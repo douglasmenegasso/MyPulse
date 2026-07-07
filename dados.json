@@ -2383,26 +2383,14 @@
     "c1779306442215": {
       "clientId": "c1779306442215",
       "items": {
-        "7901072437691": {
-          "code": "7901072437691",
-          "name": "Shorts máxi branco live M",
-          "price": 239.9,
-          "qty": 1
-        },
         "7901072437776": {
           "code": "7901072437776",
           "name": "Jaqueta máxi branco live M",
           "price": 499.9,
           "qty": 1
-        },
-        "7901072428026": {
-          "code": "7901072428026",
-          "name": "Top máxi branco live M",
-          "price": 249.9,
-          "qty": 1
         }
       },
-      "total": 989.6999999999999,
+      "total": 499.9,
       "status": "open"
     },
     "41991098260": {
@@ -4638,6 +4626,22 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:09:27.069Z"
       }
+    },
+    "c1779306442215": {
+      "7901072428026": {
+        "code": "7901072428026",
+        "name": "Top máxi branco live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:09:35.412Z"
+      },
+      "7901072437691": {
+        "code": "7901072437691",
+        "name": "Shorts máxi branco live M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:09:36.369Z"
+      }
     }
   },
   "security": {
@@ -4645,5 +4649,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:09:33.821Z"
+  "savedAt": "2026-07-07T20:09:36.370Z"
 }
