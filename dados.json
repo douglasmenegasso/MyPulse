@@ -1,10 +1,5 @@
 {
   "products": {
-    "2": {
-      "code": "2",
-      "name": "2",
-      "price": 2
-    },
     "123": {
       "code": "123",
       "name": "teste",
@@ -25,5 +20,5 @@
     "recoveryKey": "ROHQA59I-A3DY",
     "recoveryEmail": "1"
   },
-  "savedAt": "2026-07-07T17:00:29.103Z"
+  "savedAt": "2026-07-07T17:00:31.931Z"
 }
