@@ -2493,9 +2493,15 @@
           "name": "Bermuda eterno cinza AG men M",
           "price": 329,
           "qty": 1
+        },
+        "7890171566084": {
+          "code": "7890171566084",
+          "name": "Bermuda eterno cinza AG men g",
+          "price": 329,
+          "qty": 1
         }
       },
-      "total": 1126,
+      "total": 1455,
       "status": "open"
     },
     "41995409638": {
@@ -4808,5 +4814,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:35:14.193Z"
+  "savedAt": "2026-07-07T20:35:18.187Z"
 }
