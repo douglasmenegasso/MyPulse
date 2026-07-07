@@ -2604,9 +2604,15 @@
           "name": "Saia elástico preto e off AG P",
           "price": 328,
           "qty": 1
+        },
+        "7890171654347": {
+          "code": "7890171654347",
+          "name": "Top assimétrico off e preto AG M",
+          "price": 379,
+          "qty": 1
         }
       },
-      "total": 3178,
+      "total": 3557,
       "status": "open"
     }
   },
@@ -4725,5 +4731,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:27:07.058Z"
+  "savedAt": "2026-07-07T20:27:10.069Z"
 }
