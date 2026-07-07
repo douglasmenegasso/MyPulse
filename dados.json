@@ -2416,19 +2416,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1779729371390": {
-      "clientId": "c_1779729371390",
-      "items": {
-        "7900292893935": {
-          "code": "7900292893935",
-          "name": "Vestido canelado preto lP M",
-          "price": 333,
-          "qty": 1
-        }
-      },
-      "total": 333,
-      "status": "waiting"
-    },
     "c_1779735439830": {
       "clientId": "c_1779735439830",
       "items": {
@@ -3412,6 +3399,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779729371390",
+      "clientName": "Paty salão",
+      "clientPhone": "",
+      "items": {
+        "7900292893935": {
+          "code": "7900292893935",
+          "name": "Vestido canelado preto lP M",
+          "price": 333,
+          "qty": 1
+        }
+      },
+      "total": 333,
+      "closedAt": "2026-07-07T20:12:17.580Z"
+    },
     {
       "clientId": "c_1779210547825",
       "clientName": "July",
@@ -4783,5 +4785,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:12:15.428Z"
+  "savedAt": "2026-07-07T20:12:18.626Z"
 }
