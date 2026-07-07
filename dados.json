@@ -2382,51 +2382,8 @@
     },
     "c_1779389649186": {
       "clientId": "c_1779389649186",
-      "items": {
-        "7909746609467": {
-          "code": "7909746609467",
-          "name": "Pijama Caio longo preto e cinza DT M",
-          "price": 389,
-          "qty": 1
-        },
-        "7908990948179": {
-          "code": "7908990948179",
-          "name": "Jaqueta train azul live men M",
-          "price": 599.9,
-          "qty": 1
-        },
-        "7901072423823": {
-          "code": "7901072423823",
-          "name": "Calça train azul live men M",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990996101": {
-          "code": "7908990996101",
-          "name": "Bermuda casual marrom live M men",
-          "price": 449.9,
-          "qty": 1
-        },
-        "7908990947660": {
-          "code": "7908990947660",
-          "name": "Jaqueta casual marrom live M men",
-          "price": 699.9,
-          "qty": 1
-        },
-        "2615000776292241510035": {
-          "code": "2615000776292241510035",
-          "name": "Camiseta cotton marrom live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7908990970200": {
-          "code": "7908990970200",
-          "name": "Camiseta cotton bege live M",
-          "price": 279.9,
-          "qty": 1
-        }
-      },
-      "total": 3198.4,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1779392450894": {
@@ -4651,6 +4608,57 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:09:54.459Z"
       }
+    },
+    "c_1779389649186": {
+      "7908990970200": {
+        "code": "7908990970200",
+        "name": "Camiseta cotton bege live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:06.654Z"
+      },
+      "2615000776292241510035": {
+        "code": "2615000776292241510035",
+        "name": "Camiseta cotton marrom live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:06.785Z"
+      },
+      "7908990947660": {
+        "code": "7908990947660",
+        "name": "Jaqueta casual marrom live M men",
+        "price": 699.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:06.922Z"
+      },
+      "7908990996101": {
+        "code": "7908990996101",
+        "name": "Bermuda casual marrom live M men",
+        "price": 449.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:07.056Z"
+      },
+      "7901072423823": {
+        "code": "7901072423823",
+        "name": "Calça train azul live men M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:07.216Z"
+      },
+      "7908990948179": {
+        "code": "7908990948179",
+        "name": "Jaqueta train azul live men M",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:07.350Z"
+      },
+      "7909746609467": {
+        "code": "7909746609467",
+        "name": "Pijama Caio longo preto e cinza DT M",
+        "price": 389,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:10:07.496Z"
+      }
     }
   },
   "security": {
@@ -4658,5 +4666,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:10:05.846Z"
+  "savedAt": "2026-07-07T20:10:10.287Z"
 }
