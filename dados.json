@@ -4153,9 +4153,15 @@
           "name": "Camiseta poque off CCM p",
           "price": 219,
           "qty": 1
+        },
+        "7900358029964": {
+          "code": "7900358029964",
+          "name": "Camiseta poque preta CCM",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 817,
+      "total": 1036,
       "status": "open"
     }
   },
@@ -4819,5 +4825,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:30:35.038Z"
+  "savedAt": "2026-07-07T17:30:42.664Z"
 }
