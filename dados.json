@@ -2582,9 +2582,15 @@
           "name": "Regata cropped mesh lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "7890171657461": {
+          "code": "7890171657461",
+          "name": "Legging recorte assimétrico off e preto AG P",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 2401,
+      "total": 2850,
       "status": "open"
     }
   },
@@ -4703,5 +4709,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:25:04.553Z"
+  "savedAt": "2026-07-07T20:25:07.459Z"
 }
