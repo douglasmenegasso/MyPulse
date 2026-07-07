@@ -2154,6 +2154,11 @@
       "code": "7890171657461",
       "name": "Legging recorte assimétrico off e preto AG P",
       "price": 449
+    },
+    "7890171657102": {
+      "code": "7890171657102",
+      "name": "Saia elástico preto e off AG P",
+      "price": 328
     }
   },
   "clients": {
@@ -4709,5 +4714,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:25:29.950Z"
+  "savedAt": "2026-07-07T20:26:11.403Z"
 }
