@@ -2164,6 +2164,11 @@
       "code": "7890171654347",
       "name": "Top assimétrico off e preto AG M",
       "price": 379
+    },
+    "7890171653463": {
+      "code": "7890171653463",
+      "name": "Legging elástico roxo malva AG P",
+      "price": 369
     }
   },
   "clients": {
@@ -4731,5 +4736,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:27:30.753Z"
+  "savedAt": "2026-07-07T20:27:42.912Z"
 }
