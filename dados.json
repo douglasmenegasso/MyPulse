@@ -4247,9 +4247,15 @@
           "name": "Top curve preto live gg",
           "price": 189.9,
           "qty": 1
+        },
+        "7908835804066": {
+          "code": "7908835804066",
+          "name": "Camiseta V action preta live g",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 389.8,
+      "total": 579.7,
       "status": "open"
     }
   },
@@ -4705,5 +4711,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T17:21:21.935Z"
+  "savedAt": "2026-07-07T17:21:33.982Z"
 }
