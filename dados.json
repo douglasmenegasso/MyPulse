@@ -2419,18 +2419,6 @@
     "c_1779729371390": {
       "clientId": "c_1779729371390",
       "items": {
-        "7900292059331": {
-          "code": "7900292059331",
-          "name": "T-shirt cropped preto LP M",
-          "price": 167,
-          "qty": 1
-        },
-        "7900292886517": {
-          "code": "7900292886517",
-          "name": "Legging montaria marrom LP M",
-          "price": 297,
-          "qty": 1
-        },
         "7900292893935": {
           "code": "7900292893935",
           "name": "Vestido canelado preto lP M",
@@ -2438,8 +2426,8 @@
           "qty": 1
         }
       },
-      "total": 797,
-      "status": "open"
+      "total": 333,
+      "status": "waiting"
     },
     "c_1779735439830": {
       "clientId": "c_1779735439830",
@@ -4773,6 +4761,20 @@
         "price": 297,
         "qty": 1,
         "lastAt": "2026-07-07T20:12:13.010Z"
+      },
+      "7900292886517": {
+        "code": "7900292886517",
+        "name": "Legging montaria marrom LP M",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:14.064Z"
+      },
+      "7900292059331": {
+        "code": "7900292059331",
+        "name": "T-shirt cropped preto LP M",
+        "price": 167,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:12:14.984Z"
       }
     }
   },
@@ -4781,5 +4783,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:12:13.011Z"
+  "savedAt": "2026-07-07T20:12:15.428Z"
 }
