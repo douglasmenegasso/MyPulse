@@ -2400,15 +2400,9 @@
           "name": "Jaqueta máxi branco live P",
           "price": 499.9,
           "qty": 1
-        },
-        "7901072413626": {
-          "code": "7901072413626",
-          "name": "Legging icon azul petróleo live g",
-          "price": 319.9,
-          "qty": 1
         }
       },
-      "total": 1389.6,
+      "total": 1069.6999999999998,
       "status": "open"
     },
     "c_1779389649186": {
@@ -4644,6 +4638,15 @@
         "qty": 1,
         "lastAt": "2026-07-07T20:09:36.369Z"
       }
+    },
+    "41991098260": {
+      "7901072413626": {
+        "code": "7901072413626",
+        "name": "Legging icon azul petróleo live g",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:09:53.129Z"
+      }
     }
   },
   "security": {
@@ -4651,5 +4654,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:09:49.797Z"
+  "savedAt": "2026-07-07T20:09:53.130Z"
 }
