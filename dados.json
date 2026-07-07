@@ -2738,21 +2738,9 @@
           "name": "Blusa manga longa decote V preto LP M",
           "price": 333,
           "qty": 1
-        },
-        "7909746526894": {
-          "code": "7909746526894",
-          "name": "Calça malha fria marrom DT M",
-          "price": 499,
-          "qty": 1
-        },
-        "7900292621446": {
-          "code": "7900292621446",
-          "name": "Regata canelada off alças marrom LP g",
-          "price": 233,
-          "qty": 1
         }
       },
-      "total": 5742.700000000001,
+      "total": 5010.700000000001,
       "status": "open"
     },
     "c_1779307807613": {
@@ -4582,6 +4570,20 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-07-07T20:14:08.084Z"
+      },
+      "7900292621446": {
+        "code": "7900292621446",
+        "name": "Regata canelada off alças marrom LP g",
+        "price": 233,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:09.892Z"
+      },
+      "7909746526894": {
+        "code": "7909746526894",
+        "name": "Calça malha fria marrom DT M",
+        "price": 499,
+        "qty": 1,
+        "lastAt": "2026-07-07T20:14:10.819Z"
       }
     }
   },
@@ -4590,5 +4592,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-07T20:14:09.735Z"
+  "savedAt": "2026-07-07T20:14:13.341Z"
 }
