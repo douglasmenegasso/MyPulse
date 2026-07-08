@@ -2359,6 +2359,11 @@
       "code": "7900292959075",
       "name": "Calça alfaiataria marrom Lp M",
       "price": 597
+    },
+    "7900292955398": {
+      "code": "7900292955398",
+      "name": "Regata listrada marrom Lp M",
+      "price": 223
     }
   },
   "clients": {
@@ -5357,5 +5362,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:26:26.879Z"
+  "savedAt": "2026-07-08T20:26:30.374Z"
 }
