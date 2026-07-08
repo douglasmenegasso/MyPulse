@@ -3631,9 +3631,15 @@
           "name": "Legging brilhosa terracota AG M",
           "price": 319,
           "qty": 1
+        },
+        "7890171618905": {
+          "code": "7890171618905",
+          "name": "Top nadador brilhoso terracota AG M",
+          "price": 238,
+          "qty": 1
         }
       },
-      "total": 2581.4,
+      "total": 2819.4,
       "status": "open"
     }
   },
@@ -5777,5 +5783,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:49:10.016Z"
+  "savedAt": "2026-07-08T21:49:25.390Z"
 }
