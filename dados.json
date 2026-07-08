@@ -2439,6 +2439,11 @@
       "code": "7909746620592",
       "name": "Calça cargo marrom DT P",
       "price": 689
+    },
+    "7900292887552": {
+      "code": "7900292887552",
+      "name": "Vestido longo azul com zíper Lp M",
+      "price": 493
     }
   },
   "clients": {
@@ -5587,5 +5592,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:02:19.259Z"
+  "savedAt": "2026-07-08T21:02:55.176Z"
 }
