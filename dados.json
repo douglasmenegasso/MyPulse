@@ -3129,9 +3129,15 @@
           "name": "Garrafa monograma caramelo lp",
           "price": 197,
           "qty": 1
+        },
+        "7901072428897": {
+          "code": "7901072428897",
+          "name": "Legging azul petróleo live live g",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 2362.4,
+      "total": 2692.3,
       "status": "open"
     }
   },
@@ -5266,5 +5272,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:20:37.256Z"
+  "savedAt": "2026-07-08T20:20:59.239Z"
 }
