@@ -2444,6 +2444,11 @@
       "code": "7900292887552",
       "name": "Vestido longo azul com zíper Lp M",
       "price": 493
+    },
+    "7909746618056": {
+      "code": "7909746618056",
+      "name": "Calça com bolso roxo DT M",
+      "price": 449
     }
   },
   "clients": {
@@ -5604,5 +5609,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:03:27.799Z"
+  "savedAt": "2026-07-08T21:03:36.878Z"
 }
