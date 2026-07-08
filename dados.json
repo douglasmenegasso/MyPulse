@@ -2981,9 +2981,15 @@
           "name": "Legging preto live live g",
           "price": 329.9,
           "qty": 1
+        },
+        "7908835895521": {
+          "code": "7908835895521",
+          "name": "Top preto live live g",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 2186.6000000000004,
+      "total": 2406.5000000000005,
       "status": "open"
     }
   },
@@ -5102,5 +5108,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:09:16.511Z"
+  "savedAt": "2026-07-08T17:09:22.086Z"
 }
