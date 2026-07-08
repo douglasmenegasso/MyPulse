@@ -3416,9 +3416,15 @@
           "name": "Calça reta vermelha live P",
           "price": 399.9,
           "qty": 1
+        },
+        "7900292387090": {
+          "code": "7900292387090",
+          "name": "Regata off com bege lp g",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 3930.100000000001,
+      "total": 4193.1,
       "status": "open"
     }
   },
@@ -5553,5 +5559,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:59:03.960Z"
+  "savedAt": "2026-07-08T20:59:07.073Z"
 }
