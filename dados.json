@@ -2594,6 +2594,11 @@
       "code": "7890171651674",
       "name": "Top nadador elástico preto com off AG M",
       "price": 219
+    },
+    "7901128628578": {
+      "code": "7901128628578",
+      "name": "Legging hydefit azul live g",
+      "price": 199.9
     }
   },
   "clients": {
@@ -6009,5 +6014,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T22:01:51.102Z"
+  "savedAt": "2026-07-08T22:02:07.606Z"
 }
