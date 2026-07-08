@@ -2479,6 +2479,11 @@
       "code": "7909746580049",
       "name": "Legging curve verde DT M",
       "price": 359
+    },
+    "7909746580070": {
+      "code": "7909746580070",
+      "name": "Top curve verde DT M",
+      "price": 239
     }
   },
   "clients": {
@@ -5723,5 +5728,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:46:45.509Z"
+  "savedAt": "2026-07-08T21:47:11.898Z"
 }
