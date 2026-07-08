@@ -3001,6 +3001,19 @@
       },
       "total": 3106.3000000000006,
       "status": "waiting"
+    },
+    "c_1783531395837": {
+      "clientId": "c_1783531395837",
+      "items": {
+        "7908990960027": {
+          "code": "7908990960027",
+          "name": "Blusão texturizado live verde M",
+          "price": 499.9,
+          "qty": 1
+        }
+      },
+      "total": 499.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -5134,5 +5147,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:23:15.838Z"
+  "savedAt": "2026-07-08T17:23:24.913Z"
 }
