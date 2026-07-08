@@ -3242,9 +3242,15 @@
           "name": "Calça wide leg marrom LP M",
           "price": 563,
           "qty": 1
+        },
+        "7900292935932": {
+          "code": "7900292935932",
+          "name": "Moletom marrom bordado off Lp P",
+          "price": 587,
+          "qty": 1
         }
       },
-      "total": 7043,
+      "total": 7630,
       "status": "open"
     }
   },
@@ -5379,5 +5385,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:27:40.641Z"
+  "savedAt": "2026-07-08T20:27:44.316Z"
 }
