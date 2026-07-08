@@ -2344,6 +2344,11 @@
       "code": "7901072406383",
       "name": "Blusão pose bege live P",
       "price": 399.9
+    },
+    "7900292896639": {
+      "code": "7900292896639",
+      "name": "Calça pantalona preta moletom lp P",
+      "price": 563
     }
   },
   "clients": {
@@ -5312,5 +5317,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:23:42.162Z"
+  "savedAt": "2026-07-08T20:24:32.166Z"
 }
