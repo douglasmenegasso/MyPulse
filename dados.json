@@ -2429,6 +2429,11 @@
       "code": "7900292387090",
       "name": "Regata off com bege lp g",
       "price": 263
+    },
+    "7909746620592": {
+      "code": "7909746620592",
+      "name": "Calça cargo marrom DT P",
+      "price": 689
     }
   },
   "clients": {
@@ -5559,5 +5564,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:59:18.271Z"
+  "savedAt": "2026-07-08T20:59:59.734Z"
 }
