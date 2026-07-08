@@ -2259,6 +2259,11 @@
       "code": "7909746614386",
       "name": "Regata canelada azul DT g",
       "price": 259
+    },
+    "7890171652534": {
+      "code": "7890171652534",
+      "name": "Legging preta símbolo AG M",
+      "price": 299
     }
   },
   "clients": {
@@ -5024,5 +5029,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:04:59.466Z"
+  "savedAt": "2026-07-08T17:05:11.356Z"
 }
