@@ -2909,8 +2909,15 @@
     },
     "c_1783530252285": {
       "clientId": "c_1783530252285",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7890171652534": {
+          "code": "7890171652534",
+          "name": "Legging preta símbolo AG M",
+          "price": 299,
+          "qty": 1
+        }
+      },
+      "total": 299,
       "status": "open"
     }
   },
@@ -5029,5 +5036,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:05:11.356Z"
+  "savedAt": "2026-07-08T17:05:15.785Z"
 }
