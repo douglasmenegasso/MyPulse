@@ -2948,9 +2948,15 @@
           "name": "Legging allure preto live M",
           "price": 319.9,
           "qty": 1
+        },
+        "7908754514305": {
+          "code": "7908754514305",
+          "name": "Legging icon preto live g",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 1286.9,
+      "total": 1606.8000000000002,
       "status": "open"
     }
   },
@@ -5069,5 +5075,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:07:38.124Z"
+  "savedAt": "2026-07-08T17:07:43.548Z"
 }
