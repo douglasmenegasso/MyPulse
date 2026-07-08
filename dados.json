@@ -2384,6 +2384,11 @@
       "code": "7770274568164",
       "name": "Necessite rosa Rowa",
       "price": 129.9
+    },
+    "7900292699216": {
+      "code": "7900292699216",
+      "name": "Tênis caramelo com carimbo Lp 34",
+      "price": 497
     }
   },
   "clients": {
@@ -5442,5 +5447,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:51:15.841Z"
+  "savedAt": "2026-07-08T20:51:34.871Z"
 }
