@@ -2339,6 +2339,11 @@
       "code": "7909746618681",
       "name": "Caça iconic bordo DT P",
       "price": 599
+    },
+    "7901072406383": {
+      "code": "7901072406383",
+      "name": "Blusão pose bege live P",
+      "price": 399.9
     }
   },
   "clients": {
@@ -5295,5 +5300,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:22:16.711Z"
+  "savedAt": "2026-07-08T20:22:59.261Z"
 }
