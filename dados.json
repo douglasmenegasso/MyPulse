@@ -2454,6 +2454,11 @@
       "code": "7909746618056",
       "name": "Calça com bolso roxo DT M",
       "price": 449
+    },
+    "7909746524876": {
+      "code": "7909746524876",
+      "name": "Regata mistral tule off com preto DT M",
+      "price": 239
     }
   },
   "clients": {
@@ -5644,5 +5649,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:05:19.919Z"
+  "savedAt": "2026-07-08T21:05:46.666Z"
 }
