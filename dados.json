@@ -2324,6 +2324,11 @@
       "code": "7890171662410",
       "name": "Legging elástico off com preto AG M",
       "price": 369
+    },
+    "7890171652671": {
+      "code": "7890171652671",
+      "name": "T-shirt com tule branca AG M",
+      "price": 239
     }
   },
   "clients": {
@@ -5244,5 +5249,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:18:44.822Z"
+  "savedAt": "2026-07-08T20:19:08.827Z"
 }
