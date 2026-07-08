@@ -2354,6 +2354,11 @@
       "code": "7900041723025",
       "name": "Blusa um ombro moletom cinza Lp g",
       "price": 167
+    },
+    "7900292959075": {
+      "code": "7900292959075",
+      "name": "Calça alfaiataria marrom Lp M",
+      "price": 597
     }
   },
   "clients": {
@@ -5340,5 +5345,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:25:09.721Z"
+  "savedAt": "2026-07-08T20:25:45.934Z"
 }
