@@ -2309,6 +2309,11 @@
       "code": "7909392830451",
       "name": "Meia cano curto preto lupo 33 a 36",
       "price": 19.9
+    },
+    "7908990956877": {
+      "code": "7908990956877",
+      "name": "Legging hydefit verde militar live g",
+      "price": 199.9
     }
   },
   "clients": {
@@ -5205,5 +5210,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:15:17.247Z"
+  "savedAt": "2026-07-08T20:15:55.081Z"
 }
