@@ -3349,6 +3349,12 @@
     "c_1783543770765": {
       "clientId": "c_1783543770765",
       "items": {
+        "3349": {
+          "code": "3349",
+          "name": "Jaqueta Sport marrom DT M",
+          "price": 689,
+          "qty": 1
+        },
         "7890171643563": {
           "code": "7890171643563",
           "name": "Garrafa térmica rosa AG",
@@ -3446,7 +3452,7 @@
           "qty": 1
         }
       },
-      "total": 5111.1,
+      "total": 5800.1,
       "status": "open"
     }
   },
@@ -5581,5 +5587,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:01:33.695Z"
+  "savedAt": "2026-07-08T21:01:42.892Z"
 }
