@@ -3112,9 +3112,15 @@
           "name": "Top elástico preto AG g",
           "price": 219,
           "qty": 1
+        },
+        "7890171652671": {
+          "code": "7890171652671",
+          "name": "T-shirt com tule branca AG M",
+          "price": 239,
+          "qty": 1
         }
       },
-      "total": 1926.4,
+      "total": 2165.4,
       "status": "open"
     }
   },
@@ -5249,5 +5255,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:19:08.827Z"
+  "savedAt": "2026-07-08T20:19:14.291Z"
 }
