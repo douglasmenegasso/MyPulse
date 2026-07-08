@@ -3602,9 +3602,15 @@
           "name": "Top curve verde DT M",
           "price": 239,
           "qty": 1
+        },
+        "7908931968372": {
+          "code": "7908931968372",
+          "name": "Camiseta V bordo live M",
+          "price": 259.9,
+          "qty": 1
         }
       },
-      "total": 905.5999999999999,
+      "total": 1165.5,
       "status": "open"
     }
   },
@@ -5739,5 +5745,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:47:29.294Z"
+  "savedAt": "2026-07-08T21:47:34.697Z"
 }
