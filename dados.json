@@ -5,6 +5,11 @@
       "name": "Legging marrom live M",
       "price": 199.9
     },
+    "2218": {
+      "code": "2218",
+      "name": "Calça malha fria off com preto DT M",
+      "price": 589
+    },
     "2540": {
       "code": "2540",
       "name": "Regata canelada branca bandeira BR LP M ",
@@ -5633,5 +5638,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:04:30.000Z"
+  "savedAt": "2026-07-08T21:05:17.974Z"
 }
