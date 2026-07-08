@@ -2374,6 +2374,11 @@
       "code": "7900292863259",
       "name": "Vestido canelado curto marrom Lp M",
       "price": 343
+    },
+    "7890171643563": {
+      "code": "7890171643563",
+      "name": "Garrafa térmica rosa AG",
+      "price": 198
     }
   },
   "clients": {
@@ -5413,5 +5418,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:49:30.766Z"
+  "savedAt": "2026-07-08T20:50:12.621Z"
 }
