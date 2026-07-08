@@ -3630,10 +3630,10 @@
           "code": "7890171616079",
           "name": "Legging brilhosa terracota AG M",
           "price": 319,
-          "qty": 1
+          "qty": 2
         }
       },
-      "total": 2581.4,
+      "total": 2900.4,
       "status": "open"
     }
   },
@@ -5768,5 +5768,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:48:51.106Z"
+  "savedAt": "2026-07-08T21:49:02.906Z"
 }
