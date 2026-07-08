@@ -2274,6 +2274,11 @@
       "code": "7890171651629",
       "name": "Top elástico preto AG g",
       "price": 219
+    },
+    "7908754514305": {
+      "code": "7908754514305",
+      "name": "Legging icon preto live g",
+      "price": 319.9
     }
   },
   "clients": {
@@ -5064,5 +5069,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:07:13.552Z"
+  "savedAt": "2026-07-08T17:07:38.124Z"
 }
