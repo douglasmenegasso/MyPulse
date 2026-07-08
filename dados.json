@@ -2394,6 +2394,11 @@
       "code": "7890171652916",
       "name": "Legging shine marrom AG M",
       "price": 298
+    },
+    "7890171652596": {
+      "code": "7890171652596",
+      "name": "Top shine alças finas marrom AG g",
+      "price": 198
     }
   },
   "clients": {
@@ -5464,5 +5469,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:52:48.269Z"
+  "savedAt": "2026-07-08T20:53:13.608Z"
 }
