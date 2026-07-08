@@ -2524,6 +2524,11 @@
       "code": "7890171662212",
       "name": "Top elástico roxo malva AG g",
       "price": 219
+    },
+    "7890171656914": {
+      "code": "7890171656914",
+      "name": "T-shirt com tule roxo malva AG M",
+      "price": 239
     }
   },
   "clients": {
@@ -5855,5 +5860,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:53:24.152Z"
+  "savedAt": "2026-07-08T21:53:43.664Z"
 }
