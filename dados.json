@@ -2489,6 +2489,11 @@
       "code": "7908931968372",
       "name": "Camiseta V bordo live M",
       "price": 259.9
+    },
+    "7901072423700": {
+      "code": "7901072423700",
+      "name": "Jaqueta dupla face preto e bege live P",
+      "price": 699.9
     }
   },
   "clients": {
@@ -5751,5 +5756,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:47:48.743Z"
+  "savedAt": "2026-07-08T21:48:30.272Z"
 }
