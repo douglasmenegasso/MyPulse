@@ -3490,9 +3490,15 @@
           "name": "Blusão texturizado verde live g",
           "price": 499.9,
           "qty": 1
+        },
+        "7908990960201": {
+          "code": "7908990960201",
+          "name": "Calça texturizada verde live G",
+          "price": 599.9,
+          "qty": 1
         }
       },
-      "total": 7874,
+      "total": 8473.9,
       "status": "open"
     }
   },
@@ -5627,5 +5633,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:04:17.819Z"
+  "savedAt": "2026-07-08T21:04:30.000Z"
 }
