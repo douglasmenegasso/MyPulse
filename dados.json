@@ -2539,6 +2539,11 @@
       "code": "7890171648148",
       "name": "Top elástico branco AG g",
       "price": 209
+    },
+    "7890171655405": {
+      "code": "7890171655405",
+      "name": "T-shirt off com detalhes marrom AG M",
+      "price": 259
     }
   },
   "clients": {
@@ -5888,5 +5893,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:55:35.755Z"
+  "savedAt": "2026-07-08T21:55:59.153Z"
 }
