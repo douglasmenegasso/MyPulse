@@ -3541,9 +3541,15 @@
           "name": "Garrafa térmica rosa AG",
           "price": 198,
           "qty": 1
+        },
+        "7909392830475": {
+          "code": "7909392830475",
+          "name": "Meia Sport preto lupo 37 a 40",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 198,
+      "total": 217.9,
       "status": "open"
     }
   },
@@ -5678,5 +5684,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:43:48.343Z"
+  "savedAt": "2026-07-08T21:43:50.894Z"
 }
