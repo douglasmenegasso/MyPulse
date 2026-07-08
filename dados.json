@@ -2544,6 +2544,11 @@
       "code": "7890171655405",
       "name": "T-shirt off com detalhes marrom AG M",
       "price": 259
+    },
+    "7890171663462": {
+      "code": "7890171663462",
+      "name": "Legging elástico lilás AG M",
+      "price": 369
     }
   },
   "clients": {
@@ -5899,5 +5904,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:56:05.079Z"
+  "savedAt": "2026-07-08T21:56:23.216Z"
 }
