@@ -2474,6 +2474,11 @@
       "code": "7891186349648",
       "name": "Meia cano médio branco lupo 37 a 40",
       "price": 19.9
+    },
+    "7909746580049": {
+      "code": "7909746580049",
+      "name": "Legging curve verde DT M",
+      "price": 359
     }
   },
   "clients": {
@@ -5712,5 +5717,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:46:39.258Z"
+  "savedAt": "2026-07-08T21:46:42.103Z"
 }
