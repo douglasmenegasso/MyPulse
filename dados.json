@@ -3180,9 +3180,15 @@
           "name": "Regata canelada bordo AG M",
           "price": 159,
           "qty": 1
+        },
+        "7900292896639": {
+          "code": "7900292896639",
+          "name": "Calça pantalona preta moletom lp P",
+          "price": 563,
+          "qty": 1
         }
       },
-      "total": 4270,
+      "total": 4833,
       "status": "open"
     }
   },
@@ -5317,5 +5323,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:24:32.166Z"
+  "savedAt": "2026-07-08T20:24:34.619Z"
 }
