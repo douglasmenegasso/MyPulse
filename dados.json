@@ -3152,9 +3152,15 @@
           "name": "Camiseta icon azul petróleo live M ",
           "price": 199.9,
           "qty": 1
+        },
+        "7909746618681": {
+          "code": "7909746618681",
+          "name": "Caça iconic bordo DT P",
+          "price": 599,
+          "qty": 1
         }
       },
-      "total": 3112.1000000000004,
+      "total": 3711.1000000000004,
       "status": "open"
     }
   },
@@ -5289,5 +5295,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:22:13.443Z"
+  "savedAt": "2026-07-08T20:22:16.711Z"
 }
