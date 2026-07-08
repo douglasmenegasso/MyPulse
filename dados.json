@@ -3321,9 +3321,15 @@
           "name": "Tênis caramelo com carimbo Lp 34",
           "price": 497,
           "qty": 1
+        },
+        "7890171652916": {
+          "code": "7890171652916",
+          "name": "Legging shine marrom AG M",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 824.9,
+      "total": 1122.9,
       "status": "open"
     }
   },
@@ -5458,5 +5464,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:52:43.737Z"
+  "savedAt": "2026-07-08T20:52:48.269Z"
 }
