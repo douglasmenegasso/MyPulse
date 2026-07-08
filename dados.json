@@ -3472,9 +3472,15 @@
           "name": "Vestido canelado preto logo couro LP g",
           "price": 333,
           "qty": 1
+        },
+        "7909746618056": {
+          "code": "7909746618056",
+          "name": "Calça com bolso roxo DT M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 6626.1,
+      "total": 7075.1,
       "status": "open"
     }
   },
@@ -5609,5 +5615,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:03:36.878Z"
+  "savedAt": "2026-07-08T21:03:42.857Z"
 }
