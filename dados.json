@@ -2269,6 +2269,11 @@
       "code": "7890171657454",
       "name": "Legging assimétrica preto com off AG M",
       "price": 449
+    },
+    "7890171651629": {
+      "code": "7890171651629",
+      "name": "Top elástico preto AG g",
+      "price": 219
     }
   },
   "clients": {
@@ -5047,5 +5052,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:05:41.845Z"
+  "savedAt": "2026-07-08T17:06:20.697Z"
 }
