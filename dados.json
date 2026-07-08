@@ -3569,9 +3569,15 @@
           "name": "Meia cano médio branco lupo 37 a 40",
           "price": 19.9,
           "qty": 1
+        },
+        "7909392494240": {
+          "code": "7909392494240",
+          "name": "Kit 3 meias Lupo 34 a 39",
+          "price": 49.9,
+          "qty": 1
         }
       },
-      "total": 257.7,
+      "total": 307.59999999999997,
       "status": "open"
     }
   },
@@ -5706,5 +5712,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:45:17.043Z"
+  "savedAt": "2026-07-08T21:45:22.795Z"
 }
