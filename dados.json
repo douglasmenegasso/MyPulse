@@ -3364,6 +3364,12 @@
     "c_1783543770765": {
       "clientId": "c_1783543770765",
       "items": {
+        "2218": {
+          "code": "2218",
+          "name": "Calça malha fria off com preto DT M",
+          "price": 589,
+          "qty": 1
+        },
         "3349": {
           "code": "3349",
           "name": "Jaqueta Sport marrom DT M",
@@ -3503,7 +3509,7 @@
           "qty": 1
         }
       },
-      "total": 8473.9,
+      "total": 9062.9,
       "status": "open"
     }
   },
@@ -5638,5 +5644,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:05:17.974Z"
+  "savedAt": "2026-07-08T21:05:19.919Z"
 }
