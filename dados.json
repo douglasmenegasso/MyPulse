@@ -3214,9 +3214,15 @@
           "name": "Calça alfaiataria marrom Lp M",
           "price": 597,
           "qty": 1
+        },
+        "7900292753918": {
+          "code": "7900292753918",
+          "name": "Moletom ursinho bege LP M",
+          "price": 373,
+          "qty": 1
         }
       },
-      "total": 5884,
+      "total": 6257,
       "status": "open"
     }
   },
@@ -5351,5 +5357,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:25:48.141Z"
+  "savedAt": "2026-07-08T20:25:56.163Z"
 }
