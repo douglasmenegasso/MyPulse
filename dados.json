@@ -3461,9 +3461,15 @@
           "name": "Vestido longo azul com zíper Lp M",
           "price": 493,
           "qty": 1
+        },
+        "7900292893911": {
+          "code": "7900292893911",
+          "name": "Vestido canelado preto logo couro LP g",
+          "price": 333,
+          "qty": 1
         }
       },
-      "total": 6293.1,
+      "total": 6626.1,
       "status": "open"
     }
   },
@@ -5598,5 +5604,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:02:58.437Z"
+  "savedAt": "2026-07-08T21:03:07.964Z"
 }
