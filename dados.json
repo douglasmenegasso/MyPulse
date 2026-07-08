@@ -3050,9 +3050,15 @@
           "name": "Meia cano médio branco com verde lupo 34 a 39",
           "price": 19.9,
           "qty": 1
+        },
+        "7909392830451": {
+          "code": "7909392830451",
+          "name": "Meia cano curto preto lupo 33 a 36",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 69.8,
+      "total": 89.69999999999999,
       "status": "open"
     }
   },
@@ -5187,5 +5193,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:14:18.731Z"
+  "savedAt": "2026-07-08T20:14:22.542Z"
 }
