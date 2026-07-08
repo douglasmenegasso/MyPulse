@@ -3169,9 +3169,15 @@
           "name": "Blusão pose bege live P",
           "price": 399.9,
           "qty": 1
+        },
+        "7890171615263": {
+          "code": "7890171615263",
+          "name": "Regata canelada bordo AG M",
+          "price": 159,
+          "qty": 1
         }
       },
-      "total": 4111,
+      "total": 4270,
       "status": "open"
     }
   },
@@ -5306,5 +5312,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:23:29.213Z"
+  "savedAt": "2026-07-08T20:23:42.162Z"
 }
