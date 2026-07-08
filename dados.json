@@ -3608,9 +3608,15 @@
           "name": "Camiseta V bordo live M",
           "price": 259.9,
           "qty": 1
+        },
+        "7900292357451": {
+          "code": "7900292357451",
+          "name": "Calca wide leg preto LP P",
+          "price": 397,
+          "qty": 1
         }
       },
-      "total": 1165.5,
+      "total": 1562.5,
       "status": "open"
     }
   },
@@ -5745,5 +5751,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:47:39.541Z"
+  "savedAt": "2026-07-08T21:47:48.743Z"
 }
