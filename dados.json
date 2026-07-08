@@ -2424,6 +2424,11 @@
       "code": "7901072423717",
       "name": "Jaqueta dupla face preto e bege live M",
       "price": 699.9
+    },
+    "7900292387090": {
+      "code": "7900292387090",
+      "name": "Regata off com bege lp g",
+      "price": 263
     }
   },
   "clients": {
@@ -5548,5 +5553,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:58:43.537Z"
+  "savedAt": "2026-07-08T20:59:03.960Z"
 }
