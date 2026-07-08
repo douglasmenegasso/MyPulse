@@ -3299,9 +3299,15 @@
           "name": "Garrafa térmica rosa AG",
           "price": 198,
           "qty": 1
+        },
+        "7770274568164": {
+          "code": "7770274568164",
+          "name": "Necessite rosa Rowa",
+          "price": 129.9,
+          "qty": 1
         }
       },
-      "total": 198,
+      "total": 327.9,
       "status": "open"
     }
   },
@@ -5436,5 +5442,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:50:35.070Z"
+  "savedAt": "2026-07-08T20:50:39.230Z"
 }
