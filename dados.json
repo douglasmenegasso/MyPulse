@@ -3681,9 +3681,15 @@
           "name": "Regata icon branca live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7890171653456": {
+          "code": "7890171653456",
+          "name": "Legging elástico roxo malva AG M",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 3757.1000000000004,
+      "total": 4126.1,
       "status": "open"
     }
   },
@@ -5827,5 +5833,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:52:37.327Z"
+  "savedAt": "2026-07-08T21:52:39.810Z"
 }
