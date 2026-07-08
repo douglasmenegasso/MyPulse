@@ -2334,6 +2334,11 @@
       "code": "7900292688951",
       "name": "Garrafa monograma caramelo lp",
       "price": 197
+    },
+    "7909746618681": {
+      "code": "7909746618681",
+      "name": "Caça iconic bordo DT P",
+      "price": 599
     }
   },
   "clients": {
@@ -5284,5 +5289,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:21:48.810Z"
+  "savedAt": "2026-07-08T20:22:13.443Z"
 }
