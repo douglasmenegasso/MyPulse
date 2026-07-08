@@ -3659,9 +3659,15 @@
           "name": "Legging verde militar live live g",
           "price": 329.9,
           "qty": 1
+        },
+        "7908990971214": {
+          "code": "7908990971214",
+          "name": "Top curve verde militar live live g",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 3347.3,
+      "total": 3567.2000000000003,
       "status": "open"
     }
   },
@@ -5805,5 +5811,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:51:29.605Z"
+  "savedAt": "2026-07-08T21:51:35.888Z"
 }
