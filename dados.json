@@ -2294,6 +2294,11 @@
       "code": "7908835895521",
       "name": "Top preto live live g",
       "price": 219.9
+    },
+    "7901072428606": {
+      "code": "7901072428606",
+      "name": "Jaqueta canelada preta live g",
+      "price": 499.9
     }
   },
   "clients": {
@@ -5114,5 +5119,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:13:55.869Z"
+  "savedAt": "2026-07-08T17:14:14.555Z"
 }
