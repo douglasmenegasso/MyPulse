@@ -3208,9 +3208,15 @@
           "name": "T shirt preta bordado branco LP M",
           "price": 287,
           "qty": 1
+        },
+        "7900292959075": {
+          "code": "7900292959075",
+          "name": "Calça alfaiataria marrom Lp M",
+          "price": 597,
+          "qty": 1
         }
       },
-      "total": 5287,
+      "total": 5884,
       "status": "open"
     }
   },
@@ -5345,5 +5351,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:25:45.934Z"
+  "savedAt": "2026-07-08T20:25:48.141Z"
 }
