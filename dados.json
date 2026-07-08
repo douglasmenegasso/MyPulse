@@ -2584,6 +2584,11 @@
       "code": "7890171621882",
       "name": "Legging preta símbolo AG M",
       "price": 269
+    },
+    "7890171662717": {
+      "code": "7890171662717",
+      "name": "Bermuda elástico preto com off AG M",
+      "price": 259
     }
   },
   "clients": {
@@ -5987,5 +5992,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T22:00:50.175Z"
+  "savedAt": "2026-07-08T22:00:57.865Z"
 }
