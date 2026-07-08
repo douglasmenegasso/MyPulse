@@ -2469,6 +2469,11 @@
       "code": "7891186349624",
       "name": "Meia Sport braço lupo 37 a 40",
       "price": 19.9
+    },
+    "7891186349648": {
+      "code": "7891186349648",
+      "name": "Meia cano médio branco lupo 37 a 40",
+      "price": 19.9
     }
   },
   "clients": {
@@ -5695,5 +5700,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:44:31.307Z"
+  "savedAt": "2026-07-08T21:45:14.606Z"
 }
