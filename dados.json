@@ -3062,9 +3062,15 @@
           "name": "Segunda pele preto lupo fio 40 U",
           "price": 59.9,
           "qty": 1
+        },
+        "7908990960058": {
+          "code": "7908990960058",
+          "name": "Blusão texturizado verde live P",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 149.6,
+      "total": 649.5,
       "status": "open"
     }
   },
@@ -5199,5 +5205,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:15:09.595Z"
+  "savedAt": "2026-07-08T20:15:17.247Z"
 }
