@@ -2611,6 +2611,11 @@
       "id": "c_1783541517615",
       "name": "Sabrina Lapelle",
       "phone": ""
+    },
+    "c_1783543770765": {
+      "id": "c_1783543770765",
+      "name": "Ivonete Sabrina",
+      "phone": ""
     }
   },
   "orders": {
@@ -5408,5 +5413,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:49:15.015Z"
+  "savedAt": "2026-07-08T20:49:30.766Z"
 }
