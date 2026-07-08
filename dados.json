@@ -3580,9 +3580,15 @@
           "name": "Kit 3 meias Lupo 34 a 39",
           "price": 49.9,
           "qty": 1
+        },
+        "7909746580049": {
+          "code": "7909746580049",
+          "name": "Legging curve verde DT M",
+          "price": 359,
+          "qty": 1
         }
       },
-      "total": 307.59999999999997,
+      "total": 666.5999999999999,
       "status": "open"
     }
   },
@@ -5717,5 +5723,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:46:42.103Z"
+  "savedAt": "2026-07-08T21:46:45.509Z"
 }
