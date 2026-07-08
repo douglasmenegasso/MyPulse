@@ -2419,6 +2419,11 @@
       "code": "7901128641638",
       "name": "Camiseta icon fúcsia Live M",
       "price": 199.9
+    },
+    "7901072423717": {
+      "code": "7901072423717",
+      "name": "Jaqueta dupla face preto e bege live M",
+      "price": 699.9
     }
   },
   "clients": {
@@ -5519,5 +5524,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:57:33.666Z"
+  "savedAt": "2026-07-08T20:58:09.951Z"
 }
