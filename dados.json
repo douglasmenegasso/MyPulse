@@ -2264,6 +2264,11 @@
       "code": "7890171652534",
       "name": "Legging preta símbolo AG M",
       "price": 299
+    },
+    "7890171657454": {
+      "code": "7890171657454",
+      "name": "Legging assimétrica preto com off AG M",
+      "price": 449
     }
   },
   "clients": {
@@ -5036,5 +5041,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:05:15.785Z"
+  "savedAt": "2026-07-08T17:05:37.974Z"
 }
