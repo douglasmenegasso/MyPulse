@@ -3791,9 +3791,15 @@
           "name": "Top elástico lilás AG g",
           "price": 219,
           "qty": 1
+        },
+        "7890171656020": {
+          "code": "7890171656020",
+          "name": "Regata de tule franzido rosa AG g",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 6577.1,
+      "total": 6796.1,
       "status": "open"
     }
   },
@@ -5937,5 +5943,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:57:25.924Z"
+  "savedAt": "2026-07-08T21:57:30.160Z"
 }
