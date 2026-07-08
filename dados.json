@@ -2369,6 +2369,11 @@
       "code": "7900292935932",
       "name": "Moletom marrom bordado off Lp P",
       "price": 587
+    },
+    "7900292863259": {
+      "code": "7900292863259",
+      "name": "Vestido canelado curto marrom Lp M",
+      "price": 343
     }
   },
   "clients": {
@@ -5397,5 +5402,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:38:36.217Z"
+  "savedAt": "2026-07-08T20:38:40.664Z"
 }
