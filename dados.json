@@ -3670,9 +3670,15 @@
           "name": "Top curve verde militar live live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7901128627847": {
+          "code": "7901128627847",
+          "name": "Regata icon branca live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 3567.2000000000003,
+      "total": 3757.1000000000004,
       "status": "open"
     }
   },
@@ -5816,5 +5822,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:51:59.490Z"
+  "savedAt": "2026-07-08T21:52:03.988Z"
 }
