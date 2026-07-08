@@ -3254,9 +3254,15 @@
           "name": "Regata canelada marrom DT g",
           "price": 199,
           "qty": 1
+        },
+        "7900292842049": {
+          "code": "7900292842049",
+          "name": "Shorts moletom marrom LP P",
+          "price": 297,
+          "qty": 1
         }
       },
-      "total": 7829,
+      "total": 8126,
       "status": "open"
     }
   },
@@ -5391,5 +5397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:27:51.865Z"
+  "savedAt": "2026-07-08T20:28:25.047Z"
 }
