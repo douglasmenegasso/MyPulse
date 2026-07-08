@@ -3123,9 +3123,15 @@
           "name": "T-shirt com tule branca AG M",
           "price": 239,
           "qty": 1
+        },
+        "7900292688951": {
+          "code": "7900292688951",
+          "name": "Garrafa monograma caramelo lp",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 2165.4,
+      "total": 2362.4,
       "status": "open"
     }
   },
@@ -5260,5 +5266,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:20:33.872Z"
+  "savedAt": "2026-07-08T20:20:37.256Z"
 }
