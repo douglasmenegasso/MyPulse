@@ -2409,6 +2409,11 @@
       "code": "7901072485661",
       "name": "Legging fúcsia live live g",
       "price": 329.9
+    },
+    "7901072455527": {
+      "code": "7901072455527",
+      "name": "Top curve fúcsia  live live g",
+      "price": 219.9
     }
   },
   "clients": {
@@ -5497,5 +5502,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:56:32.680Z"
+  "savedAt": "2026-07-08T20:57:03.173Z"
 }
