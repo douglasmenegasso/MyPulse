@@ -3095,9 +3095,15 @@
           "name": "Jaqueta ajustada com bolso preto AG M",
           "price": 489,
           "qty": 1
+        },
+        "7890171662410": {
+          "code": "7890171662410",
+          "name": "Legging elástico off com preto AG M",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 1338.4,
+      "total": 1707.4,
       "status": "open"
     }
   },
@@ -5232,5 +5238,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:16:52.009Z"
+  "savedAt": "2026-07-08T20:16:57.072Z"
 }
