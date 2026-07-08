@@ -3703,9 +3703,15 @@
           "name": "Bermuda elástico roxo malva AG M",
           "price": 259,
           "qty": 1
+        },
+        "7890171662212": {
+          "code": "7890171662212",
+          "name": "Top elástico roxo malva AG g",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 4385.1,
+      "total": 4604.1,
       "status": "open"
     }
   },
@@ -5849,5 +5855,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:53:19.916Z"
+  "savedAt": "2026-07-08T21:53:24.152Z"
 }
