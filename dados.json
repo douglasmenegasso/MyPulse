@@ -2364,6 +2364,11 @@
       "code": "7900292955398",
       "name": "Regata listrada marrom Lp M",
       "price": 223
+    },
+    "7900292935932": {
+      "code": "7900292935932",
+      "name": "Moletom marrom bordado off Lp P",
+      "price": 587
     }
   },
   "clients": {
@@ -5374,5 +5379,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:27:01.910Z"
+  "savedAt": "2026-07-08T20:27:40.641Z"
 }
