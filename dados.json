@@ -3248,9 +3248,15 @@
           "name": "Moletom marrom bordado off Lp P",
           "price": 587,
           "qty": 1
+        },
+        "7909746620486": {
+          "code": "7909746620486",
+          "name": "Regata canelada marrom DT g",
+          "price": 199,
+          "qty": 1
         }
       },
-      "total": 7630,
+      "total": 7829,
       "status": "open"
     }
   },
@@ -5385,5 +5391,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:27:44.316Z"
+  "savedAt": "2026-07-08T20:27:51.865Z"
 }
