@@ -2481,6 +2481,11 @@
       "id": "c_1783458513348",
       "name": "Fabi aluna matheus",
       "phone": ""
+    },
+    "c_1783530252285": {
+      "id": "c_1783530252285",
+      "name": "Carol GT",
+      "phone": ""
     }
   },
   "orders": {
@@ -5013,5 +5018,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T17:03:50.424Z"
+  "savedAt": "2026-07-08T17:04:12.286Z"
 }
