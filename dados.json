@@ -2459,6 +2459,11 @@
       "code": "7909746524876",
       "name": "Regata mistral tule off com preto DT M",
       "price": 239
+    },
+    "7909392830475": {
+      "code": "7909392830475",
+      "name": "Meia Sport preto lupo 37 a 40",
+      "price": 19.9
     }
   },
   "clients": {
@@ -5673,5 +5678,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T21:43:33.400Z"
+  "savedAt": "2026-07-08T21:43:48.343Z"
 }
