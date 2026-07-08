@@ -3376,9 +3376,15 @@
           "name": "Top curve fúcsia  live live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7901128641638": {
+          "code": "7901128641638",
+          "name": "Camiseta icon fúcsia Live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 2060.6000000000004,
+      "total": 2260.5000000000005,
       "status": "open"
     }
   },
@@ -5513,5 +5519,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-08T20:57:31.169Z"
+  "savedAt": "2026-07-08T20:57:33.666Z"
 }
