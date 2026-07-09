@@ -3952,9 +3952,15 @@
           "name": "Top Sport duplo marrom com elástico LP M",
           "price": 333,
           "qty": 1
+        },
+        "7890171646267": {
+          "code": "7890171646267",
+          "name": "Legging salmão com laranja AG P",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 1610,
+      "total": 2059,
       "status": "open"
     }
   },
@@ -6098,5 +6104,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:49:08.077Z"
+  "savedAt": "2026-07-09T17:49:10.450Z"
 }
