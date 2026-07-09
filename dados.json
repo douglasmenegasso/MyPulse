@@ -4224,9 +4224,15 @@
           "name": "Camisola florida DT M",
           "price": 299,
           "qty": 1
+        },
+        "7909476534073": {
+          "code": "7909476534073",
+          "name": "Vestido Livia drapeado off DT P",
+          "price": 739,
+          "qty": 1
         }
       },
-      "total": 1057,
+      "total": 1796,
       "status": "open"
     }
   },
@@ -6386,5 +6392,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:58:18.139Z"
+  "savedAt": "2026-07-09T18:58:25.882Z"
 }
