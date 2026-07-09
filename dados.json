@@ -4162,9 +4162,15 @@
           "name": "Jaqueta harmony branco live M",
           "price": 379.9,
           "qty": 1
+        },
+        "7908990904847": {
+          "code": "7908990904847",
+          "name": "Legging azul petróleo live live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 7926.899999999997,
+      "total": 8256.799999999997,
       "status": "open"
     }
   },
@@ -6308,5 +6314,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:02:28.501Z"
+  "savedAt": "2026-07-09T18:02:36.523Z"
 }
