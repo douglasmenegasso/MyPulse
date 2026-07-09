@@ -4554,9 +4554,15 @@
           "name": "Legging jacquard marrom LP P",
           "price": 297,
           "qty": 1
+        },
+        "7890171628119": {
+          "code": "7890171628119",
+          "name": "Regata canelada rosa AG P",
+          "price": 159,
+          "qty": 1
         }
       },
-      "total": 1078,
+      "total": 1237,
       "status": "open"
     }
   },
@@ -6716,5 +6722,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:24:32.475Z"
+  "savedAt": "2026-07-09T21:24:36.897Z"
 }
