@@ -4290,9 +4290,15 @@
           "name": "Top curve preto live g",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072428064": {
+          "code": "7901072428064",
+          "name": "Top máxi preto live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 3411.7000000000003,
+      "total": 3661.6000000000004,
       "status": "open"
     }
   },
@@ -6452,5 +6458,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:05:48.349Z"
+  "savedAt": "2026-07-09T19:05:52.297Z"
 }
