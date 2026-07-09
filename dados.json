@@ -4515,8 +4515,15 @@
     },
     "c_1783632087135": {
       "clientId": "c_1783632087135",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7909746614393": {
+          "code": "7909746614393",
+          "name": "Regata canelada preta DT P",
+          "price": 259,
+          "qty": 1
+        }
+      },
+      "total": 259,
       "status": "open"
     }
   },
@@ -6676,5 +6683,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:22:06.077Z"
+  "savedAt": "2026-07-09T21:22:09.918Z"
 }
