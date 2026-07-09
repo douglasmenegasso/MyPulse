@@ -4526,9 +4526,15 @@
           "name": "Regata canelada preta DT P",
           "price": 259,
           "qty": 1
+        },
+        "7909746615857": {
+          "code": "7909746615857",
+          "name": "Regata alça fina preta DT M",
+          "price": 279,
+          "qty": 1
         }
       },
-      "total": 259,
+      "total": 538,
       "status": "open"
     }
   },
@@ -6688,5 +6694,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:22:33.732Z"
+  "savedAt": "2026-07-09T21:22:38.019Z"
 }
