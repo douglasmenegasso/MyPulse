@@ -4543,9 +4543,15 @@
           "name": "Regata canelada preta logo couro Lp P",
           "price": 243,
           "qty": 1
+        },
+        "7900292886524": {
+          "code": "7900292886524",
+          "name": "Legging jacquard marrom LP P",
+          "price": 297,
+          "qty": 1
         }
       },
-      "total": 781,
+      "total": 1078,
       "status": "open"
     }
   },
@@ -6705,5 +6711,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:23:50.728Z"
+  "savedAt": "2026-07-09T21:24:04.394Z"
 }
