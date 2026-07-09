@@ -4537,9 +4537,15 @@
           "name": "Regata alça fina preta DT M",
           "price": 279,
           "qty": 1
+        },
+        "6906899947577": {
+          "code": "6906899947577",
+          "name": "Regata canelada preta logo couro Lp P",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 538,
+      "total": 781,
       "status": "open"
     }
   },
@@ -6699,5 +6705,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:23:27.538Z"
+  "savedAt": "2026-07-09T21:23:32.342Z"
 }
