@@ -2804,6 +2804,11 @@
       "code": "7890171657096",
       "name": "Saia com elástico preto e off AG M",
       "price": 319
+    },
+    "7890171652466": {
+      "code": "7890171652466",
+      "name": "Saia reta detalhe estampa rosa AG M",
+      "price": 319
     }
   },
   "clients": {
@@ -6536,5 +6541,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:25:21.359Z"
+  "savedAt": "2026-07-09T19:25:44.388Z"
 }
