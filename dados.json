@@ -2634,6 +2634,11 @@
       "code": "7890171646267",
       "name": "Legging salmão com laranja AG P",
       "price": 449
+    },
+    "7890171648865": {
+      "code": "7890171648865",
+      "name": "Top eterno liso laranja AG M",
+      "price": 209
     }
   },
   "clients": {
@@ -6104,5 +6109,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:49:10.450Z"
+  "savedAt": "2026-07-09T17:49:30.113Z"
 }
