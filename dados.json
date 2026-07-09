@@ -2744,6 +2744,11 @@
       "code": "7909476534073",
       "name": "Vestido Livia drapeado off DT P",
       "price": 739
+    },
+    "7890171654064": {
+      "code": "7890171654064",
+      "name": "Calça reta com franzido preto AG M",
+      "price": 399
     }
   },
   "clients": {
@@ -6392,5 +6397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:02:52.755Z"
+  "savedAt": "2026-07-09T19:02:56.223Z"
 }
