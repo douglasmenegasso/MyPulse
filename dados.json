@@ -3974,9 +3974,15 @@
           "name": "Top eterno liso laranja AG M",
           "price": 209,
           "qty": 1
+        },
+        "7860171652923": {
+          "code": "7860171652923",
+          "name": "Legging eterna shine marrom AG P",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 2268,
+      "total": 2566,
       "status": "open"
     }
   },
@@ -6120,5 +6126,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:50:54.707Z"
+  "savedAt": "2026-07-09T17:51:05.664Z"
 }
