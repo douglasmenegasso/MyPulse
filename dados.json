@@ -4408,8 +4408,15 @@
     },
     "c_1783625230333": {
       "clientId": "c_1783625230333",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7901072411660": {
+          "code": "7901072411660",
+          "name": "Camiseta pima branco live M",
+          "price": 299.9,
+          "qty": 1
+        }
+      },
+      "total": 299.9,
       "status": "open"
     }
   },
@@ -6569,5 +6576,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:29:04.000Z"
+  "savedAt": "2026-07-09T19:29:08.117Z"
 }
