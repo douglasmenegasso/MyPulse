@@ -2754,6 +2754,11 @@
       "code": "7909917723541",
       "name": "Top cropped preto com zíper Lp M",
       "price": 287
+    },
+    "7901072437813": {
+      "code": "7901072437813",
+      "name": "Jaqueta máxi preto live M",
+      "price": 499.9
     }
   },
   "clients": {
@@ -6414,5 +6419,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:03:52.785Z"
+  "savedAt": "2026-07-09T19:04:22.856Z"
 }
