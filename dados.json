@@ -4279,9 +4279,15 @@
           "name": "Shorts máxi preto live M",
           "price": 239.9,
           "qty": 1
+        },
+        "7908011244600": {
+          "code": "7908011244600",
+          "name": "Top curve preto live g",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 3221.8,
+      "total": 3411.7000000000003,
       "status": "open"
     }
   },
@@ -6441,5 +6447,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:05:21.860Z"
+  "savedAt": "2026-07-09T19:05:24.138Z"
 }
