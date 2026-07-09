@@ -4193,6 +4193,19 @@
       },
       "total": 9026.499999999996,
       "status": "waiting"
+    },
+    "c_1783623370358": {
+      "clientId": "c_1783623370358",
+      "items": {
+        "7909746618681": {
+          "code": "7909746618681",
+          "name": "Caça iconic bordo DT P",
+          "price": 599,
+          "qty": 1
+        }
+      },
+      "total": 599,
+      "status": "open"
     }
   },
   "closed": [
@@ -6351,5 +6364,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:56:10.361Z"
+  "savedAt": "2026-07-09T18:56:24.558Z"
 }
