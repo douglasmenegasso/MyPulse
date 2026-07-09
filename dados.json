@@ -4007,9 +4007,15 @@
           "name": "Regata cropped com bojo branco live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7890171643617": {
+          "code": "7890171643617",
+          "name": "Garrafa térmica azul AG",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 2983.9,
+      "total": 3181.9,
       "status": "open"
     }
   },
@@ -6153,5 +6159,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:52:45.876Z"
+  "savedAt": "2026-07-09T17:52:53.440Z"
 }
