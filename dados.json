@@ -2814,6 +2814,11 @@
       "code": "7901072411660",
       "name": "Camiseta pima branco live M",
       "price": 299.9
+    },
+    "7908931948992": {
+      "code": "7908931948992",
+      "name": "Legging allure azul petróleo live g",
+      "price": 319.9
     }
   },
   "clients": {
@@ -6576,5 +6581,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:46:02.355Z"
+  "savedAt": "2026-07-09T19:50:07.275Z"
 }
