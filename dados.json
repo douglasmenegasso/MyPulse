@@ -2864,6 +2864,11 @@
       "code": "6906899947577",
       "name": "Regata canelada preta logo couro Lp P",
       "price": 243
+    },
+    "7890171628119": {
+      "code": "7890171628119",
+      "name": "Regata canelada rosa AG P",
+      "price": 159
     }
   },
   "clients": {
@@ -6711,5 +6716,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:24:04.394Z"
+  "savedAt": "2026-07-09T21:24:32.475Z"
 }
