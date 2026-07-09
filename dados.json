@@ -2849,6 +2849,11 @@
       "code": "7908754570479",
       "name": "Top curve azul petróleo live M",
       "price": 189.9
+    },
+    "7909746614393": {
+      "code": "7909746614393",
+      "name": "Regata canelada preta DT P",
+      "price": 259
     }
   },
   "clients": {
@@ -4507,6 +4512,12 @@
       },
       "total": 2008.4,
       "status": "waiting"
+    },
+    "c_1783632087135": {
+      "clientId": "c_1783632087135",
+      "items": {},
+      "total": 0,
+      "status": "open"
     }
   },
   "closed": [
@@ -6665,5 +6676,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:21:27.136Z"
+  "savedAt": "2026-07-09T21:22:06.077Z"
 }
