@@ -4627,9 +4627,15 @@
           "name": "Jaqueta com bolso versa claro AG M",
           "price": 489,
           "qty": 1
+        },
+        "7908011244686": {
+          "code": "7908011244686",
+          "name": "Top curve branco live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 1097.9,
+      "total": 1287.8000000000002,
       "status": "open"
     }
   },
@@ -6789,5 +6795,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:58:40.222Z"
+  "savedAt": "2026-07-09T21:58:46.943Z"
 }
