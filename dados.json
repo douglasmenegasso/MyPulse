@@ -2679,6 +2679,11 @@
       "code": "7901072451222",
       "name": "Top icon rosa ametista live M",
       "price": 249.9
+    },
+    "7890171646748": {
+      "code": "7890171646748",
+      "name": "Jaqueta com bolso verde claro AG P",
+      "price": 489
     }
   },
   "clients": {
@@ -6215,5 +6220,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:56:05.805Z"
+  "savedAt": "2026-07-09T17:56:48.369Z"
 }
