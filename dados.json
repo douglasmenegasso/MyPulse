@@ -4470,9 +4470,15 @@
           "name": "Jaqueta sprint azul claro DT M",
           "price": 479,
           "qty": 1
+        },
+        "7901072431040": {
+          "code": "7901072431040",
+          "name": "Shorts azul petróleo live live grande M",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 1248.6999999999998,
+      "total": 1488.6,
       "status": "open"
     }
   },
@@ -6632,5 +6638,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:53:10.727Z"
+  "savedAt": "2026-07-09T19:53:14.929Z"
 }
