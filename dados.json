@@ -4354,6 +4354,19 @@
       },
       "total": 4999.6,
       "status": "waiting"
+    },
+    "c_1783624643893": {
+      "clientId": "c_1783624643893",
+      "items": {
+        "7890171653852": {
+          "code": "7890171653852",
+          "name": "Top um ombro só branco com elástico AG M",
+          "price": 239,
+          "qty": 1
+        }
+      },
+      "total": 239,
+      "status": "open"
     }
   },
   "closed": [
@@ -6512,5 +6525,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:18:43.179Z"
+  "savedAt": "2026-07-09T19:18:48.165Z"
 }
