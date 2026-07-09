@@ -2884,6 +2884,11 @@
       "code": "7890171627273",
       "name": "Top elástico preto AG g",
       "price": 219
+    },
+    "7890171645543": {
+      "code": "7890171645543",
+      "name": "Bermuda com silicone verde claro AG P",
+      "price": 309
     }
   },
   "clients": {
@@ -6762,5 +6767,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:56:40.198Z"
+  "savedAt": "2026-07-09T21:57:01.487Z"
 }
