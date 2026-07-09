@@ -2684,6 +2684,11 @@
       "code": "7890171646748",
       "name": "Jaqueta com bolso verde claro AG P",
       "price": 489
+    },
+    "7901072413671": {
+      "code": "7901072413671",
+      "name": "Shorts neopren verde oliva claro live M",
+      "price": 219.9
     }
   },
   "clients": {
@@ -6226,5 +6231,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:56:54.116Z"
+  "savedAt": "2026-07-09T17:57:29.432Z"
 }
