@@ -4560,9 +4560,15 @@
           "name": "Regata canelada rosa AG P",
           "price": 159,
           "qty": 1
+        },
+        "7890171627839": {
+          "code": "7890171627839",
+          "name": "Regata um ombro canelado preto AG M",
+          "price": 288,
+          "qty": 1
         }
       },
-      "total": 1237,
+      "total": 1525,
       "status": "open"
     }
   },
@@ -6722,5 +6728,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:24:51.250Z"
+  "savedAt": "2026-07-09T21:25:08.744Z"
 }
