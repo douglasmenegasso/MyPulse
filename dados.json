@@ -2619,6 +2619,11 @@
       "code": "7900415041786",
       "name": "Vestido curto vazado off LP P",
       "price": 417
+    },
+    "7900415058616": {
+      "code": "7900415058616",
+      "name": "Calça marrom com elástico LP P",
+      "price": 443
     }
   },
   "clients": {
@@ -6071,5 +6076,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:30:14.214Z"
+  "savedAt": "2026-07-09T17:30:47.594Z"
 }
