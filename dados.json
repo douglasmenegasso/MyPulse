@@ -4571,9 +4571,15 @@
           "name": "Regata um ombro canelado preto AG M",
           "price": 288,
           "qty": 1
+        },
+        "7900292841448": {
+          "code": "7900292841448",
+          "name": "Regata off com bege lp P",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 1525,
+      "total": 1788,
       "status": "open"
     }
   },
@@ -6733,5 +6739,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:25:34.366Z"
+  "savedAt": "2026-07-09T21:25:39.275Z"
 }
