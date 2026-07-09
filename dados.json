@@ -3046,6 +3046,11 @@
       "id": "c_1783623370358",
       "name": "Jussara estivadores",
       "phone": ""
+    },
+    "c_1783624643893": {
+      "id": "c_1783624643893",
+      "name": "Simone Barbie",
+      "phone": ""
     }
   },
   "orders": {
@@ -6502,5 +6507,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:16:32.146Z"
+  "savedAt": "2026-07-09T19:17:23.894Z"
 }
