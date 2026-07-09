@@ -3558,12 +3558,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7909746618681": {
-          "code": "7909746618681",
-          "name": "Caça iconic bordo DT P",
-          "price": 599,
-          "qty": 1
-        },
         "7901072406383": {
           "code": "7901072406383",
           "name": "Blusão pose bege live P",
@@ -3643,7 +3637,7 @@
           "qty": 1
         }
       },
-      "total": 8469,
+      "total": 7870,
       "status": "open"
     },
     "c_1783543770765": {
@@ -6335,6 +6329,15 @@
         "qty": 1,
         "lastAt": "2026-07-08T21:49:05.774Z"
       }
+    },
+    "c_1783541517615": {
+      "7909746618681": {
+        "code": "7909746618681",
+        "name": "Caça iconic bordo DT P",
+        "price": 599,
+        "qty": 1,
+        "lastAt": "2026-07-09T18:54:38.865Z"
+      }
     }
   },
   "security": {
@@ -6342,5 +6345,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:54:33.024Z"
+  "savedAt": "2026-07-09T18:54:38.866Z"
 }
