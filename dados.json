@@ -3905,6 +3905,19 @@
       },
       "total": 9490.699999999999,
       "status": "waiting"
+    },
+    "c_1779382988768": {
+      "clientId": "c_1779382988768",
+      "items": {
+        "7900415030124": {
+          "code": "7900415030124",
+          "name": "Vestido curto vazado preto Lp P",
+          "price": 417,
+          "qty": 1
+        }
+      },
+      "total": 417,
+      "status": "open"
     }
   },
   "closed": [
@@ -6047,5 +6060,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:29:28.276Z"
+  "savedAt": "2026-07-09T17:29:32.185Z"
 }
