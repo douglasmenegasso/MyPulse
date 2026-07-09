@@ -4151,9 +4151,15 @@
           "name": "Top curve fúcsia live live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7901072405621": {
+          "code": "7901072405621",
+          "name": "Jaqueta harmony branco live M",
+          "price": 379.9,
+          "qty": 1
         }
       },
-      "total": 7546.999999999997,
+      "total": 7926.899999999997,
       "status": "open"
     }
   },
@@ -6297,5 +6303,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:00:40.138Z"
+  "savedAt": "2026-07-09T18:02:06.567Z"
 }
