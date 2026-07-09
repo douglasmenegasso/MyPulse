@@ -4057,9 +4057,15 @@
           "name": "Top icon rosa ametista live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7909746618933": {
+          "code": "7909746618933",
+          "name": "Legging curve uva listra branca DT P",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 4690.599999999999,
+      "total": 5109.599999999999,
       "status": "open"
     }
   },
@@ -6203,5 +6209,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:55:27.615Z"
+  "savedAt": "2026-07-09T17:55:40.913Z"
 }
