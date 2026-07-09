@@ -2694,6 +2694,11 @@
       "code": "7901072413978",
       "name": "Top neopren verde oliva claro live M",
       "price": 299.9
+    },
+    "7901072408691": {
+      "code": "7901072408691",
+      "name": "Regata soft Green verde oliva claro live M",
+      "price": 179.9
     }
   },
   "clients": {
@@ -6242,5 +6247,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:57:52.461Z"
+  "savedAt": "2026-07-09T17:58:33.020Z"
 }
