@@ -4029,9 +4029,15 @@
           "name": "Jaqueta cherry vinho DT P",
           "price": 699,
           "qty": 1
+        },
+        "7901072483056": {
+          "code": "7901072483056",
+          "name": "Legging icon rosa ametista live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 3880.9,
+      "total": 4200.8,
       "status": "open"
     }
   },
@@ -6175,5 +6181,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:53:46.169Z"
+  "savedAt": "2026-07-09T17:53:51.449Z"
 }
