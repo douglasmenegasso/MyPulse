@@ -2774,6 +2774,11 @@
       "code": "7901072428064",
       "name": "Top máxi preto live M",
       "price": 249.9
+    },
+    "7900041934711": {
+      "code": "7900041934711",
+      "name": "T-shirt preta com zíper Lp P",
+      "price": 333
     }
   },
   "clients": {
@@ -6458,5 +6463,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:05:52.297Z"
+  "savedAt": "2026-07-09T19:06:20.852Z"
 }
