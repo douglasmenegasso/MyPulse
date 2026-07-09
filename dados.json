@@ -3996,9 +3996,15 @@
           "name": "Top shine brilhoso marrom AG M",
           "price": 198,
           "qty": 1
+        },
+        "7901072487573": {
+          "code": "7901072487573",
+          "name": "Regata cropped com bojo branco live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 2764,
+      "total": 2983.9,
       "status": "open"
     }
   },
@@ -6142,5 +6148,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:52:10.343Z"
+  "savedAt": "2026-07-09T17:52:14.537Z"
 }
