@@ -4459,9 +4459,15 @@
           "name": "Top máxi azul petróleo live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7909746622770": {
+          "code": "7909746622770",
+          "name": "Jaqueta sprint azul claro DT M",
+          "price": 479,
+          "qty": 1
         }
       },
-      "total": 769.6999999999999,
+      "total": 1248.6999999999998,
       "status": "open"
     }
   },
@@ -6621,5 +6627,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:52:33.202Z"
+  "savedAt": "2026-07-09T19:52:36.385Z"
 }
