@@ -3111,6 +3111,11 @@
       "id": "c_1783625230333",
       "name": "Raven estivadores",
       "phone": ""
+    },
+    "c_1783632087135": {
+      "id": "c_1783632087135",
+      "name": "Luana salão",
+      "phone": ""
     }
   },
   "orders": {
@@ -6660,5 +6665,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T20:08:43.452Z"
+  "savedAt": "2026-07-09T21:21:27.136Z"
 }
