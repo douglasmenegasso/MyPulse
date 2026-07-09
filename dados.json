@@ -4213,9 +4213,15 @@
           "name": "Regata canelada bordo AG M",
           "price": 159,
           "qty": 1
+        },
+        "7909746546113": {
+          "code": "7909746546113",
+          "name": "Camisola florida DT M",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 758,
+      "total": 1057,
       "status": "open"
     }
   },
@@ -6375,5 +6381,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:57:17.306Z"
+  "savedAt": "2026-07-09T18:57:24.129Z"
 }
