@@ -3564,12 +3564,6 @@
           "price": 399.9,
           "qty": 1
         },
-        "7890171615263": {
-          "code": "7890171615263",
-          "name": "Regata canelada bordo AG M",
-          "price": 159,
-          "qty": 1
-        },
         "7900292896639": {
           "code": "7900292896639",
           "name": "Calça pantalona preta moletom lp P",
@@ -3637,7 +3631,7 @@
           "qty": 1
         }
       },
-      "total": 7870,
+      "total": 7711,
       "status": "open"
     },
     "c_1783543770765": {
@@ -6337,6 +6331,13 @@
         "price": 599,
         "qty": 1,
         "lastAt": "2026-07-09T18:54:38.865Z"
+      },
+      "7890171615263": {
+        "code": "7890171615263",
+        "name": "Regata canelada bordo AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-09T18:54:46.288Z"
       }
     }
   },
@@ -6345,5 +6346,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:54:38.866Z"
+  "savedAt": "2026-07-09T18:54:46.289Z"
 }
