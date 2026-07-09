@@ -2699,6 +2699,11 @@
       "code": "7901072408691",
       "name": "Regata soft Green verde oliva claro live M",
       "price": 179.9
+    },
+    "7901072465014": {
+      "code": "7901072465014",
+      "name": "Macaquinho allure fúcsia live M",
+      "price": 359.9
     }
   },
   "clients": {
@@ -6253,5 +6258,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:59:09.299Z"
+  "savedAt": "2026-07-09T17:59:25.577Z"
 }
