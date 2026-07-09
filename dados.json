@@ -4312,9 +4312,15 @@
           "name": "T-shirt preta com zíper Lp P",
           "price": 333,
           "qty": 1
+        },
+        "7900292360550": {
+          "code": "7900292360550",
+          "name": "Cropped camisa preto Lp P",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 3994.6000000000004,
+      "total": 4457.6,
       "status": "open"
     }
   },
@@ -6474,5 +6480,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:07:02.215Z"
+  "savedAt": "2026-07-09T19:07:04.891Z"
 }
