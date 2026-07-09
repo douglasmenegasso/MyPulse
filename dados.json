@@ -4633,9 +4633,15 @@
           "name": "Top curve branco live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7909746563646": {
+          "code": "7909746563646",
+          "name": "Jaqueta Parka azul DT P",
+          "price": 959,
+          "qty": 1
         }
       },
-      "total": 1287.8000000000002,
+      "total": 2246.8,
       "status": "open"
     }
   },
@@ -6795,5 +6801,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:58:46.943Z"
+  "savedAt": "2026-07-09T21:58:58.660Z"
 }
