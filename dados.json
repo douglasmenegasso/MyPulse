@@ -4639,9 +4639,15 @@
           "name": "Jaqueta Parka azul DT P",
           "price": 959,
           "qty": 1
+        },
+        "7909746563707": {
+          "code": "7909746563707",
+          "name": "Shorts Sport azul DT P",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 2246.8,
+      "total": 2645.8,
       "status": "open"
     }
   },
@@ -6801,5 +6807,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:58:58.660Z"
+  "savedAt": "2026-07-09T21:59:40.731Z"
 }
