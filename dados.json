@@ -4123,9 +4123,15 @@
           "name": "Macaquinho allure fúcsia live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7901072449113": {
+          "code": "7901072449113",
+          "name": "Jaqueta harmony fúcsia live M",
+          "price": 379.9,
+          "qty": 1
         }
       },
-      "total": 6617.299999999998,
+      "total": 6997.199999999998,
       "status": "open"
     }
   },
@@ -6269,5 +6275,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:59:46.202Z"
+  "savedAt": "2026-07-09T17:59:50.501Z"
 }
