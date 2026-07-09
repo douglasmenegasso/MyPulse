@@ -2614,6 +2614,11 @@
       "code": "7900415030124",
       "name": "Vestido curto vazado preto Lp P",
       "price": 417
+    },
+    "7900415041786": {
+      "code": "7900415041786",
+      "name": "Vestido curto vazado off LP P",
+      "price": 417
     }
   },
   "clients": {
@@ -6060,5 +6065,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:29:55.882Z"
+  "savedAt": "2026-07-09T17:30:10.242Z"
 }
