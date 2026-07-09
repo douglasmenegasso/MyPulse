@@ -2809,6 +2809,11 @@
       "code": "7890171652466",
       "name": "Saia reta detalhe estampa rosa AG M",
       "price": 319
+    },
+    "7901072411660": {
+      "code": "7901072411660",
+      "name": "Camiseta pima branco live M",
+      "price": 299.9
     }
   },
   "clients": {
@@ -6564,5 +6569,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:28:52.709Z"
+  "savedAt": "2026-07-09T19:29:04.000Z"
 }
