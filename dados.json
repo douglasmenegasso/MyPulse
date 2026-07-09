@@ -2799,6 +2799,11 @@
       "code": "7890171653852",
       "name": "Top um ombro só branco com elástico AG M",
       "price": 239
+    },
+    "7890171657096": {
+      "code": "7890171657096",
+      "name": "Saia com elástico preto e off AG M",
+      "price": 319
     }
   },
   "clients": {
@@ -6525,5 +6530,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:20:40.811Z"
+  "savedAt": "2026-07-09T19:21:21.574Z"
 }
