@@ -4246,9 +4246,15 @@
           "name": "Calça reta com franzido preto AG M",
           "price": 399,
           "qty": 1
+        },
+        "7909917723541": {
+          "code": "7909917723541",
+          "name": "Top cropped preto com zíper Lp M",
+          "price": 287,
+          "qty": 1
         }
       },
-      "total": 2195,
+      "total": 2482,
       "status": "open"
     }
   },
@@ -6408,5 +6414,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:03:31.591Z"
+  "savedAt": "2026-07-09T19:03:33.866Z"
 }
