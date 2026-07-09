@@ -2889,6 +2889,11 @@
       "code": "7890171645543",
       "name": "Bermuda com silicone verde claro AG P",
       "price": 309
+    },
+    "7890171652428": {
+      "code": "7890171652428",
+      "name": "Jaqueta com bolso versa claro AG M",
+      "price": 489
     }
   },
   "clients": {
@@ -6773,5 +6778,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:57:18.687Z"
+  "savedAt": "2026-07-09T21:57:45.981Z"
 }
