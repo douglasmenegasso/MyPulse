@@ -4145,9 +4145,15 @@
           "name": "Legging fúcsia live live M",
           "price": 329.9,
           "qty": 1
+        },
+        "7901072457095": {
+          "code": "7901072457095",
+          "name": "Top curve fúcsia live live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 7327.099999999998,
+      "total": 7546.999999999997,
       "status": "open"
     }
   },
@@ -6291,5 +6297,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T18:00:36.725Z"
+  "savedAt": "2026-07-09T18:00:40.138Z"
 }
