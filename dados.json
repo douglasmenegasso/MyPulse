@@ -4591,6 +4591,19 @@
       },
       "total": 1788,
       "status": "waiting"
+    },
+    "c_1779727528255": {
+      "clientId": "c_1779727528255",
+      "items": {
+        "7901072413978": {
+          "code": "7901072413978",
+          "name": "Top neopren verde oliva claro live M",
+          "price": 299.9,
+          "qty": 1
+        }
+      },
+      "total": 299.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -6749,5 +6762,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T21:56:18.497Z"
+  "savedAt": "2026-07-09T21:56:40.198Z"
 }
