@@ -2609,6 +2609,11 @@
       "code": "7908835819312",
       "name": "Camiseta icon azul petróleo live M",
       "price": 199.9
+    },
+    "7900415030124": {
+      "code": "7900415030124",
+      "name": "Vestido curto vazado preto Lp P",
+      "price": 417
     }
   },
   "clients": {
@@ -6042,5 +6047,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T17:28:41.316Z"
+  "savedAt": "2026-07-09T17:29:28.276Z"
 }
