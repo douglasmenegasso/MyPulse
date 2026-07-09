@@ -4385,9 +4385,15 @@
           "name": "Saia reta detalhe estampa rosa AG M",
           "price": 319,
           "qty": 1
+        },
+        "7890171662229": {
+          "code": "7890171662229",
+          "name": "Top elástico roxo malva AG M",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 877,
+      "total": 1096,
       "status": "open"
     }
   },
@@ -6547,5 +6553,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T19:25:57.193Z"
+  "savedAt": "2026-07-09T19:26:12.739Z"
 }
