@@ -3166,6 +3166,11 @@
       "id": "c_1783632087135",
       "name": "Luana salão",
       "phone": ""
+    },
+    "c_1783701666054": {
+      "id": "c_1783701666054",
+      "name": "Gabriela 1802",
+      "phone": ""
     }
   },
   "orders": {
@@ -6807,5 +6812,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-09T22:05:08.914Z"
+  "savedAt": "2026-07-10T16:41:06.055Z"
 }
