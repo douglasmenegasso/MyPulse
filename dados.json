@@ -4829,9 +4829,15 @@
           "name": "Regata canelada verde Lp P",
           "price": 297,
           "qty": 1
+        },
+        "7900415216986": {
+          "code": "7900415216986",
+          "name": "Regata de alças canelada off Lp m",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 1480,
+      "total": 1743,
       "status": "open"
     }
   },
@@ -7066,5 +7072,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:19:34.556Z"
+  "savedAt": "2026-07-10T19:19:44.129Z"
 }
