@@ -4884,9 +4884,15 @@
           "name": "Regata canelada marrom bordado azul Lp P",
           "price": 263,
           "qty": 1
+        },
+        "7909746620806": {
+          "code": "7909746620806",
+          "name": "Legging marrom DT P",
+          "price": 339,
+          "qty": 1
         }
       },
-      "total": 3781,
+      "total": 4120,
       "status": "open"
     }
   },
@@ -7121,5 +7127,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:24:49.288Z"
+  "savedAt": "2026-07-10T19:24:52.382Z"
 }
