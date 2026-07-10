@@ -3218,8 +3218,15 @@
     },
     "c_1779210400273": {
       "clientId": "c_1779210400273",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7909746638085": {
+          "code": "7909746638085",
+          "name": "Blusa rivera off com preto DT P",
+          "price": 299,
+          "qty": 1
+        }
+      },
+      "total": 299,
       "status": "waiting"
     },
     "c_1779214900706": {
@@ -6873,5 +6880,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T18:54:41.261Z"
+  "savedAt": "2026-07-10T18:54:58.431Z"
 }
