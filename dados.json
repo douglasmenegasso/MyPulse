@@ -3230,9 +3230,15 @@
           "name": "Calça rivieira preta com off DT P",
           "price": 269,
           "qty": 1
+        },
+        "7900415268572": {
+          "code": "7900415268572",
+          "name": "Shorts jeans bege com detalhe couro LP 36",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 568,
+      "total": 1121,
       "status": "open"
     },
     "c_1779214900706": {
@@ -6895,5 +6901,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T18:56:31.657Z"
+  "savedAt": "2026-07-10T18:56:39.780Z"
 }
