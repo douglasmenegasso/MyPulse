@@ -2984,6 +2984,11 @@
       "code": "7909746638184",
       "name": "Vestido riviera off com preto DT P",
       "price": 979
+    },
+    "7900415268589": {
+      "code": "7900415268589",
+      "name": "Shorts sarja bege Lp 38",
+      "price": 553
     }
   },
   "clients": {
@@ -7094,5 +7099,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:23:08.786Z"
+  "savedAt": "2026-07-10T19:23:13.613Z"
 }
