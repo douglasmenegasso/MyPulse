@@ -3719,18 +3719,6 @@
     "c_1783530252285": {
       "clientId": "c_1783530252285",
       "items": {
-        "7890171652534": {
-          "code": "7890171652534",
-          "name": "Legging preta símbolo AG M",
-          "price": 299,
-          "qty": 1
-        },
-        "7890171657454": {
-          "code": "7890171657454",
-          "name": "Legging assimétrica preto com off AG M",
-          "price": 449,
-          "qty": 1
-        },
         "7890171651629": {
           "code": "7890171651629",
           "name": "Top elástico preto AG g",
@@ -3762,7 +3750,7 @@
           "qty": 1
         }
       },
-      "total": 2186.6000000000004,
+      "total": 1438.6000000000004,
       "status": "open"
     },
     "c_1783531395837": {
@@ -7220,6 +7208,20 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-10T19:44:18.091Z"
+      },
+      "7890171652534": {
+        "code": "7890171652534",
+        "name": "Legging preta símbolo AG M",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:22.009Z"
+      },
+      "7890171657454": {
+        "code": "7890171657454",
+        "name": "Legging assimétrica preto com off AG M",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:23.043Z"
       }
     }
   },
@@ -7228,5 +7230,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:44:20.152Z"
+  "savedAt": "2026-07-10T19:44:23.044Z"
 }
