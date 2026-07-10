@@ -3014,6 +3014,11 @@
       "code": "7901072437790",
       "name": "Jaqueta máxi branca live g",
       "price": 499.9
+    },
+    "7900415109998": {
+      "code": "7900415109998",
+      "name": "Regata listrada cinza Lp M",
+      "price": 223
     }
   },
   "clients": {
@@ -7160,5 +7165,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:26:41.403Z"
+  "savedAt": "2026-07-10T19:26:57.653Z"
 }
