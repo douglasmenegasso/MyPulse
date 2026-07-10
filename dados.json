@@ -3718,21 +3718,8 @@
     },
     "c_1783531395837": {
       "clientId": "c_1783531395837",
-      "items": {
-        "7908990960027": {
-          "code": "7908990960027",
-          "name": "Blusão texturizado live verde M",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960188": {
-          "code": "7908990960188",
-          "name": "Calça texturizada verde live M",
-          "price": 599.9,
-          "qty": 1
-        }
-      },
-      "total": 1099.8,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1783541517615": {
@@ -7229,6 +7216,22 @@
         "qty": 1,
         "lastAt": "2026-07-10T19:44:27.149Z"
       }
+    },
+    "c_1783531395837": {
+      "7908990960027": {
+        "code": "7908990960027",
+        "name": "Blusão texturizado live verde M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:43.249Z"
+      },
+      "7908990960188": {
+        "code": "7908990960188",
+        "name": "Calça texturizada verde live M",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:43.766Z"
+      }
     }
   },
   "security": {
@@ -7236,5 +7239,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:44:42.459Z"
+  "savedAt": "2026-07-10T19:44:46.951Z"
 }
