@@ -3069,6 +3069,11 @@
       "code": "7909746655761",
       "name": "Pijama Lucca curto azul DT men M",
       "price": 389
+    },
+    "7909746512446": {
+      "code": "7909746512446",
+      "name": "Sutiã mescla renda branco DT 44",
+      "price": 149
     }
   },
   "clients": {
@@ -7304,5 +7309,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:12:44.644Z"
+  "savedAt": "2026-07-10T21:12:52.681Z"
 }
