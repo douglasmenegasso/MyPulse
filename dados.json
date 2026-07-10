@@ -2939,6 +2939,11 @@
       "code": "7900415030421",
       "name": "Jaqueta preta com elástico Lp M",
       "price": 853
+    },
+    "7909746661434": {
+      "code": "7909746661434",
+      "name": "Pijama short doll marrom com off DT P",
+      "price": 439
     }
   },
   "clients": {
@@ -6959,5 +6964,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:05:22.080Z"
+  "savedAt": "2026-07-10T19:05:39.544Z"
 }
