@@ -3019,6 +3019,11 @@
       "code": "7900415109998",
       "name": "Regata listrada cinza Lp M",
       "price": 223
+    },
+    "7900415286941": {
+      "code": "7900415286941",
+      "name": "T-shirt off com rosa LP g",
+      "price": 243
     }
   },
   "clients": {
@@ -7254,5 +7259,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T20:23:16.080Z"
+  "savedAt": "2026-07-10T21:07:08.468Z"
 }
