@@ -3064,6 +3064,11 @@
       "code": "7900415231989",
       "name": "Shorts alfaiataria bege com off LP P",
       "price": 577
+    },
+    "7909746655761": {
+      "code": "7909746655761",
+      "name": "Pijama Lucca curto azul DT men M",
+      "price": 389
     }
   },
   "clients": {
@@ -7299,5 +7304,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:11:44.638Z"
+  "savedAt": "2026-07-10T21:12:32.910Z"
 }
