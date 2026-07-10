@@ -3719,24 +3719,6 @@
     "c_1783530252285": {
       "clientId": "c_1783530252285",
       "items": {
-        "7890171651629": {
-          "code": "7890171651629",
-          "name": "Top elástico preto AG g",
-          "price": 219,
-          "qty": 1
-        },
-        "7908754515616": {
-          "code": "7908754515616",
-          "name": "Legging allure preto live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908754514305": {
-          "code": "7908754514305",
-          "name": "Legging icon preto live g",
-          "price": 319.9,
-          "qty": 1
-        },
         "7908754527824": {
           "code": "7908754527824",
           "name": "Top icon preto live g",
@@ -3750,7 +3732,7 @@
           "qty": 1
         }
       },
-      "total": 1438.6000000000004,
+      "total": 579.8000000000004,
       "status": "open"
     },
     "c_1783531395837": {
@@ -7222,6 +7204,27 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-10T19:44:23.043Z"
+      },
+      "7890171651629": {
+        "code": "7890171651629",
+        "name": "Top elástico preto AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:24.010Z"
+      },
+      "7908754515616": {
+        "code": "7908754515616",
+        "name": "Legging allure preto live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:24.782Z"
+      },
+      "7908754514305": {
+        "code": "7908754514305",
+        "name": "Legging icon preto live g",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:25.827Z"
       }
     }
   },
@@ -7230,5 +7233,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:44:23.044Z"
+  "savedAt": "2026-07-10T19:44:25.828Z"
 }
