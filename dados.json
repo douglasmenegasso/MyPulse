@@ -3039,6 +3039,11 @@
       "code": "7900415112066",
       "name": "Regata canelada bege LP P",
       "price": 297
+    },
+    "7900415361020": {
+      "code": "7900415361020",
+      "name": "Regata canelada marrom bordado azul Lp M",
+      "price": 263
     }
   },
   "clients": {
@@ -7274,5 +7279,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:08:55.242Z"
+  "savedAt": "2026-07-10T21:09:44.213Z"
 }
