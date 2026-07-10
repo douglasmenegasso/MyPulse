@@ -4637,15 +4637,8 @@
     },
     "c_1783701666054": {
       "clientId": "c_1783701666054",
-      "items": {
-        "7891186110972": {
-          "code": "7891186110972",
-          "name": "Meia calça fio 15 preta lupo m",
-          "price": 39.9,
-          "qty": 2
-        }
-      },
-      "total": 79.79999999999998,
+      "items": {},
+      "total": 0,
       "status": "open"
     }
   },
@@ -6846,8 +6839,8 @@
         "code": "7891186110972",
         "name": "Meia calça fio 15 preta lupo m",
         "price": 39.9,
-        "qty": 2,
-        "lastAt": "2026-07-10T17:24:37.071Z"
+        "qty": 4,
+        "lastAt": "2026-07-10T17:24:40.571Z"
       }
     }
   },
@@ -6856,5 +6849,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T17:24:37.072Z"
+  "savedAt": "2026-07-10T17:24:40.572Z"
 }
