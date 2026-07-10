@@ -2914,6 +2914,11 @@
       "code": "7900415268572",
       "name": "Shorts jeans bege com detalhe couro LP 36",
       "price": 553
+    },
+    "7909746638085": {
+      "code": "7909746638085",
+      "name": "Blusa rivera off com preto DT P",
+      "price": 299
     }
   },
   "clients": {
@@ -6863,5 +6868,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T18:52:25.938Z"
+  "savedAt": "2026-07-10T18:52:34.151Z"
 }
