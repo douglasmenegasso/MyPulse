@@ -3024,6 +3024,11 @@
       "code": "7900415286941",
       "name": "T-shirt off com rosa LP g",
       "price": 243
+    },
+    "7900415222994": {
+      "code": "7900415222994",
+      "name": "Regata canelada com elástico verde Lp P",
+      "price": 297
     }
   },
   "clients": {
@@ -7259,5 +7264,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:07:44.344Z"
+  "savedAt": "2026-07-10T21:07:50.049Z"
 }
