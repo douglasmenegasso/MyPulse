@@ -2979,6 +2979,11 @@
       "code": "7900415286965",
       "name": "T-shirt off com rosa LP M",
       "price": 243
+    },
+    "7909746638184": {
+      "code": "7909746638184",
+      "name": "Vestido riviera off com preto DT P",
+      "price": 979
     }
   },
   "clients": {
@@ -7083,5 +7088,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:21:05.934Z"
+  "savedAt": "2026-07-10T19:21:20.596Z"
 }
