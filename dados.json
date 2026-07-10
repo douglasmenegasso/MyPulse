@@ -2989,6 +2989,11 @@
       "code": "7900415268589",
       "name": "Shorts sarja bege Lp 38",
       "price": 553
+    },
+    "7900415361037": {
+      "code": "7900415361037",
+      "name": "Regata canelada marrom bordado azul Lp P",
+      "price": 263
     }
   },
   "clients": {
@@ -7105,5 +7110,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:23:30.217Z"
+  "savedAt": "2026-07-10T19:24:00.516Z"
 }
