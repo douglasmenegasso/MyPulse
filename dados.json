@@ -4630,22 +4630,10 @@
           "name": "Jaqueta máxi preto live M",
           "price": 398,
           "qty": 1
-        },
-        "7909746563646": {
-          "code": "7909746563646",
-          "name": "Jaqueta Parka azul DT P",
-          "price": 959,
-          "qty": 1
-        },
-        "7909746563707": {
-          "code": "7909746563707",
-          "name": "Shorts Sport azul DT P",
-          "price": 399,
-          "qty": 1
         }
       },
-      "total": 1756,
-      "status": "open"
+      "total": 398,
+      "status": "waiting"
     },
     "c_1783701666054": {
       "clientId": "c_1783701666054",
@@ -6089,6 +6077,20 @@
         "price": 309,
         "qty": 1,
         "lastAt": "2026-07-10T17:22:50.948Z"
+      },
+      "7909746563646": {
+        "code": "7909746563646",
+        "name": "Jaqueta Parka azul DT P",
+        "price": 959,
+        "qty": 1,
+        "lastAt": "2026-07-10T17:23:28.558Z"
+      },
+      "7909746563707": {
+        "code": "7909746563707",
+        "name": "Shorts Sport azul DT P",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-10T17:23:29.236Z"
       }
     },
     "41995150547": {
@@ -6845,5 +6847,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T17:23:26.753Z"
+  "savedAt": "2026-07-10T17:23:30.169Z"
 }
