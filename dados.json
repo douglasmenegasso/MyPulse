@@ -4906,9 +4906,15 @@
           "name": "Legging marrom símbolo AG M",
           "price": 289,
           "qty": 1
+        },
+        "7890171628744": {
+          "code": "7890171628744",
+          "name": "Calça alfaiataria marrom AG P",
+          "price": 498,
+          "qty": 1
         }
       },
-      "total": 4409,
+      "total": 4907,
       "status": "open"
     }
   },
@@ -7143,5 +7149,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:25:49.748Z"
+  "savedAt": "2026-07-10T19:25:59.281Z"
 }
