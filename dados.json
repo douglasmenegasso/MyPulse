@@ -4707,6 +4707,19 @@
       },
       "total": 853,
       "status": "waiting"
+    },
+    "c_1779729371390": {
+      "clientId": "c_1779729371390",
+      "items": {
+        "7900415030421": {
+          "code": "7900415030421",
+          "name": "Jaqueta preta com elástico Lp M",
+          "price": 853,
+          "qty": 1
+        }
+      },
+      "total": 853,
+      "status": "open"
     }
   },
   "closed": [
@@ -6940,5 +6953,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:01:59.776Z"
+  "savedAt": "2026-07-10T19:02:03.365Z"
 }
