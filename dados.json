@@ -3719,12 +3719,6 @@
     "c_1783530252285": {
       "clientId": "c_1783530252285",
       "items": {
-        "7908754527824": {
-          "code": "7908754527824",
-          "name": "Top icon preto live g",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908931902833": {
           "code": "7908931902833",
           "name": "Legging preto live live g",
@@ -3732,8 +3726,8 @@
           "qty": 1
         }
       },
-      "total": 579.8000000000004,
-      "status": "open"
+      "total": 329.90000000000043,
+      "status": "waiting"
     },
     "c_1783531395837": {
       "clientId": "c_1783531395837",
@@ -7225,6 +7219,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-10T19:44:25.827Z"
+      },
+      "7908754527824": {
+        "code": "7908754527824",
+        "name": "Top icon preto live g",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:27.149Z"
       }
     }
   },
@@ -7233,5 +7234,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:44:25.828Z"
+  "savedAt": "2026-07-10T19:44:31.918Z"
 }
