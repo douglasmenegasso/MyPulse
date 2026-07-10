@@ -3104,6 +3104,11 @@
       "code": "7909746620103",
       "name": "Legging sprint marrom DT M",
       "price": 259
+    },
+    "7909746620110": {
+      "code": "7909746620110",
+      "name": "Legging sprint marrom DT G",
+      "price": 259
     }
   },
   "clients": {
@@ -7339,5 +7344,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:16:58.532Z"
+  "savedAt": "2026-07-10T21:17:18.714Z"
 }
