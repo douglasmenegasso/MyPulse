@@ -2974,6 +2974,11 @@
       "code": "7900415216986",
       "name": "Regata de alças canelada off Lp m",
       "price": 263
+    },
+    "7900415286965": {
+      "code": "7900415286965",
+      "name": "T-shirt off com rosa LP M",
+      "price": 243
     }
   },
   "clients": {
@@ -7072,5 +7077,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:20:05.251Z"
+  "savedAt": "2026-07-10T19:20:25.454Z"
 }
