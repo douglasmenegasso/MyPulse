@@ -4958,9 +4958,15 @@
           "name": "Regata canelada azul DT g",
           "price": 259,
           "qty": 1
+        },
+        "7909746563653": {
+          "code": "7909746563653",
+          "name": "Jaqueta Sport azu com branco DT M",
+          "price": 959,
+          "qty": 1
         }
       },
-      "total": 7209.9,
+      "total": 8168.9,
       "status": "open"
     }
   },
@@ -7202,5 +7208,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:40:06.687Z"
+  "savedAt": "2026-07-10T19:40:17.943Z"
 }
