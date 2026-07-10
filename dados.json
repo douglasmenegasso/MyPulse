@@ -3250,7 +3250,7 @@
         }
       },
       "total": 1384,
-      "status": "open"
+      "status": "waiting"
     },
     "c_1779214900706": {
       "clientId": "c_1779214900706",
@@ -6912,5 +6912,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T18:58:32.368Z"
+  "savedAt": "2026-07-10T18:58:46.876Z"
 }
