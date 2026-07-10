@@ -4742,6 +4742,19 @@
       },
       "total": 1552.9,
       "status": "waiting"
+    },
+    "c_1783710465465": {
+      "clientId": "c_1783710465465",
+      "items": {
+        "7900292979806": {
+          "code": "7900292979806",
+          "name": "Top Sport duplo preto Lp M",
+          "price": 333,
+          "qty": 1
+        }
+      },
+      "total": 333,
+      "status": "open"
     }
   },
   "closed": [
@@ -6975,5 +6988,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:08:01.846Z"
+  "savedAt": "2026-07-10T19:08:30.042Z"
 }
