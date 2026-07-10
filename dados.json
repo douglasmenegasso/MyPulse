@@ -2899,6 +2899,11 @@
       "code": "7908011244686",
       "name": "Top curve branco live M",
       "price": 189.9
+    },
+    "7891186110972": {
+      "code": "7891186110972",
+      "name": "Meia calça fio 15 preta lupo m",
+      "price": 39.9
     }
   },
   "clients": {
@@ -6812,5 +6817,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T16:41:47.985Z"
+  "savedAt": "2026-07-10T16:41:50.797Z"
 }
