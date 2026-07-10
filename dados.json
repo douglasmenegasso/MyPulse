@@ -4642,10 +4642,10 @@
           "code": "7891186110972",
           "name": "Meia calça fio 15 preta lupo m",
           "price": 39.9,
-          "qty": 1
+          "qty": 2
         }
       },
-      "total": 39.9,
+      "total": 79.8,
       "status": "open"
     }
   },
@@ -6847,5 +6847,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T17:24:20.760Z"
+  "savedAt": "2026-07-10T17:24:25.299Z"
 }
