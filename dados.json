@@ -4940,9 +4940,15 @@
           "name": "Caça iconic bordo DT P",
           "price": 599,
           "qty": 1
+        },
+        "7890171615263": {
+          "code": "7890171615263",
+          "name": "Regata canelada bordo AG M",
+          "price": 159,
+          "qty": 1
         }
       },
-      "total": 6228.9,
+      "total": 6387.9,
       "status": "open"
     }
   },
@@ -7177,5 +7183,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:27:26.600Z"
+  "savedAt": "2026-07-10T19:27:32.622Z"
 }
