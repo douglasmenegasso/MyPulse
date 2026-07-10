@@ -4625,6 +4625,12 @@
     "c_1779727528255": {
       "clientId": "c_1779727528255",
       "items": {
+        "7909": {
+          "code": "7909",
+          "name": "Jaqueta máxi preto live M",
+          "price": 398,
+          "qty": 1
+        },
         "7909746563646": {
           "code": "7909746563646",
           "name": "Jaqueta Parka azul DT P",
@@ -4638,7 +4644,7 @@
           "qty": 1
         }
       },
-      "total": 1358,
+      "total": 1756,
       "status": "open"
     },
     "c_1783701666054": {
@@ -6839,5 +6845,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T17:23:19.947Z"
+  "savedAt": "2026-07-10T17:23:26.753Z"
 }
