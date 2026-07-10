@@ -4934,9 +4934,15 @@
           "name": "Regata listrada cinza Lp M",
           "price": 223,
           "qty": 1
+        },
+        "7909746618681": {
+          "code": "7909746618681",
+          "name": "Caça iconic bordo DT P",
+          "price": 599,
+          "qty": 1
         }
       },
-      "total": 5629.9,
+      "total": 6228.9,
       "status": "open"
     }
   },
@@ -7171,5 +7177,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:27:01.887Z"
+  "savedAt": "2026-07-10T19:27:26.600Z"
 }
