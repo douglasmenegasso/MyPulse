@@ -3034,6 +3034,11 @@
       "code": "7900415110000",
       "name": "Regata listrada cinza em linho LP P",
       "price": 223
+    },
+    "7900415112066": {
+      "code": "7900415112066",
+      "name": "Regata canelada bege LP P",
+      "price": 297
     }
   },
   "clients": {
@@ -7269,5 +7274,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:08:44.349Z"
+  "savedAt": "2026-07-10T21:08:55.242Z"
 }
