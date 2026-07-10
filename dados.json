@@ -2944,6 +2944,11 @@
       "code": "7909746661434",
       "name": "Pijama short doll marrom com off DT P",
       "price": 439
+    },
+    "7900415044527": {
+      "code": "7900415044527",
+      "name": "Calça wide leg preta com elástico LP P",
+      "price": 443
     }
   },
   "clients": {
@@ -6988,5 +6993,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:09:02.180Z"
+  "savedAt": "2026-07-10T19:09:34.620Z"
 }
