@@ -3074,6 +3074,11 @@
       "code": "7909746512446",
       "name": "Sutiã mescla renda branco DT 44",
       "price": 149
+    },
+    "7909746620097": {
+      "code": "7909746620097",
+      "name": "Legging sprint marrom DT P",
+      "price": 259
     }
   },
   "clients": {
@@ -7309,5 +7314,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:14:21.656Z"
+  "savedAt": "2026-07-10T21:14:39.599Z"
 }
