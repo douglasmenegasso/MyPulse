@@ -3094,6 +3094,11 @@
       "code": "7909746620400",
       "name": "Macaquinho sprint marrom DT M",
       "price": 369
+    },
+    "7909746661441": {
+      "code": "7909746661441",
+      "name": "Pijama short doll bege com off DT M",
+      "price": 439
     }
   },
   "clients": {
@@ -7329,5 +7334,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:16:21.690Z"
+  "savedAt": "2026-07-10T21:16:40.493Z"
 }
