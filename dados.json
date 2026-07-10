@@ -4520,15 +4520,9 @@
           "name": "Top Sport duplo preto Lp M",
           "price": 333,
           "qty": 1
-        },
-        "7890171649237": {
-          "code": "7890171649237",
-          "name": "Regata cropped refletivo branco live M",
-          "price": 209,
-          "qty": 1
         }
       },
-      "total": 4999.6,
+      "total": 4790.6,
       "status": "open"
     },
     "c_1783624643893": {
@@ -7232,6 +7226,15 @@
         "qty": 1,
         "lastAt": "2026-07-10T19:44:43.766Z"
       }
+    },
+    "c_1783623370358": {
+      "7890171649237": {
+        "code": "7890171649237",
+        "name": "Regata cropped refletivo branco live M",
+        "price": 209,
+        "qty": 1,
+        "lastAt": "2026-07-10T20:02:48.184Z"
+      }
     }
   },
   "security": {
@@ -7239,5 +7242,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T20:02:46.270Z"
+  "savedAt": "2026-07-10T20:02:48.186Z"
 }
