@@ -3054,6 +3054,11 @@
       "code": "7900415122447",
       "name": "Regata canelada verde LP M",
       "price": 297
+    },
+    "7900415154004": {
+      "code": "7900415154004",
+      "name": "Shorts saia marrom LP pp",
+      "price": 443
     }
   },
   "clients": {
@@ -7289,5 +7294,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:10:44.530Z"
+  "savedAt": "2026-07-10T21:11:18.098Z"
 }
