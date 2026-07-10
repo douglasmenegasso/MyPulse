@@ -2954,6 +2954,11 @@
       "code": "7900415151010",
       "name": "Shorts saia marrom LP P",
       "price": 443
+    },
+    "7900415153892": {
+      "code": "7900415153892",
+      "name": "Shorts saia marrom LP M",
+      "price": 443
     }
   },
   "clients": {
@@ -4782,6 +4787,19 @@
       },
       "total": 1629,
       "status": "waiting"
+    },
+    "c_1783711001466": {
+      "clientId": "c_1783711001466",
+      "items": {
+        "7900415151010": {
+          "code": "7900415151010",
+          "name": "Shorts saia marrom LP P",
+          "price": 443,
+          "qty": 1
+        }
+      },
+      "total": 443,
+      "status": "open"
     }
   },
   "closed": [
@@ -7015,5 +7033,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:17:14.902Z"
+  "savedAt": "2026-07-10T19:17:55.836Z"
 }
