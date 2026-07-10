@@ -2999,6 +2999,11 @@
       "code": "7909746620806",
       "name": "Legging marrom DT P",
       "price": 339
+    },
+    "7890171620724": {
+      "code": "7890171620724",
+      "name": "Legging marrom símbolo AG M",
+      "price": 289
     }
   },
   "clients": {
@@ -7127,5 +7132,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:24:52.382Z"
+  "savedAt": "2026-07-10T19:25:10.058Z"
 }
