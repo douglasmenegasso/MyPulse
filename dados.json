@@ -4781,12 +4781,6 @@
     "c_1779727528255": {
       "clientId": "c_1779727528255",
       "items": {
-        "7909": {
-          "code": "7909",
-          "name": "Jaqueta máxi preto live M",
-          "price": 398,
-          "qty": 1
-        },
         "7901072437776": {
           "code": "7901072437776",
           "name": "Jaqueta máxi branco live M",
@@ -4794,7 +4788,7 @@
           "qty": 1
         }
       },
-      "total": 897.9,
+      "total": 499.9,
       "status": "open"
     },
     "c_1783709976806": {
@@ -6360,6 +6354,13 @@
       }
     },
     "c_1779727528255": {
+      "7909": {
+        "code": "7909",
+        "name": "Jaqueta máxi preto live M",
+        "price": 398,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:38:31.937Z"
+      },
       "7909746435417": {
         "code": "7909746435417",
         "name": "Pijama Chloe lindo verde água DT P",
@@ -7189,5 +7190,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:38:29.546Z"
+  "savedAt": "2026-07-10T19:38:33.235Z"
 }
