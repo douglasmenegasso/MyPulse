@@ -4620,12 +4620,6 @@
     "c_1779727528255": {
       "clientId": "c_1779727528255",
       "items": {
-        "7901072413978": {
-          "code": "7901072413978",
-          "name": "Top neopren verde oliva claro live M",
-          "price": 299.9,
-          "qty": 1
-        },
         "7890171645543": {
           "code": "7890171645543",
           "name": "Bermuda com silicone verde claro AG P",
@@ -4657,7 +4651,7 @@
           "qty": 1
         }
       },
-      "total": 2645.8,
+      "total": 2345.9,
       "status": "open"
     },
     "c_1783701666054": {
@@ -6074,6 +6068,13 @@
         "price": 499,
         "qty": 1,
         "lastAt": "2026-07-07T20:11:12.648Z"
+      },
+      "7901072413978": {
+        "code": "7901072413978",
+        "name": "Top neopren verde oliva claro live M",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T17:22:47.684Z"
       }
     },
     "41995150547": {
@@ -6830,5 +6831,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T17:22:42.036Z"
+  "savedAt": "2026-07-10T17:22:47.685Z"
 }
