@@ -2909,6 +2909,11 @@
       "code": "7891186110972",
       "name": "Meia calça fio 15 preta lupo m",
       "price": 29.9
+    },
+    "7900415268572": {
+      "code": "7900415268572",
+      "name": "Shorts jeans bege com detalhe couro LP 36",
+      "price": 553
     }
   },
   "clients": {
@@ -6858,5 +6863,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T18:48:25.489Z"
+  "savedAt": "2026-07-10T18:48:45.442Z"
 }
