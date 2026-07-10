@@ -3009,6 +3009,11 @@
       "code": "7890171628744",
       "name": "Calça alfaiataria marrom AG P",
       "price": 498
+    },
+    "7901072437790": {
+      "code": "7901072437790",
+      "name": "Jaqueta máxi branca live g",
+      "price": 499.9
     }
   },
   "clients": {
@@ -7149,5 +7154,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:26:22.709Z"
+  "savedAt": "2026-07-10T19:26:36.927Z"
 }
