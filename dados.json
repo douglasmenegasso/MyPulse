@@ -3760,27 +3760,9 @@
           "name": "Legging preto live live g",
           "price": 329.9,
           "qty": 1
-        },
-        "7908835895521": {
-          "code": "7908835895521",
-          "name": "Top preto live live g",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7908754537908": {
-          "code": "7908754537908",
-          "name": "Camiseta icon preta live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072428606": {
-          "code": "7901072428606",
-          "name": "Jaqueta canelada preta live g",
-          "price": 499.9,
-          "qty": 1
         }
       },
-      "total": 3106.3000000000006,
+      "total": 2186.6000000000004,
       "status": "open"
     },
     "c_1783531395837": {
@@ -7216,6 +7198,29 @@
         "qty": 1,
         "lastAt": "2026-07-10T18:55:35.346Z"
       }
+    },
+    "c_1783530252285": {
+      "7901072428606": {
+        "code": "7901072428606",
+        "name": "Jaqueta canelada preta live g",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:13.151Z"
+      },
+      "7908754537908": {
+        "code": "7908754537908",
+        "name": "Camiseta icon preta live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:14.401Z"
+      },
+      "7908835895521": {
+        "code": "7908835895521",
+        "name": "Top preto live live g",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-10T19:44:18.091Z"
+      }
     }
   },
   "security": {
@@ -7223,5 +7228,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:44:11.928Z"
+  "savedAt": "2026-07-10T19:44:20.152Z"
 }
