@@ -3099,6 +3099,11 @@
       "code": "7909746661441",
       "name": "Pijama short doll bege com off DT M",
       "price": 439
+    },
+    "7909746620103": {
+      "code": "7909746620103",
+      "name": "Legging sprint marrom DT M",
+      "price": 259
     }
   },
   "clients": {
@@ -7334,5 +7339,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:16:40.493Z"
+  "savedAt": "2026-07-10T21:16:58.532Z"
 }
