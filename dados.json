@@ -2959,6 +2959,11 @@
       "code": "7900415153892",
       "name": "Shorts saia marrom LP M",
       "price": 443
+    },
+    "7900415112059": {
+      "code": "7900415112059",
+      "name": "Regata canelada amarela Lp M",
+      "price": 297
     }
   },
   "clients": {
@@ -7039,5 +7044,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:18:04.460Z"
+  "savedAt": "2026-07-10T19:18:17.336Z"
 }
