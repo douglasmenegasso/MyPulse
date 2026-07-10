@@ -3716,19 +3716,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1783530252285": {
-      "clientId": "c_1783530252285",
-      "items": {
-        "7908931902833": {
-          "code": "7908931902833",
-          "name": "Legging preto live live g",
-          "price": 329.9,
-          "qty": 1
-        }
-      },
-      "total": 329.90000000000043,
-      "status": "waiting"
-    },
     "c_1783531395837": {
       "clientId": "c_1783531395837",
       "items": {
@@ -4904,6 +4891,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783530252285",
+      "clientName": "Carol GT",
+      "clientPhone": "",
+      "items": {
+        "7908931902833": {
+          "code": "7908931902833",
+          "name": "Legging preto live live g",
+          "price": 329.9,
+          "qty": 1
+        }
+      },
+      "total": 329.90000000000043,
+      "closedAt": "2026-07-10T19:44:32.243Z"
+    },
     {
       "clientId": "c_1783701666054",
       "clientName": "Gabriela 1802",
@@ -7234,5 +7236,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:44:31.918Z"
+  "savedAt": "2026-07-10T19:44:36.328Z"
 }
