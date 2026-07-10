@@ -2929,6 +2929,11 @@
       "code": "7900415216993",
       "name": "Blusa de alças canelada off Lp P",
       "price": 263
+    },
+    "7900415030438": {
+      "code": "7900415030438",
+      "name": "Jaqueta preta com elástico LP P",
+      "price": 853
     }
   },
   "clients": {
@@ -6912,5 +6917,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T18:58:46.876Z"
+  "savedAt": "2026-07-10T18:59:18.605Z"
 }
