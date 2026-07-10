@@ -4964,9 +4964,15 @@
           "name": "Jaqueta Sport azu com branco DT M",
           "price": 959,
           "qty": 1
+        },
+        "7908990960027": {
+          "code": "7908990960027",
+          "name": "Blusão texturizado live verde M",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 8168.9,
+      "total": 8668.8,
       "status": "open"
     }
   },
@@ -7208,5 +7214,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:40:17.943Z"
+  "savedAt": "2026-07-10T19:40:30.872Z"
 }
