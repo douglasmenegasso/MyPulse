@@ -3049,6 +3049,11 @@
       "code": "7900415222987",
       "name": "Regata canelada com elástico verde Lp M",
       "price": 297
+    },
+    "7900415122447": {
+      "code": "7900415122447",
+      "name": "Regata canelada verde LP M",
+      "price": 297
     }
   },
   "clients": {
@@ -7284,5 +7289,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:10:11.379Z"
+  "savedAt": "2026-07-10T21:10:34.477Z"
 }
