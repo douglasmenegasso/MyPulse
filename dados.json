@@ -2949,6 +2949,11 @@
       "code": "7900415044527",
       "name": "Calça wide leg preta com elástico LP P",
       "price": 443
+    },
+    "7900415151010": {
+      "code": "7900415151010",
+      "name": "Shorts saia marrom LP P",
+      "price": 443
     }
   },
   "clients": {
@@ -7010,5 +7015,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:17:04.077Z"
+  "savedAt": "2026-07-10T19:17:14.902Z"
 }
