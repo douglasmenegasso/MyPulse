@@ -2964,6 +2964,11 @@
       "code": "7900415112059",
       "name": "Regata canelada amarela Lp M",
       "price": 297
+    },
+    "7900415122454": {
+      "code": "7900415122454",
+      "name": "Regata canelada verde Lp P",
+      "price": 297
     }
   },
   "clients": {
@@ -7050,5 +7055,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T19:18:20.260Z"
+  "savedAt": "2026-07-10T19:18:39.552Z"
 }
