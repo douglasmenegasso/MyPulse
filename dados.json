@@ -3109,6 +3109,11 @@
       "code": "7909746620110",
       "name": "Legging sprint marrom DT G",
       "price": 259
+    },
+    "7890171654057": {
+      "code": "7890171654057",
+      "name": "Calça reta cos franzido rosa AG M",
+      "price": 399
     }
   },
   "clients": {
@@ -7344,5 +7349,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-10T21:17:21.746Z"
+  "savedAt": "2026-07-11T12:11:43.472Z"
 }
