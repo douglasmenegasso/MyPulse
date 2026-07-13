@@ -4929,9 +4929,15 @@
           "name": "Legging máxi vermelho live M",
           "price": 329.9,
           "qty": 1
+        },
+        "7908990954651": {
+          "code": "7908990954651",
+          "name": "Shorts máxi vermelho live M",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 5883.399999999998,
+      "total": 6123.299999999997,
       "status": "open"
     }
   },
@@ -7573,5 +7579,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:39:58.839Z"
+  "savedAt": "2026-07-13T17:40:03.560Z"
 }
