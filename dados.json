@@ -3164,6 +3164,11 @@
       "code": "7901072450133",
       "name": "Regata cropped icon rosa live M",
       "price": 169.9
+    },
+    "7908990954651": {
+      "code": "7908990954651",
+      "name": "Shorts máxi vermelho live M",
+      "price": 239.9
     }
   },
   "clients": {
@@ -7568,5 +7573,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:39:10.567Z"
+  "savedAt": "2026-07-13T17:39:58.839Z"
 }
