@@ -4953,9 +4953,15 @@
           "name": "Macaquinho marrom live live M",
           "price": 399.9,
           "qty": 1
+        },
+        "7901072430692": {
+          "code": "7901072430692",
+          "name": "Legging azul petróleo live live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 7002.999999999996,
+      "total": 7332.899999999996,
       "status": "open"
     }
   },
@@ -7597,5 +7603,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:42:49.001Z"
+  "savedAt": "2026-07-13T17:43:09.440Z"
 }
