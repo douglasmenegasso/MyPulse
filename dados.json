@@ -3805,12 +3805,6 @@
           "price": 489,
           "qty": 1
         },
-        "7890171651629": {
-          "code": "7890171651629",
-          "name": "Top elástico preto AG g",
-          "price": 219,
-          "qty": 1
-        },
         "7901072428897": {
           "code": "7901072428897",
           "name": "Legging azul petróleo live live g",
@@ -3866,7 +3860,7 @@
           "qty": 1
         }
       },
-      "total": 3783.600000000002,
+      "total": 3564.600000000002,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7339,6 +7333,13 @@
         "price": 369,
         "qty": 1,
         "lastAt": "2026-07-13T18:05:39.549Z"
+      },
+      "7890171651629": {
+        "code": "7890171651629",
+        "name": "Top elástico preto AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-13T18:06:40.735Z"
       }
     },
     "c_1783701666054": {
@@ -7662,5 +7663,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:05:58.183Z"
+  "savedAt": "2026-07-13T18:06:40.736Z"
 }
