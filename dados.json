@@ -4987,9 +4987,15 @@
           "name": "Camiseta icon azul petróleo live M",
           "price": 199.9,
           "qty": 1
+        },
+        "01403481064": {
+          "code": "01403481064",
+          "name": "Calça jogger verde movimento P",
+          "price": 339.9,
+          "qty": 1
         }
       },
-      "total": 7962.599999999995,
+      "total": 8302.499999999995,
       "status": "open"
     }
   },
@@ -7631,5 +7637,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:49:29.210Z"
+  "savedAt": "2026-07-13T17:49:49.157Z"
 }
