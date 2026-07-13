@@ -3294,6 +3294,11 @@
       "code": "7901128619064",
       "name": "Shorts marrom live symbol P",
       "price": 259.9
+    },
+    "7901072470414": {
+      "code": "7901072470414",
+      "name": "Calça bailarina live M",
+      "price": 399.9
     }
   },
   "clients": {
@@ -8018,5 +8023,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T19:03:13.354Z"
+  "savedAt": "2026-07-13T19:03:19.804Z"
 }
