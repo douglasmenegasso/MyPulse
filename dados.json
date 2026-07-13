@@ -3622,43 +3622,6 @@
       "total": 1559.2000000000003,
       "status": "waiting"
     },
-    "41991536747": {
-      "clientId": "41991536747",
-      "items": {
-        "7890171654194": {
-          "code": "7890171654194",
-          "name": "Top alça fina off com preto AG M",
-          "price": 229,
-          "qty": 1
-        },
-        "7900358017701": {
-          "code": "7900358017701",
-          "name": "Camiseta poque off CCM p",
-          "price": 219,
-          "qty": 1
-        },
-        "7900358029964": {
-          "code": "7900358029964",
-          "name": "Camiseta poque preta CCM",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171657461": {
-          "code": "7890171657461",
-          "name": "Legging recorte assimétrico off e preto AG P",
-          "price": 449,
-          "qty": 1
-        },
-        "7890171654347": {
-          "code": "7890171654347",
-          "name": "Top assimétrico off e preto AG M",
-          "price": 379,
-          "qty": 1
-        }
-      },
-      "total": 1495,
-      "status": "waiting"
-    },
     "41991098260": {
       "clientId": "41991098260",
       "items": {
@@ -4828,6 +4791,45 @@
     }
   },
   "closed": [
+    {
+      "clientId": "41991536747",
+      "clientName": "Anna Rebecca",
+      "clientPhone": "41991536747",
+      "items": {
+        "7890171654194": {
+          "code": "7890171654194",
+          "name": "Top alça fina off com preto AG M",
+          "price": 229,
+          "qty": 1
+        },
+        "7900358017701": {
+          "code": "7900358017701",
+          "name": "Camiseta poque off CCM p",
+          "price": 219,
+          "qty": 1
+        },
+        "7900358029964": {
+          "code": "7900358029964",
+          "name": "Camiseta poque preta CCM",
+          "price": 219,
+          "qty": 1
+        },
+        "7890171657461": {
+          "code": "7890171657461",
+          "name": "Legging recorte assimétrico off e preto AG P",
+          "price": 449,
+          "qty": 1
+        },
+        "7890171654347": {
+          "code": "7890171654347",
+          "name": "Top assimétrico off e preto AG M",
+          "price": 379,
+          "qty": 1
+        }
+      },
+      "total": 1495,
+      "closedAt": "2026-07-13T17:01:42.799Z"
+    },
     {
       "clientId": "c_1779735439830",
       "clientName": "Alinne Anna estivadores",
@@ -7375,5 +7377,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:01:00.174Z"
+  "savedAt": "2026-07-13T17:01:42.800Z"
 }
