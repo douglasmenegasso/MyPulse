@@ -3602,9 +3602,15 @@
           "name": "Jaqueta preta com elástico Lp M",
           "price": 853,
           "qty": 1
+        },
+        "7890171654323": {
+          "code": "7890171654323",
+          "name": "Top assimétrico preto com off AG g",
+          "price": 379,
+          "qty": 1
         }
       },
-      "total": 1302,
+      "total": 1681,
       "status": "open"
     },
     "c1779296356399": {
@@ -7860,5 +7866,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:46:33.270Z"
+  "savedAt": "2026-07-13T18:46:35.891Z"
 }
