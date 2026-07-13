@@ -3877,12 +3877,6 @@
           "price": 287,
           "qty": 1
         },
-        "7900292959075": {
-          "code": "7900292959075",
-          "name": "Calça alfaiataria marrom Lp M",
-          "price": 597,
-          "qty": 1
-        },
         "7900415002688": {
           "code": "7900415002688",
           "name": "Calça wide leg marrom LP M",
@@ -3914,7 +3908,7 @@
           "qty": 1
         }
       },
-      "total": 5655.200000000001,
+      "total": 5058.200000000001,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7331,6 +7325,13 @@
         "price": 223,
         "qty": 1,
         "lastAt": "2026-07-13T17:57:53.378Z"
+      },
+      "7900292959075": {
+        "code": "7900292959075",
+        "name": "Calça alfaiataria marrom Lp M",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:58:03.488Z"
       }
     },
     "c_1783701666054": {
@@ -7654,5 +7655,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:57:56.234Z"
+  "savedAt": "2026-07-13T17:58:03.488Z"
 }
