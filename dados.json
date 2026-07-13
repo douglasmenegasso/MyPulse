@@ -4861,9 +4861,15 @@
           "name": "Top neopren verde oliva claro live M",
           "price": 299.9,
           "qty": 1
+        },
+        "7908931961540": {
+          "code": "7908931961540",
+          "name": "Legging com bolso verde água live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 3794.2000000000003,
+      "total": 4114.1,
       "status": "open"
     }
   },
@@ -7505,5 +7511,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:35:14.695Z"
+  "savedAt": "2026-07-13T17:35:21.889Z"
 }
