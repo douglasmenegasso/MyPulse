@@ -4843,9 +4843,15 @@
           "name": "T-shirt cropped mesh branco AG P",
           "price": 229,
           "qty": 1
+        },
+        "7901072423571": {
+          "code": "7901072423571",
+          "name": "Jaqueta harmony verde oliva live M",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 2774.5,
+      "total": 3274.4,
       "status": "open"
     }
   },
@@ -7487,5 +7493,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:34:38.582Z"
+  "savedAt": "2026-07-13T17:34:40.558Z"
 }
