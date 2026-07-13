@@ -4971,9 +4971,15 @@
           "name": "Calça bruma bordo movimento P",
           "price": 309.9,
           "qty": 1
+        },
+        "2946746620042": {
+          "code": "2946746620042",
+          "name": "Top sprint marrom DT M",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 12455.799999999992,
+      "total": 12754.799999999992,
       "status": "open"
     },
     "41991536747": {
@@ -7802,5 +7808,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:42:28.433Z"
+  "savedAt": "2026-07-13T18:42:34.098Z"
 }
