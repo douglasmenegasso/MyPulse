@@ -3324,6 +3324,11 @@
       "code": "7901128619088",
       "name": "Nayara marrom live symbol M",
       "price": 499.9
+    },
+    "7900415041779": {
+      "code": "7900415041779",
+      "name": "Vestido curto vazado off LP M",
+      "price": 417
     }
   },
   "clients": {
@@ -8092,5 +8097,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:00:05.101Z"
+  "savedAt": "2026-07-13T21:00:37.161Z"
 }
