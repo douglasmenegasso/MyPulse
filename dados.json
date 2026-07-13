@@ -4938,9 +4938,15 @@
           "name": "Calça reta cos franzido rosa AG M",
           "price": 399,
           "qty": 1
+        },
+        "7890171646335": {
+          "code": "7890171646335",
+          "name": "Regata franzida assimétrica rosa AG P",
+          "price": 239,
+          "qty": 1
         }
       },
-      "total": 11466.999999999993,
+      "total": 11705.999999999993,
       "status": "open"
     },
     "41991536747": {
@@ -7769,5 +7775,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:40:07.005Z"
+  "savedAt": "2026-07-13T18:40:13.033Z"
 }
