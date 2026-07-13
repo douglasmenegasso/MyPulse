@@ -4932,9 +4932,15 @@
           "name": "Top curve branco live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7890171654057": {
+          "code": "7890171654057",
+          "name": "Calça reta cos franzido rosa AG M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 11067.999999999993,
+      "total": 11466.999999999993,
       "status": "open"
     },
     "41991536747": {
@@ -7763,5 +7769,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:39:50.856Z"
+  "savedAt": "2026-07-13T18:40:07.005Z"
 }
