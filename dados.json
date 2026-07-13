@@ -4999,9 +4999,15 @@
           "name": "Legging preta AG P",
           "price": 269,
           "qty": 1
+        },
+        "7890171656051": {
+          "code": "7890171656051",
+          "name": "Regata tule preto AG M",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 13282.799999999992,
+      "total": 13501.799999999992,
       "status": "open"
     },
     "41991536747": {
@@ -7830,5 +7836,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:43:41.689Z"
+  "savedAt": "2026-07-13T18:43:47.514Z"
 }
