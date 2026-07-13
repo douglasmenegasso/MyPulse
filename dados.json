@@ -4906,9 +4906,15 @@
           "name": "Jaqueta máxi branco live M",
           "price": 499.9,
           "qty": 1
+        },
+        "7901072437813": {
+          "code": "7901072437813",
+          "name": "Jaqueta máxi preto live M",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 499.9,
+      "total": 999.8,
       "status": "open"
     },
     "c_1783709976806": {
@@ -8277,5 +8283,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:55:50.272Z"
+  "savedAt": "2026-07-13T21:55:58.726Z"
 }
