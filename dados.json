@@ -3585,8 +3585,15 @@
     },
     "c_1779214900706": {
       "clientId": "c_1779214900706",
-      "items": {},
-      "total": 6.679101716144942e-13,
+      "items": {
+        "7909746614164": {
+          "code": "7909746614164",
+          "name": "Vestido canelado bordo DT M",
+          "price": 449,
+          "qty": 1
+        }
+      },
+      "total": 449,
       "status": "open"
     },
     "c1779296356399": {
@@ -7842,5 +7849,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:44:01.525Z"
+  "savedAt": "2026-07-13T18:44:32.573Z"
 }
