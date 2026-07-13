@@ -3204,6 +3204,11 @@
       "code": "01403545907",
       "name": "Calça âmago off movimento P",
       "price": 369.9
+    },
+    "01403625910": {
+      "code": "01403625910",
+      "name": "Calça flare bordo movimento P",
+      "price": 298
     }
   },
   "clients": {
@@ -4892,9 +4897,15 @@
           "name": "Calça âmago off movimento P",
           "price": 369.9,
           "qty": 1
+        },
+        "01403625910": {
+          "code": "01403625910",
+          "name": "Calça flare bordo movimento P",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 9572.199999999993,
+      "total": 9870.199999999993,
       "status": "open"
     },
     "41991536747": {
@@ -7723,5 +7734,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:38:17.295Z"
+  "savedAt": "2026-07-13T18:38:24.199Z"
 }
