@@ -5167,9 +5167,15 @@
           "name": "Blusa cropped marrom live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7901128603032": {
+          "code": "7901128603032",
+          "name": "Top estampa marrom live symbol M",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 1484.8000000000002,
+      "total": 1724.7000000000003,
       "status": "open"
     }
   },
@@ -7979,5 +7985,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:59:32.781Z"
+  "savedAt": "2026-07-13T18:59:36.730Z"
 }
