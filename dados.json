@@ -3828,15 +3828,9 @@
           "name": "Shorts moletom marrom LP P",
           "price": 297,
           "qty": 1
-        },
-        "7900292863259": {
-          "code": "7900292863259",
-          "name": "Vestido canelado curto marrom Lp M",
-          "price": 343,
-          "qty": 1
         }
       },
-      "total": 2325.900000000002,
+      "total": 1982.900000000002,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7344,6 +7338,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-13T18:07:11.064Z"
+      },
+      "7900292863259": {
+        "code": "7900292863259",
+        "name": "Vestido canelado curto marrom Lp M",
+        "price": 343,
+        "qty": 1,
+        "lastAt": "2026-07-13T18:07:15.253Z"
       }
     },
     "c_1783701666054": {
@@ -7667,5 +7668,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:07:11.065Z"
+  "savedAt": "2026-07-13T18:07:15.254Z"
 }
