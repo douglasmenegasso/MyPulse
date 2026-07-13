@@ -4849,9 +4849,15 @@
           "name": "Jaqueta harmony verde oliva live M",
           "price": 499.9,
           "qty": 1
+        },
+        "7901072413671": {
+          "code": "7901072413671",
+          "name": "Shorts neopren verde oliva claro live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 3274.4,
+      "total": 3494.3,
       "status": "open"
     }
   },
@@ -7493,5 +7499,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:34:40.558Z"
+  "savedAt": "2026-07-13T17:34:48.359Z"
 }
