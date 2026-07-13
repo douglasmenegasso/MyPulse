@@ -3608,9 +3608,15 @@
           "name": "Top assimétrico preto com off AG g",
           "price": 379,
           "qty": 1
+        },
+        "7890171654064": {
+          "code": "7890171654064",
+          "name": "Calça reta com franzido preto AG M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 1681,
+      "total": 2080,
       "status": "open"
     },
     "c1779296356399": {
@@ -7866,5 +7872,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:47:10.551Z"
+  "savedAt": "2026-07-13T18:47:34.693Z"
 }
