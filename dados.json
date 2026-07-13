@@ -3449,6 +3449,11 @@
       "code": "7901072464963",
       "name": "Macaquinho allure marrom live M",
       "price": 359.9
+    },
+    "7901072402064": {
+      "code": "7901072402064",
+      "name": "Regata pima slim preto live M",
+      "price": 249.9
     }
   },
   "clients": {
@@ -8217,5 +8222,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:22:41.916Z"
+  "savedAt": "2026-07-13T21:23:31.172Z"
 }
