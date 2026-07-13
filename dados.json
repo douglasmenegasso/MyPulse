@@ -3545,8 +3545,15 @@
     },
     "c_1779735439830": {
       "clientId": "c_1779735439830",
-      "items": {},
-      "total": 7.673861546209082e-13,
+      "items": {
+        "7890171653463": {
+          "code": "7890171653463",
+          "name": "Legging elástico roxo malva AG P",
+          "price": 369,
+          "qty": 1
+        }
+      },
+      "total": 369,
       "status": "open"
     },
     "c_1779740193414": {
@@ -7358,5 +7365,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T16:59:47.938Z"
+  "savedAt": "2026-07-13T17:00:13.036Z"
 }
