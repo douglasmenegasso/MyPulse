@@ -4883,10 +4883,16 @@
           "name": "Calça flare preta movimento P",
           "price": 298,
           "qty": 1
+        },
+        "7890171657393": {
+          "code": "7890171657393",
+          "name": "Top nadador preto AG m",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 298,
-      "status": "open"
+      "total": 596,
+      "status": "waiting"
     }
   },
   "closed": [
@@ -7695,5 +7701,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:34:58.201Z"
+  "savedAt": "2026-07-13T18:35:05.151Z"
 }
