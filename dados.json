@@ -3631,12 +3631,6 @@
     "41991536747": {
       "clientId": "41991536747",
       "items": {
-        "7890171656945": {
-          "code": "7890171656945",
-          "name": "Bermuda elástico off com preto AG P",
-          "price": 369,
-          "qty": 1
-        },
         "7890171654194": {
           "code": "7890171654194",
           "name": "Top alça fina off com preto AG M",
@@ -3704,7 +3698,7 @@
           "qty": 1
         }
       },
-      "total": 3557,
+      "total": 3188,
       "status": "open"
     },
     "41991098260": {
@@ -7345,6 +7339,13 @@
         "price": 369,
         "qty": 1,
         "lastAt": "2026-07-13T16:58:29.416Z"
+      },
+      "7890171656945": {
+        "code": "7890171656945",
+        "name": "Bermuda elástico off com preto AG P",
+        "price": 369,
+        "qty": 1,
+        "lastAt": "2026-07-13T16:58:38.541Z"
       }
     }
   },
@@ -7353,5 +7354,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T16:58:29.416Z"
+  "savedAt": "2026-07-13T16:58:38.542Z"
 }
