@@ -3799,12 +3799,6 @@
           "price": 49.9,
           "qty": 1
         },
-        "7900373056259": {
-          "code": "7900373056259",
-          "name": "Meia cano médio branco com verde lupo 34 a 39",
-          "price": 19.9,
-          "qty": 1
-        },
         "7890171652435": {
           "code": "7890171652435",
           "name": "Jaqueta ajustada com bolso preto AG M",
@@ -3890,7 +3884,7 @@
           "qty": 1
         }
       },
-      "total": 4739.4000000000015,
+      "total": 4719.500000000002,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7335,6 +7329,13 @@
         "price": 239,
         "qty": 1,
         "lastAt": "2026-07-13T17:58:28.948Z"
+      },
+      "7900373056259": {
+        "code": "7900373056259",
+        "name": "Meia cano médio branco com verde lupo 34 a 39",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:58:49.789Z"
       }
     },
     "c_1783701666054": {
@@ -7658,5 +7659,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:58:28.948Z"
+  "savedAt": "2026-07-13T17:58:49.790Z"
 }
