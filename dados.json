@@ -3424,6 +3424,11 @@
       "code": "7901128619057",
       "name": "Shorts marrom live symbol M",
       "price": 259.9
+    },
+    "7901072492126": {
+      "code": "7901072492126",
+      "name": "Macaquinho marrom live live M",
+      "price": 399.9
     }
   },
   "clients": {
@@ -8192,5 +8197,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:19:41.641Z"
+  "savedAt": "2026-07-13T21:19:44.536Z"
 }
