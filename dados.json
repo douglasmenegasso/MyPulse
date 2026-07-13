@@ -4908,9 +4908,15 @@
           "name": "Calça flare bordo movimento P",
           "price": 298,
           "qty": 1
+        },
+        "02503245910": {
+          "code": "02503245910",
+          "name": "Top canelado com zíper bordo movimento M",
+          "price": 209.9,
+          "qty": 1
         }
       },
-      "total": 9870.199999999993,
+      "total": 10080.099999999993,
       "status": "open"
     },
     "41991536747": {
@@ -7739,5 +7745,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:39:04.247Z"
+  "savedAt": "2026-07-13T18:39:10.054Z"
 }
