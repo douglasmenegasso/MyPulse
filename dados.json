@@ -3199,6 +3199,11 @@
       "code": "01603775907",
       "name": "Jaqueta âmago off movimento P",
       "price": 459.9
+    },
+    "01403545907": {
+      "code": "01403545907",
+      "name": "Calça âmago off movimento P",
+      "price": 369.9
     }
   },
   "clients": {
@@ -7712,5 +7717,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:37:17.061Z"
+  "savedAt": "2026-07-13T18:37:53.189Z"
 }
