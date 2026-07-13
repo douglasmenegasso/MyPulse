@@ -4875,9 +4875,15 @@
           "name": "Jaqueta hill verde movimento P",
           "price": 439.9,
           "qty": 1
+        },
+        "01603775907": {
+          "code": "01603775907",
+          "name": "Jaqueta âmago off movimento P",
+          "price": 459.9,
+          "qty": 1
         }
       },
-      "total": 8742.399999999994,
+      "total": 9202.299999999994,
       "status": "open"
     },
     "41991536747": {
@@ -7706,5 +7712,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:36:15.599Z"
+  "savedAt": "2026-07-13T18:36:21.285Z"
 }
