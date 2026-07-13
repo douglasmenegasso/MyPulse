@@ -3799,12 +3799,6 @@
           "price": 49.9,
           "qty": 1
         },
-        "7901072428897": {
-          "code": "7901072428897",
-          "name": "Legging azul petróleo live live g",
-          "price": 329.9,
-          "qty": 1
-        },
         "7901072429184": {
           "code": "7901072429184",
           "name": "Top curve azul petróleo live live g",
@@ -3854,7 +3848,7 @@
           "qty": 1
         }
       },
-      "total": 3075.600000000002,
+      "total": 2745.700000000002,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7341,6 +7335,13 @@
         "price": 489,
         "qty": 1,
         "lastAt": "2026-07-13T18:06:56.619Z"
+      },
+      "7901072428897": {
+        "code": "7901072428897",
+        "name": "Legging azul petróleo live live g",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T18:07:03.630Z"
       }
     },
     "c_1783701666054": {
@@ -7664,5 +7665,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:07:01.493Z"
+  "savedAt": "2026-07-13T18:07:06.337Z"
 }
