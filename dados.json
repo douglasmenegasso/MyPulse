@@ -3214,6 +3214,11 @@
       "code": "02503245910",
       "name": "Top canelado com zíper bordo movimento M",
       "price": 209.9
+    },
+    "02603750912": {
+      "code": "02603750912",
+      "name": "Jaqueta bruma bordo movimento M",
+      "price": 439.9
     }
   },
   "clients": {
@@ -7775,5 +7780,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:40:13.033Z"
+  "savedAt": "2026-07-13T18:41:04.104Z"
 }
