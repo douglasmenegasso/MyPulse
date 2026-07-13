@@ -3119,6 +3119,11 @@
       "code": "7901072405447",
       "name": "Macaquinho allure bege live M",
       "price": 359.9
+    },
+    "7908754514282": {
+      "code": "7908754514282",
+      "name": "Legging icon preta live M",
+      "price": 319.9
     }
   },
   "clients": {
@@ -7403,5 +7408,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:30:42.322Z"
+  "savedAt": "2026-07-13T17:30:53.163Z"
 }
