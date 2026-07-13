@@ -3865,12 +3865,6 @@
           "price": 399.9,
           "qty": 1
         },
-        "7900292896639": {
-          "code": "7900292896639",
-          "name": "Calça pantalona preta moletom lp P",
-          "price": 563,
-          "qty": 1
-        },
         "7900041723025": {
           "code": "7900041723025",
           "name": "Blusa um ombro moletom cinza Lp g",
@@ -3932,7 +3926,7 @@
           "qty": 1
         }
       },
-      "total": 6814.200000000001,
+      "total": 6251.200000000001,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7328,6 +7322,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-13T17:57:01.844Z"
+      },
+      "7900292896639": {
+        "code": "7900292896639",
+        "name": "Calça pantalona preta moletom lp P",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:57:26.621Z"
       }
     },
     "c_1783701666054": {
@@ -7651,5 +7652,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:57:01.845Z"
+  "savedAt": "2026-07-13T17:57:26.621Z"
 }
