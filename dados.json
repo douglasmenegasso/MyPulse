@@ -5222,15 +5222,9 @@
           "name": "Calça bailarina live M",
           "price": 399.9,
           "qty": 1
-        },
-        "7901072469722": {
-          "code": "7901072469722",
-          "name": "Jaqueta bomber marrom live M",
-          "price": 549.9,
-          "qty": 1
         }
       },
-      "total": 3764.2000000000007,
+      "total": 3214.3000000000006,
       "status": "open"
     }
   },
@@ -7981,6 +7975,13 @@
         "price": 369,
         "qty": 1,
         "lastAt": "2026-07-13T17:00:50.115Z"
+      },
+      "7901072469722": {
+        "code": "7901072469722",
+        "name": "Jaqueta bomber marrom live M",
+        "price": 549.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T19:05:20.344Z"
       }
     },
     "41991694056": {
@@ -8040,5 +8041,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T19:05:18.694Z"
+  "savedAt": "2026-07-13T19:05:22.909Z"
 }
