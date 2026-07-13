@@ -4941,9 +4941,15 @@
           "name": "Top cut out vermelho live M",
           "price": 279.9,
           "qty": 1
+        },
+        "7908990975373": {
+          "code": "7908990975373",
+          "name": "Cropped soft off live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 6403.199999999997,
+      "total": 6603.099999999997,
       "status": "open"
     }
   },
@@ -7585,5 +7591,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:42:10.886Z"
+  "savedAt": "2026-07-13T17:42:30.380Z"
 }
