@@ -4914,9 +4914,15 @@
           "name": "Top canelado com zíper bordo movimento M",
           "price": 209.9,
           "qty": 1
+        },
+        "7890171652428": {
+          "code": "7890171652428",
+          "name": "Jaqueta com bolso versa claro AG M",
+          "price": 489,
+          "qty": 1
         }
       },
-      "total": 10080.099999999993,
+      "total": 10569.099999999993,
       "status": "open"
     },
     "41991536747": {
@@ -7745,5 +7751,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:39:10.054Z"
+  "savedAt": "2026-07-13T18:39:29.540Z"
 }
