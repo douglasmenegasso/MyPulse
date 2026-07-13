@@ -4869,6 +4869,19 @@
       },
       "total": 8742.399999999994,
       "status": "waiting"
+    },
+    "41991536747": {
+      "clientId": "41991536747",
+      "items": {
+        "01403620243": {
+          "code": "01403620243",
+          "name": "Calça flare preta movimento P",
+          "price": 298,
+          "qty": 1
+        }
+      },
+      "total": 298,
+      "status": "open"
     }
   },
   "closed": [
@@ -7677,5 +7690,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:34:18.060Z"
+  "savedAt": "2026-07-13T18:34:26.130Z"
 }
