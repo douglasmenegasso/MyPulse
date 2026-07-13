@@ -3114,6 +3114,11 @@
       "code": "7890171654057",
       "name": "Calça reta cos franzido rosa AG M",
       "price": 399
+    },
+    "7901072405447": {
+      "code": "7901072405447",
+      "name": "Macaquinho allure bege live M",
+      "price": 359.9
     }
   },
   "clients": {
@@ -7385,5 +7390,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:30:09.785Z"
+  "savedAt": "2026-07-13T17:30:34.849Z"
 }
