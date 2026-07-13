@@ -4750,6 +4750,19 @@
       },
       "total": 9268.699999999999,
       "status": "waiting"
+    },
+    "c1779297896722": {
+      "clientId": "c1779297896722",
+      "items": {
+        "7901072405447": {
+          "code": "7901072405447",
+          "name": "Macaquinho allure bege live M",
+          "price": 359.9,
+          "qty": 1
+        }
+      },
+      "total": 359.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -7390,5 +7403,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:30:34.849Z"
+  "savedAt": "2026-07-13T17:30:42.322Z"
 }
