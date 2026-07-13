@@ -3184,6 +3184,11 @@
       "code": "01603731064",
       "name": "Jaqueta hill verde movimento P",
       "price": 439.9
+    },
+    "01403620243": {
+      "code": "01403620243",
+      "name": "Calça flare preta movimento P",
+      "price": 298
     }
   },
   "clients": {
@@ -7672,5 +7677,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:33:21.190Z"
+  "savedAt": "2026-07-13T18:34:18.060Z"
 }
