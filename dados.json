@@ -4873,9 +4873,15 @@
           "name": "Top cut out verde água live M",
           "price": 279.9,
           "qty": 1
+        },
+        "7908990962557": {
+          "code": "7908990962557",
+          "name": "Regata verde água live M",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 4394,
+      "total": 4573.9,
       "status": "open"
     }
   },
@@ -7517,5 +7523,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:35:34.605Z"
+  "savedAt": "2026-07-13T17:35:47.628Z"
 }
