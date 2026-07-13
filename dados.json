@@ -3229,6 +3229,11 @@
       "code": "2946746620042",
       "name": "Top sprint marrom DT M",
       "price": 299
+    },
+    "7890171652541": {
+      "code": "7890171652541",
+      "name": "Legging preta AG P",
+      "price": 269
     }
   },
   "clients": {
@@ -7814,5 +7819,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:42:46.757Z"
+  "savedAt": "2026-07-13T18:43:03.085Z"
 }
