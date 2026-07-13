@@ -4914,12 +4914,6 @@
     "c_1779729371390": {
       "clientId": "c_1779729371390",
       "items": {
-        "7900415030421": {
-          "code": "7900415030421",
-          "name": "Jaqueta preta com elástico Lp M",
-          "price": 853,
-          "qty": 1
-        },
         "7901072423700": {
           "code": "7901072423700",
           "name": "Jaqueta dupla face preto e bege live P",
@@ -4927,7 +4921,7 @@
           "qty": 1
         }
       },
-      "total": 1552.9,
+      "total": 699.9000000000001,
       "status": "open"
     },
     "c_1783710465465": {
@@ -7051,6 +7045,13 @@
         "price": 167,
         "qty": 1,
         "lastAt": "2026-07-07T20:12:14.984Z"
+      },
+      "7900415030421": {
+        "code": "7900415030421",
+        "name": "Jaqueta preta com elástico Lp M",
+        "price": 853,
+        "qty": 1,
+        "lastAt": "2026-07-13T21:56:16.027Z"
       }
     },
     "c_1779307807613": {
@@ -8286,5 +8287,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:56:13.011Z"
+  "savedAt": "2026-07-13T21:56:16.029Z"
 }
