@@ -3339,6 +3339,11 @@
       "code": "7901072491259",
       "name": "Camiseta run preta live men g",
       "price": 199.9
+    },
+    "7901072490665": {
+      "code": "7901072490665",
+      "name": "Camiseta run preta live men g",
+      "price": 219.9
     }
   },
   "clients": {
@@ -8107,5 +8112,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:05:29.846Z"
+  "savedAt": "2026-07-13T21:05:53.487Z"
 }
