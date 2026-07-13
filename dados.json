@@ -3842,8 +3842,15 @@
     },
     "41988948469": {
       "clientId": "41988948469",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7901128619088": {
+          "code": "7901128619088",
+          "name": "Nayara marrom live symbol M",
+          "price": 499.9,
+          "qty": 1
+        }
+      },
+      "total": 499.9,
       "status": "open"
     },
     "c_1783444825678": {
@@ -8057,5 +8064,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T19:11:17.117Z"
+  "savedAt": "2026-07-13T19:11:20.430Z"
 }
