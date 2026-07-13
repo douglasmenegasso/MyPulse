@@ -4867,9 +4867,15 @@
           "name": "Legging com bolso verde água live M",
           "price": 319.9,
           "qty": 1
+        },
+        "7908931962936": {
+          "code": "7908931962936",
+          "name": "Top cut out verde água live M",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 4114.1,
+      "total": 4394,
       "status": "open"
     }
   },
@@ -7511,5 +7517,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:35:21.889Z"
+  "savedAt": "2026-07-13T17:35:34.605Z"
 }
