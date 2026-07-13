@@ -3805,12 +3805,6 @@
           "price": 19.9,
           "qty": 1
         },
-        "7891186301424": {
-          "code": "7891186301424",
-          "name": "Segunda pele preto lupo fio 40 U",
-          "price": 59.9,
-          "qty": 1
-        },
         "7890171652435": {
           "code": "7890171652435",
           "name": "Jaqueta ajustada com bolso preto AG M",
@@ -3902,7 +3896,7 @@
           "qty": 1
         }
       },
-      "total": 5038.300000000001,
+      "total": 4978.4000000000015,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7333,6 +7327,13 @@
         "price": 19.9,
         "qty": 1,
         "lastAt": "2026-07-13T17:58:12.700Z"
+      },
+      "7891186301424": {
+        "code": "7891186301424",
+        "name": "Segunda pele preto lupo fio 40 U",
+        "price": 59.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:58:21.358Z"
       }
     },
     "c_1783701666054": {
@@ -7656,5 +7657,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:58:12.701Z"
+  "savedAt": "2026-07-13T17:58:21.359Z"
 }
