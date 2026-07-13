@@ -3642,9 +3642,15 @@
           "name": "Calça wide leg com elástico preto LP g",
           "price": 443,
           "qty": 1
+        },
+        "7900292959075": {
+          "code": "7900292959075",
+          "name": "Calça alfaiataria marrom Lp M",
+          "price": 597,
+          "qty": 1
         }
       },
-      "total": 3181,
+      "total": 3778,
       "status": "open"
     },
     "c1779296356399": {
@@ -7900,5 +7906,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:49:27.118Z"
+  "savedAt": "2026-07-13T18:50:12.477Z"
 }
