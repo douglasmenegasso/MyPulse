@@ -35,6 +35,11 @@
       "name": "Jaqueta máxi preto live M",
       "price": 398
     },
+    "79094546": {
+      "code": "79094546",
+      "name": "Jaqueta marrom live symbol g",
+      "price": 499.9
+    },
     "7900292537358": {
       "code": "7900292537358",
       "name": "Moletom gola polo bordo LP P",
@@ -8081,5 +8086,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T19:22:00.549Z"
+  "savedAt": "2026-07-13T19:22:05.033Z"
 }
