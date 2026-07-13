@@ -3799,12 +3799,6 @@
           "price": 587,
           "qty": 1
         },
-        "7909746620486": {
-          "code": "7909746620486",
-          "name": "Regata canelada marrom DT g",
-          "price": 199,
-          "qty": 1
-        },
         "7900292842049": {
           "code": "7900292842049",
           "name": "Shorts moletom marrom LP P",
@@ -3812,8 +3806,8 @@
           "qty": 1
         }
       },
-      "total": 1083.0000000000018,
-      "status": "open"
+      "total": 884.0000000000018,
+      "status": "waiting"
     },
     "c_1783543770765": {
       "clientId": "c_1783543770765",
@@ -7348,6 +7342,13 @@
         "price": 563,
         "qty": 1,
         "lastAt": "2026-07-13T18:07:31.420Z"
+      },
+      "7909746620486": {
+        "code": "7909746620486",
+        "name": "Regata canelada marrom DT g",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-07-13T18:07:35.014Z"
       }
     },
     "c_1783701666054": {
@@ -7671,5 +7672,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:07:33.511Z"
+  "savedAt": "2026-07-13T18:07:45.261Z"
 }
