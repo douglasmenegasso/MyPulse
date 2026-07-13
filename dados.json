@@ -3543,25 +3543,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1779735439830": {
-      "clientId": "c_1779735439830",
-      "items": {
-        "7890171653463": {
-          "code": "7890171653463",
-          "name": "Legging elástico roxo malva AG P",
-          "price": 369,
-          "qty": 1
-        },
-        "7890171662229": {
-          "code": "7890171662229",
-          "name": "Top elástico roxo malva AG M",
-          "price": 219,
-          "qty": 1
-        }
-      },
-      "total": 588,
-      "status": "waiting"
-    },
     "c_1779740193414": {
       "clientId": "c_1779740193414",
       "items": {},
@@ -4859,6 +4840,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779735439830",
+      "clientName": "Alinne Anna estivadores",
+      "clientPhone": "",
+      "items": {
+        "7890171653463": {
+          "code": "7890171653463",
+          "name": "Legging elástico roxo malva AG P",
+          "price": 369,
+          "qty": 1
+        },
+        "7890171662229": {
+          "code": "7890171662229",
+          "name": "Top elástico roxo malva AG M",
+          "price": 219,
+          "qty": 1
+        }
+      },
+      "total": 588,
+      "closedAt": "2026-07-13T17:00:32.988Z"
+    },
     {
       "clientId": "c_1783530252285",
       "clientName": "Carol GT",
@@ -7371,5 +7373,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:00:26.987Z"
+  "savedAt": "2026-07-13T17:00:32.989Z"
 }
