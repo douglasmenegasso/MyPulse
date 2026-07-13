@@ -3841,12 +3841,6 @@
           "price": 399.9,
           "qty": 1
         },
-        "7900041723025": {
-          "code": "7900041723025",
-          "name": "Blusa um ombro moletom cinza Lp g",
-          "price": 167,
-          "qty": 1
-        },
         "7900172959614": {
           "code": "7900172959614",
           "name": "T shirt preta bordado branco LP M",
@@ -3884,7 +3878,7 @@
           "qty": 1
         }
       },
-      "total": 4719.500000000002,
+      "total": 4552.500000000002,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7336,6 +7330,13 @@
         "price": 19.9,
         "qty": 1,
         "lastAt": "2026-07-13T17:58:49.789Z"
+      },
+      "7900041723025": {
+        "code": "7900041723025",
+        "name": "Blusa um ombro moletom cinza Lp g",
+        "price": 167,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:58:57.418Z"
       }
     },
     "c_1783701666054": {
@@ -7659,5 +7660,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:58:54.631Z"
+  "savedAt": "2026-07-13T17:58:57.419Z"
 }
