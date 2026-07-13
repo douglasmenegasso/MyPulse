@@ -3793,12 +3793,6 @@
     "c_1783541517615": {
       "clientId": "c_1783541517615",
       "items": {
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
         "7900172959614": {
           "code": "7900172959614",
           "name": "T shirt preta bordado branco LP M",
@@ -3830,7 +3824,7 @@
           "qty": 1
         }
       },
-      "total": 1982.900000000002,
+      "total": 1933.0000000000018,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7345,6 +7339,13 @@
         "price": 343,
         "qty": 1,
         "lastAt": "2026-07-13T18:07:15.253Z"
+      },
+      "7909392494240": {
+        "code": "7909392494240",
+        "name": "Kit 3 meias Lupo 34 a 39",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T18:07:24.253Z"
       }
     },
     "c_1783701666054": {
@@ -7668,5 +7669,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:07:22.653Z"
+  "savedAt": "2026-07-13T18:07:28.550Z"
 }
