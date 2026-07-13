@@ -3660,9 +3660,15 @@
           "name": "Calça wide leg marrom LP M",
           "price": 563,
           "qty": 1
+        },
+        "7909746620486": {
+          "code": "7909746620486",
+          "name": "Regata canelada marrom DT g",
+          "price": 199,
+          "qty": 1
         }
       },
-      "total": 4564,
+      "total": 4763,
       "status": "open"
     },
     "c1779296356399": {
@@ -7918,5 +7924,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:50:40.346Z"
+  "savedAt": "2026-07-13T18:50:49.825Z"
 }
