@@ -3129,6 +3129,11 @@
       "code": "7908754527800",
       "name": "Top icon preto live M",
       "price": 249.9
+    },
+    "7890171645697": {
+      "code": "7890171645697",
+      "name": "Legging marrom elástico azul AG P",
+      "price": 419
     }
   },
   "clients": {
@@ -7449,5 +7454,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:32:25.012Z"
+  "savedAt": "2026-07-13T17:32:51.974Z"
 }
