@@ -4965,9 +4965,15 @@
           "name": "Shorts azul petróleo live live grande M",
           "price": 239.9,
           "qty": 1
+        },
+        "7908754570479": {
+          "code": "7908754570479",
+          "name": "Top curve azul petróleo live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 7572.799999999996,
+      "total": 7762.699999999995,
       "status": "open"
     }
   },
@@ -7609,5 +7615,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:43:19.074Z"
+  "savedAt": "2026-07-13T17:43:30.616Z"
 }
