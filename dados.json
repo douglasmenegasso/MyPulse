@@ -3254,6 +3254,11 @@
       "code": "7900415040093",
       "name": "Calça wide leg com elástico preto LP g",
       "price": 443
+    },
+    "03603720243": {
+      "code": "03603720243",
+      "name": "Cropped lina preto movimento g",
+      "price": 359.9
     }
   },
   "clients": {
@@ -7924,5 +7929,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:51:53.879Z"
+  "savedAt": "2026-07-13T18:52:08.516Z"
 }
