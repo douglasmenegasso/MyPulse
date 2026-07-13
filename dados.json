@@ -3636,9 +3636,15 @@
           "name": "Calça flare preto DT g",
           "price": 399,
           "qty": 1
+        },
+        "7900415040093": {
+          "code": "7900415040093",
+          "name": "Calça wide leg com elástico preto LP g",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 2738,
+      "total": 3181,
       "status": "open"
     },
     "c1779296356399": {
@@ -7894,5 +7900,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:49:22.378Z"
+  "savedAt": "2026-07-13T18:49:27.118Z"
 }
