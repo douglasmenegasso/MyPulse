@@ -3655,12 +3655,6 @@
           "price": 319,
           "qty": 1
         },
-        "7890171646335": {
-          "code": "7890171646335",
-          "name": "Regata franzida assimétrica rosa AG P",
-          "price": 239,
-          "qty": 1
-        },
         "7890171657461": {
           "code": "7890171657461",
           "name": "Legging recorte assimétrico off e preto AG P",
@@ -3686,7 +3680,7 @@
           "qty": 1
         }
       },
-      "total": 2641,
+      "total": 2402,
       "status": "open"
     },
     "41991098260": {
@@ -7348,6 +7342,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-13T16:59:03.432Z"
+      },
+      "7890171646335": {
+        "code": "7890171646335",
+        "name": "Regata franzida assimétrica rosa AG P",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-13T16:59:15.670Z"
       }
     }
   },
@@ -7356,5 +7357,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T16:59:08.482Z"
+  "savedAt": "2026-07-13T16:59:15.670Z"
 }
