@@ -4810,9 +4810,15 @@
           "name": "Regata cropped mesh lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "7890171645697": {
+          "code": "7890171645697",
+          "name": "Legging marrom elástico azul AG P",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 1936.6,
+      "total": 2355.6,
       "status": "open"
     }
   },
@@ -7454,5 +7460,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:32:51.974Z"
+  "savedAt": "2026-07-13T17:32:54.262Z"
 }
