@@ -4490,27 +4490,8 @@
     },
     "41991694056": {
       "clientId": "41991694056",
-      "items": {
-        "7908931948992": {
-          "code": "7908931948992",
-          "name": "Legging allure azul petróleo live g",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908931913921": {
-          "code": "7908931913921",
-          "name": "Top curve allure azul petróleo live g",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072492485": {
-          "code": "7901072492485",
-          "name": "Top máxi azul petróleo live M",
-          "price": 249.9,
-          "qty": 1
-        }
-      },
-      "total": 769.6999999999998,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1783632087135": {
@@ -7375,6 +7356,27 @@
         "price": 479,
         "qty": 1,
         "lastAt": "2026-07-13T17:29:26.429Z"
+      },
+      "7901072492485": {
+        "code": "7901072492485",
+        "name": "Top máxi azul petróleo live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:29:26.981Z"
+      },
+      "7908931913921": {
+        "code": "7908931913921",
+        "name": "Top curve allure azul petróleo live g",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:29:27.432Z"
+      },
+      "7908931948992": {
+        "code": "7908931948992",
+        "name": "Legging allure azul petróleo live g",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:29:27.966Z"
       }
     }
   },
@@ -7383,5 +7385,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:29:26.430Z"
+  "savedAt": "2026-07-13T17:29:30.169Z"
 }
