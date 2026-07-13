@@ -3682,10 +3682,16 @@
           "name": "Cropped lina preto movimento g",
           "price": 359.9,
           "qty": 1
+        },
+        "03403450243": {
+          "code": "03403450243",
+          "name": "Calça lina preto movimento g",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 5122.9,
-      "status": "open"
+      "total": 5482.799999999999,
+      "status": "waiting"
     },
     "c1779296356399": {
       "clientId": "c1779296356399",
@@ -7940,5 +7946,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:53:38.507Z"
+  "savedAt": "2026-07-13T18:53:42.307Z"
 }
