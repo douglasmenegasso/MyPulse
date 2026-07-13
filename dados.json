@@ -4787,9 +4787,15 @@
           "name": "Camiseta icon preta live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7890171663479": {
+          "code": "7890171663479",
+          "name": "Legging elástico lilás AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 1129.6,
+      "total": 1498.6,
       "status": "open"
     }
   },
@@ -7431,5 +7437,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:31:52.930Z"
+  "savedAt": "2026-07-13T17:32:05.880Z"
 }
