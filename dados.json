@@ -3434,6 +3434,11 @@
       "code": "7901072484657",
       "name": "Shorts tex marrom live M",
       "price": 239.9
+    },
+    "7901072440134": {
+      "code": "7901072440134",
+      "name": "Top slim alças fina preto live M",
+      "price": 219.9
     }
   },
   "clients": {
@@ -8202,5 +8207,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:21:03.607Z"
+  "savedAt": "2026-07-13T21:21:33.106Z"
 }
