@@ -5145,9 +5145,15 @@
           "name": "Pijama short doll bege com off DT M",
           "price": 439,
           "qty": 1
+        },
+        "7901072402057": {
+          "code": "7901072402057",
+          "name": "Regata pima preta live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 1035,
+      "total": 1284.9,
       "status": "open"
     }
   },
@@ -7957,5 +7963,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:58:05.342Z"
+  "savedAt": "2026-07-13T18:58:08.887Z"
 }
