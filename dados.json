@@ -5134,9 +5134,15 @@
           "name": "Top nadador preto AG m",
           "price": 298,
           "qty": 1
+        },
+        "7909746661441": {
+          "code": "7909746661441",
+          "name": "Pijama short doll bege com off DT M",
+          "price": 439,
+          "qty": 1
         }
       },
-      "total": 596,
+      "total": 1035,
       "status": "open"
     }
   },
@@ -7946,5 +7952,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:56:34.422Z"
+  "savedAt": "2026-07-13T18:56:44.001Z"
 }
