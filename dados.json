@@ -3389,6 +3389,11 @@
       "code": "7901128603254",
       "name": "Jaqueta seamless preto live M",
       "price": 649.9
+    },
+    "7901072454346": {
+      "code": "7901072454346",
+      "name": "Macacão allure adaptiv marrom live M",
+      "price": 449.9
     }
   },
   "clients": {
@@ -8157,5 +8162,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:14:14.905Z"
+  "savedAt": "2026-07-13T21:14:46.177Z"
 }
