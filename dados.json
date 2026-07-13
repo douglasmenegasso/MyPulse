@@ -3717,7 +3717,7 @@
         }
       },
       "total": 4145,
-      "status": "waiting"
+      "status": "open"
     },
     "41991098260": {
       "clientId": "41991098260",
@@ -7349,5 +7349,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-11T13:10:07.834Z"
+  "savedAt": "2026-07-13T16:58:19.188Z"
 }
