@@ -4911,19 +4911,6 @@
       "total": 853,
       "status": "waiting"
     },
-    "c_1779729371390": {
-      "clientId": "c_1779729371390",
-      "items": {
-        "7901072423700": {
-          "code": "7901072423700",
-          "name": "Jaqueta dupla face preto e bege live P",
-          "price": 699.9,
-          "qty": 1
-        }
-      },
-      "total": 699.9000000000001,
-      "status": "open"
-    },
     "c_1783710465465": {
       "clientId": "c_1783710465465",
       "items": {
@@ -5446,6 +5433,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779729371390",
+      "clientName": "Paty salão",
+      "clientPhone": "",
+      "items": {
+        "7901072423700": {
+          "code": "7901072423700",
+          "name": "Jaqueta dupla face preto e bege live P",
+          "price": 699.9,
+          "qty": 1
+        }
+      },
+      "total": 699.9000000000001,
+      "closedAt": "2026-07-13T21:56:18.021Z"
+    },
     {
       "clientId": "c_1779727528255",
       "clientName": "Cris estivadores lojista",
@@ -8287,5 +8289,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:56:16.029Z"
+  "savedAt": "2026-07-13T21:56:19.759Z"
 }
