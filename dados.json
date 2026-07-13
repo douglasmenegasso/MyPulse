@@ -3793,18 +3793,6 @@
     "c_1783541517615": {
       "clientId": "c_1783541517615",
       "items": {
-        "7900172959614": {
-          "code": "7900172959614",
-          "name": "T shirt preta bordado branco LP M",
-          "price": 287,
-          "qty": 1
-        },
-        "7900415002688": {
-          "code": "7900415002688",
-          "name": "Calça wide leg marrom LP M",
-          "price": 563,
-          "qty": 1
-        },
         "7900292935932": {
           "code": "7900292935932",
           "name": "Moletom marrom bordado off Lp P",
@@ -3824,7 +3812,7 @@
           "qty": 1
         }
       },
-      "total": 1933.0000000000018,
+      "total": 1083.0000000000018,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7346,6 +7334,20 @@
         "price": 49.9,
         "qty": 1,
         "lastAt": "2026-07-13T18:07:24.253Z"
+      },
+      "7900172959614": {
+        "code": "7900172959614",
+        "name": "T shirt preta bordado branco LP M",
+        "price": 287,
+        "qty": 1,
+        "lastAt": "2026-07-13T18:07:30.441Z"
+      },
+      "7900415002688": {
+        "code": "7900415002688",
+        "name": "Calça wide leg marrom LP M",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-13T18:07:31.420Z"
       }
     },
     "c_1783701666054": {
@@ -7669,5 +7671,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:07:28.550Z"
+  "savedAt": "2026-07-13T18:07:33.511Z"
 }
