@@ -3234,6 +3234,11 @@
       "code": "7890171652541",
       "name": "Legging preta AG P",
       "price": 269
+    },
+    "7890171656051": {
+      "code": "7890171656051",
+      "name": "Regata tule preto AG M",
+      "price": 219
     }
   },
   "clients": {
@@ -7825,5 +7830,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:43:08.320Z"
+  "savedAt": "2026-07-13T18:43:41.689Z"
 }
