@@ -3848,9 +3848,15 @@
           "name": "Nayara marrom live symbol M",
           "price": 499.9,
           "qty": 1
+        },
+        "7901128603193": {
+          "code": "7901128603193",
+          "name": "Legging marrom live symbol M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 499.9,
+      "total": 829.8,
       "status": "open"
     },
     "c_1783444825678": {
@@ -8064,5 +8070,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T19:11:20.430Z"
+  "savedAt": "2026-07-13T19:11:29.468Z"
 }
