@@ -4508,33 +4508,9 @@
           "name": "Top máxi azul petróleo live M",
           "price": 249.9,
           "qty": 1
-        },
-        "7909746622770": {
-          "code": "7909746622770",
-          "name": "Jaqueta sprint azul claro DT M",
-          "price": 479,
-          "qty": 1
-        },
-        "7901072431040": {
-          "code": "7901072431040",
-          "name": "Shorts azul petróleo live live grande M",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7901072430692": {
-          "code": "7901072430692",
-          "name": "Legging azul petróleo live live M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7908754570479": {
-          "code": "7908754570479",
-          "name": "Top curve azul petróleo live M",
-          "price": 189.9,
-          "qty": 1
         }
       },
-      "total": 2008.4,
+      "total": 769.6999999999998,
       "status": "open"
     },
     "c_1783632087135": {
@@ -7370,6 +7346,36 @@
         "qty": 1,
         "lastAt": "2026-07-13T17:00:50.115Z"
       }
+    },
+    "41991694056": {
+      "7908754570479": {
+        "code": "7908754570479",
+        "name": "Top curve azul petróleo live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:29:24.803Z"
+      },
+      "7901072430692": {
+        "code": "7901072430692",
+        "name": "Legging azul petróleo live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:29:25.504Z"
+      },
+      "7901072431040": {
+        "code": "7901072431040",
+        "name": "Shorts azul petróleo live live grande M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:29:26.057Z"
+      },
+      "7909746622770": {
+        "code": "7909746622770",
+        "name": "Jaqueta sprint azul claro DT M",
+        "price": 479,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:29:26.429Z"
+      }
     }
   },
   "security": {
@@ -7377,5 +7383,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:29:23.619Z"
+  "savedAt": "2026-07-13T17:29:26.430Z"
 }
