@@ -4935,9 +4935,15 @@
           "name": "Shorts máxi vermelho live M",
           "price": 239.9,
           "qty": 1
+        },
+        "7908931962783": {
+          "code": "7908931962783",
+          "name": "Top cut out vermelho live M",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 6123.299999999997,
+      "total": 6403.199999999997,
       "status": "open"
     }
   },
@@ -7579,5 +7585,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:41:10.699Z"
+  "savedAt": "2026-07-13T17:42:07.439Z"
 }
