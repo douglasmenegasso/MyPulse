@@ -3369,6 +3369,11 @@
       "code": "7901072484664",
       "name": "Shorts tex marrom live P",
       "price": 239.9
+    },
+    "7901072486187": {
+      "code": "7901072486187",
+      "name": "Macaquinho tex marrom live P",
+      "price": 399.9
     }
   },
   "clients": {
@@ -8137,5 +8142,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:11:14.618Z"
+  "savedAt": "2026-07-13T21:11:55.960Z"
 }
