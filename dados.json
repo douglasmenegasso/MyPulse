@@ -4898,19 +4898,6 @@
       "total": 1788,
       "status": "waiting"
     },
-    "c_1779727528255": {
-      "clientId": "c_1779727528255",
-      "items": {
-        "7901072437813": {
-          "code": "7901072437813",
-          "name": "Jaqueta máxi preto live M",
-          "price": 499.9,
-          "qty": 1
-        }
-      },
-      "total": 499.9,
-      "status": "waiting"
-    },
     "c_1783709976806": {
       "clientId": "c_1783709976806",
       "items": {
@@ -5465,6 +5452,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779727528255",
+      "clientName": "Cris estivadores lojista",
+      "clientPhone": "",
+      "items": {
+        "7901072437813": {
+          "code": "7901072437813",
+          "name": "Jaqueta máxi preto live M",
+          "price": 499.9,
+          "qty": 1
+        }
+      },
+      "total": 499.9,
+      "closedAt": "2026-07-13T21:56:03.380Z"
+    },
     {
       "clientId": "41991536747",
       "clientName": "Anna Rebecca",
@@ -8284,5 +8286,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:56:01.869Z"
+  "savedAt": "2026-07-13T21:56:05.395Z"
 }
