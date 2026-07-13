@@ -4926,9 +4926,15 @@
           "name": "Bermuda com silicone verde claro AG P",
           "price": 309,
           "qty": 1
+        },
+        "7908011244686": {
+          "code": "7908011244686",
+          "name": "Top curve branco live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 10878.099999999993,
+      "total": 11067.999999999993,
       "status": "open"
     },
     "41991536747": {
@@ -7757,5 +7763,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:39:44.123Z"
+  "savedAt": "2026-07-13T18:39:50.856Z"
 }
