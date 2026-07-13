@@ -4949,9 +4949,15 @@
           "name": "Regata franzida assimétrica rosa AG P",
           "price": 239,
           "qty": 1
+        },
+        "02603750912": {
+          "code": "02603750912",
+          "name": "Jaqueta bruma bordo movimento M",
+          "price": 439.9,
+          "qty": 1
         }
       },
-      "total": 11705.999999999993,
+      "total": 12145.899999999992,
       "status": "open"
     },
     "41991536747": {
@@ -7780,5 +7786,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:41:04.104Z"
+  "savedAt": "2026-07-13T18:41:09.590Z"
 }
