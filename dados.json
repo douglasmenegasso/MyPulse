@@ -4832,9 +4832,15 @@
           "name": "Top curve azul claro live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7890171652817": {
+          "code": "7890171652817",
+          "name": "T-shirt cropped mesh branco AG P",
+          "price": 229,
+          "qty": 1
         }
       },
-      "total": 2545.5,
+      "total": 2774.5,
       "status": "open"
     }
   },
@@ -7476,5 +7482,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:33:36.270Z"
+  "savedAt": "2026-07-13T17:33:39.611Z"
 }
