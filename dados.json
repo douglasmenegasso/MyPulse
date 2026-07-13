@@ -3409,6 +3409,11 @@
       "code": "7901072486439",
       "name": "Top tex marrom live M",
       "price": 279.9
+    },
+    "7901072485647": {
+      "code": "7901072485647",
+      "name": "Legging marrom live live M",
+      "price": 329.9
     }
   },
   "clients": {
@@ -8177,5 +8182,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:17:44.544Z"
+  "savedAt": "2026-07-13T21:18:13.049Z"
 }
