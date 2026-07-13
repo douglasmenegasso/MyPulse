@@ -3329,6 +3329,11 @@
       "code": "7900415041779",
       "name": "Vestido curto vazado off LP M",
       "price": 417
+    },
+    "7901072467186": {
+      "code": "7901072467186",
+      "name": "Camiseta loose comfy preto live g men",
+      "price": 219.9
     }
   },
   "clients": {
@@ -8097,5 +8102,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:04:29.734Z"
+  "savedAt": "2026-07-13T21:05:00.739Z"
 }
