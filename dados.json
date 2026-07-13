@@ -3444,6 +3444,11 @@
       "code": "7901072470797",
       "name": "Shorts marrom live live M",
       "price": 249.9
+    },
+    "7901072464963": {
+      "code": "7901072464963",
+      "name": "Macaquinho allure marrom live M",
+      "price": 359.9
     }
   },
   "clients": {
@@ -8212,5 +8217,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T21:21:56.144Z"
+  "savedAt": "2026-07-13T21:22:24.816Z"
 }
