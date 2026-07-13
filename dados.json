@@ -3817,12 +3817,6 @@
           "price": 59.9,
           "qty": 1
         },
-        "7908990956877": {
-          "code": "7908990956877",
-          "name": "Legging hydefit verde militar live g",
-          "price": 199.9,
-          "qty": 1
-        },
         "7890171652435": {
           "code": "7890171652435",
           "name": "Jaqueta ajustada com bolso preto AG M",
@@ -3938,7 +3932,7 @@
           "qty": 1
         }
       },
-      "total": 7014.1,
+      "total": 6814.200000000001,
       "status": "open"
     },
     "c_1783543770765": {
@@ -7327,6 +7321,13 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-13T17:56:53.482Z"
+      },
+      "7908990956877": {
+        "code": "7908990956877",
+        "name": "Legging hydefit verde militar live g",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-13T17:57:01.844Z"
       }
     },
     "c_1783701666054": {
@@ -7650,5 +7651,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T17:56:53.482Z"
+  "savedAt": "2026-07-13T17:57:01.845Z"
 }
