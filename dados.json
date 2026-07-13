@@ -3671,6 +3671,12 @@
     "c_1779214900706": {
       "clientId": "c_1779214900706",
       "items": {
+        "79094546": {
+          "code": "79094546",
+          "name": "Jaqueta marrom live symbol g",
+          "price": 499.9,
+          "qty": 1
+        },
         "7909746614164": {
           "code": "7909746614164",
           "name": "Vestido canelado bordo DT M",
@@ -3750,7 +3756,7 @@
           "qty": 1
         }
       },
-      "total": 5482.799999999999,
+      "total": 5982.699999999999,
       "status": "open"
     },
     "c1779296356399": {
@@ -8086,5 +8092,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T19:22:05.033Z"
+  "savedAt": "2026-07-13T19:22:09.721Z"
 }
