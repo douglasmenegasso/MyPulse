@@ -3289,6 +3289,11 @@
       "code": "7901128619095",
       "name": "Jaqueta marrom live symbol P",
       "price": 499.9
+    },
+    "7901128619064": {
+      "code": "7901128619064",
+      "name": "Shorts marrom live symbol P",
+      "price": 259.9
     }
   },
   "clients": {
@@ -8007,5 +8012,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T19:02:12.897Z"
+  "savedAt": "2026-07-13T19:02:42.761Z"
 }
