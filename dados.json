@@ -3244,6 +3244,11 @@
       "code": "7890171654323",
       "name": "Top assimétrico preto com off AG g",
       "price": 379
+    },
+    "7909746579685": {
+      "code": "7909746579685",
+      "name": "Legging com pezinho preto DT M",
+      "price": 259
     }
   },
   "clients": {
@@ -7872,5 +7877,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-13T18:48:11.119Z"
+  "savedAt": "2026-07-13T18:48:16.480Z"
 }
