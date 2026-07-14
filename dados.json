@@ -4617,15 +4617,9 @@
           "name": "Calça texturizada verde live G",
           "price": 599.9,
           "qty": 1
-        },
-        "7909746524876": {
-          "code": "7909746524876",
-          "name": "Regata mistral tule off com preto DT M",
-          "price": 239,
-          "qty": 1
         }
       },
-      "total": 7087.200000000001,
+      "total": 6848.200000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8701,6 +8695,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-14T19:40:11.839Z"
+      },
+      "7909746524876": {
+        "code": "7909746524876",
+        "name": "Regata mistral tule off com preto DT M",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:40:16.828Z"
       }
     },
     "c_1783711001466": {
@@ -8809,5 +8810,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:40:11.841Z"
+  "savedAt": "2026-07-14T19:40:16.829Z"
 }
