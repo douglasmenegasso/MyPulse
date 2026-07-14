@@ -5055,12 +5055,6 @@
           "price": 223,
           "qty": 1
         },
-        "7909746618681": {
-          "code": "7909746618681",
-          "name": "Caça iconic bordo DT P",
-          "price": 599,
-          "qty": 1
-        },
         "7900292997794": {
           "code": "7900292997794",
           "name": "Calça pantalona moletom azul LP P",
@@ -5092,7 +5086,7 @@
           "qty": 1
         }
       },
-      "total": 9109.699999999999,
+      "total": 8510.699999999999,
       "status": "open"
     },
     "c1779297896722": {
@@ -8786,6 +8780,13 @@
         "price": 159,
         "qty": 1,
         "lastAt": "2026-07-14T19:33:25.000Z"
+      },
+      "7909746618681": {
+        "code": "7909746618681",
+        "name": "Caça iconic bordo DT P",
+        "price": 599,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:33:33.010Z"
       }
     }
   },
@@ -8794,5 +8795,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:33:25.001Z"
+  "savedAt": "2026-07-14T19:33:33.011Z"
 }
