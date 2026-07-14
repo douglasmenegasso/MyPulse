@@ -3903,39 +3903,8 @@
     },
     "c_1779210400273": {
       "clientId": "c_1779210400273",
-      "items": {
-        "7909746638085": {
-          "code": "7909746638085",
-          "name": "Blusa rivera off com preto DT P",
-          "price": 299,
-          "qty": 1
-        },
-        "7909746638115": {
-          "code": "7909746638115",
-          "name": "Calça rivieira preta com off DT P",
-          "price": 269,
-          "qty": 1
-        },
-        "7900415268572": {
-          "code": "7900415268572",
-          "name": "Shorts jeans bege com detalhe couro LP 36",
-          "price": 553,
-          "qty": 1
-        },
-        "7900415216993": {
-          "code": "7900415216993",
-          "name": "Blusa de alças canelada off Lp P",
-          "price": 263,
-          "qty": 1
-        },
-        "7909746661434": {
-          "code": "7909746661434",
-          "name": "Pijama short doll marrom com off DT P",
-          "price": 439,
-          "qty": 1
-        }
-      },
-      "total": 1823,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1779214900706": {
@@ -8228,8 +8197,36 @@
         "code": "7909746638115",
         "name": "Calça ribeira preta com off DT P",
         "price": 269,
+        "qty": 2,
+        "lastAt": "2026-07-14T19:13:06.026Z"
+      },
+      "7909746661434": {
+        "code": "7909746661434",
+        "name": "Pijama short doll marrom com off DT P",
+        "price": 439,
         "qty": 1,
-        "lastAt": "2026-07-10T18:55:35.346Z"
+        "lastAt": "2026-07-14T19:13:05.665Z"
+      },
+      "7900415216993": {
+        "code": "7900415216993",
+        "name": "Blusa de alças canelada off Lp P",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:13:05.787Z"
+      },
+      "7900415268572": {
+        "code": "7900415268572",
+        "name": "Shorts jeans bege com detalhe couro LP 36",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:13:05.909Z"
+      },
+      "7909746638085": {
+        "code": "7909746638085",
+        "name": "Blusa rivera off com preto DT P",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:13:06.157Z"
       }
     },
     "c_1783530252285": {
@@ -8779,5 +8776,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:13:04.722Z"
+  "savedAt": "2026-07-14T19:13:08.160Z"
 }
