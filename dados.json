@@ -4053,8 +4053,15 @@
     },
     "c_1779386183182": {
       "clientId": "c_1779386183182",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7901072413671": {
+          "code": "7901072413671",
+          "name": "Shorts neopren verde oliva claro live M",
+          "price": 219.9,
+          "qty": 1
+        }
+      },
+      "total": 219.9,
       "status": "open"
     },
     "41995150547": {
@@ -8473,5 +8480,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:06:51.507Z"
+  "savedAt": "2026-07-14T18:07:23.201Z"
 }
