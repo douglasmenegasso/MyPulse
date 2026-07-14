@@ -5001,12 +5001,6 @@
           "price": 263,
           "qty": 1
         },
-        "7900415286965": {
-          "code": "7900415286965",
-          "name": "T-shirt off com rosa LP M",
-          "price": 243,
-          "qty": 1
-        },
         "7909746638184": {
           "code": "7909746638184",
           "name": "Vestido riviera off com preto DT P",
@@ -5086,7 +5080,7 @@
           "qty": 1
         }
       },
-      "total": 8510.699999999999,
+      "total": 8267.699999999999,
       "status": "open"
     },
     "c1779297896722": {
@@ -8787,6 +8781,13 @@
         "price": 599,
         "qty": 1,
         "lastAt": "2026-07-14T19:33:33.010Z"
+      },
+      "7900415286965": {
+        "code": "7900415286965",
+        "name": "T-shirt off com rosa LP M",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:33:40.163Z"
       }
     }
   },
@@ -8795,5 +8796,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:33:33.011Z"
+  "savedAt": "2026-07-14T19:33:40.164Z"
 }
