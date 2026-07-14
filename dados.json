@@ -4308,9 +4308,15 @@
           "name": "Jaqueta harmony branco live M",
           "price": 379.9,
           "qty": 1
+        },
+        "7890171645659": {
+          "code": "7890171645659",
+          "name": "Legging canelada brilhosa marrom AG P",
+          "price": 319,
+          "qty": 1
         }
       },
-      "total": 10621.099999999995,
+      "total": 10940.099999999995,
       "status": "open"
     },
     "41995150547": {
@@ -8729,5 +8735,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:31:50.577Z"
+  "savedAt": "2026-07-14T18:31:54.835Z"
 }
