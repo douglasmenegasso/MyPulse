@@ -4558,12 +4558,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7900292387090": {
-          "code": "7900292387090",
-          "name": "Regata off com bege lp g",
-          "price": 263,
-          "qty": 1
-        },
         "7908990960201": {
           "code": "7908990960201",
           "name": "Calça texturizada verde live G",
@@ -4571,7 +4565,7 @@
           "qty": 1
         }
       },
-      "total": 3769.300000000001,
+      "total": 3506.300000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8710,6 +8704,13 @@
         "price": 493,
         "qty": 1,
         "lastAt": "2026-07-14T19:41:20.919Z"
+      },
+      "7900292387090": {
+        "code": "7900292387090",
+        "name": "Regata off com bege lp g",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:41:26.537Z"
       }
     },
     "c_1783711001466": {
@@ -8818,5 +8819,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:41:20.920Z"
+  "savedAt": "2026-07-14T19:41:26.538Z"
 }
