@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7900415030124": {
-          "code": "7900415030124",
-          "name": "Vestido curto vazado preto Lp P",
-          "price": 417,
-          "qty": 1
-        },
         "7900415041786": {
           "code": "7900415041786",
           "name": "Vestido curto vazado off LP P",
@@ -4830,7 +4824,7 @@
           "qty": 1
         }
       },
-      "total": 9026.499999999996,
+      "total": 8609.499999999996,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8437,6 +8431,15 @@
         "qty": 1,
         "lastAt": "2026-07-13T17:29:27.966Z"
       }
+    },
+    "c_1779382988768": {
+      "7900415030124": {
+        "code": "7900415030124",
+        "name": "Vestido curto vazado preto Lp P",
+        "price": 417,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:54:08.427Z"
+      }
     }
   },
   "security": {
@@ -8444,5 +8447,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:54:03.130Z"
+  "savedAt": "2026-07-14T17:54:08.428Z"
 }
