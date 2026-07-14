@@ -3599,6 +3599,11 @@
       "code": "7908931930508",
       "name": "Regata cropped pink live M",
       "price": 169.9
+    },
+    "7901072438605": {
+      "code": "7901072438605",
+      "name": "Camiseta cropped preto live M",
+      "price": 179.9
     }
   },
   "clients": {
@@ -8872,5 +8877,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T20:27:33.862Z"
+  "savedAt": "2026-07-14T20:28:12.567Z"
 }
