@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7890171646748": {
-          "code": "7890171646748",
-          "name": "Jaqueta com bolso verde claro AG P",
-          "price": 489,
-          "qty": 1
-        },
         "7901072413671": {
           "code": "7901072413671",
           "name": "Shorts neopren verde oliva claro live M",
@@ -4734,7 +4728,7 @@
           "qty": 1
         }
       },
-      "total": 3657.899999999998,
+      "total": 3168.899999999998,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8454,6 +8448,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-14T17:55:11.953Z"
+      },
+      "7890171646748": {
+        "code": "7890171646748",
+        "name": "Jaqueta com bolso verde claro AG P",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:23.717Z"
       }
     }
   },
@@ -8462,5 +8463,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:55:13.725Z"
+  "savedAt": "2026-07-14T17:55:23.718Z"
 }
