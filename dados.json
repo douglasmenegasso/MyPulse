@@ -3524,6 +3524,11 @@
       "code": "7908931902826",
       "name": "Legging preto live live M",
       "price": 329.9
+    },
+    "7908990956846": {
+      "code": "7908990956846",
+      "name": "Legging hydefit preto live M",
+      "price": 179.9
     }
   },
   "clients": {
@@ -8376,5 +8381,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:19:24.674Z"
+  "savedAt": "2026-07-14T17:20:08.068Z"
 }
