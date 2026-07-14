@@ -5552,9 +5552,15 @@
           "name": "Legging allure preto live P",
           "price": 319.9,
           "qty": 1
+        },
+        "7908931976711": {
+          "code": "7908931976711",
+          "name": "Legging grafeno preto live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 4147.700000000001,
+      "total": 4547.6,
       "status": "open"
     }
   },
@@ -8415,5 +8421,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:22:19.429Z"
+  "savedAt": "2026-07-14T17:22:22.885Z"
 }
