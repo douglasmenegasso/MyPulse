@@ -3609,6 +3609,11 @@
       "code": "7908835804042",
       "name": "Camiseta V action preta live M",
       "price": 189.9
+    },
+    "7909746563776": {
+      "code": "7909746563776",
+      "name": "Regata rib Marte verde DT M",
+      "price": 319
     }
   },
   "clients": {
@@ -8936,5 +8941,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T21:55:40.070Z"
+  "savedAt": "2026-07-14T21:55:48.383Z"
 }
