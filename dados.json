@@ -4964,33 +4964,8 @@
     },
     "c_1783624643893": {
       "clientId": "c_1783624643893",
-      "items": {
-        "7890171653852": {
-          "code": "7890171653852",
-          "name": "Top um ombro só branco com elástico AG M",
-          "price": 239,
-          "qty": 1
-        },
-        "7890171657096": {
-          "code": "7890171657096",
-          "name": "Saia com elástico preto e off AG M",
-          "price": 319,
-          "qty": 1
-        },
-        "7890171652466": {
-          "code": "7890171652466",
-          "name": "Saia reta detalhe estampa rosa AG M",
-          "price": 319,
-          "qty": 1
-        },
-        "7890171662229": {
-          "code": "7890171662229",
-          "name": "Top elástico roxo malva AG M",
-          "price": 219,
-          "qty": 1
-        }
-      },
-      "total": 1096,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1783625230333": {
@@ -8767,6 +8742,36 @@
         "qty": 1,
         "lastAt": "2026-07-14T18:41:43.957Z"
       }
+    },
+    "c_1783624643893": {
+      "7890171662229": {
+        "code": "7890171662229",
+        "name": "Top elástico roxo malva AG M",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:12:03.112Z"
+      },
+      "7890171652466": {
+        "code": "7890171652466",
+        "name": "Saia reta detalhe estampa rosa AG M",
+        "price": 319,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:12:03.399Z"
+      },
+      "7890171657096": {
+        "code": "7890171657096",
+        "name": "Saia com elástico preto e off AG M",
+        "price": 319,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:12:03.511Z"
+      },
+      "7890171653852": {
+        "code": "7890171653852",
+        "name": "Top um ombro só branco com elástico AG M",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:12:04.436Z"
+      }
     }
   },
   "security": {
@@ -8774,5 +8779,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:12:01.773Z"
+  "savedAt": "2026-07-14T19:12:04.437Z"
 }
