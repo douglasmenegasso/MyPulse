@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7890171643617": {
-          "code": "7890171643617",
-          "name": "Garrafa térmica azul AG",
-          "price": 198,
-          "qty": 1
-        },
         "7909746618438": {
           "code": "7909746618438",
           "name": "Jaqueta cherry vinho DT P",
@@ -4776,7 +4770,7 @@
           "qty": 1
         }
       },
-      "total": 6042.599999999997,
+      "total": 5844.599999999997,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8447,6 +8441,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-14T17:54:54.123Z"
+      },
+      "7890171643617": {
+        "code": "7890171643617",
+        "name": "Garrafa térmica azul AG",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:54:57.592Z"
       }
     }
   },
@@ -8455,5 +8456,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:54:54.125Z"
+  "savedAt": "2026-07-14T17:54:57.593Z"
 }
