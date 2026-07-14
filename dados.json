@@ -4273,9 +4273,15 @@
           "name": "Jaqueta com bolso verde claro AG P",
           "price": 489,
           "qty": 1
+        },
+        "7908990904847": {
+          "code": "7908990904847",
+          "name": "Legging azul petróleo live live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 9271.599999999997,
+      "total": 9601.499999999996,
       "status": "open"
     },
     "41995150547": {
@@ -8694,5 +8700,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:30:06.938Z"
+  "savedAt": "2026-07-14T18:30:17.526Z"
 }
