@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7890171648865": {
-          "code": "7890171648865",
-          "name": "Top eterno liso laranja AG M",
-          "price": 209,
-          "qty": 1
-        },
         "7860171652923": {
           "code": "7860171652923",
           "name": "Legging eterna shine marrom AG P",
@@ -4800,7 +4794,7 @@
           "qty": 1
         }
       },
-      "total": 6967.499999999996,
+      "total": 6758.499999999996,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8443,6 +8437,13 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-14T17:54:27.874Z"
+      },
+      "7890171648865": {
+        "code": "7890171648865",
+        "name": "Top eterno liso laranja AG M",
+        "price": 209,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:54:28.624Z"
       }
     }
   },
@@ -8451,5 +8452,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:54:27.875Z"
+  "savedAt": "2026-07-14T17:54:31.684Z"
 }
