@@ -4175,9 +4175,15 @@
           "name": "Jaqueta cherry vinho DT P",
           "price": 699,
           "qty": 1
+        },
+        "7890171657454": {
+          "code": "7890171657454",
+          "name": "Legging assimétrica preto com off AG M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 5129.2,
+      "total": 5578.2,
       "status": "open"
     },
     "41995150547": {
@@ -8596,5 +8602,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:23:55.601Z"
+  "savedAt": "2026-07-14T18:24:43.120Z"
 }
