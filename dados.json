@@ -4117,9 +4117,15 @@
           "name": "Regata de tule preto AG P",
           "price": 219,
           "qty": 1
+        },
+        "7908990957324": {
+          "code": "7908990957324",
+          "name": "Camiseta cropped pima preto live P",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 2404.6,
+      "total": 2654.5,
       "status": "open"
     },
     "41995150547": {
@@ -8538,5 +8544,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:10:16.627Z"
+  "savedAt": "2026-07-14T18:10:29.051Z"
 }
