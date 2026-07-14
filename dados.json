@@ -4973,19 +4973,6 @@
       "total": 1788,
       "status": "waiting"
     },
-    "c_1783709976806": {
-      "clientId": "c_1783709976806",
-      "items": {
-        "7900415030438": {
-          "code": "7900415030438",
-          "name": "Jaqueta preta com elástico LP P",
-          "price": 853,
-          "qty": 1
-        }
-      },
-      "total": 853,
-      "status": "waiting"
-    },
     "c_1783710465465": {
       "clientId": "c_1783710465465",
       "items": {
@@ -5623,6 +5610,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783709976806",
+      "clientName": "Kawane ivonete",
+      "clientPhone": "",
+      "items": {
+        "7900415030438": {
+          "code": "7900415030438",
+          "name": "Jaqueta preta com elástico LP P",
+          "price": 853,
+          "qty": 1
+        }
+      },
+      "total": 853,
+      "closedAt": "2026-07-14T19:18:57.046Z"
+    },
     {
       "clientId": "c_1783625230333",
       "clientName": "Raven estivadores",
@@ -8782,5 +8784,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:18:23.498Z"
+  "savedAt": "2026-07-14T19:18:57.049Z"
 }
