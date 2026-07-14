@@ -4576,12 +4576,6 @@
           "price": 449,
           "qty": 1
         },
-        "7909746617288": {
-          "code": "7909746617288",
-          "name": "Regata elite roxo DT g",
-          "price": 299,
-          "qty": 1
-        },
         "7908990960201": {
           "code": "7908990960201",
           "name": "Calça texturizada verde live G",
@@ -4589,7 +4583,7 @@
           "qty": 1
         }
       },
-      "total": 5010.300000000001,
+      "total": 4711.300000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8707,6 +8701,13 @@
         "price": 229,
         "qty": 1,
         "lastAt": "2026-07-14T19:40:58.129Z"
+      },
+      "7909746617288": {
+        "code": "7909746617288",
+        "name": "Regata elite roxo DT g",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:41:03.785Z"
       }
     },
     "c_1783711001466": {
@@ -8815,5 +8816,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:41:00.815Z"
+  "savedAt": "2026-07-14T19:41:03.786Z"
 }
