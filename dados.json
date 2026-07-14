@@ -5444,9 +5444,15 @@
           "name": "Jaqueta ajustada com bolso preto AG M",
           "price": 489,
           "qty": 1
+        },
+        "7908990921301": {
+          "code": "7908990921301",
+          "name": "Jaqueta harmony preta live M",
+          "price": 379.9,
+          "qty": 1
         }
       },
-      "total": 489,
+      "total": 868.9,
       "status": "open"
     }
   },
@@ -8307,5 +8313,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:10:17.265Z"
+  "savedAt": "2026-07-14T17:10:48.543Z"
 }
