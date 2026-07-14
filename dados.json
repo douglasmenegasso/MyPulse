@@ -5435,6 +5435,19 @@
       },
       "total": 3764.2000000000007,
       "status": "waiting"
+    },
+    "c_1784049002709": {
+      "clientId": "c_1784049002709",
+      "items": {
+        "7890171652435": {
+          "code": "7890171652435",
+          "name": "Jaqueta ajustada com bolso preto AG M",
+          "price": 489,
+          "qty": 1
+        }
+      },
+      "total": 489,
+      "status": "open"
     }
   },
   "closed": [
@@ -8294,5 +8307,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:10:02.710Z"
+  "savedAt": "2026-07-14T17:10:17.265Z"
 }
