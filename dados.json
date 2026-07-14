@@ -4503,21 +4503,8 @@
     },
     "c_1783541517615": {
       "clientId": "c_1783541517615",
-      "items": {
-        "7900292935932": {
-          "code": "7900292935932",
-          "name": "Moletom marrom bordado off Lp P",
-          "price": 587,
-          "qty": 1
-        },
-        "7900292842049": {
-          "code": "7900292842049",
-          "name": "Shorts moletom marrom LP P",
-          "price": 297,
-          "qty": 1
-        }
-      },
-      "total": 884.0000000000018,
+      "items": {},
+      "total": 1.8189894035458565e-12,
       "status": "open"
     },
     "c_1783543770765": {
@@ -8112,6 +8099,20 @@
         "price": 199,
         "qty": 1,
         "lastAt": "2026-07-13T18:07:35.014Z"
+      },
+      "7900292935932": {
+        "code": "7900292935932",
+        "name": "Moletom marrom bordado off Lp P",
+        "price": 587,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:34:48.693Z"
+      },
+      "7900292842049": {
+        "code": "7900292842049",
+        "name": "Shorts moletom marrom LP P",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:34:49.494Z"
       }
     },
     "c_1783701666054": {
@@ -8797,5 +8798,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:34:45.959Z"
+  "savedAt": "2026-07-14T19:34:49.495Z"
 }
