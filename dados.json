@@ -3529,6 +3529,11 @@
       "code": "7908990956846",
       "name": "Legging hydefit preto live M",
       "price": 179.9
+    },
+    "7908990996460": {
+      "code": "7908990996460",
+      "name": "Top neopren nadador preto live M",
+      "price": 299.9
     }
   },
   "clients": {
@@ -8393,5 +8398,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:20:17.206Z"
+  "savedAt": "2026-07-14T17:20:56.332Z"
 }
