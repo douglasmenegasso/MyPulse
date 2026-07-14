@@ -4661,18 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7909746618933": {
-          "code": "7909746618933",
-          "name": "Legging curve uva listra branca DT P",
-          "price": 419,
-          "qty": 1
-        },
-        "7909746618919": {
-          "code": "7909746618919",
-          "name": "Top curve uva listra branca vivame M ",
-          "price": 259,
-          "qty": 1
-        },
         "7890171646748": {
           "code": "7890171646748",
           "name": "Jaqueta com bolso verde claro AG P",
@@ -4746,7 +4734,7 @@
           "qty": 1
         }
       },
-      "total": 4335.899999999998,
+      "total": 3657.899999999998,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8452,6 +8440,20 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-14T17:55:09.543Z"
+      },
+      "7909746618933": {
+        "code": "7909746618933",
+        "name": "Legging curve uva listra branca DT P",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:10.442Z"
+      },
+      "7909746618919": {
+        "code": "7909746618919",
+        "name": "Top curve uva listra branca vivame M ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:11.953Z"
       }
     }
   },
@@ -8460,5 +8462,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:55:09.544Z"
+  "savedAt": "2026-07-14T17:55:13.725Z"
 }
