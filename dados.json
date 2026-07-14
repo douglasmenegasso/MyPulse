@@ -4187,9 +4187,15 @@
           "name": "Jaqueta harmony fúcsia live M",
           "price": 379.9,
           "qty": 1
+        },
+        "7901072485685": {
+          "code": "7901072485685",
+          "name": "Legging fúcsia live live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 5958.099999999999,
+      "total": 6287.999999999999,
       "status": "open"
     },
     "41995150547": {
@@ -8608,5 +8614,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:25:16.027Z"
+  "savedAt": "2026-07-14T18:25:46.980Z"
 }
