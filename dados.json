@@ -4504,9 +4504,15 @@
           "name": "Calça cargo marrom DT P",
           "price": 689,
           "qty": 1
+        },
+        "7900292935932": {
+          "code": "7900292935932",
+          "name": "Moletom marrom bordado off Lp P",
+          "price": 587,
+          "qty": 1
         }
       },
-      "total": 1648.6,
+      "total": 2235.6,
       "status": "open"
     },
     "c_1783457601997": {
@@ -8895,5 +8901,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T21:10:01.496Z"
+  "savedAt": "2026-07-14T21:10:31.295Z"
 }
