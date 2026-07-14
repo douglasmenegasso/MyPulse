@@ -5006,12 +5006,6 @@
           "price": 498,
           "qty": 1
         },
-        "7901072437790": {
-          "code": "7901072437790",
-          "name": "Jaqueta máxi branca live g",
-          "price": 499.9,
-          "qty": 1
-        },
         "7900415109998": {
           "code": "7900415109998",
           "name": "Regata listrada cinza Lp M",
@@ -5043,7 +5037,7 @@
           "qty": 1
         }
       },
-      "total": 7013.699999999999,
+      "total": 6513.799999999999,
       "status": "open"
     },
     "c1779297896722": {
@@ -8793,6 +8787,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-14T19:37:18.463Z"
+      },
+      "7901072437790": {
+        "code": "7901072437790",
+        "name": "Jaqueta máxi branca live g",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:37:28.414Z"
       }
     }
   },
@@ -8801,5 +8802,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:37:18.465Z"
+  "savedAt": "2026-07-14T19:37:28.415Z"
 }
