@@ -5518,9 +5518,15 @@
           "name": "Top cut out preto live M",
           "price": 279.9,
           "qty": 1
+        },
+        "7908990956846": {
+          "code": "7908990956846",
+          "name": "Legging hydefit preto live M",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 3098.1000000000004,
+      "total": 3278.0000000000005,
       "status": "open"
     }
   },
@@ -8381,5 +8387,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:20:08.068Z"
+  "savedAt": "2026-07-14T17:20:10.462Z"
 }
