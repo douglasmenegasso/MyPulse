@@ -4169,9 +4169,15 @@
           "name": "Regata costas elástico cinza AG P",
           "price": 198,
           "qty": 1
+        },
+        "7909746618438": {
+          "code": "7909746618438",
+          "name": "Jaqueta cherry vinho DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 4430.2,
+      "total": 5129.2,
       "status": "open"
     },
     "41995150547": {
@@ -8590,5 +8596,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:22:55.157Z"
+  "savedAt": "2026-07-14T18:23:42.305Z"
 }
