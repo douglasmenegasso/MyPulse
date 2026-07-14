@@ -4128,9 +4128,15 @@
           "name": "Camiseta cropped pima preto live P",
           "price": 249.9,
           "qty": 1
+        },
+        "7890171662304": {
+          "code": "7890171662304",
+          "name": "Bermuda elástico roxo malva AG P",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 2654.5,
+      "total": 2913.5,
       "status": "open"
     },
     "41995150547": {
@@ -8549,5 +8555,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:11:09.494Z"
+  "savedAt": "2026-07-14T18:11:15.116Z"
 }
