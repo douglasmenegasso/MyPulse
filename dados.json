@@ -4244,9 +4244,15 @@
           "name": "Regata cropped mesh lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "7909746616397": {
+          "code": "7909746616397",
+          "name": "Legging oliva vivem P",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 7874.699999999998,
+      "total": 8273.699999999997,
       "status": "open"
     },
     "41995150547": {
@@ -8665,5 +8671,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:29:13.048Z"
+  "savedAt": "2026-07-14T18:29:15.788Z"
 }
