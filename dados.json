@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7901072485685": {
-          "code": "7901072485685",
-          "name": "Legging fúcsia live live M",
-          "price": 329.9,
-          "qty": 1
-        },
         "7901072457095": {
           "code": "7901072457095",
           "name": "Top curve fúcsia live live M",
@@ -4704,7 +4698,7 @@
           "qty": 1
         }
       },
-      "total": 2029.2999999999975,
+      "total": 1699.3999999999974,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8459,6 +8453,13 @@
         "price": 379.9,
         "qty": 1,
         "lastAt": "2026-07-14T17:55:42.599Z"
+      },
+      "7901072485685": {
+        "code": "7901072485685",
+        "name": "Legging fúcsia live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:43.687Z"
       }
     }
   },
@@ -8467,5 +8468,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:55:42.600Z"
+  "savedAt": "2026-07-14T17:55:46.494Z"
 }
