@@ -4336,9 +4336,15 @@
           "name": "Regata ajuste lateral marrom AG P",
           "price": 198,
           "qty": 1
+        },
+        "7908931963377": {
+          "code": "7908931963377",
+          "name": "Camiseta icon azul live P",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 13147.399999999992,
+      "total": 13347.299999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8843,5 +8849,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T20:25:50.441Z"
+  "savedAt": "2026-07-14T20:26:12.129Z"
 }
