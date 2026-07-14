@@ -3624,6 +3624,11 @@
       "code": "7890171636268",
       "name": "Regata elástico personalizado preto AG M",
       "price": 189
+    },
+    "7908990983217": {
+      "code": "7908990983217",
+      "name": "Camiseta harmony laranja live M",
+      "price": 219.9
     }
   },
   "clients": {
@@ -8951,5 +8956,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T21:57:40.293Z"
+  "savedAt": "2026-07-14T21:58:05.237Z"
 }
