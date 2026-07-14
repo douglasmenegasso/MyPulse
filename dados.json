@@ -4204,9 +4204,15 @@
           "name": "Top curve allure fúcsia live P",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072457095": {
+          "code": "7901072457095",
+          "name": "Top curve fúcsia live live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 6487.899999999999,
+      "total": 6707.799999999998,
       "status": "open"
     },
     "41995150547": {
@@ -8625,5 +8631,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:26:25.136Z"
+  "savedAt": "2026-07-14T18:26:39.606Z"
 }
