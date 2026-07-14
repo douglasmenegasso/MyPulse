@@ -5484,9 +5484,15 @@
           "name": "Camiseta icon preta live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908754514282": {
+          "code": "7908754514282",
+          "name": "Legging icon preta live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 1918.5,
+      "total": 2238.4,
       "status": "open"
     }
   },
@@ -8347,5 +8353,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:18:01.268Z"
+  "savedAt": "2026-07-14T17:18:07.272Z"
 }
