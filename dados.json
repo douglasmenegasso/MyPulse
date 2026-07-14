@@ -5507,9 +5507,15 @@
           "name": "Legging preto live live M",
           "price": 329.9,
           "qty": 1
+        },
+        "7908835808095": {
+          "code": "7908835808095",
+          "name": "Top cut out preto live M",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 2818.2000000000003,
+      "total": 3098.1000000000004,
       "status": "open"
     }
   },
@@ -8370,5 +8376,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:19:18.916Z"
+  "savedAt": "2026-07-14T17:19:24.674Z"
 }
