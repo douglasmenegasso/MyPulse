@@ -4285,9 +4285,15 @@
           "name": "Shorts azul petróleo live live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7908931913907": {
+          "code": "7908931913907",
+          "name": "Top curve allure azul petróleo live P",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 9851.399999999996,
+      "total": 10051.299999999996,
       "status": "open"
     },
     "41995150547": {
@@ -8706,5 +8712,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:30:28.119Z"
+  "savedAt": "2026-07-14T18:30:37.389Z"
 }
