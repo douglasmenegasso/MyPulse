@@ -4660,21 +4660,8 @@
     },
     "c_1779382988768": {
       "clientId": "c_1779382988768",
-      "items": {
-        "7908835895620": {
-          "code": "7908835895620",
-          "name": "Top curve azul petróleo live live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7901072413978": {
-          "code": "7901072413978",
-          "name": "Top neopren verde oliva claro live M",
-          "price": 299.9,
-          "qty": 1
-        }
-      },
-      "total": 519.7999999999972,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8464,6 +8451,20 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-14T17:55:53.454Z"
+      },
+      "7908835895620": {
+        "code": "7908835895620",
+        "name": "Top curve azul petróleo live live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:54.379Z"
+      },
+      "7901072413978": {
+        "code": "7901072413978",
+        "name": "Top neopren verde oliva claro live M",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:55.040Z"
       }
     }
   },
@@ -8472,5 +8473,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:55:53.455Z"
+  "savedAt": "2026-07-14T17:55:57.756Z"
 }
