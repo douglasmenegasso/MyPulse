@@ -4297,9 +4297,15 @@
           "name": "Top curve branco live P",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072405621": {
+          "code": "7901072405621",
+          "name": "Jaqueta harmony branco live M",
+          "price": 379.9,
+          "qty": 1
         }
       },
-      "total": 10241.199999999995,
+      "total": 10621.099999999995,
       "status": "open"
     },
     "41995150547": {
@@ -8718,5 +8724,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:31:09.273Z"
+  "savedAt": "2026-07-14T18:31:22.437Z"
 }
