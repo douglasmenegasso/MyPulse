@@ -3519,6 +3519,11 @@
       "code": "7908678747919",
       "name": "Regata icon preta live M",
       "price": 189.9
+    },
+    "7908931902826": {
+      "code": "7908931902826",
+      "name": "Legging preto live live M",
+      "price": 329.9
     }
   },
   "clients": {
@@ -8359,5 +8364,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:19:01.438Z"
+  "savedAt": "2026-07-14T17:19:14.886Z"
 }
