@@ -4145,9 +4145,15 @@
           "name": "Top elástico roxo malva AG P",
           "price": 219,
           "qty": 1
+        },
+        "7901128619095": {
+          "code": "7901128619095",
+          "name": "Jaqueta marrom live symbol P",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 3132.5,
+      "total": 3632.4,
       "status": "open"
     },
     "41995150547": {
@@ -8566,5 +8572,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:11:54.311Z"
+  "savedAt": "2026-07-14T18:12:08.292Z"
 }
