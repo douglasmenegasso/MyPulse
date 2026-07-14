@@ -4522,12 +4522,6 @@
           "price": 198,
           "qty": 1
         },
-        "7900292699216": {
-          "code": "7900292699216",
-          "name": "Tênis caramelo com carimbo Lp 34",
-          "price": 497,
-          "qty": 1
-        },
         "7901072485661": {
           "code": "7901072485661",
           "name": "Legging fúcsia live live g",
@@ -4601,7 +4595,7 @@
           "qty": 1
         }
       },
-      "total": 5736.300000000001,
+      "total": 5239.300000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8705,6 +8699,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-14T19:40:44.511Z"
+      },
+      "7900292699216": {
+        "code": "7900292699216",
+        "name": "Tênis caramelo com carimbo Lp 34",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:40:52.288Z"
       }
     },
     "c_1783711001466": {
@@ -8813,5 +8814,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:40:44.512Z"
+  "savedAt": "2026-07-14T19:40:52.289Z"
 }
