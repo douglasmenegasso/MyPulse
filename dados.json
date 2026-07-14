@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7909746618438": {
-          "code": "7909746618438",
-          "name": "Jaqueta cherry vinho DT P",
-          "price": 699,
-          "qty": 1
-        },
         "7901072483056": {
           "code": "7901072483056",
           "name": "Legging icon rosa ametista live M",
@@ -4770,7 +4764,7 @@
           "qty": 1
         }
       },
-      "total": 5844.599999999997,
+      "total": 5145.599999999997,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8448,6 +8442,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-14T17:54:57.592Z"
+      },
+      "7909746618438": {
+        "code": "7909746618438",
+        "name": "Jaqueta cherry vinho DT P",
+        "price": 699,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:01.993Z"
       }
     }
   },
@@ -8456,5 +8457,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:54:57.593Z"
+  "savedAt": "2026-07-14T17:55:01.994Z"
 }
