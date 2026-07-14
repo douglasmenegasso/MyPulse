@@ -4588,12 +4588,6 @@
           "price": 493,
           "qty": 1
         },
-        "7900292893911": {
-          "code": "7900292893911",
-          "name": "Vestido canelado preto logo couro LP g",
-          "price": 333,
-          "qty": 1
-        },
         "7909746618056": {
           "code": "7909746618056",
           "name": "Calça com bolso roxo DT M",
@@ -4613,7 +4607,7 @@
           "qty": 1
         }
       },
-      "total": 6259.200000000001,
+      "total": 5926.200000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8703,6 +8697,13 @@
         "price": 239,
         "qty": 1,
         "lastAt": "2026-07-14T19:40:16.828Z"
+      },
+      "7900292893911": {
+        "code": "7900292893911",
+        "name": "Vestido canelado preto logo couro LP g",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:40:39.510Z"
       }
     },
     "c_1783711001466": {
@@ -8811,5 +8812,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:40:25.638Z"
+  "savedAt": "2026-07-14T19:40:39.511Z"
 }
