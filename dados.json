@@ -5535,9 +5535,15 @@
           "name": "Top máxi preto live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7908990996460": {
+          "code": "7908990996460",
+          "name": "Top neopren nadador preto live M",
+          "price": 299.9,
+          "qty": 1
         }
       },
-      "total": 3527.9000000000005,
+      "total": 3827.8000000000006,
       "status": "open"
     }
   },
@@ -8398,5 +8404,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:20:56.332Z"
+  "savedAt": "2026-07-14T17:20:59.505Z"
 }
