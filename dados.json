@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7860171652923": {
-          "code": "7860171652923",
-          "name": "Legging eterna shine marrom AG P",
-          "price": 298,
-          "qty": 1
-        },
         "7901072487573": {
           "code": "7901072487573",
           "name": "Regata cropped com bojo branco live M",
@@ -4788,7 +4782,7 @@
           "qty": 1
         }
       },
-      "total": 6560.499999999996,
+      "total": 6262.499999999996,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8445,6 +8439,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-14T17:54:42.805Z"
+      },
+      "7860171652923": {
+        "code": "7860171652923",
+        "name": "Legging eterna shine marrom AG P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:54:44.950Z"
       }
     }
   },
@@ -8453,5 +8454,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:54:42.807Z"
+  "savedAt": "2026-07-14T17:54:46.572Z"
 }
