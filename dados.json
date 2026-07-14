@@ -4976,12 +4976,6 @@
           "price": 297,
           "qty": 1
         },
-        "7900415216986": {
-          "code": "7900415216986",
-          "name": "Regata de alças canelada off Lp m",
-          "price": 263,
-          "qty": 1
-        },
         "7909746638184": {
           "code": "7909746638184",
           "name": "Vestido riviera off com preto DT P",
@@ -5037,7 +5031,7 @@
           "qty": 1
         }
       },
-      "total": 6513.799999999999,
+      "total": 6250.799999999999,
       "status": "open"
     },
     "c1779297896722": {
@@ -8794,6 +8788,13 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-14T19:37:28.414Z"
+      },
+      "7900415216986": {
+        "code": "7900415216986",
+        "name": "Regata de alças canelada off Lp m",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:37:37.142Z"
       }
     }
   },
@@ -8802,5 +8803,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:37:28.415Z"
+  "savedAt": "2026-07-14T19:37:37.143Z"
 }
