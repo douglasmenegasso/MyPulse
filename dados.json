@@ -4964,12 +4964,6 @@
           "price": 443,
           "qty": 1
         },
-        "7900415153892": {
-          "code": "7900415153892",
-          "name": "Shorts saia marrom LP M",
-          "price": 443,
-          "qty": 1
-        },
         "7900415112059": {
           "code": "7900415112059",
           "name": "Regata canelada amarela Lp M",
@@ -5061,7 +5055,7 @@
           "qty": 1
         }
       },
-      "total": 7978.699999999999,
+      "total": 7535.699999999999,
       "status": "open"
     },
     "c1779297896722": {
@@ -8790,6 +8784,13 @@
         "price": 289,
         "qty": 1,
         "lastAt": "2026-07-14T19:33:44.870Z"
+      },
+      "7900415153892": {
+        "code": "7900415153892",
+        "name": "Shorts saia marrom LP M",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:36:25.369Z"
       }
     }
   },
@@ -8798,5 +8799,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:35:55.026Z"
+  "savedAt": "2026-07-14T19:36:25.370Z"
 }
