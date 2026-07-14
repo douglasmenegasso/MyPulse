@@ -3539,6 +3539,11 @@
       "code": "7908931976711",
       "name": "Legging grafeno preto live P",
       "price": 399.9
+    },
+    "1778001000203": {
+      "code": "1778001000203",
+      "name": "Legging marcelle preto CCM P",
+      "price": 249
     }
   },
   "clients": {
@@ -8421,5 +8426,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:23:50.519Z"
+  "savedAt": "2026-07-14T17:23:57.065Z"
 }
