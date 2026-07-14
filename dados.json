@@ -4216,9 +4216,15 @@
           "name": "Macaquinho allure fúcsia live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7890171663479": {
+          "code": "7890171663479",
+          "name": "Legging elástico lilás AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 7067.699999999998,
+      "total": 7436.699999999998,
       "status": "open"
     },
     "41995150547": {
@@ -8637,5 +8643,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:27:18.993Z"
+  "savedAt": "2026-07-14T18:27:35.990Z"
 }
