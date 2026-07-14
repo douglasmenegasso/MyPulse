@@ -4964,12 +4964,6 @@
           "price": 443,
           "qty": 1
         },
-        "7909746638184": {
-          "code": "7909746638184",
-          "name": "Vestido riviera off com preto DT P",
-          "price": 979,
-          "qty": 1
-        },
         "7900415268589": {
           "code": "7900415268589",
           "name": "Shorts sarja bege Lp 38",
@@ -5013,7 +5007,7 @@
           "qty": 1
         }
       },
-      "total": 5433.799999999999,
+      "total": 4454.799999999999,
       "status": "open"
     },
     "c1779297896722": {
@@ -8798,6 +8792,13 @@
         "price": 297,
         "qty": 1,
         "lastAt": "2026-07-14T19:38:10.047Z"
+      },
+      "7909746638184": {
+        "code": "7909746638184",
+        "name": "Vestido riviera off com preto DT P",
+        "price": 979,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:38:27.049Z"
       }
     }
   },
@@ -8806,5 +8807,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:38:10.048Z"
+  "savedAt": "2026-07-14T19:38:27.050Z"
 }
