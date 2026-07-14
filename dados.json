@@ -5541,9 +5541,15 @@
           "name": "Top neopren nadador preto live M",
           "price": 299.9,
           "qty": 1
+        },
+        "7908754515623": {
+          "code": "7908754515623",
+          "name": "Legging allure preto live P",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 3827.8000000000006,
+      "total": 4147.700000000001,
       "status": "open"
     }
   },
@@ -8404,5 +8410,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:20:59.505Z"
+  "savedAt": "2026-07-14T17:21:24.191Z"
 }
