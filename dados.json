@@ -3589,6 +3589,11 @@
       "code": "7890171645659",
       "name": "Legging canelada brilhosa marrom AG P",
       "price": 319
+    },
+    "7901072470827": {
+      "code": "7901072470827",
+      "name": "Shorts fúcsia live live M",
+      "price": 249.9
     }
   },
   "clients": {
@@ -8820,5 +8825,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T20:25:02.617Z"
+  "savedAt": "2026-07-14T20:25:16.922Z"
 }
