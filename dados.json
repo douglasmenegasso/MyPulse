@@ -4534,12 +4534,6 @@
           "price": 497,
           "qty": 1
         },
-        "7890171652596": {
-          "code": "7890171652596",
-          "name": "Top shine alças finas marrom AG g",
-          "price": 198,
-          "qty": 1
-        },
         "7901072446556": {
           "code": "7901072446556",
           "name": "Regata icon rosa amtetista live M",
@@ -4631,7 +4625,7 @@
           "qty": 1
         }
       },
-      "total": 7285.200000000001,
+      "total": 7087.200000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8700,6 +8694,13 @@
         "price": 689,
         "qty": 1,
         "lastAt": "2026-07-14T19:32:38.916Z"
+      },
+      "7890171652596": {
+        "code": "7890171652596",
+        "name": "Top shine alças finas marrom AG g",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:40:11.839Z"
       }
     },
     "c_1783711001466": {
@@ -8808,5 +8809,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:39:47.398Z"
+  "savedAt": "2026-07-14T19:40:11.841Z"
 }
