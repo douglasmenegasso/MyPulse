@@ -4661,24 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7901072405621": {
-          "code": "7901072405621",
-          "name": "Jaqueta harmony branco live M",
-          "price": 379.9,
-          "qty": 1
-        },
-        "7908990904847": {
-          "code": "7908990904847",
-          "name": "Legging azul petróleo live live M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7908990904335": {
-          "code": "7908990904335",
-          "name": "Shorts azul petróleo live live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908835895620": {
           "code": "7908835895620",
           "name": "Top curve azul petróleo live live M",
@@ -4692,7 +4674,7 @@
           "qty": 1
         }
       },
-      "total": 1479.4999999999973,
+      "total": 519.7999999999972,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8461,6 +8443,27 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-14T17:55:49.756Z"
+      },
+      "7901072405621": {
+        "code": "7901072405621",
+        "name": "Jaqueta harmony branco live M",
+        "price": 379.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:50.944Z"
+      },
+      "7908990904847": {
+        "code": "7908990904847",
+        "name": "Legging azul petróleo live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:51.977Z"
+      },
+      "7908990904335": {
+        "code": "7908990904335",
+        "name": "Shorts azul petróleo live live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:53.454Z"
       }
     }
   },
@@ -8469,5 +8472,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:55:49.757Z"
+  "savedAt": "2026-07-14T17:55:53.455Z"
 }
