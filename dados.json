@@ -4181,9 +4181,15 @@
           "name": "Legging assimétrica preto com off AG M",
           "price": 449,
           "qty": 1
+        },
+        "7901072449113": {
+          "code": "7901072449113",
+          "name": "Jaqueta harmony fúcsia live M",
+          "price": 379.9,
+          "qty": 1
         }
       },
-      "total": 5578.2,
+      "total": 5958.099999999999,
       "status": "open"
     },
     "41995150547": {
@@ -8602,5 +8608,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:24:55.887Z"
+  "savedAt": "2026-07-14T18:25:16.027Z"
 }
