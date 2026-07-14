@@ -4071,9 +4071,15 @@
           "name": "Regata soft Green verde oliva claro live M",
           "price": 179.9,
           "qty": 1
+        },
+        "7901072487573": {
+          "code": "7901072487573",
+          "name": "Regata cropped com bojo branco live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 699.6999999999999,
+      "total": 919.5999999999999,
       "status": "open"
     },
     "41995150547": {
@@ -8492,5 +8498,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:07:54.348Z"
+  "savedAt": "2026-07-14T18:08:15.861Z"
 }
