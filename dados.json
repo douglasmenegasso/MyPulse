@@ -3509,6 +3509,11 @@
       "code": "01603835914",
       "name": "Camiseta vita marrom movimento P",
       "price": 199.9
+    },
+    "7908931968341": {
+      "code": "7908931968341",
+      "name": "Camiseta V equilíbrio preto live M",
+      "price": 259.9
     }
   },
   "clients": {
@@ -8319,5 +8324,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:11:01.449Z"
+  "savedAt": "2026-07-14T17:12:08.168Z"
 }
