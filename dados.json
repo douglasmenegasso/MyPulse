@@ -4601,12 +4601,6 @@
           "price": 263,
           "qty": 1
         },
-        "7909746620592": {
-          "code": "7909746620592",
-          "name": "Calça cargo marrom DT P",
-          "price": 689,
-          "qty": 1
-        },
         "7909746482176": {
           "code": "7909746482176",
           "name": "Regata canelada off DT g",
@@ -4650,7 +4644,7 @@
           "qty": 1
         }
       },
-      "total": 7974.200000000001,
+      "total": 7285.200000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8782,6 +8776,13 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-14T19:32:01.341Z"
+      },
+      "7909746620592": {
+        "code": "7909746620592",
+        "name": "Calça cargo marrom DT P",
+        "price": 689,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:32:38.916Z"
       }
     }
   },
@@ -8790,5 +8791,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:32:01.342Z"
+  "savedAt": "2026-07-14T19:32:38.917Z"
 }
