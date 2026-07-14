@@ -4667,12 +4667,6 @@
           "price": 298,
           "qty": 1
         },
-        "7890171652619": {
-          "code": "7890171652619",
-          "name": "Top shine brilhoso marrom AG M",
-          "price": 198,
-          "qty": 1
-        },
         "7901072487573": {
           "code": "7901072487573",
           "name": "Regata cropped com bojo branco live M",
@@ -4794,7 +4788,7 @@
           "qty": 1
         }
       },
-      "total": 6758.499999999996,
+      "total": 6560.499999999996,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8444,6 +8438,13 @@
         "price": 209,
         "qty": 1,
         "lastAt": "2026-07-14T17:54:28.624Z"
+      },
+      "7890171652619": {
+        "code": "7890171652619",
+        "name": "Top shine brilhoso marrom AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:54:42.805Z"
       }
     }
   },
@@ -8452,5 +8453,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:54:31.684Z"
+  "savedAt": "2026-07-14T17:54:42.807Z"
 }
