@@ -3629,6 +3629,11 @@
       "code": "7908990983217",
       "name": "Camiseta harmony laranja live M",
       "price": 219.9
+    },
+    "7890171275870": {
+      "code": "7890171275870",
+      "name": "Regata faz colorida AG M",
+      "price": 198
     }
   },
   "clients": {
@@ -8956,5 +8961,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T21:58:05.237Z"
+  "savedAt": "2026-07-14T21:58:31.186Z"
 }
