@@ -4661,12 +4661,6 @@
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {
-        "7901072465014": {
-          "code": "7901072465014",
-          "name": "Macaquinho allure fúcsia live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7901072449113": {
           "code": "7901072449113",
           "name": "Jaqueta harmony fúcsia live M",
@@ -4716,7 +4710,7 @@
           "qty": 1
         }
       },
-      "total": 2769.0999999999976,
+      "total": 2409.1999999999975,
       "status": "open"
     },
     "c_1783623370358": {
@@ -8457,6 +8451,13 @@
         "price": 179.9,
         "qty": 1,
         "lastAt": "2026-07-14T17:55:31.927Z"
+      },
+      "7901072465014": {
+        "code": "7901072465014",
+        "name": "Macaquinho allure fúcsia live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T17:55:39.260Z"
       }
     }
   },
@@ -8465,5 +8466,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:55:34.317Z"
+  "savedAt": "2026-07-14T17:55:39.261Z"
 }
