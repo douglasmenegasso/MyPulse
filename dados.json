@@ -4163,9 +4163,15 @@
           "name": "Shorts tex marrom live M",
           "price": 239.9,
           "qty": 1
+        },
+        "7890171634677": {
+          "code": "7890171634677",
+          "name": "Regata costas elástico cinza AG P",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 4232.2,
+      "total": 4430.2,
       "status": "open"
     },
     "41995150547": {
@@ -8584,5 +8590,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:21:54.775Z"
+  "savedAt": "2026-07-14T18:21:58.971Z"
 }
