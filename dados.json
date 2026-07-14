@@ -4059,9 +4059,15 @@
           "name": "Shorts neopren verde oliva claro live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7901072413978": {
+          "code": "7901072413978",
+          "name": "Top neopren verde oliva claro live M",
+          "price": 299.9,
+          "qty": 1
         }
       },
-      "total": 219.9,
+      "total": 519.8,
       "status": "open"
     },
     "41995150547": {
@@ -8480,5 +8486,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:07:23.201Z"
+  "savedAt": "2026-07-14T18:07:35.636Z"
 }
