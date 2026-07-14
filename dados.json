@@ -4318,9 +4318,15 @@
           "name": "Macacão allure adaptiv marrom live M",
           "price": 449.9,
           "qty": 1
+        },
+        "7901072470827": {
+          "code": "7901072470827",
+          "name": "Shorts fúcsia live live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 12499.599999999995,
+      "total": 12749.499999999993,
       "status": "open"
     },
     "41995150547": {
@@ -8825,5 +8831,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T20:25:16.922Z"
+  "savedAt": "2026-07-14T20:25:20.694Z"
 }
