@@ -3554,6 +3554,11 @@
       "code": "7890171656068",
       "name": "Regata de tule preto AG P",
       "price": 219
+    },
+    "7890171662304": {
+      "code": "7890171662304",
+      "name": "Bermuda elástico roxo malva AG P",
+      "price": 259
     }
   },
   "clients": {
@@ -8544,5 +8549,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:10:51.271Z"
+  "savedAt": "2026-07-14T18:11:09.494Z"
 }
