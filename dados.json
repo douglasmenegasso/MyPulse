@@ -4970,12 +4970,6 @@
           "price": 297,
           "qty": 1
         },
-        "7900415122454": {
-          "code": "7900415122454",
-          "name": "Regata canelada verde Lp P",
-          "price": 297,
-          "qty": 1
-        },
         "7909746638184": {
           "code": "7909746638184",
           "name": "Vestido riviera off com preto DT P",
@@ -5025,7 +5019,7 @@
           "qty": 1
         }
       },
-      "total": 6027.799999999999,
+      "total": 5730.799999999999,
       "status": "open"
     },
     "c1779297896722": {
@@ -8796,6 +8790,13 @@
         "price": 223,
         "qty": 1,
         "lastAt": "2026-07-14T19:37:51.431Z"
+      },
+      "7900415122454": {
+        "code": "7900415122454",
+        "name": "Regata canelada verde Lp P",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:38:00.047Z"
       }
     }
   },
@@ -8804,5 +8805,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:37:55.931Z"
+  "savedAt": "2026-07-14T19:38:00.048Z"
 }
