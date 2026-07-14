@@ -4564,12 +4564,6 @@
           "price": 263,
           "qty": 1
         },
-        "7909746482176": {
-          "code": "7909746482176",
-          "name": "Regata canelada off DT g",
-          "price": 229,
-          "qty": 1
-        },
         "7900292887552": {
           "code": "7900292887552",
           "name": "Vestido longo azul com zíper Lp M",
@@ -4595,7 +4589,7 @@
           "qty": 1
         }
       },
-      "total": 5239.300000000001,
+      "total": 5010.300000000001,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8706,6 +8700,13 @@
         "price": 497,
         "qty": 1,
         "lastAt": "2026-07-14T19:40:52.288Z"
+      },
+      "7909746482176": {
+        "code": "7909746482176",
+        "name": "Regata canelada off DT g",
+        "price": 229,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:40:58.129Z"
       }
     },
     "c_1783711001466": {
@@ -8814,5 +8815,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:40:56.650Z"
+  "savedAt": "2026-07-14T19:41:00.815Z"
 }
