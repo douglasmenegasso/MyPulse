@@ -4344,27 +4344,8 @@
     },
     "41988948469": {
       "clientId": "41988948469",
-      "items": {
-        "7901128619088": {
-          "code": "7901128619088",
-          "name": "Nayara marrom live symbol M",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7901128603193": {
-          "code": "7901128603193",
-          "name": "Legging marrom live symbol M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901072469722": {
-          "code": "7901072469722",
-          "name": "Jaqueta bomber marrom live M",
-          "price": 549.9,
-          "qty": 1
-        }
-      },
-      "total": 1379.6999999999998,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1783444825678": {
@@ -8771,6 +8752,29 @@
         "qty": 1,
         "lastAt": "2026-07-14T19:12:04.436Z"
       }
+    },
+    "41988948469": {
+      "7901072469722": {
+        "code": "7901072469722",
+        "name": "Jaqueta bomber marrom live M",
+        "price": 549.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:14:37.528Z"
+      },
+      "7901128603193": {
+        "code": "7901128603193",
+        "name": "Legging marrom live symbol M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:14:38.137Z"
+      },
+      "7901128619088": {
+        "code": "7901128619088",
+        "name": "Nayara marrom live symbol M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:14:38.976Z"
+      }
     }
   },
   "security": {
@@ -8778,5 +8782,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:14:36.457Z"
+  "savedAt": "2026-07-14T19:14:40.539Z"
 }
