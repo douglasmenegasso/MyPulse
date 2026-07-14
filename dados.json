@@ -4541,12 +4541,6 @@
           "price": 198,
           "qty": 1
         },
-        "7770274568164": {
-          "code": "7770274568164",
-          "name": "Necessite rosa Rowa",
-          "price": 129.9,
-          "qty": 1
-        },
         "7900292699216": {
           "code": "7900292699216",
           "name": "Tênis caramelo com carimbo Lp 34",
@@ -4674,7 +4668,7 @@
           "qty": 1
         }
       },
-      "total": 9301.9,
+      "total": 9172,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8777,6 +8771,15 @@
         "qty": 1,
         "lastAt": "2026-07-14T19:14:38.976Z"
       }
+    },
+    "c_1783543770765": {
+      "7770274568164": {
+        "code": "7770274568164",
+        "name": "Necessite rosa Rowa",
+        "price": 129.9,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:31:30.837Z"
+      }
     }
   },
   "security": {
@@ -8784,5 +8787,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:31:11.236Z"
+  "savedAt": "2026-07-14T19:31:30.838Z"
 }
