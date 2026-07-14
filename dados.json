@@ -4291,9 +4291,15 @@
           "name": "Top curve allure azul petróleo live P",
           "price": 199.9,
           "qty": 1
+        },
+        "7908011244761": {
+          "code": "7908011244761",
+          "name": "Top curve branco live P",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 10051.299999999996,
+      "total": 10241.199999999995,
       "status": "open"
     },
     "41995150547": {
@@ -8712,5 +8718,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:30:58.010Z"
+  "savedAt": "2026-07-14T18:31:09.273Z"
 }
