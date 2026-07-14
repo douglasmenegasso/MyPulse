@@ -4261,9 +4261,15 @@
           "name": "Top nadador oliva vivame P",
           "price": 259,
           "qty": 1
+        },
+        "7908990920267": {
+          "code": "7908990920267",
+          "name": "Regata pima  marrom live P",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 8532.699999999997,
+      "total": 8782.599999999997,
       "status": "open"
     },
     "41995150547": {
@@ -8682,5 +8688,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:29:44.814Z"
+  "savedAt": "2026-07-14T18:29:51.925Z"
 }
