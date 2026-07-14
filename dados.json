@@ -3796,6 +3796,11 @@
       "id": "c_1783711001466",
       "name": "Sabrina",
       "phone": ""
+    },
+    "c_1784049002709": {
+      "id": "c_1784049002709",
+      "name": "Ro Personal",
+      "phone": ""
     }
   },
   "orders": {
@@ -8289,5 +8294,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T17:09:46.146Z"
+  "savedAt": "2026-07-14T17:10:02.710Z"
 }
