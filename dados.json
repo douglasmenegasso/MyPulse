@@ -4547,12 +4547,6 @@
           "price": 497,
           "qty": 1
         },
-        "7890171652916": {
-          "code": "7890171652916",
-          "name": "Legging shine marrom AG M",
-          "price": 298,
-          "qty": 1
-        },
         "7890171652596": {
           "code": "7890171652596",
           "name": "Top shine alças finas marrom AG g",
@@ -4662,7 +4656,7 @@
           "qty": 1
         }
       },
-      "total": 8772.1,
+      "total": 8474.1,
       "status": "open"
     },
     "c_1783546982144": {
@@ -8780,6 +8774,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-14T19:31:40.541Z"
+      },
+      "7890171652916": {
+        "code": "7890171652916",
+        "name": "Legging shine marrom AG M",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-14T19:31:50.418Z"
       }
     }
   },
@@ -8788,5 +8789,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T19:31:40.543Z"
+  "savedAt": "2026-07-14T19:31:50.419Z"
 }
