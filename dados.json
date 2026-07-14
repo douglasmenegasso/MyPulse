@@ -4077,9 +4077,15 @@
           "name": "Regata cropped com bojo branco live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7909746618933": {
+          "code": "7909746618933",
+          "name": "Legging curve uva listra branca DT P",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 919.5999999999999,
+      "total": 1338.6,
       "status": "open"
     },
     "41995150547": {
@@ -8498,5 +8504,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-14T18:08:15.861Z"
+  "savedAt": "2026-07-14T18:08:33.131Z"
 }
