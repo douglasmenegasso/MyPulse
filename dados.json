@@ -5788,9 +5788,15 @@
           "name": "Top tex marrom live g",
           "price": 279.9,
           "qty": 1
+        },
+        "7901072438629": {
+          "code": "7901072438629",
+          "name": "Camiseta cropped preto live g",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 5581.299999999998,
+      "total": 5761.199999999998,
       "status": "open"
     }
   },
@@ -9204,5 +9210,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:10:46.891Z"
+  "savedAt": "2026-07-15T18:10:51.762Z"
 }
