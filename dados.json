@@ -5634,9 +5634,15 @@
           "name": "Camiseta icon bege live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908931962608": {
+          "code": "7908931962608",
+          "name": "Camiseta icon violeta live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 989.5,
+      "total": 1189.4,
       "status": "open"
     }
   },
@@ -9050,5 +9056,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:06:52.551Z"
+  "savedAt": "2026-07-15T17:07:10.673Z"
 }
