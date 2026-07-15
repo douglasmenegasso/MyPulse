@@ -4628,12 +4628,6 @@
           "price": 259,
           "qty": 1
         },
-        "7890171653142": {
-          "code": "7890171653142",
-          "name": "Top elástico lilás AG g",
-          "price": 219,
-          "qty": 1
-        },
         "7901072426138": {
           "code": "7901072426138",
           "name": "Jaqueta camuflada verde live P",
@@ -4683,7 +4677,7 @@
           "qty": 1
         }
       },
-      "total": 6812.200000000001,
+      "total": 6593.200000000001,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7794,6 +7788,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-15T19:41:32.414Z"
+      },
+      "7890171653142": {
+        "code": "7890171653142",
+        "name": "Top elástico lilás AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:41:37.247Z"
       }
     },
     "c_1783541517615": {
@@ -9481,5 +9482,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:41:32.416Z"
+  "savedAt": "2026-07-15T19:41:37.248Z"
 }
