@@ -4386,9 +4386,15 @@
           "name": "Top curve azul claro live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7909746630973": {
+          "code": "7909746630973",
+          "name": "Camiseta off escrita marrom DT P",
+          "price": 339,
+          "qty": 1
         }
       },
-      "total": 4689.9,
+      "total": 5028.9,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9650,5 +9656,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:45:30.449Z"
+  "savedAt": "2026-07-15T21:45:41.043Z"
 }
