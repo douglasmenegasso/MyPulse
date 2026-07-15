@@ -3754,6 +3754,11 @@
       "code": "7890171645512",
       "name": "T-shirt com tule roxo malva AG P",
       "price": 239
+    },
+    "7901072402019": {
+      "code": "7901072402019",
+      "name": "Regata pima branca live P",
+      "price": 249.9
     }
   },
   "clients": {
@@ -9668,5 +9673,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:46:33.590Z"
+  "savedAt": "2026-07-15T21:47:02.864Z"
 }
