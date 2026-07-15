@@ -4932,12 +4932,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "2946746620042": {
-          "code": "2946746620042",
-          "name": "Top sprint marrom DT M",
-          "price": 299,
-          "qty": 1
-        },
         "7909746620097": {
           "code": "7909746620097",
           "name": "Legging sprint marrom DT P",
@@ -4975,7 +4969,7 @@
           "qty": 1
         }
       },
-      "total": 2760.800000000002,
+      "total": 2461.800000000002,
       "status": "open"
     },
     "41991536747": {
@@ -9355,6 +9349,13 @@
         "price": 239,
         "qty": 1,
         "lastAt": "2026-07-15T19:33:03.785Z"
+      },
+      "2946746620042": {
+        "code": "2946746620042",
+        "name": "Top sprint marrom DT M",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:33:05.779Z"
       }
     },
     "c_1784140554975": {
@@ -9458,5 +9459,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:33:03.786Z"
+  "savedAt": "2026-07-15T19:33:08.788Z"
 }
