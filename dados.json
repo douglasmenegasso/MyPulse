@@ -4914,12 +4914,6 @@
     "c1779297896722": {
       "clientId": "c1779297896722",
       "items": {
-        "7901072405447": {
-          "code": "7901072405447",
-          "name": "Macaquinho allure bege live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7890171645697": {
           "code": "7890171645697",
           "name": "Legging marrom elástico azul AG P",
@@ -5149,7 +5143,7 @@
           "qty": 1
         }
       },
-      "total": 11314.299999999994,
+      "total": 10954.399999999994,
       "status": "open"
     },
     "41991536747": {
@@ -9326,6 +9320,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-15T19:30:10.163Z"
+      },
+      "7901072405447": {
+        "code": "7901072405447",
+        "name": "Macaquinho allure bege live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:30:19.500Z"
       }
     },
     "c_1784140554975": {
@@ -9429,5 +9430,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:30:17.541Z"
+  "savedAt": "2026-07-15T19:30:22.196Z"
 }
