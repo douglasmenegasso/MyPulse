@@ -3654,6 +3654,11 @@
       "code": "7901072462235",
       "name": "Camiseta icon rosa live M",
       "price": 199.9
+    },
+    "7901072413466": {
+      "code": "7901072413466",
+      "name": "Legging hydefit marrom live M",
+      "price": 199.9
     }
   },
   "clients": {
@@ -5586,6 +5591,12 @@
       },
       "total": 4886.3,
       "status": "waiting"
+    },
+    "c_1784135024747": {
+      "clientId": "c_1784135024747",
+      "items": {},
+      "total": 0,
+      "status": "open"
     }
   },
   "closed": [
@@ -8998,5 +9009,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:03:44.748Z"
+  "savedAt": "2026-07-15T17:04:12.319Z"
 }
