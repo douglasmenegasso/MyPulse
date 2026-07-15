@@ -5686,9 +5686,15 @@
           "name": "Reta cropped refletivo roxo malva AG g",
           "price": 219,
           "qty": 1
+        },
+        "7908931948992": {
+          "code": "7908931948992",
+          "name": "Legging allure azul petróleo live g",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 2575.2000000000003,
+      "total": 2895.1000000000004,
       "status": "open"
     }
   },
@@ -9102,5 +9108,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:00:25.221Z"
+  "savedAt": "2026-07-15T18:01:13.458Z"
 }
