@@ -3749,6 +3749,11 @@
       "code": "7909392810088",
       "name": "Meia Sport preto lupo 33 a 36",
       "price": 19.9
+    },
+    "7890171645512": {
+      "code": "7890171645512",
+      "name": "T-shirt com tule roxo malva AG P",
+      "price": 239
     }
   },
   "clients": {
@@ -9591,5 +9596,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:40:44.871Z"
+  "savedAt": "2026-07-15T21:41:10.549Z"
 }
