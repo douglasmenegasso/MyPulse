@@ -4291,9 +4291,15 @@
           "name": "Meia cano curto roxo lupo 33 a 36",
           "price": 19.9,
           "qty": 1
+        },
+        "7909392810088": {
+          "code": "7909392810088",
+          "name": "Meia Sport preto lupo 33 a 36",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 287.7,
+      "total": 307.59999999999997,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9555,5 +9561,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:38:17.479Z"
+  "savedAt": "2026-07-15T21:38:20.335Z"
 }
