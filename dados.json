@@ -4263,9 +4263,15 @@
           "name": "Garrafa térmica rosa AG",
           "price": 198,
           "qty": 1
+        },
+        "7909392494240": {
+          "code": "7909392494240",
+          "name": "Kit 3 meias Lupo 34 a 39",
+          "price": 49.9,
+          "qty": 1
         }
       },
-      "total": 198,
+      "total": 247.9,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9527,5 +9533,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:36:35.223Z"
+  "savedAt": "2026-07-15T21:36:40.188Z"
 }
