@@ -4167,12 +4167,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7890171662304": {
-          "code": "7890171662304",
-          "name": "Bermuda elástico roxo malva AG P",
-          "price": 259,
-          "qty": 1
-        },
         "7890171662236": {
           "code": "7890171662236",
           "name": "Top elástico roxo malva AG P",
@@ -4300,7 +4294,7 @@
           "qty": 1
         }
       },
-      "total": 6839.9999999999945,
+      "total": 6580.9999999999945,
       "status": "open"
     },
     "41995150547": {
@@ -9006,6 +9000,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-15T19:21:50.289Z"
+      },
+      "7890171662304": {
+        "code": "7890171662304",
+        "name": "Bermuda elástico roxo malva AG P",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:22:03.800Z"
       }
     },
     "c_1783624643893": {
@@ -9413,5 +9414,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:21:50.291Z"
+  "savedAt": "2026-07-15T19:22:03.801Z"
 }
