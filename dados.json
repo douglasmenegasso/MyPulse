@@ -5875,6 +5875,19 @@
       },
       "total": 7165.899999999997,
       "status": "waiting"
+    },
+    "c_1784140554975": {
+      "clientId": "c_1784140554975",
+      "items": {
+        "01403545907": {
+          "code": "01403545907",
+          "name": "Calça âmago off movimento P",
+          "price": 369.9,
+          "qty": 1
+        }
+      },
+      "total": 369.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -9317,5 +9330,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:37:09.868Z"
+  "savedAt": "2026-07-15T18:37:16.157Z"
 }
