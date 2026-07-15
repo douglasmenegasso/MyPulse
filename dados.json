@@ -4350,9 +4350,15 @@
           "name": "Legging fuso tex marrom live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7901072486439": {
+          "code": "7901072486439",
+          "name": "Top tex marrom live M",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 2691.4,
+      "total": 2971.3,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9614,5 +9620,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:41:54.987Z"
+  "savedAt": "2026-07-15T21:42:02.822Z"
 }
