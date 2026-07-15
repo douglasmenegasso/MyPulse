@@ -4137,12 +4137,6 @@
     "c_1779386183182": {
       "clientId": "c_1779386183182",
       "items": {
-        "7901072413978": {
-          "code": "7901072413978",
-          "name": "Top neopren verde oliva claro live M",
-          "price": 299.9,
-          "qty": 1
-        },
         "7901072487573": {
           "code": "7901072487573",
           "name": "Regata cropped com bojo branco live M",
@@ -4330,7 +4324,7 @@
           "qty": 1
         }
       },
-      "total": 8144.899999999994,
+      "total": 7844.9999999999945,
       "status": "open"
     },
     "41995150547": {
@@ -9001,6 +8995,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:21:17.892Z"
+      },
+      "7901072413978": {
+        "code": "7901072413978",
+        "name": "Top neopren verde oliva claro live M",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:21:25.655Z"
       }
     },
     "c_1783624643893": {
@@ -9408,5 +9409,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:21:17.893Z"
+  "savedAt": "2026-07-15T19:21:25.656Z"
 }
