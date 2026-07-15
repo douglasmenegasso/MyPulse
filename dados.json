@@ -4185,12 +4185,6 @@
           "price": 239.9,
           "qty": 1
         },
-        "7890171634677": {
-          "code": "7890171634677",
-          "name": "Regata costas elástico cinza AG P",
-          "price": 198,
-          "qty": 1
-        },
         "7890171657454": {
           "code": "7890171657454",
           "name": "Legging assimétrica preto com off AG M",
@@ -4324,7 +4318,7 @@
           "qty": 1
         }
       },
-      "total": 7844.9999999999945,
+      "total": 7646.9999999999945,
       "status": "open"
     },
     "41995150547": {
@@ -9002,6 +8996,13 @@
         "price": 299.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:21:25.655Z"
+      },
+      "7890171634677": {
+        "code": "7890171634677",
+        "name": "Regata costas elástico cinza AG P",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:21:30.511Z"
       }
     },
     "c_1783624643893": {
@@ -9409,5 +9410,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:21:25.656Z"
+  "savedAt": "2026-07-15T19:21:30.512Z"
 }
