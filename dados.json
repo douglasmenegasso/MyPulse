@@ -5384,12 +5384,6 @@
           "price": 439.9,
           "qty": 1
         },
-        "01603775907": {
-          "code": "01603775907",
-          "name": "Jaqueta âmago off movimento P",
-          "price": 459.9,
-          "qty": 1
-        },
         "01403545907": {
           "code": "01403545907",
           "name": "Calça âmago off movimento P",
@@ -5493,7 +5487,7 @@
           "qty": 1
         }
       },
-      "total": 14228.699999999992,
+      "total": 13768.799999999992,
       "status": "open"
     },
     "41991536747": {
@@ -9299,6 +9293,15 @@
         "qty": 1,
         "lastAt": "2026-07-14T19:38:42.096Z"
       }
+    },
+    "c1779297896722": {
+      "01603775907": {
+        "code": "01603775907",
+        "name": "Jaqueta âmago off movimento P",
+        "price": 459.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T18:35:34.601Z"
+      }
     }
   },
   "security": {
@@ -9306,5 +9309,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:35:19.329Z"
+  "savedAt": "2026-07-15T18:35:34.603Z"
 }
