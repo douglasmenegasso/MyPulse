@@ -5646,9 +5646,15 @@
           "name": "Regata icon rosa amtetista live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7890171636268": {
+          "code": "7890171636268",
+          "name": "Regata elástico personalizado preto AG M",
+          "price": 189,
+          "qty": 1
         }
       },
-      "total": 1379.3000000000002,
+      "total": 1568.3000000000002,
       "status": "open"
     }
   },
@@ -9062,5 +9068,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:07:23.312Z"
+  "savedAt": "2026-07-15T17:07:42.897Z"
 }
