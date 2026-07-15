@@ -5474,9 +5474,15 @@
           "name": "Top elástico preto AG M",
           "price": 219,
           "qty": 1
+        },
+        "014036259100": {
+          "code": "014036259100",
+          "name": "Calça canelada preta flare movimento P",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 13720.799999999992,
+      "total": 14018.799999999992,
       "status": "open"
     },
     "41991536747": {
@@ -9289,5 +9295,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:22:01.901Z"
+  "savedAt": "2026-07-15T18:22:12.388Z"
 }
