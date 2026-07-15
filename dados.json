@@ -4932,24 +4932,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "7909746620097": {
-          "code": "7909746620097",
-          "name": "Legging sprint marrom DT P",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171652541": {
-          "code": "7890171652541",
-          "name": "Legging preta AG P",
-          "price": 269,
-          "qty": 1
-        },
-        "7890171656051": {
-          "code": "7890171656051",
-          "name": "Regata tule preto AG M",
-          "price": 219,
-          "qty": 1
-        },
         "7890171614372": {
           "code": "7890171614372",
           "name": "Top elástico preto AG M",
@@ -4969,7 +4951,7 @@
           "qty": 1
         }
       },
-      "total": 2461.800000000002,
+      "total": 1714.800000000002,
       "status": "open"
     },
     "41991536747": {
@@ -9356,6 +9338,27 @@
         "price": 299,
         "qty": 1,
         "lastAt": "2026-07-15T19:33:05.779Z"
+      },
+      "7909746620097": {
+        "code": "7909746620097",
+        "name": "Legging sprint marrom DT P",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:33:09.012Z"
+      },
+      "7890171652541": {
+        "code": "7890171652541",
+        "name": "Legging preta AG P",
+        "price": 269,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:33:11.556Z"
+      },
+      "7890171656051": {
+        "code": "7890171656051",
+        "name": "Regata tule preto AG M",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:33:13.877Z"
       }
     },
     "c_1784140554975": {
@@ -9459,5 +9462,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:33:08.788Z"
+  "savedAt": "2026-07-15T19:33:13.878Z"
 }
