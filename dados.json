@@ -5542,9 +5542,15 @@
           "name": "Jaqueta bomber marrom live P",
           "price": 549.9,
           "qty": 1
+        },
+        "7890171637807": {
+          "code": "7890171637807",
+          "name": "Jaqueta cropped preto AG M",
+          "price": 489,
+          "qty": 1
         }
       },
-      "total": 3764.2000000000007,
+      "total": 4253.200000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9266,5 +9272,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:18:16.403Z"
+  "savedAt": "2026-07-15T18:18:19.351Z"
 }
