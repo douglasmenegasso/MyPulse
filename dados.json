@@ -5848,7 +5848,7 @@
         }
       },
       "total": 7165.899999999997,
-      "status": "open"
+      "status": "waiting"
     }
   },
   "closed": [
@@ -9261,5 +9261,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:15:04.958Z"
+  "savedAt": "2026-07-15T18:15:32.260Z"
 }
