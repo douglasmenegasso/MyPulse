@@ -4112,12 +4112,6 @@
           "price": 597,
           "qty": 1
         },
-        "7900292955398": {
-          "code": "7900292955398",
-          "name": "Regata listrada marrom Lp M",
-          "price": 223,
-          "qty": 1
-        },
         "03603720243": {
           "code": "03603720243",
           "name": "Cropped lina preto movimento g",
@@ -4131,7 +4125,7 @@
           "qty": 1
         }
       },
-      "total": 4271.799999999999,
+      "total": 4048.7999999999993,
       "status": "open"
     },
     "c1779296356399": {
@@ -9379,6 +9373,13 @@
         "price": 563,
         "qty": 1,
         "lastAt": "2026-07-15T19:13:30.995Z"
+      },
+      "7900292955398": {
+        "code": "7900292955398",
+        "name": "Regata listrada marrom Lp M",
+        "price": 223,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:13:36.863Z"
       }
     }
   },
@@ -9387,5 +9388,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:13:30.996Z"
+  "savedAt": "2026-07-15T19:13:36.864Z"
 }
