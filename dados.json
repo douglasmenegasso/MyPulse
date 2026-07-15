@@ -4297,9 +4297,15 @@
           "name": "Meia Sport preto lupo 33 a 36",
           "price": 19.9,
           "qty": 1
+        },
+        "7890171663479": {
+          "code": "7890171663479",
+          "name": "Legging elástico lilás AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 307.59999999999997,
+      "total": 676.5999999999999,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9561,5 +9567,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:38:20.335Z"
+  "savedAt": "2026-07-15T21:38:28.048Z"
 }
