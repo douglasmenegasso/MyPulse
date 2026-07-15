@@ -5652,9 +5652,15 @@
           "name": "Regata elástico personalizado preto AG M",
           "price": 189,
           "qty": 1
+        },
+        "7908931913891": {
+          "code": "7908931913891",
+          "name": "Top curve allure azul petróleo live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 1568.3000000000002,
+      "total": 1768.2000000000003,
       "status": "open"
     }
   },
@@ -9068,5 +9074,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:07:52.866Z"
+  "savedAt": "2026-07-15T17:07:56.346Z"
 }
