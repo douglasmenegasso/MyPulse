@@ -3684,6 +3684,11 @@
       "code": "7908754575887",
       "name": "Regata breath azul petróleo live g",
       "price": 179.9
+    },
+    "7890171652763": {
+      "code": "7890171652763",
+      "name": "T-shirt cropped mesh preto AG g",
+      "price": 219
     }
   },
   "clients": {
@@ -9137,5 +9142,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:06:07.133Z"
+  "savedAt": "2026-07-15T18:06:16.814Z"
 }
