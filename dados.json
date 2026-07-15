@@ -4550,12 +4550,6 @@
           "price": 198,
           "qty": 1
         },
-        "7909746580049": {
-          "code": "7909746580049",
-          "name": "Legging curve verde DT M",
-          "price": 359,
-          "qty": 1
-        },
         "7909746580070": {
           "code": "7909746580070",
           "name": "Top curve verde DT M",
@@ -4725,7 +4719,7 @@
           "qty": 1
         }
       },
-      "total": 8902.2,
+      "total": 8543.2,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7787,6 +7781,13 @@
         "price": 259.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:40:04.171Z"
+      },
+      "7909746580049": {
+        "code": "7909746580049",
+        "name": "Legging curve verde DT M",
+        "price": 359,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:40:50.206Z"
       }
     },
     "c_1783541517615": {
@@ -9474,5 +9475,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:40:08.622Z"
+  "savedAt": "2026-07-15T19:40:50.207Z"
 }
