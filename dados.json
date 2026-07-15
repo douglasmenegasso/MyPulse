@@ -4648,6 +4648,12 @@
     "c_1783711001466": {
       "clientId": "c_1783711001466",
       "items": {
+        "3349": {
+          "code": "3349",
+          "name": "Jaqueta Sport marrom DT M",
+          "price": 689,
+          "qty": 1
+        },
         "7900415151010": {
           "code": "7900415151010",
           "name": "Shorts saia marrom LP P",
@@ -4679,7 +4685,7 @@
           "qty": 1
         }
       },
-      "total": 2801.999999999999,
+      "total": 3491,
       "status": "open"
     },
     "41991536747": {
@@ -9510,5 +9516,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T20:14:41.385Z"
+  "savedAt": "2026-07-15T20:14:47.317Z"
 }
