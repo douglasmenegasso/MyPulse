@@ -5663,9 +5663,15 @@
           "name": "Top curve allure azul petróleo live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7890171653449": {
+          "code": "7890171653449",
+          "name": "Legging elástico roxo malva AG g",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 1768.2000000000003,
+      "total": 2137.2000000000003,
       "status": "open"
     }
   },
@@ -9079,5 +9085,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:58:40.536Z"
+  "savedAt": "2026-07-15T17:58:45.481Z"
 }
