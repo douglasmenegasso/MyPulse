@@ -4106,12 +4106,6 @@
           "price": 443,
           "qty": 1
         },
-        "7900292959075": {
-          "code": "7900292959075",
-          "name": "Calça alfaiataria marrom Lp M",
-          "price": 597,
-          "qty": 1
-        },
         "03603720243": {
           "code": "03603720243",
           "name": "Cropped lina preto movimento g",
@@ -4125,7 +4119,7 @@
           "qty": 1
         }
       },
-      "total": 4048.7999999999993,
+      "total": 3451.7999999999993,
       "status": "open"
     },
     "c1779296356399": {
@@ -9380,6 +9374,13 @@
         "price": 223,
         "qty": 1,
         "lastAt": "2026-07-15T19:13:36.863Z"
+      },
+      "7900292959075": {
+        "code": "7900292959075",
+        "name": "Calça alfaiataria marrom Lp M",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:13:43.806Z"
       }
     }
   },
@@ -9388,5 +9389,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:13:42.443Z"
+  "savedAt": "2026-07-15T19:13:47.043Z"
 }
