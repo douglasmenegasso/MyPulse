@@ -4315,9 +4315,15 @@
           "name": "Regata cropped mesh lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "7890171662304": {
+          "code": "7890171662304",
+          "name": "Bermuda elástico roxo malva AG P",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 1114.6,
+      "total": 1373.6,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9579,5 +9585,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:39:46.587Z"
+  "savedAt": "2026-07-15T21:40:00.697Z"
 }
