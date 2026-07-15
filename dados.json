@@ -4592,12 +4592,6 @@
           "price": 209,
           "qty": 1
         },
-        "7890171655405": {
-          "code": "7890171655405",
-          "name": "T-shirt off com detalhes marrom AG M",
-          "price": 259,
-          "qty": 1
-        },
         "7908835819312": {
           "code": "7908835819312",
           "name": "Camiseta icon azul petróleo live M",
@@ -4605,7 +4599,7 @@
           "qty": 1
         }
       },
-      "total": 2989.8000000000025,
+      "total": 2730.8000000000025,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7807,6 +7801,13 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-07-15T19:43:08.679Z"
+      },
+      "7890171655405": {
+        "code": "7890171655405",
+        "name": "T-shirt off com detalhes marrom AG M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:43:17.861Z"
       }
     },
     "c_1783541517615": {
@@ -9494,5 +9495,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:43:12.588Z"
+  "savedAt": "2026-07-15T19:43:17.863Z"
 }
