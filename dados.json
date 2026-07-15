@@ -4161,12 +4161,6 @@
           "price": 219.9,
           "qty": 1
         },
-        "7909746618933": {
-          "code": "7909746618933",
-          "name": "Legging curve uva listra branca DT P",
-          "price": 419,
-          "qty": 1
-        },
         "7890171656945": {
           "code": "7890171656945",
           "name": "Bermuda elástico off com preto AG P",
@@ -4396,7 +4390,7 @@
           "qty": 1
         }
       },
-      "total": 11550.199999999992,
+      "total": 11131.199999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8990,6 +8984,13 @@
         "price": 699,
         "qty": 1,
         "lastAt": "2026-07-15T19:18:39.687Z"
+      },
+      "7909746618933": {
+        "code": "7909746618933",
+        "name": "Legging curve uva listra branca DT P",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:18:53.680Z"
       }
     },
     "c_1783624643893": {
@@ -9397,5 +9398,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:18:39.688Z"
+  "savedAt": "2026-07-15T19:18:53.681Z"
 }
