@@ -4305,12 +4305,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7890171646748": {
-          "code": "7890171646748",
-          "name": "Jaqueta com bolso verde claro AG P",
-          "price": 489,
-          "qty": 1
-        },
         "7908990904847": {
           "code": "7908990904847",
           "name": "Legging azul petróleo live live M",
@@ -4414,7 +4408,7 @@
           "qty": 1
         }
       },
-      "total": 12997.199999999992,
+      "total": 12508.199999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8987,6 +8981,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:18:09.836Z"
+      },
+      "7890171646748": {
+        "code": "7890171646748",
+        "name": "Jaqueta com bolso verde claro AG P",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:18:15.919Z"
       }
     },
     "c_1783624643893": {
@@ -9394,5 +9395,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:18:09.837Z"
+  "savedAt": "2026-07-15T19:18:15.920Z"
 }
