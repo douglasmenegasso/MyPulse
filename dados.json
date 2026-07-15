@@ -4932,18 +4932,6 @@
           "price": 229,
           "qty": 1
         },
-        "7901072413671": {
-          "code": "7901072413671",
-          "name": "Shorts neopren verde oliva claro live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7901072413978": {
-          "code": "7901072413978",
-          "name": "Top neopren verde oliva claro live M",
-          "price": 299.9,
-          "qty": 1
-        },
         "7908931961540": {
           "code": "7908931961540",
           "name": "Legging com bolso verde água live M",
@@ -5137,7 +5125,7 @@
           "qty": 1
         }
       },
-      "total": 10454.499999999995,
+      "total": 9934.699999999995,
       "status": "open"
     },
     "41991536747": {
@@ -9328,6 +9316,20 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:30:49.704Z"
+      },
+      "7901072413671": {
+        "code": "7901072413671",
+        "name": "Shorts neopren verde oliva claro live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:30:51.236Z"
+      },
+      "7901072413978": {
+        "code": "7901072413978",
+        "name": "Top neopren verde oliva claro live M",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:30:52.639Z"
       }
     },
     "c_1784140554975": {
@@ -9431,5 +9433,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:30:49.706Z"
+  "savedAt": "2026-07-15T19:30:52.640Z"
 }
