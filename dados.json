@@ -4462,9 +4462,15 @@
           "name": "Regata soft Green verde oliva claro live M",
           "price": 179.9,
           "qty": 1
+        },
+        "7890171646267": {
+          "code": "7890171646267",
+          "name": "Legging salmão com laranja AG P",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 7915.199999999997,
+      "total": 8364.199999999997,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9726,5 +9732,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:49:11.203Z"
+  "savedAt": "2026-07-15T21:49:30.044Z"
 }
