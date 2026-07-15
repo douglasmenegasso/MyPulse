@@ -4645,49 +4645,6 @@
       "total": 1629,
       "status": "waiting"
     },
-    "c_1783711001466": {
-      "clientId": "c_1783711001466",
-      "items": {
-        "3349": {
-          "code": "3349",
-          "name": "Jaqueta Sport marrom DT M",
-          "price": 689,
-          "qty": 1
-        },
-        "7900415151010": {
-          "code": "7900415151010",
-          "name": "Shorts saia marrom LP P",
-          "price": 443,
-          "qty": 1
-        },
-        "7909746620806": {
-          "code": "7909746620806",
-          "name": "Legging marrom DT P",
-          "price": 339,
-          "qty": 1
-        },
-        "7890171628744": {
-          "code": "7890171628744",
-          "name": "Calça alfaiataria marrom AG P",
-          "price": 498,
-          "qty": 1
-        },
-        "7900292997794": {
-          "code": "7900292997794",
-          "name": "Calça pantalona moletom azul LP P",
-          "price": 563,
-          "qty": 1
-        },
-        "7909746563653": {
-          "code": "7909746563653",
-          "name": "Jaqueta Sport azu com branco DT M",
-          "price": 959,
-          "qty": 1
-        }
-      },
-      "total": 3491,
-      "status": "waiting"
-    },
     "41991536747": {
       "clientId": "41991536747",
       "items": {
@@ -5144,6 +5101,51 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783711001466",
+      "clientName": "Sabrina",
+      "clientPhone": "",
+      "items": {
+        "3349": {
+          "code": "3349",
+          "name": "Jaqueta Sport marrom DT M",
+          "price": 689,
+          "qty": 1
+        },
+        "7900415151010": {
+          "code": "7900415151010",
+          "name": "Shorts saia marrom LP P",
+          "price": 443,
+          "qty": 1
+        },
+        "7909746620806": {
+          "code": "7909746620806",
+          "name": "Legging marrom DT P",
+          "price": 339,
+          "qty": 1
+        },
+        "7890171628744": {
+          "code": "7890171628744",
+          "name": "Calça alfaiataria marrom AG P",
+          "price": 498,
+          "qty": 1
+        },
+        "7900292997794": {
+          "code": "7900292997794",
+          "name": "Calça pantalona moletom azul LP P",
+          "price": 563,
+          "qty": 1
+        },
+        "7909746563653": {
+          "code": "7909746563653",
+          "name": "Jaqueta Sport azu com branco DT M",
+          "price": 959,
+          "qty": 1
+        }
+      },
+      "total": 3491,
+      "closedAt": "2026-07-15T20:15:23.713Z"
+    },
     {
       "clientId": "c_1783546982144",
       "clientName": "Fran amiga mãe Nah",
@@ -9516,5 +9518,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T20:15:20.166Z"
+  "savedAt": "2026-07-15T20:15:23.715Z"
 }
