@@ -4914,12 +4914,6 @@
     "c1779297896722": {
       "clientId": "c1779297896722",
       "items": {
-        "7908835858724": {
-          "code": "7908835858724",
-          "name": "Top curve azul claro live M",
-          "price": 189.9,
-          "qty": 1
-        },
         "7890171652428": {
           "code": "7890171652428",
           "name": "Jaqueta com bolso versa claro AG M",
@@ -5005,7 +4999,7 @@
           "qty": 1
         }
       },
-      "total": 4338.500000000002,
+      "total": 4148.600000000002,
       "status": "open"
     },
     "41991536747": {
@@ -9350,6 +9344,13 @@
         "price": 419,
         "qty": 1,
         "lastAt": "2026-07-15T19:32:43.720Z"
+      },
+      "7908835858724": {
+        "code": "7908835858724",
+        "name": "Top curve azul claro live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:32:45.647Z"
       }
     },
     "c_1784140554975": {
@@ -9453,5 +9454,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:32:43.721Z"
+  "savedAt": "2026-07-15T19:32:48.917Z"
 }
