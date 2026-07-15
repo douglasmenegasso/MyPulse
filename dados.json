@@ -5771,9 +5771,15 @@
           "name": "Legging marrom live symbol G",
           "price": 329.9,
           "qty": 1
+        },
+        "7901072484107": {
+          "code": "7901072484107",
+          "name": "Shorts Fit art marrom live g",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 5081.499999999999,
+      "total": 5301.399999999999,
       "status": "open"
     }
   },
@@ -9187,5 +9193,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:10:00.687Z"
+  "savedAt": "2026-07-15T18:10:07.742Z"
 }
