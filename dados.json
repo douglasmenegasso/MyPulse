@@ -4944,18 +4944,6 @@
           "price": 239,
           "qty": 1
         },
-        "02603750912": {
-          "code": "02603750912",
-          "name": "Jaqueta bruma bordo movimento M",
-          "price": 439.9,
-          "qty": 1
-        },
-        "014035": {
-          "code": "014035",
-          "name": "Calça bruma bordo movimento P",
-          "price": 309.9,
-          "qty": 1
-        },
         "2946746620042": {
           "code": "2946746620042",
           "name": "Top sprint marrom DT M",
@@ -4999,7 +4987,7 @@
           "qty": 1
         }
       },
-      "total": 4148.600000000002,
+      "total": 3398.800000000002,
       "status": "open"
     },
     "41991536747": {
@@ -9351,6 +9339,20 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:32:45.647Z"
+      },
+      "02603750912": {
+        "code": "02603750912",
+        "name": "Jaqueta bruma bordo movimento M",
+        "price": 439.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:32:52.544Z"
+      },
+      "014035": {
+        "code": "014035",
+        "name": "Calça bruma bordo movimento P",
+        "price": 309.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:32:53.786Z"
       }
     },
     "c_1784140554975": {
@@ -9454,5 +9456,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:32:48.917Z"
+  "savedAt": "2026-07-15T19:32:53.787Z"
 }
