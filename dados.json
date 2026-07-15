@@ -4677,21 +4677,9 @@
           "name": "Jaqueta Sport azu com branco DT M",
           "price": 959,
           "qty": 1
-        },
-        "7908990960027": {
-          "code": "7908990960027",
-          "name": "Blusão texturizado live verde M",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960188": {
-          "code": "7908990960188",
-          "name": "Calça texturizada verde live M",
-          "price": 599.9,
-          "qty": 1
         }
       },
-      "total": 3901.7999999999993,
+      "total": 2801.999999999999,
       "status": "open"
     },
     "41991536747": {
@@ -9074,6 +9062,20 @@
         "price": 553,
         "qty": 1,
         "lastAt": "2026-07-14T19:38:42.096Z"
+      },
+      "7908990960188": {
+        "code": "7908990960188",
+        "name": "Calça texturizada verde live M",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T20:14:38.670Z"
+      },
+      "7908990960027": {
+        "code": "7908990960027",
+        "name": "Blusão texturizado live verde M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T20:14:40.080Z"
       }
     },
     "c1779297896722": {
@@ -9508,5 +9510,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T20:14:37.648Z"
+  "savedAt": "2026-07-15T20:14:41.385Z"
 }
