@@ -4438,9 +4438,15 @@
           "name": "Regata icon rosa amtetista live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072423571": {
+          "code": "7901072423571",
+          "name": "Jaqueta harmony verde oliva live M",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 6626.499999999998,
+      "total": 7126.399999999998,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9702,5 +9708,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:48:13.833Z"
+  "savedAt": "2026-07-15T21:48:35.731Z"
 }
