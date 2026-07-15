@@ -4911,25 +4911,6 @@
       "total": 3901.7999999999993,
       "status": "waiting"
     },
-    "c1779297896722": {
-      "clientId": "c1779297896722",
-      "items": {
-        "014036259100": {
-          "code": "014036259100",
-          "name": "Calça canelada preta flare movimento P",
-          "price": 298,
-          "qty": 1
-        },
-        "025032459100": {
-          "code": "025032459100",
-          "name": "Top canelado com zíper preto movimento M",
-          "price": 209.9,
-          "qty": 1
-        }
-      },
-      "total": 507.9000000000019,
-      "status": "waiting"
-    },
     "41991536747": {
       "clientId": "41991536747",
       "items": {
@@ -5386,6 +5367,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c1779297896722",
+      "clientName": "Quênia",
+      "clientPhone": "",
+      "items": {
+        "014036259100": {
+          "code": "014036259100",
+          "name": "Calça canelada preta flare movimento P",
+          "price": 298,
+          "qty": 1
+        },
+        "025032459100": {
+          "code": "025032459100",
+          "name": "Top canelado com zíper preto movimento M",
+          "price": 209.9,
+          "qty": 1
+        }
+      },
+      "total": 507.9000000000019,
+      "closedAt": "2026-07-15T19:33:36.413Z"
+    },
     {
       "clientId": "c_1779214900706",
       "clientName": "Dinley",
@@ -9466,5 +9468,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:33:31.748Z"
+  "savedAt": "2026-07-15T19:33:36.414Z"
 }
