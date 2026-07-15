@@ -4622,12 +4622,6 @@
           "price": 239,
           "qty": 1
         },
-        "7890171657782": {
-          "code": "7890171657782",
-          "name": "Legging marrom elástico azul AG M",
-          "price": 419,
-          "qty": 1
-        },
         "7890171648148": {
           "code": "7890171648148",
           "name": "Top elástico branco AG g",
@@ -4713,7 +4707,7 @@
           "qty": 1
         }
       },
-      "total": 8324.2,
+      "total": 7905.200000000001,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7789,6 +7783,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-15T19:40:55.587Z"
+      },
+      "7890171657782": {
+        "code": "7890171657782",
+        "name": "Legging marrom elástico azul AG M",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:41:03.947Z"
       }
     },
     "c_1783541517615": {
@@ -9476,5 +9477,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:40:55.588Z"
+  "savedAt": "2026-07-15T19:41:03.949Z"
 }
