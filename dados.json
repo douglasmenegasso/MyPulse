@@ -4293,12 +4293,6 @@
           "price": 319,
           "qty": 1
         },
-        "7901128603193": {
-          "code": "7901128603193",
-          "name": "Legging marrom live symbol M",
-          "price": 329.9,
-          "qty": 1
-        },
         "7901128603049": {
           "code": "7901128603049",
           "name": "Top nadador marrom live symbol P",
@@ -4366,7 +4360,7 @@
           "qty": 1
         }
       },
-      "total": 10003.399999999992,
+      "total": 9673.499999999993,
       "status": "open"
     },
     "41995150547": {
@@ -8995,6 +8989,13 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-07-15T19:20:18.922Z"
+      },
+      "7901128603193": {
+        "code": "7901128603193",
+        "name": "Legging marrom live symbol M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:20:29.045Z"
       }
     },
     "c_1783624643893": {
@@ -9402,5 +9403,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:20:18.923Z"
+  "savedAt": "2026-07-15T19:20:29.047Z"
 }
