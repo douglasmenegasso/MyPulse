@@ -5640,9 +5640,15 @@
           "name": "Camiseta icon violeta live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072446556": {
+          "code": "7901072446556",
+          "name": "Regata icon rosa amtetista live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 1189.4,
+      "total": 1379.3000000000002,
       "status": "open"
     }
   },
@@ -9056,5 +9062,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:07:10.673Z"
+  "savedAt": "2026-07-15T17:07:23.312Z"
 }
