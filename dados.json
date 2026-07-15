@@ -4082,12 +4082,6 @@
           "price": 399,
           "qty": 1
         },
-        "7900415040093": {
-          "code": "7900415040093",
-          "name": "Calça wide leg com elástico preto LP g",
-          "price": 443,
-          "qty": 1
-        },
         "03603720243": {
           "code": "03603720243",
           "name": "Cropped lina preto movimento g",
@@ -4101,7 +4095,7 @@
           "qty": 1
         }
       },
-      "total": 2414.7999999999993,
+      "total": 1971.7999999999993,
       "status": "open"
     },
     "c1779296356399": {
@@ -9384,6 +9378,13 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-07-15T19:14:03.804Z"
+      },
+      "7900415040093": {
+        "code": "7900415040093",
+        "name": "Calça wide leg com elástico preto LP g",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:14:10.989Z"
       }
     }
   },
@@ -9392,5 +9393,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:14:03.805Z"
+  "savedAt": "2026-07-15T19:14:10.990Z"
 }
