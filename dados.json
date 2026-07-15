@@ -4269,12 +4269,6 @@
           "price": 399,
           "qty": 1
         },
-        "7909746616366": {
-          "code": "7909746616366",
-          "name": "Top nadador oliva vivame P",
-          "price": 259,
-          "qty": 1
-        },
         "7908990904847": {
           "code": "7908990904847",
           "name": "Legging azul petróleo live live M",
@@ -4378,7 +4372,7 @@
           "qty": 1
         }
       },
-      "total": 10661.399999999992,
+      "total": 10402.399999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8993,6 +8987,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:20:03.243Z"
+      },
+      "7909746616366": {
+        "code": "7909746616366",
+        "name": "Top nadador oliva vivame P",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:20:12.618Z"
       }
     },
     "c_1783624643893": {
@@ -9400,5 +9401,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:20:03.244Z"
+  "savedAt": "2026-07-15T19:20:12.619Z"
 }
