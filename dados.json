@@ -4541,37 +4541,6 @@
       "total": 2906.400000000001,
       "status": "waiting"
     },
-    "c_1783546982144": {
-      "clientId": "c_1783546982144",
-      "items": {
-        "7890171653456": {
-          "code": "7890171653456",
-          "name": "Legging elástico roxo malva AG M",
-          "price": 369,
-          "qty": 1
-        },
-        "7890171662298": {
-          "code": "7890171662298",
-          "name": "Bermuda elástico roxo malva AG M",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171656914": {
-          "code": "7890171656914",
-          "name": "T-shirt com tule roxo malva AG M",
-          "price": 239,
-          "qty": 1
-        },
-        "7908835819312": {
-          "code": "7908835819312",
-          "name": "Camiseta icon azul petróleo live M",
-          "price": 199.9,
-          "qty": 1
-        }
-      },
-      "total": 1066.9000000000024,
-      "status": "waiting"
-    },
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {},
@@ -5175,6 +5144,39 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783546982144",
+      "clientName": "Fran amiga mãe Nah",
+      "clientPhone": "",
+      "items": {
+        "7890171653456": {
+          "code": "7890171653456",
+          "name": "Legging elástico roxo malva AG M",
+          "price": 369,
+          "qty": 1
+        },
+        "7890171662298": {
+          "code": "7890171662298",
+          "name": "Bermuda elástico roxo malva AG M",
+          "price": 259,
+          "qty": 1
+        },
+        "7890171656914": {
+          "code": "7890171656914",
+          "name": "T-shirt com tule roxo malva AG M",
+          "price": 239,
+          "qty": 1
+        },
+        "7908835819312": {
+          "code": "7908835819312",
+          "name": "Camiseta icon azul petróleo live M",
+          "price": 199.9,
+          "qty": 1
+        }
+      },
+      "total": 1066.9000000000024,
+      "closedAt": "2026-07-15T19:44:17.343Z"
+    },
     {
       "clientId": "c1779297896722",
       "clientName": "Quênia",
@@ -9493,5 +9495,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:44:11.771Z"
+  "savedAt": "2026-07-15T19:44:17.345Z"
 }
