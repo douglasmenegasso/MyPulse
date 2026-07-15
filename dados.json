@@ -3724,6 +3724,11 @@
       "code": "7890171658116",
       "name": "Legging canelada brilhosa marrom AG g",
       "price": 319
+    },
+    "7890171637807": {
+      "code": "7890171637807",
+      "name": "Jaqueta cropped preto AG M",
+      "price": 489
     }
   },
   "clients": {
@@ -9261,5 +9266,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:17:46.448Z"
+  "savedAt": "2026-07-15T18:18:16.403Z"
 }
