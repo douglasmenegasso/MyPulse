@@ -5384,18 +5384,6 @@
           "price": 439.9,
           "qty": 1
         },
-        "01403625910": {
-          "code": "01403625910",
-          "name": "Calça flare bordo movimento P",
-          "price": 298,
-          "qty": 1
-        },
-        "02503245910": {
-          "code": "02503245910",
-          "name": "Top canelado com zíper bordo movimento M",
-          "price": 209.9,
-          "qty": 1
-        },
         "7890171652428": {
           "code": "7890171652428",
           "name": "Jaqueta com bolso versa claro AG M",
@@ -5481,7 +5469,7 @@
           "qty": 1
         }
       },
-      "total": 13398.899999999992,
+      "total": 12890.999999999993,
       "status": "open"
     },
     "41991536747": {
@@ -9302,6 +9290,20 @@
         "price": 369.9,
         "qty": 1,
         "lastAt": "2026-07-15T18:35:35.904Z"
+      },
+      "01403625910": {
+        "code": "01403625910",
+        "name": "Calça flare bordo movimento P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-15T18:35:38.327Z"
+      },
+      "02503245910": {
+        "code": "02503245910",
+        "name": "Top canelado com zíper bordo movimento M",
+        "price": 209.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T18:35:39.273Z"
       }
     }
   },
@@ -9310,5 +9312,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:35:37.676Z"
+  "savedAt": "2026-07-15T18:35:41.248Z"
 }
