@@ -4550,12 +4550,6 @@
           "price": 198,
           "qty": 1
         },
-        "7909746580070": {
-          "code": "7909746580070",
-          "name": "Top curve verde DT M",
-          "price": 239,
-          "qty": 1
-        },
         "7900292357451": {
           "code": "7900292357451",
           "name": "Calca wide leg preto LP P",
@@ -4707,7 +4701,7 @@
           "qty": 1
         }
       },
-      "total": 7905.200000000001,
+      "total": 7666.200000000001,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7790,6 +7784,13 @@
         "price": 419,
         "qty": 1,
         "lastAt": "2026-07-15T19:41:03.947Z"
+      },
+      "7909746580070": {
+        "code": "7909746580070",
+        "name": "Top curve verde DT M",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:41:15.832Z"
       }
     },
     "c_1783541517615": {
@@ -9477,5 +9478,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:41:09.032Z"
+  "savedAt": "2026-07-15T19:41:15.833Z"
 }
