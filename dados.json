@@ -4257,8 +4257,15 @@
     },
     "c_1779816929745": {
       "clientId": "c_1779816929745",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7890171643563": {
+          "code": "7890171643563",
+          "name": "Garrafa térmica rosa AG",
+          "price": 198,
+          "qty": 1
+        }
+      },
+      "total": 198,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9520,5 +9527,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T20:29:53.939Z"
+  "savedAt": "2026-07-15T21:36:35.223Z"
 }
