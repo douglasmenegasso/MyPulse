@@ -4651,9 +4651,15 @@
           "name": "Nayara marrom live symbol M",
           "price": 499.9,
           "qty": 1
+        },
+        "7908990930204": {
+          "code": "7908990930204",
+          "name": "Jaqueta estampa marrom live P",
+          "price": 599.9,
+          "qty": 1
         }
       },
-      "total": 2788.2000000000003,
+      "total": 3388.1000000000004,
       "status": "open"
     },
     "c_1783458513348": {
@@ -8987,5 +8993,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T16:46:22.212Z"
+  "savedAt": "2026-07-15T16:46:27.242Z"
 }
