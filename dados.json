@@ -4556,12 +4556,6 @@
           "price": 238,
           "qty": 1
         },
-        "7890171614501": {
-          "code": "7890171614501",
-          "name": "T-shirt inspiracional terracota AG M",
-          "price": 198,
-          "qty": 1
-        },
         "7890171653456": {
           "code": "7890171653456",
           "name": "Legging elástico roxo malva AG M",
@@ -4587,7 +4581,7 @@
           "qty": 1
         }
       },
-      "total": 1821.9000000000024,
+      "total": 1623.9000000000024,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7810,6 +7804,13 @@
         "price": 699.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:43:44.399Z"
+      },
+      "7890171614501": {
+        "code": "7890171614501",
+        "name": "T-shirt inspiracional terracota AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:43:50.905Z"
       }
     },
     "c_1783541517615": {
@@ -9497,5 +9498,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:43:44.400Z"
+  "savedAt": "2026-07-15T19:43:50.906Z"
 }
