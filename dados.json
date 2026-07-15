@@ -4374,9 +4374,15 @@
           "name": "Legging fuso link tex marrom live P",
           "price": 359.9,
           "qty": 1
+        },
+        "7890171645697": {
+          "code": "7890171645697",
+          "name": "Legging marrom elástico azul AG P",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 4081.0000000000005,
+      "total": 4500,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9638,5 +9644,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:44:37.424Z"
+  "savedAt": "2026-07-15T21:45:05.163Z"
 }
