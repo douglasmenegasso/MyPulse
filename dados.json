@@ -4221,12 +4221,6 @@
           "price": 198,
           "qty": 1
         },
-        "7909746618438": {
-          "code": "7909746618438",
-          "name": "Jaqueta cherry vinho DT P",
-          "price": 699,
-          "qty": 1
-        },
         "7890171657454": {
           "code": "7890171657454",
           "name": "Legging assimétrica preto com off AG M",
@@ -4402,7 +4396,7 @@
           "qty": 1
         }
       },
-      "total": 12249.199999999992,
+      "total": 11550.199999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8989,6 +8983,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-15T19:18:27.725Z"
+      },
+      "7909746618438": {
+        "code": "7909746618438",
+        "name": "Jaqueta cherry vinho DT P",
+        "price": 699,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:18:39.687Z"
       }
     },
     "c_1783624643893": {
@@ -9396,5 +9397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:18:32.542Z"
+  "savedAt": "2026-07-15T19:18:39.688Z"
 }
