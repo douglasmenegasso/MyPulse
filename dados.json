@@ -4076,12 +4076,6 @@
           "price": 499.9,
           "qty": 1
         },
-        "7909746614164": {
-          "code": "7909746614164",
-          "name": "Vestido canelado bordo DT M",
-          "price": 449,
-          "qty": 1
-        },
         "7900415030421": {
           "code": "7900415030421",
           "name": "Jaqueta preta com elástico Lp M",
@@ -4155,7 +4149,7 @@
           "qty": 1
         }
       },
-      "total": 5982.699999999999,
+      "total": 5533.699999999999,
       "status": "open"
     },
     "c1779296356399": {
@@ -9374,6 +9368,15 @@
         "qty": 1,
         "lastAt": "2026-07-15T18:38:59.897Z"
       }
+    },
+    "c_1779214900706": {
+      "7909746614164": {
+        "code": "7909746614164",
+        "name": "Vestido canelado bordo DT M",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:12:56.735Z"
+      }
     }
   },
   "security": {
@@ -9381,5 +9384,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:12:51.158Z"
+  "savedAt": "2026-07-15T19:12:59.372Z"
 }
