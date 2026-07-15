@@ -5563,9 +5563,15 @@
           "name": "Top elástico preto AG M",
           "price": 219,
           "qty": 1
+        },
+        "7901128603254": {
+          "code": "7901128603254",
+          "name": "Jaqueta seamless preto live M",
+          "price": 649.9,
+          "qty": 1
         }
       },
-      "total": 4670.200000000001,
+      "total": 5320.1,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9357,5 +9363,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:48:00.479Z"
+  "savedAt": "2026-07-15T18:48:05.218Z"
 }
