@@ -4082,12 +4082,6 @@
           "price": 399,
           "qty": 1
         },
-        "7909746579685": {
-          "code": "7909746579685",
-          "name": "Legging com pezinho preto DT M",
-          "price": 259,
-          "qty": 1
-        },
         "7909746613693": {
           "code": "7909746613693",
           "name": "Calça flare preto DT g",
@@ -4113,7 +4107,7 @@
           "qty": 1
         }
       },
-      "total": 3072.7999999999993,
+      "total": 2813.7999999999993,
       "status": "open"
     },
     "c1779296356399": {
@@ -9382,6 +9376,13 @@
         "price": 379,
         "qty": 1,
         "lastAt": "2026-07-15T19:13:50.026Z"
+      },
+      "7909746579685": {
+        "code": "7909746579685",
+        "name": "Legging com pezinho preto DT M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:13:56.825Z"
       }
     }
   },
@@ -9390,5 +9391,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:13:51.552Z"
+  "savedAt": "2026-07-15T19:13:56.826Z"
 }
