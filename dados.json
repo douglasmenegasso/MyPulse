@@ -5737,9 +5737,15 @@
           "name": "T-shirt cropped mesh preto AG g",
           "price": 219,
           "qty": 1
+        },
+        "7901072451925": {
+          "code": "7901072451925",
+          "name": "Shorts icon rosa live g",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 4081.9000000000005,
+      "total": 4321.8,
       "status": "open"
     }
   },
@@ -9153,5 +9159,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:08:38.012Z"
+  "savedAt": "2026-07-15T18:08:41.518Z"
 }
