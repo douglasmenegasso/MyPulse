@@ -4926,12 +4926,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "7890171652817": {
-          "code": "7890171652817",
-          "name": "T-shirt cropped mesh branco AG P",
-          "price": 229,
-          "qty": 1
-        },
         "7908931961540": {
           "code": "7908931961540",
           "name": "Legging com bolso verde água live M",
@@ -5053,7 +5047,7 @@
           "qty": 1
         }
       },
-      "total": 6565.9,
+      "total": 6336.9,
       "status": "open"
     },
     "41991536747": {
@@ -9342,6 +9336,13 @@
         "price": 439.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:31:52.172Z"
+      },
+      "7890171652817": {
+        "code": "7890171652817",
+        "name": "T-shirt cropped mesh branco AG P",
+        "price": 229,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:32:06.879Z"
       }
     },
     "c_1784140554975": {
@@ -9445,5 +9446,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:31:54.595Z"
+  "savedAt": "2026-07-15T19:32:06.881Z"
 }
