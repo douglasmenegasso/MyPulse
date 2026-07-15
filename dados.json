@@ -5703,9 +5703,15 @@
           "name": "Top curve allure azul petróleo live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7908754575887": {
+          "code": "7908754575887",
+          "name": "Regata breath azul petróleo live g",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 3095.0000000000005,
+      "total": 3274.9000000000005,
       "status": "open"
     }
   },
@@ -9119,5 +9125,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:03:44.117Z"
+  "savedAt": "2026-07-15T18:03:48.350Z"
 }
