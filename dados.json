@@ -4368,9 +4368,15 @@
           "name": "Jaqueta bruma bordo movimento M",
           "price": 439.9,
           "qty": 1
+        },
+        "7901072485876": {
+          "code": "7901072485876",
+          "name": "Legging fuso link tex marrom live P",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 3721.1000000000004,
+      "total": 4081.0000000000005,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9632,5 +9638,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:43:21.019Z"
+  "savedAt": "2026-07-15T21:44:37.424Z"
 }
