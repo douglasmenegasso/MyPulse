@@ -4124,12 +4124,6 @@
           "price": 563,
           "qty": 1
         },
-        "7909746620486": {
-          "code": "7909746620486",
-          "name": "Regata canelada marrom DT g",
-          "price": 199,
-          "qty": 1
-        },
         "03603720243": {
           "code": "03603720243",
           "name": "Cropped lina preto movimento g",
@@ -4143,7 +4137,7 @@
           "qty": 1
         }
       },
-      "total": 5033.799999999999,
+      "total": 4834.799999999999,
       "status": "open"
     },
     "c1779296356399": {
@@ -9377,6 +9371,13 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-15T19:12:56.735Z"
+      },
+      "7909746620486": {
+        "code": "7909746620486",
+        "name": "Regata canelada marrom DT g",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:13:23.975Z"
       }
     }
   },
@@ -9385,5 +9386,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:13:12.412Z"
+  "savedAt": "2026-07-15T19:13:23.976Z"
 }
