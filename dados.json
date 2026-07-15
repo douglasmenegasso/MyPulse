@@ -4944,12 +4944,6 @@
           "price": 279.9,
           "qty": 1
         },
-        "7908990962557": {
-          "code": "7908990962557",
-          "name": "Regata verde água live M",
-          "price": 179.9,
-          "qty": 1
-        },
         "7601072483056": {
           "code": "7601072483056",
           "name": "Legging icon rosa ametista live M",
@@ -5125,7 +5119,7 @@
           "qty": 1
         }
       },
-      "total": 9934.699999999995,
+      "total": 9754.799999999996,
       "status": "open"
     },
     "41991536747": {
@@ -9330,6 +9324,13 @@
         "price": 299.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:30:52.639Z"
+      },
+      "7908990962557": {
+        "code": "7908990962557",
+        "name": "Regata verde água live M",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:30:56.282Z"
       }
     },
     "c_1784140554975": {
@@ -9433,5 +9434,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:30:52.640Z"
+  "savedAt": "2026-07-15T19:30:56.283Z"
 }
