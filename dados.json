@@ -4118,12 +4118,6 @@
           "price": 223,
           "qty": 1
         },
-        "7900415002688": {
-          "code": "7900415002688",
-          "name": "Calça wide leg marrom LP M",
-          "price": 563,
-          "qty": 1
-        },
         "03603720243": {
           "code": "03603720243",
           "name": "Cropped lina preto movimento g",
@@ -4137,7 +4131,7 @@
           "qty": 1
         }
       },
-      "total": 4834.799999999999,
+      "total": 4271.799999999999,
       "status": "open"
     },
     "c1779296356399": {
@@ -9378,6 +9372,13 @@
         "price": 199,
         "qty": 1,
         "lastAt": "2026-07-15T19:13:23.975Z"
+      },
+      "7900415002688": {
+        "code": "7900415002688",
+        "name": "Calça wide leg marrom LP M",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:13:30.995Z"
       }
     }
   },
@@ -9386,5 +9387,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:13:23.976Z"
+  "savedAt": "2026-07-15T19:13:30.996Z"
 }
