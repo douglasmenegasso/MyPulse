@@ -4356,9 +4356,15 @@
           "name": "Top tex marrom live M",
           "price": 279.9,
           "qty": 1
+        },
+        "014035": {
+          "code": "014035",
+          "name": "Calça bruma bordo movimento P",
+          "price": 309.9,
+          "qty": 1
         }
       },
-      "total": 2971.3,
+      "total": 3281.2000000000003,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9620,5 +9626,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:42:17.652Z"
+  "savedAt": "2026-07-15T21:43:01.260Z"
 }
