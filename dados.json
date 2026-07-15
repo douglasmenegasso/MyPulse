@@ -4209,12 +4209,6 @@
           "price": 219,
           "qty": 1
         },
-        "7901128619095": {
-          "code": "7901128619095",
-          "name": "Jaqueta marrom live symbol P",
-          "price": 499.9,
-          "qty": 1
-        },
         "7901072485869": {
           "code": "7901072485869",
           "name": "Legging fuso tex marrom live M",
@@ -4438,7 +4432,7 @@
           "qty": 1
         }
       },
-      "total": 14226.79999999999,
+      "total": 13726.89999999999,
       "status": "open"
     },
     "41995150547": {
@@ -8988,8 +8982,8 @@
         "code": "7901128619095",
         "name": "Jaqueta marrom live symbol P",
         "price": 499.9,
-        "qty": 1,
-        "lastAt": "2026-07-14T18:41:43.957Z"
+        "qty": 2,
+        "lastAt": "2026-07-15T19:17:47.034Z"
       }
     },
     "c_1783624643893": {
@@ -9397,5 +9391,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:17:43.025Z"
+  "savedAt": "2026-07-15T19:17:47.035Z"
 }
