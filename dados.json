@@ -4167,12 +4167,6 @@
           "price": 419,
           "qty": 1
         },
-        "7909746618919": {
-          "code": "7909746618919",
-          "name": "Top curve uva listra branca vivame M ",
-          "price": 259,
-          "qty": 1
-        },
         "7890171656945": {
           "code": "7890171656945",
           "name": "Bermuda elástico off com preto AG P",
@@ -4408,7 +4402,7 @@
           "qty": 1
         }
       },
-      "total": 12508.199999999992,
+      "total": 12249.199999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8988,6 +8982,13 @@
         "price": 489,
         "qty": 1,
         "lastAt": "2026-07-15T19:18:15.919Z"
+      },
+      "7909746618919": {
+        "code": "7909746618919",
+        "name": "Top curve uva listra branca vivame M ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:18:27.725Z"
       }
     },
     "c_1783624643893": {
@@ -9395,5 +9396,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:18:15.920Z"
+  "savedAt": "2026-07-15T19:18:27.726Z"
 }
