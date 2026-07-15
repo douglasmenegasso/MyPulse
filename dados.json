@@ -4303,9 +4303,15 @@
           "name": "Legging elástico lilás AG P",
           "price": 369,
           "qty": 1
+        },
+        "7890171653159": {
+          "code": "7890171653159",
+          "name": "Top elástico lilás AG M",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 676.5999999999999,
+      "total": 895.5999999999999,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9567,5 +9573,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:38:50.360Z"
+  "savedAt": "2026-07-15T21:39:13.336Z"
 }
