@@ -4275,12 +4275,6 @@
           "price": 259,
           "qty": 1
         },
-        "7908990920267": {
-          "code": "7908990920267",
-          "name": "Regata pima  marrom live P",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908990904847": {
           "code": "7908990904847",
           "name": "Legging azul petróleo live live M",
@@ -4384,7 +4378,7 @@
           "qty": 1
         }
       },
-      "total": 10911.299999999992,
+      "total": 10661.399999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8992,6 +8986,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:19:01.513Z"
+      },
+      "7908990920267": {
+        "code": "7908990920267",
+        "name": "Regata pima  marrom live P",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:20:03.243Z"
       }
     },
     "c_1783624643893": {
@@ -9399,5 +9400,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:19:29.525Z"
+  "savedAt": "2026-07-15T19:20:03.244Z"
 }
