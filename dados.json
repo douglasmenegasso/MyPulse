@@ -5726,9 +5726,15 @@
           "name": "Top elástico preto AG g",
           "price": 219,
           "qty": 1
+        },
+        "7890171652763": {
+          "code": "7890171652763",
+          "name": "T-shirt cropped mesh preto AG g",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 3862.9000000000005,
+      "total": 4081.9000000000005,
       "status": "open"
     }
   },
@@ -9142,5 +9148,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:07:57.443Z"
+  "savedAt": "2026-07-15T18:08:07.071Z"
 }
