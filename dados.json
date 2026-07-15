@@ -5548,9 +5548,15 @@
           "name": "Jaqueta cropped preto AG M",
           "price": 489,
           "qty": 1
+        },
+        "7890171616109": {
+          "code": "7890171616109",
+          "name": "Regata elástico preto AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 4253.200000000001,
+      "total": 4451.200000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9272,5 +9278,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:18:19.351Z"
+  "savedAt": "2026-07-15T18:18:29.377Z"
 }
