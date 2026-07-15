@@ -4067,25 +4067,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1779214900706": {
-      "clientId": "c_1779214900706",
-      "items": {
-        "03603720243": {
-          "code": "03603720243",
-          "name": "Cropped lina preto movimento g",
-          "price": 359.9,
-          "qty": 1
-        },
-        "03403450243": {
-          "code": "03403450243",
-          "name": "Calça lina preto movimento g",
-          "price": 359.9,
-          "qty": 1
-        }
-      },
-      "total": 719.7999999999993,
-      "status": "waiting"
-    },
     "c1779296356399": {
       "clientId": "c1779296356399",
       "items": {},
@@ -5861,6 +5842,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779214900706",
+      "clientName": "Dinley",
+      "clientPhone": "",
+      "items": {
+        "03603720243": {
+          "code": "03603720243",
+          "name": "Cropped lina preto movimento g",
+          "price": 359.9,
+          "qty": 1
+        },
+        "03403450243": {
+          "code": "03403450243",
+          "name": "Calça lina preto movimento g",
+          "price": 359.9,
+          "qty": 1
+        }
+      },
+      "total": 719.7999999999993,
+      "closedAt": "2026-07-15T19:14:53.897Z"
+    },
     {
       "clientId": "c_1783709976806",
       "clientName": "Kawane ivonete",
@@ -9395,5 +9397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:14:48.386Z"
+  "savedAt": "2026-07-15T19:14:53.898Z"
 }
