@@ -4197,12 +4197,6 @@
           "price": 219,
           "qty": 1
         },
-        "7901072485869": {
-          "code": "7901072485869",
-          "name": "Legging fuso tex marrom live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7901072484657": {
           "code": "7901072484657",
           "name": "Shorts tex marrom live M",
@@ -4360,7 +4354,7 @@
           "qty": 1
         }
       },
-      "total": 9673.499999999993,
+      "total": 9313.599999999993,
       "status": "open"
     },
     "41995150547": {
@@ -8996,6 +8990,13 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:20:29.045Z"
+      },
+      "7901072485869": {
+        "code": "7901072485869",
+        "name": "Legging fuso tex marrom live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:20:39.371Z"
       }
     },
     "c_1783624643893": {
@@ -9403,5 +9404,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:20:33.814Z"
+  "savedAt": "2026-07-15T19:20:39.372Z"
 }
