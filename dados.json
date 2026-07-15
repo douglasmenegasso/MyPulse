@@ -3719,6 +3719,11 @@
       "code": "7901128626901",
       "name": "Camiseta cropped branco live g",
       "price": 179.9
+    },
+    "7890171658116": {
+      "code": "7890171658116",
+      "name": "Legging canelada brilhosa marrom AG g",
+      "price": 319
     }
   },
   "clients": {
@@ -9238,5 +9243,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:14:01.206Z"
+  "savedAt": "2026-07-15T18:14:11.039Z"
 }
