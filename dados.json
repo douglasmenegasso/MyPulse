@@ -5715,9 +5715,15 @@
           "name": "Legging elástico off com preto AG M",
           "price": 369,
           "qty": 1
+        },
+        "7890171651629": {
+          "code": "7890171651629",
+          "name": "Top elástico preto AG g",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 3643.9000000000005,
+      "total": 3862.9000000000005,
       "status": "open"
     }
   },
@@ -9131,5 +9137,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:05:06.738Z"
+  "savedAt": "2026-07-15T18:05:21.040Z"
 }
