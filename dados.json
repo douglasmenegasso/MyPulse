@@ -4070,12 +4070,6 @@
     "c_1779214900706": {
       "clientId": "c_1779214900706",
       "items": {
-        "7900415030421": {
-          "code": "7900415030421",
-          "name": "Jaqueta preta com elástico Lp M",
-          "price": 853,
-          "qty": 1
-        },
         "7890171654064": {
           "code": "7890171654064",
           "name": "Calça reta com franzido preto AG M",
@@ -4095,7 +4089,7 @@
           "qty": 1
         }
       },
-      "total": 1971.7999999999993,
+      "total": 1118.7999999999993,
       "status": "open"
     },
     "c1779296356399": {
@@ -9385,6 +9379,13 @@
         "price": 443,
         "qty": 1,
         "lastAt": "2026-07-15T19:14:10.989Z"
+      },
+      "7900415030421": {
+        "code": "7900415030421",
+        "name": "Jaqueta preta com elástico Lp M",
+        "price": 853,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:14:30.022Z"
       }
     }
   },
@@ -9393,5 +9394,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:14:10.990Z"
+  "savedAt": "2026-07-15T19:14:30.027Z"
 }
