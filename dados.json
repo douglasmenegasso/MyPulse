@@ -4646,12 +4646,6 @@
           "price": 399,
           "qty": 1
         },
-        "7909746616380": {
-          "code": "7909746616380",
-          "name": "Top nadador oliva vivame g",
-          "price": 259,
-          "qty": 1
-        },
         "7890171621882": {
           "code": "7890171621882",
           "name": "Legging preta símbolo AG M",
@@ -4689,7 +4683,7 @@
           "qty": 1
         }
       },
-      "total": 7071.200000000001,
+      "total": 6812.200000000001,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7793,6 +7787,13 @@
         "price": 397,
         "qty": 1,
         "lastAt": "2026-07-15T19:41:24.706Z"
+      },
+      "7909746616380": {
+        "code": "7909746616380",
+        "name": "Top nadador oliva vivame g",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:41:32.414Z"
       }
     },
     "c_1783541517615": {
@@ -9480,5 +9481,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:41:24.707Z"
+  "savedAt": "2026-07-15T19:41:32.416Z"
 }
