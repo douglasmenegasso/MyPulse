@@ -3664,6 +3664,11 @@
       "code": "7901128628561",
       "name": "Legging hydefit azul petróleo live M",
       "price": 199.9
+    },
+    "7901072434171": {
+      "code": "7901072434171",
+      "name": "Camiseta icon bege live M",
+      "price": 199.9
     }
   },
   "clients": {
@@ -5623,15 +5628,9 @@
           "name": "Legging hydefit azul petróleo live M",
           "price": 199.9,
           "qty": 1
-        },
-        "7908931913891": {
-          "code": "7908931913891",
-          "name": "Top curve allure azul petróleo live M",
-          "price": 199.9,
-          "qty": 1
         }
       },
-      "total": 989.5,
+      "total": 789.6,
       "status": "open"
     }
   },
@@ -9045,5 +9044,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:05:42.389Z"
+  "savedAt": "2026-07-15T17:06:17.383Z"
 }
