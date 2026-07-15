@@ -4544,12 +4544,6 @@
     "c_1783546982144": {
       "clientId": "c_1783546982144",
       "items": {
-        "7890171643563": {
-          "code": "7890171643563",
-          "name": "Garrafa térmica rosa AG",
-          "price": 198,
-          "qty": 1
-        },
         "7900292357451": {
           "code": "7900292357451",
           "name": "Calca wide leg preto LP P",
@@ -4701,7 +4695,7 @@
           "qty": 1
         }
       },
-      "total": 7666.200000000001,
+      "total": 7468.200000000001,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7791,6 +7785,13 @@
         "price": 239,
         "qty": 1,
         "lastAt": "2026-07-15T19:41:15.832Z"
+      },
+      "7890171643563": {
+        "code": "7890171643563",
+        "name": "Garrafa térmica rosa AG",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:41:18.493Z"
       }
     },
     "c_1783541517615": {
@@ -9478,5 +9479,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:41:15.833Z"
+  "savedAt": "2026-07-15T19:41:20.280Z"
 }
