@@ -4926,12 +4926,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "7908931962936": {
-          "code": "7908931962936",
-          "name": "Top cut out verde água live M",
-          "price": 279.9,
-          "qty": 1
-        },
         "7890171652428": {
           "code": "7890171652428",
           "name": "Jaqueta com bolso versa claro AG M",
@@ -5017,7 +5011,7 @@
           "qty": 1
         }
       },
-      "total": 5037.4000000000015,
+      "total": 4757.500000000002,
       "status": "open"
     },
     "41991536747": {
@@ -9348,6 +9342,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:32:26.723Z"
+      },
+      "7908931962936": {
+        "code": "7908931962936",
+        "name": "Top cut out verde água live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:32:29.272Z"
       }
     },
     "c_1784140554975": {
@@ -9451,5 +9452,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:32:26.724Z"
+  "savedAt": "2026-07-15T19:32:31.984Z"
 }
