@@ -4486,67 +4486,6 @@
       "total": 1.8189894035458565e-12,
       "status": "open"
     },
-    "c_1783543770765": {
-      "clientId": "c_1783543770765",
-      "items": {
-        "7890171643563": {
-          "code": "7890171643563",
-          "name": "Garrafa térmica rosa AG",
-          "price": 198,
-          "qty": 1
-        },
-        "7901072485661": {
-          "code": "7901072485661",
-          "name": "Legging fúcsia live live g",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901072455527": {
-          "code": "7901072455527",
-          "name": "Top curve fúcsia  live live g",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7901128641638": {
-          "code": "7901128641638",
-          "name": "Camiseta icon fúcsia Live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072423717": {
-          "code": "7901072423717",
-          "name": "Jaqueta dupla face preto e bege live M",
-          "price": 699.9,
-          "qty": 1
-        },
-        "7908754514305": {
-          "code": "7908754514305",
-          "name": "Legging icon preto live g",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908754527824": {
-          "code": "7908754527824",
-          "name": "Top icon preto live g",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908990960027": {
-          "code": "7908990960027",
-          "name": "Blusão texturizado live verde M",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960188": {
-          "code": "7908990960188",
-          "name": "Calça texturizada verde live M",
-          "price": 599.9,
-          "qty": 1
-        }
-      },
-      "total": 3317.2000000000007,
-      "status": "waiting"
-    },
     "c_1779382988768": {
       "clientId": "c_1779382988768",
       "items": {},
@@ -5101,6 +5040,69 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783543770765",
+      "clientName": "Ivonete Sabrina",
+      "clientPhone": "",
+      "items": {
+        "7890171643563": {
+          "code": "7890171643563",
+          "name": "Garrafa térmica rosa AG",
+          "price": 198,
+          "qty": 1
+        },
+        "7901072485661": {
+          "code": "7901072485661",
+          "name": "Legging fúcsia live live g",
+          "price": 329.9,
+          "qty": 1
+        },
+        "7901072455527": {
+          "code": "7901072455527",
+          "name": "Top curve fúcsia  live live g",
+          "price": 219.9,
+          "qty": 1
+        },
+        "7901128641638": {
+          "code": "7901128641638",
+          "name": "Camiseta icon fúcsia Live M",
+          "price": 199.9,
+          "qty": 1
+        },
+        "7901072423717": {
+          "code": "7901072423717",
+          "name": "Jaqueta dupla face preto e bege live M",
+          "price": 699.9,
+          "qty": 1
+        },
+        "7908754514305": {
+          "code": "7908754514305",
+          "name": "Legging icon preto live g",
+          "price": 319.9,
+          "qty": 1
+        },
+        "7908754527824": {
+          "code": "7908754527824",
+          "name": "Top icon preto live g",
+          "price": 249.9,
+          "qty": 1
+        },
+        "7908990960027": {
+          "code": "7908990960027",
+          "name": "Blusão texturizado live verde M",
+          "price": 499.9,
+          "qty": 1
+        },
+        "7908990960188": {
+          "code": "7908990960188",
+          "name": "Calça texturizada verde live M",
+          "price": 599.9,
+          "qty": 1
+        }
+      },
+      "total": 3317.2000000000007,
+      "closedAt": "2026-07-15T20:15:34.425Z"
+    },
     {
       "clientId": "c_1783711001466",
       "clientName": "Sabrina",
@@ -9518,5 +9520,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T20:15:23.715Z"
+  "savedAt": "2026-07-15T20:15:34.427Z"
 }
