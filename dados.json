@@ -4263,12 +4263,6 @@
           "price": 219,
           "qty": 1
         },
-        "7909746616397": {
-          "code": "7909746616397",
-          "name": "Legging oliva vivem P",
-          "price": 399,
-          "qty": 1
-        },
         "7908990904847": {
           "code": "7908990904847",
           "name": "Legging azul petróleo live live M",
@@ -4372,7 +4366,7 @@
           "qty": 1
         }
       },
-      "total": 10402.399999999992,
+      "total": 10003.399999999992,
       "status": "open"
     },
     "41995150547": {
@@ -8994,6 +8988,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-15T19:20:12.618Z"
+      },
+      "7909746616397": {
+        "code": "7909746616397",
+        "name": "Legging oliva vivem P",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:20:18.922Z"
       }
     },
     "c_1783624643893": {
@@ -9401,5 +9402,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:20:12.619Z"
+  "savedAt": "2026-07-15T19:20:18.923Z"
 }
