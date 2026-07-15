@@ -4380,9 +4380,15 @@
           "name": "Legging marrom elástico azul AG P",
           "price": 419,
           "qty": 1
+        },
+        "7908835858724": {
+          "code": "7908835858724",
+          "name": "Top curve azul claro live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 4500,
+      "total": 4689.9,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9644,5 +9650,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:45:05.163Z"
+  "savedAt": "2026-07-15T21:45:30.449Z"
 }
