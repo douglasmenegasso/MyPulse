@@ -3729,6 +3729,11 @@
       "code": "7890171637807",
       "name": "Jaqueta cropped preto AG M",
       "price": 489
+    },
+    "014036259100": {
+      "code": "014036259100",
+      "name": "Calça canelada preta flare movimento P",
+      "price": 298
     }
   },
   "clients": {
@@ -9284,5 +9289,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:21:47.365Z"
+  "savedAt": "2026-07-15T18:21:57.606Z"
 }
