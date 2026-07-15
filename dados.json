@@ -5833,9 +5833,15 @@
           "name": "Legging canelada brilhosa marrom AG g",
           "price": 319,
           "qty": 1
+        },
+        "7890171652596": {
+          "code": "7890171652596",
+          "name": "Top shine alças finas marrom AG g",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 6769.899999999997,
+      "total": 6967.899999999997,
       "status": "open"
     }
   },
@@ -9249,5 +9255,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:14:15.354Z"
+  "savedAt": "2026-07-15T18:14:24.064Z"
 }
