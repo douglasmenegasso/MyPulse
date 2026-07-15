@@ -4544,12 +4544,6 @@
     "c_1783546982144": {
       "clientId": "c_1783546982144",
       "items": {
-        "7890171616079": {
-          "code": "7890171616079",
-          "name": "Legging brilhosa terracota AG M",
-          "price": 319,
-          "qty": 1
-        },
         "7890171653456": {
           "code": "7890171653456",
           "name": "Legging elástico roxo malva AG M",
@@ -4575,7 +4569,7 @@
           "qty": 1
         }
       },
-      "total": 1385.9000000000024,
+      "total": 1066.9000000000024,
       "status": "open"
     },
     "c_1779382988768": {
@@ -7593,8 +7587,8 @@
         "code": "7890171616079",
         "name": "Legging brilhosa terracota AG M",
         "price": 319,
-        "qty": 1,
-        "lastAt": "2026-07-08T21:49:05.774Z"
+        "qty": 2,
+        "lastAt": "2026-07-15T19:44:04.040Z"
       },
       "7909392494240": {
         "code": "7909392494240",
@@ -9499,5 +9493,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:43:57.459Z"
+  "savedAt": "2026-07-15T19:44:04.041Z"
 }
