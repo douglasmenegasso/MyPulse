@@ -4450,9 +4450,15 @@
           "name": "Bermuda com silicone verde claro AG P",
           "price": 309,
           "qty": 1
+        },
+        "7901072413978": {
+          "code": "7901072413978",
+          "name": "Top neopren verde oliva claro live M",
+          "price": 299.9,
+          "qty": 1
         }
       },
-      "total": 7435.399999999998,
+      "total": 7735.299999999997,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9714,5 +9720,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:48:51.975Z"
+  "savedAt": "2026-07-15T21:49:00.670Z"
 }
