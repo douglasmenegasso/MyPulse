@@ -3709,6 +3709,11 @@
       "code": "7901072438629",
       "name": "Camiseta cropped preto live g",
       "price": 179.9
+    },
+    "7908931961137": {
+      "code": "7908931961137",
+      "name": "Legging com bolso vermelho live g",
+      "price": 319.9
     }
   },
   "clients": {
@@ -9210,5 +9215,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:12:20.362Z"
+  "savedAt": "2026-07-15T18:12:40.676Z"
 }
