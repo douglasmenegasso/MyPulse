@@ -4215,12 +4215,6 @@
           "price": 359.9,
           "qty": 1
         },
-        "7890171653166": {
-          "code": "7890171653166",
-          "name": "Top elástico lilás AG P",
-          "price": 219,
-          "qty": 1
-        },
         "7890171645062": {
           "code": "7890171645062",
           "name": "Regata cropped mesh lilás AG P",
@@ -4312,7 +4306,7 @@
           "qty": 1
         }
       },
-      "total": 7277.9999999999945,
+      "total": 7058.9999999999945,
       "status": "open"
     },
     "41995150547": {
@@ -9004,6 +8998,13 @@
         "price": 369,
         "qty": 1,
         "lastAt": "2026-07-15T19:21:35.208Z"
+      },
+      "7890171653166": {
+        "code": "7890171653166",
+        "name": "Top elástico lilás AG P",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:21:42.626Z"
       }
     },
     "c_1783624643893": {
@@ -9411,5 +9412,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:21:39.058Z"
+  "savedAt": "2026-07-15T19:21:42.627Z"
 }
