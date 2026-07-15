@@ -4914,12 +4914,6 @@
     "c1779297896722": {
       "clientId": "c1779297896722",
       "items": {
-        "7890171652428": {
-          "code": "7890171652428",
-          "name": "Jaqueta com bolso versa claro AG M",
-          "price": 489,
-          "qty": 1
-        },
         "014036259100": {
           "code": "014036259100",
           "name": "Calça canelada preta flare movimento P",
@@ -4933,8 +4927,8 @@
           "qty": 1
         }
       },
-      "total": 996.9000000000019,
-      "status": "open"
+      "total": 507.9000000000019,
+      "status": "waiting"
     },
     "41991536747": {
       "clientId": "41991536747",
@@ -9362,6 +9356,13 @@
         "price": 309,
         "qty": 1,
         "lastAt": "2026-07-15T19:33:27.037Z"
+      },
+      "7890171652428": {
+        "code": "7890171652428",
+        "name": "Jaqueta com bolso versa claro AG M",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-07-15T19:33:27.835Z"
       }
     },
     "c_1784140554975": {
@@ -9465,5 +9466,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T19:33:27.038Z"
+  "savedAt": "2026-07-15T19:33:31.748Z"
 }
