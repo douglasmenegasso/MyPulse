@@ -4392,9 +4392,15 @@
           "name": "Camiseta off escrita marrom DT P",
           "price": 339,
           "qty": 1
+        },
+        "7890171656945": {
+          "code": "7890171656945",
+          "name": "Bermuda elástico off com preto AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 5028.9,
+      "total": 5397.9,
       "status": "open"
     },
     "c_1779307807613": {
@@ -9656,5 +9662,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T21:45:41.043Z"
+  "savedAt": "2026-07-15T21:46:00.446Z"
 }
