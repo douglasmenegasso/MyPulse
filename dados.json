@@ -3734,6 +3734,11 @@
       "code": "014036259100",
       "name": "Calça canelada preta flare movimento P",
       "price": 298
+    },
+    "025032459100": {
+      "code": "025032459100",
+      "name": "Top canelado com zíper preto movimento M",
+      "price": 25
     }
   },
   "clients": {
@@ -9295,5 +9300,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T18:22:48.137Z"
+  "savedAt": "2026-07-15T18:23:13.561Z"
 }
