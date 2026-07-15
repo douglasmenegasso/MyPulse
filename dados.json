@@ -3669,6 +3669,11 @@
       "code": "7901072434171",
       "name": "Camiseta icon bege live M",
       "price": 199.9
+    },
+    "7890171653449": {
+      "code": "7890171653449",
+      "name": "Legging elástico roxo malva AG g",
+      "price": 369
     }
   },
   "clients": {
@@ -9074,5 +9079,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-15T17:58:23.820Z"
+  "savedAt": "2026-07-15T17:58:40.536Z"
 }
