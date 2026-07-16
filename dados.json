@@ -3874,6 +3874,11 @@
       "code": "7890171651797",
       "name": "Regata cropped refletivo cinza AG M",
       "price": 198
+    },
+    "7890171385302": {
+      "code": "7890171385302",
+      "name": "T-shirt cropped verde água AG M",
+      "price": 149
     }
   },
   "clients": {
@@ -10496,5 +10501,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:10:01.734Z"
+  "savedAt": "2026-07-16T21:10:38.164Z"
 }
