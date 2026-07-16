@@ -4906,9 +4906,15 @@
           "name": "Jaqueta hill verde movimento P",
           "price": 439.9,
           "qty": 1
+        },
+        "7890171654057": {
+          "code": "7890171654057",
+          "name": "Calça reta cos franzido rosa AG M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 6368.9,
+      "total": 6767.9,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9741,5 +9747,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:48:09.910Z"
+  "savedAt": "2026-07-16T16:48:15.866Z"
 }
