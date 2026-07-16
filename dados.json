@@ -5796,9 +5796,15 @@
           "name": "Top shine brilhoso marrom AG M",
           "price": 198,
           "qty": 1
+        },
+        "7890171616017": {
+          "code": "7890171616017",
+          "name": "Cropped bege refletivo AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 8737.299999999996,
+      "total": 8935.299999999996,
       "status": "open"
     }
   },
@@ -10374,5 +10380,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:53:44.215Z"
+  "savedAt": "2026-07-16T18:53:57.116Z"
 }
