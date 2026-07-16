@@ -6007,9 +6007,15 @@
           "name": "Cropped refletivo preto AG g",
           "price": 198,
           "qty": 1
+        },
+        "7901072437790": {
+          "code": "7901072437790",
+          "name": "Jaqueta máxi branca live g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 2191,
+      "total": 2690.9,
       "status": "open"
     }
   },
@@ -10606,5 +10612,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:34:01.812Z"
+  "savedAt": "2026-07-16T21:34:36.841Z"
 }
