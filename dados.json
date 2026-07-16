@@ -3794,6 +3794,11 @@
       "code": "7900292900626",
       "name": "Vestido canelado marrom com zíper Lp pp",
       "price": 493
+    },
+    "7908990971207": {
+      "code": "7908990971207",
+      "name": "Top curve verde live live M",
+      "price": 219.9
     }
   },
   "clients": {
@@ -9985,5 +9990,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:46:22.443Z"
+  "savedAt": "2026-07-16T17:47:17.583Z"
 }
