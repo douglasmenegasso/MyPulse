@@ -3879,6 +3879,11 @@
       "code": "7890171385302",
       "name": "T-shirt cropped verde água AG M",
       "price": 149
+    },
+    "7908990959755": {
+      "code": "7908990959755",
+      "name": "Camiseta air move verde live M",
+      "price": 219.9
     }
   },
   "clients": {
@@ -10501,5 +10506,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:14:23.893Z"
+  "savedAt": "2026-07-16T21:15:06.729Z"
 }
