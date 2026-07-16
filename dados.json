@@ -4096,6 +4096,11 @@
       "id": "c_1784221698831",
       "name": "Jaque salão",
       "phone": ""
+    },
+    "c_1784223679651": {
+      "id": "c_1784223679651",
+      "name": "Célia",
+      "phone": ""
     }
   },
   "orders": {
@@ -9893,5 +9898,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:41:07.889Z"
+  "savedAt": "2026-07-16T17:41:19.653Z"
 }
