@@ -3764,6 +3764,11 @@
       "code": "7901072483063",
       "name": "Legging icon rosa live P",
       "price": 319.9
+    },
+    "7900292725687": {
+      "code": "7900292725687",
+      "name": "Regata canelada preta alça marrom Lp g",
+      "price": 233
     }
   },
   "clients": {
@@ -9783,5 +9788,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:57:43.430Z"
+  "savedAt": "2026-07-16T16:58:09.922Z"
 }
