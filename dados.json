@@ -5596,9 +5596,15 @@
           "name": "Meia cano médio branco lupo 33 a 36",
           "price": 19.9,
           "qty": 1
+        },
+        "7890171378908": {
+          "code": "7890171378908",
+          "name": "Meia rosa AG 34 a 39",
+          "price": 39.9,
+          "qty": 2
         }
       },
-      "total": 169.6,
+      "total": 249.39999999999998,
       "status": "open"
     }
   },
@@ -10174,5 +10180,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:35:06.174Z"
+  "savedAt": "2026-07-16T18:35:13.844Z"
 }
