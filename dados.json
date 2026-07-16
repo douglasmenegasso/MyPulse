@@ -6036,9 +6036,15 @@
           "name": "Legging marrom elástico azul AG M",
           "price": 419,
           "qty": 1
+        },
+        "7890171657362": {
+          "code": "7890171657362",
+          "name": "Top nadador marrom elástico azul AG g",
+          "price": 289,
+          "qty": 1
         }
       },
-      "total": 3659.7000000000003,
+      "total": 3948.7000000000003,
       "status": "open"
     }
   },
@@ -10635,5 +10641,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:36:18.225Z"
+  "savedAt": "2026-07-16T21:36:21.335Z"
 }
