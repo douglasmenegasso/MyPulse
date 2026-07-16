@@ -6060,9 +6060,15 @@
           "name": "Top nadador brilhoso terracota AG M",
           "price": 238,
           "qty": 1
+        },
+        "7890171614501": {
+          "code": "7890171614501",
+          "name": "T-shirt inspiracional terracota AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 4764.700000000001,
+      "total": 4962.700000000001,
       "status": "open"
     }
   },
@@ -10659,5 +10665,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:37:34.274Z"
+  "savedAt": "2026-07-16T21:37:50.726Z"
 }
