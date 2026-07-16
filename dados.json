@@ -5418,9 +5418,15 @@
           "name": "Top curve verde live live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7900415058616": {
+          "code": "7900415058616",
+          "name": "Calça marrom com elástico LP P",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 3583.3,
+      "total": 4026.3,
       "status": "open"
     }
   },
@@ -9996,5 +10002,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:47:21.273Z"
+  "savedAt": "2026-07-16T17:47:58.392Z"
 }
