@@ -6137,9 +6137,15 @@
           "name": "Regata listrada marrom Lp M",
           "price": 223,
           "qty": 1
+        },
+        "7900415030421": {
+          "code": "7900415030421",
+          "name": "Jaqueta preta com elástico Lp M",
+          "price": 853,
+          "qty": 1
         }
       },
-      "total": 1882.9,
+      "total": 2735.9,
       "status": "open"
     }
   },
@@ -10736,5 +10742,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:42:28.376Z"
+  "savedAt": "2026-07-16T21:42:57.635Z"
 }
