@@ -5206,6 +5206,19 @@
       },
       "total": 1337.7,
       "status": "waiting"
+    },
+    "c_1783444825678": {
+      "clientId": "c_1783444825678",
+      "items": {
+        "7900041723025": {
+          "code": "7900041723025",
+          "name": "Blusa um ombro moletom cinza Lp g",
+          "price": 167,
+          "qty": 1
+        }
+      },
+      "total": 167,
+      "status": "open"
     }
   },
   "closed": [
@@ -9764,5 +9777,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:57:22.284Z"
+  "savedAt": "2026-07-16T16:57:36.621Z"
 }
