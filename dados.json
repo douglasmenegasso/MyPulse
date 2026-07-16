@@ -3904,6 +3904,11 @@
       "code": "7908990959830",
       "name": "Regata air move preta live M",
       "price": 199.9
+    },
+    "7908931964671": {
+      "code": "7908931964671",
+      "name": "Regata icon fúcsia live M",
+      "price": 189.9
     }
   },
   "clients": {
@@ -10526,5 +10531,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:16:43.740Z"
+  "savedAt": "2026-07-16T21:17:08.734Z"
 }
