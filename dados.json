@@ -5749,9 +5749,15 @@
           "name": "Regata breath fúcsia  live M",
           "price": 179.9,
           "qty": 1
+        },
+        "7908990961215": {
+          "code": "7908990961215",
+          "name": "Legging icon violeta live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 6931.799999999997,
+      "total": 7251.699999999997,
       "status": "open"
     }
   },
@@ -10327,5 +10333,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:52:01.147Z"
+  "savedAt": "2026-07-16T18:52:04.843Z"
 }
