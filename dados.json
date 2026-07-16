@@ -5684,9 +5684,15 @@
           "name": "Macaquinho fúcsia live live M",
           "price": 399.9,
           "qty": 1
+        },
+        "7908931961540": {
+          "code": "7908931961540",
+          "name": "Legging com bolso verde água live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 3832.8000000000006,
+      "total": 4152.700000000001,
       "status": "open"
     }
   },
@@ -10262,5 +10268,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:47:09.433Z"
+  "savedAt": "2026-07-16T18:47:33.198Z"
 }
