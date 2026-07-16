@@ -5490,9 +5490,15 @@
           "name": "Camiseta icon azul petróleo live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7890171652428": {
+          "code": "7890171652428",
+          "name": "Jaqueta com bolso versa claro AG M",
+          "price": 489,
+          "qty": 1
         }
       },
-      "total": 7128.2999999999965,
+      "total": 7617.2999999999965,
       "status": "open"
     }
   },
@@ -10068,5 +10074,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:53:20.110Z"
+  "savedAt": "2026-07-16T17:54:10.583Z"
 }
