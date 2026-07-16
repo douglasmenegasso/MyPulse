@@ -3834,6 +3834,11 @@
       "code": "7890171652923",
       "name": "Legging shine brilhosa marrom AG P",
       "price": 298
+    },
+    "7901072492300": {
+      "code": "7901072492300",
+      "name": "Shorts máxi azul petróleo live M",
+      "price": 239.9
     }
   },
   "clients": {
@@ -10380,5 +10385,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:54:02.213Z"
+  "savedAt": "2026-07-16T18:54:59.245Z"
 }
