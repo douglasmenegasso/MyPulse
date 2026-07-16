@@ -5643,9 +5643,15 @@
           "name": "Legging curve uva listra branca DT P",
           "price": 419,
           "qty": 1
+        },
+        "7909746618919": {
+          "code": "7909746618919",
+          "name": "Top curve uva listra branca vivame M ",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 2194.3,
+      "total": 2453.3,
       "status": "open"
     }
   },
@@ -10221,5 +10227,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:44:15.512Z"
+  "savedAt": "2026-07-16T18:44:34.381Z"
 }
