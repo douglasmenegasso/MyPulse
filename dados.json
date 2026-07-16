@@ -3869,6 +3869,11 @@
       "code": "7890171648544",
       "name": "Regata cropped mesh lilás AG M",
       "price": 219
+    },
+    "7890171651797": {
+      "code": "7890171651797",
+      "name": "Regata cropped refletivo cinza AG M",
+      "price": 198
     }
   },
   "clients": {
@@ -10491,5 +10496,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:09:23.357Z"
+  "savedAt": "2026-07-16T21:09:44.482Z"
 }
