@@ -5813,9 +5813,15 @@
           "name": "Shorts máxi azul petróleo live M",
           "price": 239.9,
           "qty": 1
+        },
+        "7901072492485": {
+          "code": "7901072492485",
+          "name": "Top máxi azul petróleo live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 9175.199999999995,
+      "total": 9425.099999999995,
       "status": "open"
     }
   },
@@ -10391,5 +10397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:55:21.060Z"
+  "savedAt": "2026-07-16T18:55:39.645Z"
 }
