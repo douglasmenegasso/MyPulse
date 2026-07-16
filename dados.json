@@ -3769,6 +3769,11 @@
       "code": "7900292725687",
       "name": "Regata canelada preta alça marrom Lp g",
       "price": 233
+    },
+    "7890171628126": {
+      "code": "7890171628126",
+      "name": "Regata canelada rosa AG M",
+      "price": 159
     }
   },
   "clients": {
@@ -9800,5 +9805,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:58:57.518Z"
+  "savedAt": "2026-07-16T16:59:27.935Z"
 }
