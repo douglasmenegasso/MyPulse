@@ -5255,9 +5255,15 @@
           "name": "Regata canelada off alças marrom LP g",
           "price": 233,
           "qty": 1
+        },
+        "7909746620486": {
+          "code": "7909746620486",
+          "name": "Regata canelada marrom DT g",
+          "price": 199,
+          "qty": 1
         }
       },
-      "total": 1318,
+      "total": 1517,
       "status": "open"
     }
   },
@@ -9817,5 +9823,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:59:43.059Z"
+  "savedAt": "2026-07-16T16:59:48.080Z"
 }
