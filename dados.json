@@ -3854,6 +3854,11 @@
       "code": "7908931955648",
       "name": "Camiseta cropped verde live M",
       "price": 219.9
+    },
+    "7890171652848": {
+      "code": "7890171652848",
+      "name": "Regata cropped mesh preto AG M",
+      "price": 219
     }
   },
   "clients": {
@@ -10476,5 +10481,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:08:04.970Z"
+  "savedAt": "2026-07-16T21:08:25.637Z"
 }
