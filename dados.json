@@ -6161,9 +6161,15 @@
           "name": "Calça flare preto DT g",
           "price": 399,
           "qty": 1
+        },
+        "7908990960041": {
+          "code": "7908990960041",
+          "name": "Blusão texturizado verde live g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 3956.9,
+      "total": 4456.8,
       "status": "open"
     }
   },
@@ -10760,5 +10766,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:44:21.774Z"
+  "savedAt": "2026-07-16T21:44:42.681Z"
 }
