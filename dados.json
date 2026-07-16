@@ -5823,6 +5823,19 @@
       },
       "total": 9425.099999999995,
       "status": "waiting"
+    },
+    "c_1783701666054": {
+      "clientId": "c_1783701666054",
+      "items": {
+        "7901072454346": {
+          "code": "7901072454346",
+          "name": "Macacão allure adaptiv marrom live M",
+          "price": 449.9,
+          "qty": 1
+        }
+      },
+      "total": 449.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -10397,5 +10410,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T19:01:11.261Z"
+  "savedAt": "2026-07-16T19:01:17.869Z"
 }
