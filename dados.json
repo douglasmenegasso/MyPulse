@@ -5484,9 +5484,15 @@
           "name": "Top curve azul petróleo live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072434249": {
+          "code": "7901072434249",
+          "name": "Camiseta icon azul petróleo live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 6928.399999999997,
+      "total": 7128.2999999999965,
       "status": "open"
     }
   },
@@ -10062,5 +10068,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:52:34.512Z"
+  "savedAt": "2026-07-16T17:53:09.972Z"
 }
