@@ -5366,9 +5366,15 @@
           "name": "Camisola florida DT M",
           "price": 299,
           "qty": 1
+        },
+        "7900415030124": {
+          "code": "7900415030124",
+          "name": "Vestido curto vazado preto Lp P",
+          "price": 417,
+          "qty": 1
         }
       },
-      "total": 937.6,
+      "total": 1354.6,
       "status": "open"
     }
   },
@@ -9944,5 +9950,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:43:08.130Z"
+  "savedAt": "2026-07-16T17:43:45.112Z"
 }
