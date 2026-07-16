@@ -5232,9 +5232,15 @@
           "name": "Regata canelada preta alça marrom Lp g",
           "price": 233,
           "qty": 1
+        },
+        "7900415361020": {
+          "code": "7900415361020",
+          "name": "Regata canelada marrom bordado azul Lp M",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 663,
+      "total": 926,
       "status": "open"
     }
   },
@@ -9794,5 +9800,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:58:38.030Z"
+  "savedAt": "2026-07-16T16:58:57.518Z"
 }
