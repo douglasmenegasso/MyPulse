@@ -3864,6 +3864,11 @@
       "code": "7890171620120",
       "name": "T-shirt crop preta símbolo aerodry AG M",
       "price": 198
+    },
+    "7890171648544": {
+      "code": "7890171648544",
+      "name": "Regata cropped mesh lilás AG M",
+      "price": 219
     }
   },
   "clients": {
@@ -10486,5 +10491,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:09:01.364Z"
+  "savedAt": "2026-07-16T21:09:23.357Z"
 }
