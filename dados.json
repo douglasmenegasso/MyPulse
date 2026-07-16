@@ -5637,9 +5637,15 @@
           "name": "Jaqueta dark cherry DT P",
           "price": 699,
           "qty": 1
+        },
+        "7909746618933": {
+          "code": "7909746618933",
+          "name": "Legging curve uva listra branca DT P",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 1775.3,
+      "total": 2194.3,
       "status": "open"
     }
   },
@@ -10215,5 +10221,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:43:58.581Z"
+  "savedAt": "2026-07-16T18:44:15.512Z"
 }
