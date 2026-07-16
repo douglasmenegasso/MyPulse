@@ -5755,9 +5755,15 @@
           "name": "Legging icon violeta live M",
           "price": 319.9,
           "qty": 1
+        },
+        "7908990976189": {
+          "code": "7908990976189",
+          "name": "Top icon violeta live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 7251.699999999997,
+      "total": 7501.599999999997,
       "status": "open"
     }
   },
@@ -10333,5 +10339,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:52:04.843Z"
+  "savedAt": "2026-07-16T18:52:18.758Z"
 }
