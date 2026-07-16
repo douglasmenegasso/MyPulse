@@ -5496,9 +5496,15 @@
           "name": "Jaqueta com bolso versa claro AG M",
           "price": 489,
           "qty": 1
+        },
+        "7908931902826": {
+          "code": "7908931902826",
+          "name": "Legging preto live live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 7617.2999999999965,
+      "total": 7947.199999999996,
       "status": "open"
     }
   },
@@ -10074,5 +10080,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:54:10.583Z"
+  "savedAt": "2026-07-16T17:54:19.982Z"
 }
