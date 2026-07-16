@@ -5360,9 +5360,15 @@
           "name": "Pijama short doll marrom com off DT P",
           "price": 439,
           "qty": 1
+        },
+        "7909746546113": {
+          "code": "7909746546113",
+          "name": "Camisola florida DT M",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 638.6,
+      "total": 937.6,
       "status": "open"
     }
   },
@@ -9938,5 +9944,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:42:42.745Z"
+  "savedAt": "2026-07-16T17:43:04.922Z"
 }
