@@ -5290,9 +5290,15 @@
           "name": "T-shirt off com rosa LP g",
           "price": 243,
           "qty": 1
+        },
+        "01603835914": {
+          "code": "01603835914",
+          "name": "Camiseta vita marrom movimento P",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 542.9,
+      "total": 742.8,
       "status": "open"
     }
   },
@@ -9852,5 +9858,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:09:07.245Z"
+  "savedAt": "2026-07-16T17:09:13.133Z"
 }
