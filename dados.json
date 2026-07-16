@@ -5631,9 +5631,15 @@
           "name": "Regata cropped mesh lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "2962746618438": {
+          "code": "2962746618438",
+          "name": "Jaqueta dark cherry DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 1076.3,
+      "total": 1775.3,
       "status": "open"
     }
   },
@@ -10209,5 +10215,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:43:30.021Z"
+  "savedAt": "2026-07-16T18:43:31.988Z"
 }
