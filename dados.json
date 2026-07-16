@@ -5584,9 +5584,15 @@
           "name": "Legging marrom live live M",
           "price": 329.9,
           "qty": 1
+        },
+        "7901072455244": {
+          "code": "7901072455244",
+          "name": "Top curve marrom live live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 9845.599999999995,
+      "total": 10065.499999999995,
       "status": "open"
     },
     "c_1779218832099": {
@@ -10442,5 +10448,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T19:13:46.828Z"
+  "savedAt": "2026-07-16T19:14:05.051Z"
 }
