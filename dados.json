@@ -6066,9 +6066,15 @@
           "name": "T-shirt inspiracional terracota AG M",
           "price": 198,
           "qty": 1
+        },
+        "7909746618681": {
+          "code": "7909746618681",
+          "name": "Caça iconic bordo DT P",
+          "price": 599,
+          "qty": 1
         }
       },
-      "total": 4962.700000000001,
+      "total": 5561.700000000001,
       "status": "open"
     }
   },
@@ -10665,5 +10671,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:37:50.726Z"
+  "savedAt": "2026-07-16T21:38:29.678Z"
 }
