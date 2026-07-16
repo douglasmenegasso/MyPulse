@@ -6078,9 +6078,15 @@
           "name": "Regata canelada bordo AG M",
           "price": 159,
           "qty": 1
+        },
+        "7909746638184": {
+          "code": "7909746638184",
+          "name": "Vestido riviera off com preto DT P",
+          "price": 979,
+          "qty": 1
         }
       },
-      "total": 5720.700000000001,
+      "total": 6699.700000000001,
       "status": "open"
     }
   },
@@ -10677,5 +10683,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:38:41.862Z"
+  "savedAt": "2026-07-16T21:39:27.131Z"
 }
