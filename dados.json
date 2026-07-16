@@ -5284,9 +5284,15 @@
           "name": "Camiseta pima bege live P",
           "price": 299.9,
           "qty": 1
+        },
+        "7900415286941": {
+          "code": "7900415286941",
+          "name": "T-shirt off com rosa LP g",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 299.9,
+      "total": 542.9,
       "status": "open"
     }
   },
@@ -9846,5 +9852,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:08:47.664Z"
+  "savedAt": "2026-07-16T17:08:57.730Z"
 }
