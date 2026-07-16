@@ -6001,9 +6001,15 @@
           "name": "Top elástico preto AG g",
           "price": 219,
           "qty": 1
+        },
+        "7890171649220": {
+          "code": "7890171649220",
+          "name": "Cropped refletivo preto AG g",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 1993,
+      "total": 2191,
       "status": "open"
     }
   },
@@ -10600,5 +10606,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:33:51.281Z"
+  "savedAt": "2026-07-16T21:34:01.812Z"
 }
