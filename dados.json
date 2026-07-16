@@ -5318,9 +5318,15 @@
           "name": "Camiseta move azul claro escrita off DT P",
           "price": 339,
           "qty": 1
+        },
+        "7900292610075": {
+          "code": "7900292610075",
+          "name": "T-shirt off estampa ursinho Lp g",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 1281.6999999999998,
+      "total": 1524.6999999999998,
       "status": "open"
     }
   },
@@ -9880,5 +9886,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:15:47.633Z"
+  "savedAt": "2026-07-16T17:15:53.532Z"
 }
