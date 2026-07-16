@@ -4506,12 +4506,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "7908835804066": {
-          "code": "7908835804066",
-          "name": "Camiseta V action preta live g",
-          "price": 189.9,
-          "qty": 1
-        },
         "7908990956884": {
           "code": "7908990956884",
           "name": "Legging hydefit verde militar live gg",
@@ -4543,7 +4537,7 @@
           "qty": 1
         }
       },
-      "total": 1559.2000000000003,
+      "total": 1369.3000000000002,
       "status": "open"
     },
     "41991098260": {
@@ -9746,6 +9740,15 @@
         "qty": 1,
         "lastAt": "2026-07-16T16:46:57.781Z"
       }
+    },
+    "c_1783444825678": {
+      "7908835804066": {
+        "code": "7908835804066",
+        "name": "Camiseta V action preta live g",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:57:08.814Z"
+      }
     }
   },
   "security": {
@@ -9753,5 +9756,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:57:05.122Z"
+  "savedAt": "2026-07-16T16:57:08.815Z"
 }
