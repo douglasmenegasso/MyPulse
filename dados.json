@@ -3789,6 +3789,11 @@
       "code": "7900292610075",
       "name": "T-shirt off estampa ursinho Lp g",
       "price": 243
+    },
+    "7900292900626": {
+      "code": "7900292900626",
+      "name": "Vestido canelado marrom com zíper Lp pp",
+      "price": 493
     }
   },
   "clients": {
@@ -9950,5 +9955,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:44:08.236Z"
+  "savedAt": "2026-07-16T17:44:21.022Z"
 }
