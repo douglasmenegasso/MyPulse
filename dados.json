@@ -5720,9 +5720,15 @@
           "name": "Top icon preto live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7901072405447": {
+          "code": "7901072405447",
+          "name": "Macaquinho allure bege live M",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 5882.199999999999,
+      "total": 6242.0999999999985,
       "status": "open"
     }
   },
@@ -10298,5 +10304,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:49:06.786Z"
+  "savedAt": "2026-07-16T18:49:36.435Z"
 }
