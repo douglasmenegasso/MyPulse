@@ -5513,9 +5513,15 @@
           "name": "Top curve preto live live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7901072483056": {
+          "code": "7901072483056",
+          "name": "Legging icon rosa ametista live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 8167.099999999996,
+      "total": 8486.999999999996,
       "status": "open"
     }
   },
@@ -10091,5 +10097,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:55:06.422Z"
+  "savedAt": "2026-07-16T17:55:27.549Z"
 }
