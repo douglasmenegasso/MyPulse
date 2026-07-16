@@ -3819,6 +3819,11 @@
       "code": "2962746618438",
       "name": "Jaqueta dark cherry DT P",
       "price": 699
+    },
+    "7901072492140": {
+      "code": "7901072492140",
+      "name": "Macaquinho fúcsia live live M",
+      "price": 399.9
     }
   },
   "clients": {
@@ -10251,5 +10256,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:46:32.755Z"
+  "savedAt": "2026-07-16T18:47:01.186Z"
 }
