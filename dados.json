@@ -5412,9 +5412,15 @@
           "name": "Legging hydefit verde live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908990971207": {
+          "code": "7908990971207",
+          "name": "Top curve verde live live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 3363.4,
+      "total": 3583.3,
       "status": "open"
     }
   },
@@ -9990,5 +9996,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:47:17.583Z"
+  "savedAt": "2026-07-16T17:47:21.273Z"
 }
