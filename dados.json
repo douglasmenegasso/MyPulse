@@ -5354,9 +5354,15 @@
           "name": "Calcinha fio preto lupo M",
           "price": 49.9,
           "qty": 2
+        },
+        "7909746661434": {
+          "code": "7909746661434",
+          "name": "Pijama short doll marrom com off DT P",
+          "price": 439,
+          "qty": 1
         }
       },
-      "total": 199.6,
+      "total": 638.6,
       "status": "open"
     }
   },
@@ -9932,5 +9938,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:42:15.416Z"
+  "savedAt": "2026-07-16T17:42:42.745Z"
 }
