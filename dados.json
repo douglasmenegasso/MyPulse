@@ -5951,6 +5951,19 @@
       },
       "total": 1849.4,
       "status": "waiting"
+    },
+    "c_1784237432107": {
+      "clientId": "c_1784237432107",
+      "items": {
+        "7890171663462": {
+          "code": "7890171663462",
+          "name": "Legging elástico lilás AG M",
+          "price": 369,
+          "qty": 1
+        }
+      },
+      "total": 369,
+      "status": "open"
     }
   },
   "closed": [
@@ -10546,5 +10559,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:30:32.108Z"
+  "savedAt": "2026-07-16T21:30:47.970Z"
 }
