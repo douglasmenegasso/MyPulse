@@ -5743,9 +5743,15 @@
           "name": "Top nadador rosa live live M",
           "price": 259.9,
           "qty": 1
+        },
+        "7901128641836": {
+          "code": "7901128641836",
+          "name": "Regata breath fúcsia  live M",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 6751.899999999998,
+      "total": 6931.799999999997,
       "status": "open"
     }
   },
@@ -10321,5 +10327,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:51:37.294Z"
+  "savedAt": "2026-07-16T18:51:40.656Z"
 }
