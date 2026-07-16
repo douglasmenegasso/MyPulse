@@ -4076,6 +4076,11 @@
       "id": "c_1784140554975",
       "name": "Fia",
       "phone": ""
+    },
+    "c_1784221698831": {
+      "id": "c_1784221698831",
+      "name": "Jaque salão",
+      "phone": ""
     }
   },
   "orders": {
@@ -9823,5 +9828,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:00:26.759Z"
+  "savedAt": "2026-07-16T17:08:18.832Z"
 }
