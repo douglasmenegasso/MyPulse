@@ -3774,6 +3774,11 @@
       "code": "7890171628126",
       "name": "Regata canelada rosa AG M",
       "price": 159
+    },
+    "7901072438032": {
+      "code": "7901072438032",
+      "name": "Camiseta pima bege live P",
+      "price": 299.9
     }
   },
   "clients": {
@@ -5270,6 +5275,12 @@
       },
       "total": 1517,
       "status": "waiting"
+    },
+    "c_1784221698831": {
+      "clientId": "c_1784221698831",
+      "items": {},
+      "total": 0,
+      "status": "open"
     }
   },
   "closed": [
@@ -9828,5 +9839,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:08:18.832Z"
+  "savedAt": "2026-07-16T17:08:43.409Z"
 }
