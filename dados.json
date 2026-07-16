@@ -3849,6 +3849,11 @@
       "code": "7890171413203",
       "name": "T-shirt cropped rosa AG M",
       "price": 229
+    },
+    "7908931955648": {
+      "code": "7908931955648",
+      "name": "Camiseta cropped verde live M",
+      "price": 219.9
     }
   },
   "clients": {
@@ -10471,5 +10476,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:08:01.339Z"
+  "savedAt": "2026-07-16T21:08:04.970Z"
 }
