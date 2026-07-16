@@ -5856,9 +5856,15 @@
           "name": "Top estampa marrom live symbol M",
           "price": 239.9,
           "qty": 1
+        },
+        "7908990985730": {
+          "code": "7908990985730",
+          "name": "Top curve marrom live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 1659.5,
+      "total": 1849.4,
       "status": "open"
     }
   },
@@ -10455,5 +10461,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:02:46.509Z"
+  "savedAt": "2026-07-16T21:03:06.716Z"
 }
