@@ -6119,9 +6119,15 @@
           "name": "Calça wide leg marrom LP M",
           "price": 563,
           "qty": 1
+        },
+        "7901128619071": {
+          "code": "7901128619071",
+          "name": "Jaqueta marrom live symbol g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 563,
+      "total": 1062.9,
       "status": "open"
     }
   },
@@ -10718,5 +10724,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:41:42.936Z"
+  "savedAt": "2026-07-16T21:41:49.845Z"
 }
