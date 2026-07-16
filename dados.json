@@ -5249,9 +5249,15 @@
           "name": "Regata canelada rosa AG M",
           "price": 159,
           "qty": 1
+        },
+        "7900292621446": {
+          "code": "7900292621446",
+          "name": "Regata canelada off alças marrom LP g",
+          "price": 233,
+          "qty": 1
         }
       },
-      "total": 1085,
+      "total": 1318,
       "status": "open"
     }
   },
@@ -9811,5 +9817,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:59:31.643Z"
+  "savedAt": "2026-07-16T16:59:38.404Z"
 }
