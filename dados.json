@@ -3919,6 +3919,11 @@
       "code": "7900172057761",
       "name": "Chinelo preto Lp 37",
       "price": 67
+    },
+    "7890171649220": {
+      "code": "7890171649220",
+      "name": "Cropped refletivo preto AG g",
+      "price": 198
     }
   },
   "clients": {
@@ -10595,5 +10600,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:33:06.957Z"
+  "savedAt": "2026-07-16T21:33:51.281Z"
 }
