@@ -4494,18 +4494,6 @@
     "c_1783444825678": {
       "clientId": "c_1783444825678",
       "items": {
-        "7908990956839": {
-          "code": "7908990956839",
-          "name": "Legging hydefit preto live gg",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908354077088": {
-          "code": "7908354077088",
-          "name": "Top curve preto live gg",
-          "price": 189.9,
-          "qty": 1
-        },
         "7908990956884": {
           "code": "7908990956884",
           "name": "Legging hydefit verde militar live gg",
@@ -4537,7 +4525,7 @@
           "qty": 1
         }
       },
-      "total": 1369.3000000000002,
+      "total": 979.5000000000001,
       "status": "open"
     },
     "41991098260": {
@@ -9748,6 +9736,20 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-16T16:57:08.814Z"
+      },
+      "7908354077088": {
+        "code": "7908354077088",
+        "name": "Top curve preto live gg",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:57:09.669Z"
+      },
+      "7908990956839": {
+        "code": "7908990956839",
+        "name": "Legging hydefit preto live gg",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:57:10.417Z"
       }
     }
   },
@@ -9756,5 +9758,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:57:08.815Z"
+  "savedAt": "2026-07-16T16:57:12.282Z"
 }
