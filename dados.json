@@ -5215,9 +5215,15 @@
           "name": "Blusa um ombro moletom cinza Lp g",
           "price": 167,
           "qty": 1
+        },
+        "7900292387090": {
+          "code": "7900292387090",
+          "name": "Regata off com bege lp g",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 167,
+      "total": 430,
       "status": "open"
     }
   },
@@ -9777,5 +9783,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:57:40.086Z"
+  "savedAt": "2026-07-16T16:57:43.430Z"
 }
