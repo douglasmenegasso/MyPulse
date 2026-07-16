@@ -5573,9 +5573,15 @@
           "name": "Calcinha fio nude lupo M",
           "price": 49.9,
           "qty": 1
+        },
+        "7891186357520": {
+          "code": "7891186357520",
+          "name": "Calcinha fio preto lupo M",
+          "price": 49.9,
+          "qty": 1
         }
       },
-      "total": 49.9,
+      "total": 99.8,
       "status": "open"
     }
   },
@@ -10151,5 +10157,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:32:56.816Z"
+  "savedAt": "2026-07-16T18:33:03.338Z"
 }
