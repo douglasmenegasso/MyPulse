@@ -5307,9 +5307,15 @@
           "name": "Camiseta vita off com bordo movimento P",
           "price": 199.9,
           "qty": 1
+        },
+        "7909746620837": {
+          "code": "7909746620837",
+          "name": "Camiseta move azul claro escrita off DT P",
+          "price": 339,
+          "qty": 1
         }
       },
-      "total": 942.6999999999999,
+      "total": 1281.6999999999998,
       "status": "open"
     }
   },
@@ -9869,5 +9875,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:14:58.294Z"
+  "savedAt": "2026-07-16T17:15:00.713Z"
 }
