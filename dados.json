@@ -6048,9 +6048,15 @@
           "name": "T-shirt off com detalhes marrom AG M",
           "price": 259,
           "qty": 1
+        },
+        "7890171616079": {
+          "code": "7890171616079",
+          "name": "Legging brilhosa terracota AG M",
+          "price": 319,
+          "qty": 1
         }
       },
-      "total": 4207.700000000001,
+      "total": 4526.700000000001,
       "status": "open"
     }
   },
@@ -10647,5 +10653,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:36:45.181Z"
+  "savedAt": "2026-07-16T21:37:08.313Z"
 }
