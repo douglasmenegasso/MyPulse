@@ -5536,9 +5536,15 @@
           "name": "Camiseta icon rosa live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072486170": {
+          "code": "7901072486170",
+          "name": "Macaquinho tex marrom live M",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 8876.799999999996,
+      "total": 9276.699999999995,
       "status": "open"
     }
   },
@@ -10114,5 +10120,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:56:37.995Z"
+  "savedAt": "2026-07-16T17:56:58.882Z"
 }
