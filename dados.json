@@ -5430,9 +5430,15 @@
           "name": "Top Sport duplo marrom com elástico LP M",
           "price": 333,
           "qty": 1
+        },
+        "7901072405447": {
+          "code": "7901072405447",
+          "name": "Macaquinho allure bege live M",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 4359.3,
+      "total": 4719.2,
       "status": "open"
     }
   },
@@ -10008,5 +10014,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:48:11.930Z"
+  "savedAt": "2026-07-16T17:48:39.980Z"
 }
