@@ -5383,9 +5383,15 @@
           "name": "Vestido canelado marrom com zíper Lp pp",
           "price": 493,
           "qty": 1
+        },
+        "7900415268572": {
+          "code": "7900415268572",
+          "name": "Shorts jeans bege com detalhe couro LP 36",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 1847.6,
+      "total": 2400.6,
       "status": "open"
     }
   },
@@ -9961,5 +9967,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:45:08.782Z"
+  "savedAt": "2026-07-16T17:45:12.914Z"
 }
