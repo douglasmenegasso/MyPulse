@@ -5554,9 +5554,15 @@
           "name": "Top estampa marrom live symbol M",
           "price": 239.9,
           "qty": 1
+        },
+        "7890171652671": {
+          "code": "7890171652671",
+          "name": "T-shirt com tule branca AG M",
+          "price": 239,
+          "qty": 1
         }
       },
-      "total": 9846.499999999995,
+      "total": 10085.499999999995,
       "status": "open"
     }
   },
@@ -10132,5 +10138,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:57:44.096Z"
+  "savedAt": "2026-07-16T17:57:59.552Z"
 }
