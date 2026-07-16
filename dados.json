@@ -5583,7 +5583,7 @@
           "code": "7901072485647",
           "name": "Legging marrom live live M",
           "price": 329.9,
-          "qty": 2
+          "qty": 1
         },
         "7901072455244": {
           "code": "7901072455244",
@@ -5592,7 +5592,7 @@
           "qty": 1
         }
       },
-      "total": 10395.399999999994,
+      "total": 10065.499999999995,
       "status": "open"
     },
     "c_1779218832099": {
@@ -10440,6 +10440,13 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-16T19:13:08.583Z"
+      },
+      "7901072485647": {
+        "code": "7901072485647",
+        "name": "Legging marrom live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T19:14:20.794Z"
       }
     }
   },
@@ -10448,5 +10455,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T19:14:17.038Z"
+  "savedAt": "2026-07-16T19:14:23.234Z"
 }
