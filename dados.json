@@ -3889,6 +3889,11 @@
       "code": "7909746616533",
       "name": "Regata sense oliva vivame M",
       "price": 299
+    },
+    "7901072402033": {
+      "code": "7901072402033",
+      "name": "Regata pima branca live M",
+      "price": 249.9
     }
   },
   "clients": {
@@ -10511,5 +10516,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:15:29.861Z"
+  "savedAt": "2026-07-16T21:15:58.808Z"
 }
