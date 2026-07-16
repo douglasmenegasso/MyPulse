@@ -3914,6 +3914,11 @@
       "code": "7900172057730",
       "name": "Chinelo preto LP 33/34",
       "price": 67
+    },
+    "7900172057761": {
+      "code": "7900172057761",
+      "name": "Chinelo preto Lp 37",
+      "price": 67
     }
   },
   "clients": {
@@ -10536,5 +10541,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:18:24.440Z"
+  "savedAt": "2026-07-16T21:19:00.179Z"
 }
