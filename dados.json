@@ -5702,9 +5702,15 @@
           "name": "Regata verde água live M",
           "price": 179.9,
           "qty": 1
+        },
+        "7901072423700": {
+          "code": "7901072423700",
+          "name": "Jaqueta dupla face preto e bege live P",
+          "price": 699.9,
+          "qty": 1
         }
       },
-      "total": 4612.5,
+      "total": 5312.4,
       "status": "open"
     }
   },
@@ -10280,5 +10286,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:48:21.641Z"
+  "savedAt": "2026-07-16T18:48:38.222Z"
 }
