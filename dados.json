@@ -4499,33 +4499,9 @@
           "name": "Legging hydefit verde militar live gg",
           "price": 199.9,
           "qty": 1
-        },
-        "7901128629841": {
-          "code": "7901128629841",
-          "name": "Camiseta icon branco live g",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908354077002": {
-          "code": "7908354077002",
-          "name": "Top curve branco live gg",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7901072413459": {
-          "code": "7901072413459",
-          "name": "Legging hydefit marrom live gg",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908835803960": {
-          "code": "7908835803960",
-          "name": "Camiseta V action branca live g",
-          "price": 189.9,
-          "qty": 1
         }
       },
-      "total": 979.5000000000001,
+      "total": 199.90000000000018,
       "status": "open"
     },
     "41991098260": {
@@ -9750,6 +9726,34 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-16T16:57:10.417Z"
+      },
+      "7908835803960": {
+        "code": "7908835803960",
+        "name": "Camiseta V action branca live g",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:57:12.657Z"
+      },
+      "7901072413459": {
+        "code": "7901072413459",
+        "name": "Legging hydefit marrom live gg",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:57:13.895Z"
+      },
+      "7908354077002": {
+        "code": "7908354077002",
+        "name": "Top curve branco live gg",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:57:14.588Z"
+      },
+      "7901128629841": {
+        "code": "7901128629841",
+        "name": "Camiseta icon branco live g",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:57:15.373Z"
       }
     }
   },
@@ -9758,5 +9762,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:57:12.282Z"
+  "savedAt": "2026-07-16T16:57:15.374Z"
 }
