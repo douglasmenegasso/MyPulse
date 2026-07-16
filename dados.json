@@ -5226,9 +5226,15 @@
           "name": "Regata off com bege lp g",
           "price": 263,
           "qty": 1
+        },
+        "7900292725687": {
+          "code": "7900292725687",
+          "name": "Regata canelada preta alça marrom Lp g",
+          "price": 233,
+          "qty": 1
         }
       },
-      "total": 430,
+      "total": 663,
       "status": "open"
     }
   },
@@ -9788,5 +9794,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:58:09.922Z"
+  "savedAt": "2026-07-16T16:58:12.325Z"
 }
