@@ -6105,6 +6105,19 @@
       },
       "total": 7267.700000000001,
       "status": "waiting"
+    },
+    "c_1784238047579": {
+      "clientId": "c_1784238047579",
+      "items": {
+        "7900415002688": {
+          "code": "7900415002688",
+          "name": "Calça wide leg marrom LP M",
+          "price": 563,
+          "qty": 1
+        }
+      },
+      "total": 563,
+      "status": "open"
     }
   },
   "closed": [
@@ -10700,5 +10713,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:40:47.580Z"
+  "savedAt": "2026-07-16T21:41:11.956Z"
 }
