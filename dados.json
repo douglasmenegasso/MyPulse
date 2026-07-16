@@ -3814,6 +3814,11 @@
       "code": "7909392379317",
       "name": "Meia cano médio branco lupo 33 a 36",
       "price": 19.9
+    },
+    "2962746618438": {
+      "code": "2962746618438",
+      "name": "Jaqueta dark cherry DT P",
+      "price": 699
     }
   },
   "clients": {
@@ -10204,5 +10209,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:39:03.873Z"
+  "savedAt": "2026-07-16T18:43:30.021Z"
 }
