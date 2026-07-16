@@ -4749,12 +4749,6 @@
           "price": 243,
           "qty": 1
         },
-        "7900292886524": {
-          "code": "7900292886524",
-          "name": "Legging jacquard marrom LP P",
-          "price": 297,
-          "qty": 1
-        },
         "7890171628119": {
           "code": "7890171628119",
           "name": "Regata canelada rosa AG P",
@@ -4774,7 +4768,7 @@
           "qty": 1
         }
       },
-      "total": 1788,
+      "total": 1491,
       "status": "open"
     },
     "c_1783710465465": {
@@ -9731,6 +9725,15 @@
         "qty": 1,
         "lastAt": "2026-07-15T19:14:40.681Z"
       }
+    },
+    "c_1783632087135": {
+      "7900292886524": {
+        "code": "7900292886524",
+        "name": "Legging jacquard marrom LP P",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-16T16:46:57.781Z"
+      }
     }
   },
   "security": {
@@ -9738,5 +9741,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T16:46:53.217Z"
+  "savedAt": "2026-07-16T16:46:57.782Z"
 }
