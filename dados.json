@@ -5296,9 +5296,15 @@
           "name": "Camiseta vita marrom movimento P",
           "price": 199.9,
           "qty": 1
+        },
+        "01603835629": {
+          "code": "01603835629",
+          "name": "Camiseta vita off com bordo movimento P",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 742.8,
+      "total": 942.6999999999999,
       "status": "open"
     }
   },
@@ -9858,5 +9864,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:09:13.133Z"
+  "savedAt": "2026-07-16T17:09:24.194Z"
 }
