@@ -5436,9 +5436,15 @@
           "name": "Macaquinho allure bege live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7908990972563": {
+          "code": "7908990972563",
+          "name": "Legging máxi vermelho live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 4719.2,
+      "total": 5049.099999999999,
       "status": "open"
     }
   },
@@ -10014,5 +10020,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T17:48:44.263Z"
+  "savedAt": "2026-07-16T17:49:07.286Z"
 }
