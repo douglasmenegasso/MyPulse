@@ -5767,9 +5767,15 @@
           "name": "Regata soft off live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7901072484657": {
+          "code": "7901072484657",
+          "name": "Shorts tex marrom live M",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 7721.499999999996,
+      "total": 7961.399999999996,
       "status": "open"
     }
   },
@@ -10345,5 +10351,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:52:37.557Z"
+  "savedAt": "2026-07-16T18:52:53.491Z"
 }
