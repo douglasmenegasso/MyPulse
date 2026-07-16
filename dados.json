@@ -3909,6 +3909,11 @@
       "code": "7908931964671",
       "name": "Regata icon fúcsia live M",
       "price": 189.9
+    },
+    "7900172057730": {
+      "code": "7900172057730",
+      "name": "Chinelo preto LP 33/34",
+      "price": 67
     }
   },
   "clients": {
@@ -10531,5 +10536,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:17:24.138Z"
+  "savedAt": "2026-07-16T21:18:13.585Z"
 }
