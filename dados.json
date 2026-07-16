@@ -5708,9 +5708,15 @@
           "name": "Jaqueta dupla face preto e bege live P",
           "price": 699.9,
           "qty": 1
+        },
+        "7908754514282": {
+          "code": "7908754514282",
+          "name": "Legging icon preta live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 5312.4,
+      "total": 5632.299999999999,
       "status": "open"
     }
   },
@@ -10286,5 +10292,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T18:48:38.222Z"
+  "savedAt": "2026-07-16T18:48:58.468Z"
 }
