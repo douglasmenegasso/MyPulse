@@ -5984,9 +5984,15 @@
           "name": "Legging assimétrica preto com off AG M",
           "price": 449,
           "qty": 1
+        },
+        "7890171662717": {
+          "code": "7890171662717",
+          "name": "Bermuda elástico preto com off AG M",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 1515,
+      "total": 1774,
       "status": "open"
     }
   },
@@ -10583,5 +10589,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-16T21:32:18.331Z"
+  "savedAt": "2026-07-16T21:32:35.774Z"
 }
