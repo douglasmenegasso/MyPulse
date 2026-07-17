@@ -5019,12 +5019,6 @@
     "c_1784049002709": {
       "clientId": "c_1784049002709",
       "items": {
-        "7890171652435": {
-          "code": "7890171652435",
-          "name": "Jaqueta ajustada com bolso preto AG M",
-          "price": 489,
-          "qty": 1
-        },
         "7908990921301": {
           "code": "7908990921301",
           "name": "Jaqueta harmony preta live M",
@@ -5050,7 +5044,7 @@
           "qty": 1
         }
       },
-      "total": 1687.7000000000003,
+      "total": 1198.7000000000003,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10797,6 +10791,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:56:14.862Z"
+      },
+      "7890171652435": {
+        "code": "7890171652435",
+        "name": "Jaqueta ajustada com bolso preto AG M",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:56:27.551Z"
       }
     }
   },
@@ -10805,5 +10806,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:56:24.737Z"
+  "savedAt": "2026-07-17T16:56:28.843Z"
 }
