@@ -3984,6 +3984,11 @@
       "code": "7900292387113",
       "name": "Regata off com bege bordado Lp M",
       "price": 263
+    },
+    "7890171533901": {
+      "code": "7890171533901",
+      "name": "T-shirt casual preta AG P",
+      "price": 229
     }
   },
   "clients": {
@@ -11076,5 +11081,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:29:02.099Z"
+  "savedAt": "2026-07-17T21:29:29.232Z"
 }
