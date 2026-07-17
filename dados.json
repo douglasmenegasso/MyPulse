@@ -5954,9 +5954,15 @@
           "name": "T-shirt off com rosa LP M",
           "price": 243,
           "qty": 1
+        },
+        "7901072402293": {
+          "code": "7901072402293",
+          "name": "Calça reta vermelha live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 2592.8,
+      "total": 2992.7000000000003,
       "status": "open"
     }
   },
@@ -11047,5 +11053,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:26:29.438Z"
+  "savedAt": "2026-07-17T21:26:39.134Z"
 }
