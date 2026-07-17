@@ -5176,9 +5176,15 @@
           "name": "Jaqueta seamless preto live M",
           "price": 649.9,
           "qty": 1
+        },
+        "7901072406383": {
+          "code": "7901072406383",
+          "name": "Blusão pose bege live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 2674.5,
+      "total": 3074.4,
       "status": "open"
     },
     "c_1784223679651": {
@@ -11015,5 +11021,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:43:49.959Z"
+  "savedAt": "2026-07-17T17:44:01.365Z"
 }
