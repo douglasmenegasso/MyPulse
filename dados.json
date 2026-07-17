@@ -5073,12 +5073,6 @@
           "price": 279.9,
           "qty": 1
         },
-        "7908990956846": {
-          "code": "7908990956846",
-          "name": "Legging hydefit preto live M",
-          "price": 179.9,
-          "qty": 1
-        },
         "1778001000203": {
           "code": "1778001000203",
           "name": "Legging marcelle preto CCM P",
@@ -5086,7 +5080,7 @@
           "qty": 1
         }
       },
-      "total": 3127.100000000001,
+      "total": 2947.2000000000007,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10791,6 +10785,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:54:45.042Z"
+      },
+      "7908990956846": {
+        "code": "7908990956846",
+        "name": "Legging hydefit preto live M",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:54:53.990Z"
       }
     }
   },
@@ -10799,5 +10800,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:54:45.043Z"
+  "savedAt": "2026-07-17T16:54:53.991Z"
 }
