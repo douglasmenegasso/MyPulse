@@ -4286,6 +4286,11 @@
       "id": "c_1784237432107",
       "name": "Fernanda Prima",
       "phone": ""
+    },
+    "c_1784322913411": {
+      "id": "c_1784322913411",
+      "name": "Larissa cliente Jaque salão",
+      "phone": ""
     }
   },
   "orders": {
@@ -10983,5 +10988,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:14:46.764Z"
+  "savedAt": "2026-07-17T21:15:13.412Z"
 }
