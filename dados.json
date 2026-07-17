@@ -5989,9 +5989,15 @@
           "name": "Regata listrada marrom Lp M",
           "price": 223,
           "qty": 1
+        },
+        "7908990960041": {
+          "code": "7908990960041",
+          "name": "Blusão texturizado verde live g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 8430.7,
+      "total": 8930.6,
       "status": "open"
     },
     "c_1784238047579": {
@@ -10899,5 +10905,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:18:11.621Z"
+  "savedAt": "2026-07-17T17:18:23.989Z"
 }
