@@ -6123,9 +6123,15 @@
           "name": "Camiseta icon violeta live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072402033": {
+          "code": "7901072402033",
+          "name": "Regata pima branca live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 8730.499999999996,
+      "total": 8980.399999999996,
       "status": "open"
     }
   },
@@ -11225,5 +11231,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:36:42.713Z"
+  "savedAt": "2026-07-17T21:36:54.966Z"
 }
