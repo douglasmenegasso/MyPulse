@@ -5899,6 +5899,19 @@
       },
       "total": 97.5,
       "status": "waiting"
+    },
+    "c_1784322913411": {
+      "clientId": "c_1784322913411",
+      "items": {
+        "7900292896639": {
+          "code": "7900292896639",
+          "name": "Calça pantalona preta moletom lp P",
+          "price": 563,
+          "qty": 1
+        }
+      },
+      "total": 563,
+      "status": "open"
     }
   },
   "closed": [
@@ -10988,5 +11001,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:15:13.412Z"
+  "savedAt": "2026-07-17T21:22:55.552Z"
 }
