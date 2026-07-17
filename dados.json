@@ -6147,9 +6147,15 @@
           "name": "Camiseta icon azul petróleo live M ",
           "price": 199.9,
           "qty": 1
+        },
+        "7908931977053": {
+          "code": "7908931977053",
+          "name": "Camiseta verde live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 9630.099999999995,
+      "total": 9829.999999999995,
       "status": "open"
     }
   },
@@ -11249,5 +11255,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:37:25.466Z"
+  "savedAt": "2026-07-17T21:37:35.042Z"
 }
