@@ -5031,12 +5031,6 @@
           "price": 379.9,
           "qty": 1
         },
-        "7908678747919": {
-          "code": "7908678747919",
-          "name": "Regata icon preta live M",
-          "price": 189.9,
-          "qty": 1
-        },
         "7908754537908": {
           "code": "7908754537908",
           "name": "Camiseta icon preta live M",
@@ -5062,7 +5056,7 @@
           "qty": 1
         }
       },
-      "total": 2077.5000000000005,
+      "total": 1887.6000000000004,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10795,6 +10789,13 @@
         "price": 259.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:55:17.607Z"
+      },
+      "7908678747919": {
+        "code": "7908678747919",
+        "name": "Regata icon preta live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:56:06.553Z"
       }
     }
   },
@@ -10803,5 +10804,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:55:24.589Z"
+  "savedAt": "2026-07-17T16:56:06.554Z"
 }
