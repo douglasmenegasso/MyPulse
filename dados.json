@@ -6069,9 +6069,15 @@
           "name": "Top alças fina preto live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7908931976728": {
+          "code": "7908931976728",
+          "name": "Legging grafeno roxo malva live M",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 539.8,
+      "total": 939.6999999999999,
       "status": "open"
     }
   },
@@ -10846,5 +10852,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:08:10.838Z"
+  "savedAt": "2026-07-17T17:08:24.892Z"
 }
