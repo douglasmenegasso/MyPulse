@@ -6117,9 +6117,15 @@
           "name": "Camiseta V action preta live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7908931962608": {
+          "code": "7908931962608",
+          "name": "Camiseta icon violeta live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 8530.599999999997,
+      "total": 8730.499999999996,
       "status": "open"
     }
   },
@@ -11219,5 +11225,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:36:31.702Z"
+  "savedAt": "2026-07-17T21:36:42.713Z"
 }
