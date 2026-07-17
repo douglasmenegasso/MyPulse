@@ -6046,9 +6046,15 @@
           "name": "Camiseta texturizada live verde M",
           "price": 349.9,
           "qty": 1
+        },
+        "7901128628578": {
+          "code": "7901128628578",
+          "name": "Legging hydefit azul live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 5874.6,
+      "total": 6074.5,
       "status": "open"
     }
   },
@@ -11148,5 +11154,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:32:30.984Z"
+  "savedAt": "2026-07-17T21:32:56.135Z"
 }
