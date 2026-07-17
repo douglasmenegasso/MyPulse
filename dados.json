@@ -6063,9 +6063,15 @@
           "name": "Shorts grafeno preto live M",
           "price": 319.9,
           "qty": 1
+        },
+        "7901072412483": {
+          "code": "7901072412483",
+          "name": "Top alças fina preto live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 319.9,
+      "total": 539.8,
       "status": "open"
     }
   },
@@ -10840,5 +10846,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:08:04.976Z"
+  "savedAt": "2026-07-17T17:08:10.838Z"
 }
