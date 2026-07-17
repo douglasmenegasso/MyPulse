@@ -5061,12 +5061,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7908835808095": {
-          "code": "7908835808095",
-          "name": "Top cut out preto live M",
-          "price": 279.9,
-          "qty": 1
-        },
         "1778001000203": {
           "code": "1778001000203",
           "name": "Legging marcelle preto CCM P",
@@ -5074,7 +5068,7 @@
           "qty": 1
         }
       },
-      "total": 2617.3000000000006,
+      "total": 2337.4000000000005,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10793,6 +10787,13 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:55:01.301Z"
+      },
+      "7908835808095": {
+        "code": "7908835808095",
+        "name": "Top cut out preto live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:55:08.845Z"
       }
     }
   },
@@ -10801,5 +10802,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:55:01.302Z"
+  "savedAt": "2026-07-17T16:55:08.846Z"
 }
