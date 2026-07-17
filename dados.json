@@ -5106,15 +5106,9 @@
           "name": "Camiseta cropped preto live g",
           "price": 179.9,
           "qty": 1
-        },
-        "7908990985945": {
-          "code": "7908990985945",
-          "name": "Top curve vermelho live G",
-          "price": 189.9,
-          "qty": 1
         }
       },
-      "total": 2944.9999999999986,
+      "total": 2755.0999999999985,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10946,6 +10940,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:30:39.768Z"
+      },
+      "7908990985945": {
+        "code": "7908990985945",
+        "name": "Top curve vermelho live G",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:30:42.761Z"
       }
     }
   },
@@ -10954,5 +10955,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:30:39.770Z"
+  "savedAt": "2026-07-17T17:30:42.762Z"
 }
