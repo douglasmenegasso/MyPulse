@@ -5101,12 +5101,6 @@
           "price": 219,
           "qty": 1
         },
-        "7901072451239": {
-          "code": "7901072451239",
-          "name": "Top icon rosa live g",
-          "price": 249.9,
-          "qty": 1
-        },
         "7901128642208": {
           "code": "7901128642208",
           "name": "Camiseta cropped pink live g",
@@ -5144,7 +5138,7 @@
           "qty": 1
         }
       },
-      "total": 4072.599999999999,
+      "total": 3822.699999999999,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10941,6 +10935,13 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:29:43.490Z"
+      },
+      "7901072451239": {
+        "code": "7901072451239",
+        "name": "Top icon rosa live g",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:29:52.179Z"
       }
     }
   },
@@ -10949,5 +10950,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:29:48.923Z"
+  "savedAt": "2026-07-17T17:29:52.180Z"
 }
