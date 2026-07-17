@@ -5029,18 +5029,6 @@
     "c_1784135024747": {
       "clientId": "c_1784135024747",
       "items": {
-        "7901072413466": {
-          "code": "7901072413466",
-          "name": "Legging hydefit marrom live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908011244686": {
-          "code": "7908011244686",
-          "name": "Top curve branco live M",
-          "price": 189.9,
-          "qty": 1
-        },
         "7901128629834": {
           "code": "7901128629834",
           "name": "Camiseta icon branca live M",
@@ -5084,7 +5072,7 @@
           "qty": 1
         }
       },
-      "total": 1965.4999999999982,
+      "total": 1575.699999999998,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10951,6 +10939,20 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:31:03.963Z"
+      },
+      "7901072413466": {
+        "code": "7901072413466",
+        "name": "Legging hydefit marrom live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:31:08.199Z"
+      },
+      "7908011244686": {
+        "code": "7908011244686",
+        "name": "Top curve branco live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:31:11.076Z"
       }
     }
   },
@@ -10959,5 +10961,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:31:06.866Z"
+  "savedAt": "2026-07-17T17:31:11.077Z"
 }
