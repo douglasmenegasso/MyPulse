@@ -6105,9 +6105,15 @@
           "name": "Camiseta harmony laranja live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7890171342534": {
+          "code": "7890171342534",
+          "name": "T-shirt cropped cinza AG M",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 8143.699999999997,
+      "total": 8340.699999999997,
       "status": "open"
     }
   },
@@ -11207,5 +11213,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:36:01.200Z"
+  "savedAt": "2026-07-17T21:36:20.557Z"
 }
