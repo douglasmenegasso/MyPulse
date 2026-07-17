@@ -5971,9 +5971,15 @@
           "name": "Legging com pezinho preto DT M",
           "price": 259,
           "qty": 1
+        },
+        "7890171654064": {
+          "code": "7890171654064",
+          "name": "Calça reta com franzido preto AG M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 7211.700000000001,
+      "total": 7610.700000000001,
       "status": "open"
     },
     "c_1784238047579": {
@@ -10881,5 +10887,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:17:40.679Z"
+  "savedAt": "2026-07-17T17:17:49.600Z"
 }
