@@ -5948,9 +5948,15 @@
           "name": "Calça sarja lilás Colcci 38",
           "price": 377,
           "qty": 1
+        },
+        "7900415286965": {
+          "code": "7900415286965",
+          "name": "T-shirt off com rosa LP M",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 2349.8,
+      "total": 2592.8,
       "status": "open"
     }
   },
@@ -11041,5 +11047,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:26:11.304Z"
+  "savedAt": "2026-07-17T21:26:29.438Z"
 }
