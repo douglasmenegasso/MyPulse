@@ -4281,11 +4281,6 @@
       "id": "c_1784237432107",
       "name": "Fernanda Prima",
       "phone": ""
-    },
-    "c_1784238047579": {
-      "id": "c_1784238047579",
-      "name": "Adriana prima",
-      "phone": ""
     }
   },
   "orders": {
@@ -5861,85 +5856,6 @@
         }
       },
       "total": 11220.5,
-      "status": "waiting"
-    },
-    "c_1784238047579": {
-      "clientId": "c_1784238047579",
-      "items": {
-        "7900415002688": {
-          "code": "7900415002688",
-          "name": "Calça wide leg marrom LP M",
-          "price": 563,
-          "qty": 1
-        },
-        "7901128619071": {
-          "code": "7901128619071",
-          "name": "Jaqueta marrom live symbol g",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7900292959075": {
-          "code": "7900292959075",
-          "name": "Calça alfaiataria marrom Lp M",
-          "price": 597,
-          "qty": 1
-        },
-        "7900292955398": {
-          "code": "7900292955398",
-          "name": "Regata listrada marrom Lp M",
-          "price": 223,
-          "qty": 1
-        },
-        "7900415030421": {
-          "code": "7900415030421",
-          "name": "Jaqueta preta com elástico Lp M",
-          "price": 853,
-          "qty": 1
-        },
-        "7890171654323": {
-          "code": "7890171654323",
-          "name": "Top assimétrico preto com off AG g",
-          "price": 379,
-          "qty": 1
-        },
-        "7900415040093": {
-          "code": "7900415040093",
-          "name": "Calça wide leg com elástico preto LP g",
-          "price": 443,
-          "qty": 1
-        },
-        "7909746613693": {
-          "code": "7909746613693",
-          "name": "Calça flare preto DT g",
-          "price": 399,
-          "qty": 1
-        },
-        "7908990960041": {
-          "code": "7908990960041",
-          "name": "Blusão texturizado verde live g",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960201": {
-          "code": "7908990960201",
-          "name": "Calça texturizada verde live G",
-          "price": 599.9,
-          "qty": 1
-        },
-        "7909746618056": {
-          "code": "7909746618056",
-          "name": "Calça com bolso roxo DT M",
-          "price": 449,
-          "qty": 1
-        },
-        "7909746617288": {
-          "code": "7909746617288",
-          "name": "Regata elite roxo DT g",
-          "price": 299,
-          "qty": 1
-        }
-      },
-      "total": 5804.7,
       "status": "waiting"
     },
     "c_1784049002709": {
@@ -11021,5 +10937,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:44:05.795Z"
+  "savedAt": "2026-07-17T17:45:10.180Z"
 }
