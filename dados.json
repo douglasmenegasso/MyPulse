@@ -3964,6 +3964,11 @@
       "code": "7891186349631",
       "name": "Meia Sport cano curto branco lupo 41 a 44",
       "price": 19.9
+    },
+    "7909746534073": {
+      "code": "7909746534073",
+      "name": "Vestido Livia drapeado off DT P",
+      "price": 739
     }
   },
   "clients": {
@@ -10943,5 +10948,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:49:14.393Z"
+  "savedAt": "2026-07-17T17:49:28.609Z"
 }
