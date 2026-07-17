@@ -5089,12 +5089,6 @@
           "price": 369,
           "qty": 1
         },
-        "7890171662212": {
-          "code": "7890171662212",
-          "name": "Top elástico roxo malva AG g",
-          "price": 219,
-          "qty": 1
-        },
         "7908931948992": {
           "code": "7908931948992",
           "name": "Legging allure azul petróleo live g",
@@ -5174,7 +5168,7 @@
           "qty": 1
         }
       },
-      "total": 5420.299999999998,
+      "total": 5201.299999999998,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10936,6 +10930,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-17T17:28:15.630Z"
+      },
+      "7890171662212": {
+        "code": "7890171662212",
+        "name": "Top elástico roxo malva AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:28:22.241Z"
       }
     }
   },
@@ -10944,5 +10945,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:28:15.631Z"
+  "savedAt": "2026-07-17T17:28:22.242Z"
 }
