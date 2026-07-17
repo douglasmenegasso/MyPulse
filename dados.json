@@ -5102,15 +5102,9 @@
           "name": "Legging marcelle preto CCM P",
           "price": 249,
           "qty": 1
-        },
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
         }
       },
-      "total": 4046.700000000001,
+      "total": 3996.800000000001,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10787,6 +10781,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:53:55.819Z"
+      },
+      "7909392494240": {
+        "code": "7909392494240",
+        "name": "Kit 3 meias Lupo 34 a 39",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:54:04.012Z"
       }
     }
   },
@@ -10795,5 +10796,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:53:55.820Z"
+  "savedAt": "2026-07-17T16:54:04.013Z"
 }
