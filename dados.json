@@ -3944,6 +3944,11 @@
       "code": "7901072412483",
       "name": "Top alças fina preto live M",
       "price": 219.9
+    },
+    "7909392361498": {
+      "code": "7909392361498",
+      "name": "Meia azul cano curto lupo 41 a 44",
+      "price": 17.9
     }
   },
   "clients": {
@@ -10964,5 +10969,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:34:06.700Z"
+  "savedAt": "2026-07-17T17:34:38.437Z"
 }
