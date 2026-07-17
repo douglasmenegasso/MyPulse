@@ -5079,12 +5079,6 @@
           "price": 179.9,
           "qty": 1
         },
-        "7901072428064": {
-          "code": "7901072428064",
-          "name": "Top máxi preto live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "1778001000203": {
           "code": "1778001000203",
           "name": "Legging marcelle preto CCM P",
@@ -5092,7 +5086,7 @@
           "qty": 1
         }
       },
-      "total": 3377.000000000001,
+      "total": 3127.100000000001,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10790,6 +10784,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:54:34.051Z"
+      },
+      "7901072428064": {
+        "code": "7901072428064",
+        "name": "Top máxi preto live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:54:45.042Z"
       }
     }
   },
@@ -10798,5 +10799,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:54:34.052Z"
+  "savedAt": "2026-07-17T16:54:45.043Z"
 }
