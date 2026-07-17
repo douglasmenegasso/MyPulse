@@ -5951,6 +5951,19 @@
       },
       "total": 1259.6,
       "status": "waiting"
+    },
+    "c_1784135024747": {
+      "clientId": "c_1784135024747",
+      "items": {
+        "7909392361498": {
+          "code": "7909392361498",
+          "name": "Meia azul cano curto lupo 41 a 44",
+          "price": 17.9,
+          "qty": 1
+        }
+      },
+      "total": 17.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -10969,5 +10982,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:34:38.437Z"
+  "savedAt": "2026-07-17T17:34:40.607Z"
 }
