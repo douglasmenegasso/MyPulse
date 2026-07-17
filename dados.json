@@ -6013,9 +6013,15 @@
           "name": "Regata elite roxo DT g",
           "price": 299,
           "qty": 1
+        },
+        "7900292887552": {
+          "code": "7900292887552",
+          "name": "Vestido longo azul com zíper Lp M",
+          "price": 493,
+          "qty": 1
         }
       },
-      "total": 10278.5,
+      "total": 10771.5,
       "status": "open"
     },
     "c_1784238047579": {
@@ -10923,5 +10929,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:24:37.055Z"
+  "savedAt": "2026-07-17T17:24:40.159Z"
 }
