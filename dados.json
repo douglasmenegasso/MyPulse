@@ -5652,19 +5652,6 @@
       "total": 9425.099999999995,
       "status": "waiting"
     },
-    "c_1783701666054": {
-      "clientId": "c_1783701666054",
-      "items": {
-        "7908990985730": {
-          "code": "7908990985730",
-          "name": "Top curve marrom live M",
-          "price": 189.9,
-          "qty": 1
-        }
-      },
-      "total": 189.89999999999998,
-      "status": "open"
-    },
     "c_1784237432107": {
       "clientId": "c_1784237432107",
       "items": {
@@ -5922,6 +5909,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783701666054",
+      "clientName": "Gabriela 1802",
+      "clientPhone": "",
+      "items": {
+        "7908990985730": {
+          "code": "7908990985730",
+          "name": "Top curve marrom live M",
+          "price": 189.9,
+          "qty": 1
+        }
+      },
+      "total": 189.89999999999998,
+      "closedAt": "2026-07-17T18:36:27.309Z"
+    },
     {
       "clientId": "c_1784135024747",
       "clientName": "Day pilates estivadores",
@@ -10979,5 +10981,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T18:36:23.948Z"
+  "savedAt": "2026-07-17T18:36:27.310Z"
 }
