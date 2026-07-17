@@ -6007,9 +6007,15 @@
           "name": "Calça com bolso roxo DT M",
           "price": 449,
           "qty": 1
+        },
+        "7909746617288": {
+          "code": "7909746617288",
+          "name": "Regata elite roxo DT g",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 9979.5,
+      "total": 10278.5,
       "status": "open"
     },
     "c_1784238047579": {
@@ -10917,5 +10923,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:18:58.580Z"
+  "savedAt": "2026-07-17T17:19:02.068Z"
 }
