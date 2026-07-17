@@ -15,6 +15,11 @@
       "name": "Regata canelada branca bandeira BR LP M ",
       "price": 223
     },
+    "2931": {
+      "code": "2931",
+      "name": "T-shirt canelada off Lp M",
+      "price": 177
+    },
     "3349": {
       "code": "3349",
       "name": "Jaqueta Sport marrom DT M",
@@ -11096,5 +11101,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:29:41.032Z"
+  "savedAt": "2026-07-17T21:30:09.294Z"
 }
