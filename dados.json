@@ -5059,12 +5059,6 @@
           "price": 189,
           "qty": 1
         },
-        "7908931913891": {
-          "code": "7908931913891",
-          "name": "Top curve allure azul petróleo live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7890171662410": {
           "code": "7890171662410",
           "name": "Legging elástico off com preto AG M",
@@ -5090,7 +5084,7 @@
           "qty": 1
         }
       },
-      "total": 2165.3999999999983,
+      "total": 1965.4999999999982,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10950,6 +10944,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:30:59.257Z"
+      },
+      "7908931913891": {
+        "code": "7908931913891",
+        "name": "Top curve allure azul petróleo live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:31:03.963Z"
       }
     }
   },
@@ -10958,5 +10959,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:31:02.477Z"
+  "savedAt": "2026-07-17T17:31:06.866Z"
 }
