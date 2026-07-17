@@ -5124,15 +5124,9 @@
           "name": "Camiseta cropped branco live g",
           "price": 179.9,
           "qty": 1
-        },
-        "7890171617328": {
-          "code": "7890171617328",
-          "name": "T-shirt cropped rosa AG M",
-          "price": 198,
-          "qty": 1
         }
       },
-      "total": 3642.799999999999,
+      "total": 3444.799999999999,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10943,6 +10937,13 @@
         "price": 179.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:30:01.703Z"
+      },
+      "7890171617328": {
+        "code": "7890171617328",
+        "name": "T-shirt cropped rosa AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:30:09.772Z"
       }
     }
   },
@@ -10951,5 +10952,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:30:01.704Z"
+  "savedAt": "2026-07-17T17:30:09.773Z"
 }
