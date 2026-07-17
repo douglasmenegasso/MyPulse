@@ -5977,9 +5977,15 @@
           "name": "Calça reta com franzido preto AG M",
           "price": 399,
           "qty": 1
+        },
+        "7900292959075": {
+          "code": "7900292959075",
+          "name": "Calça alfaiataria marrom Lp M",
+          "price": 597,
+          "qty": 1
         }
       },
-      "total": 7610.700000000001,
+      "total": 8207.7,
       "status": "open"
     },
     "c_1784238047579": {
@@ -10887,5 +10893,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:17:58.331Z"
+  "savedAt": "2026-07-17T17:18:04.588Z"
 }
