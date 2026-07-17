@@ -4928,12 +4928,6 @@
     "41991536747": {
       "clientId": "41991536747",
       "items": {
-        "01403620243": {
-          "code": "01403620243",
-          "name": "Calça flare preta movimento P",
-          "price": 298,
-          "qty": 1
-        },
         "7890171657393": {
           "code": "7890171657393",
           "name": "Top nadador preto AG m",
@@ -5031,7 +5025,7 @@
           "qty": 1
         }
       },
-      "total": 5577.200000000001,
+      "total": 5279.200000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9486,6 +9480,13 @@
         "price": 649.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:50:13.367Z"
+      },
+      "01403620243": {
+        "code": "01403620243",
+        "name": "Calça flare preta movimento P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:50:33.178Z"
       }
     },
     "41991694056": {
@@ -10787,5 +10788,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:50:24.223Z"
+  "savedAt": "2026-07-17T16:50:33.179Z"
 }
