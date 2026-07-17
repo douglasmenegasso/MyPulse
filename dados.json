@@ -6081,9 +6081,15 @@
           "name": "Jaqueta harmony preta live M",
           "price": 379.9,
           "qty": 1
+        },
+        "7901072485869": {
+          "code": "7901072485869",
+          "name": "Legging fuso tex marrom live M",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 7084.0999999999985,
+      "total": 7443.999999999998,
       "status": "open"
     }
   },
@@ -11183,5 +11189,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:34:24.485Z"
+  "savedAt": "2026-07-17T21:34:46.182Z"
 }
