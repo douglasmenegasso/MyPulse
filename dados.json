@@ -6111,9 +6111,15 @@
           "name": "T-shirt cropped cinza AG M",
           "price": 197,
           "qty": 1
+        },
+        "7908835804042": {
+          "code": "7908835804042",
+          "name": "Camiseta V action preta live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 8340.699999999997,
+      "total": 8530.599999999997,
       "status": "open"
     }
   },
@@ -11213,5 +11219,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:36:25.385Z"
+  "savedAt": "2026-07-17T21:36:31.702Z"
 }
