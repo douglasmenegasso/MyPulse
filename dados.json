@@ -6052,9 +6052,15 @@
           "name": "Legging hydefit azul live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7908754570455": {
+          "code": "7908754570455",
+          "name": "Top curve azul petróleo live g",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 6074.5,
+      "total": 6264.4,
       "status": "open"
     }
   },
@@ -11154,5 +11160,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:32:56.135Z"
+  "savedAt": "2026-07-17T21:33:16.398Z"
 }
