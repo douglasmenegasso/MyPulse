@@ -3994,6 +3994,11 @@
       "code": "7890171533901",
       "name": "T-shirt casual preta AG P",
       "price": 229
+    },
+    "https://produto.liveoficial.com.br/83872.00pt01": {
+      "code": "https://produto.liveoficial.com.br/83872.00pt01",
+      "name": "Regata venal da preta listra off live M",
+      "price": 189
     }
   },
   "clients": {
@@ -11131,5 +11136,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:31:37.374Z"
+  "savedAt": "2026-07-17T21:32:16.934Z"
 }
