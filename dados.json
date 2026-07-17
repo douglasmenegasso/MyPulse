@@ -5928,6 +5928,12 @@
     "c_1784322913411": {
       "clientId": "c_1784322913411",
       "items": {
+        "2931": {
+          "code": "2931",
+          "name": "T-shirt canelada off Lp M",
+          "price": 177,
+          "qty": 1
+        },
         "7900292896639": {
           "code": "7900292896639",
           "name": "Calça pantalona preta moletom lp P",
@@ -6001,7 +6007,7 @@
           "qty": 1
         }
       },
-      "total": 4162.700000000001,
+      "total": 4339.700000000001,
       "status": "open"
     }
   },
@@ -11101,5 +11107,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:30:09.294Z"
+  "savedAt": "2026-07-17T21:30:13.125Z"
 }
