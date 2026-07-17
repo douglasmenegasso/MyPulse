@@ -5965,9 +5965,15 @@
           "name": "Meia azul cano curto lupo 41 a 44",
           "price": 17.9,
           "qty": 1
+        },
+        "7891186470779": {
+          "code": "7891186470779",
+          "name": "Meia cano curto branca lupo 41 a 44",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 17.9,
+      "total": 37.8,
       "status": "open"
     }
   },
@@ -10987,5 +10993,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:35:08.468Z"
+  "savedAt": "2026-07-17T17:35:19.686Z"
 }
