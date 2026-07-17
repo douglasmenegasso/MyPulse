@@ -4920,9 +4920,15 @@
           "name": "Regata off com bege lp P",
           "price": 263,
           "qty": 1
+        },
+        "7909746638184": {
+          "code": "7909746638184",
+          "name": "Vestido riviera off com preto DT P",
+          "price": 979,
+          "qty": 1
         }
       },
-      "total": 1491,
+      "total": 2470,
       "status": "open"
     },
     "c_1783710465465": {
@@ -10937,5 +10943,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:48:56.160Z"
+  "savedAt": "2026-07-17T17:49:08.190Z"
 }
