@@ -5019,12 +5019,6 @@
     "c_1784049002709": {
       "clientId": "c_1784049002709",
       "items": {
-        "7908754514282": {
-          "code": "7908754514282",
-          "name": "Legging icon preta live M",
-          "price": 319.9,
-          "qty": 1
-        },
         "7908754527800": {
           "code": "7908754527800",
           "name": "Top icon preto live M",
@@ -5038,7 +5032,7 @@
           "qty": 1
         }
       },
-      "total": 818.8000000000003,
+      "total": 498.9000000000003,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10799,6 +10793,13 @@
         "price": 379.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:56:38.644Z"
+      },
+      "7908754514282": {
+        "code": "7908754514282",
+        "name": "Legging icon preta live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:56:47.713Z"
       }
     }
   },
@@ -10807,5 +10808,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:56:38.645Z"
+  "savedAt": "2026-07-17T16:56:47.714Z"
 }
