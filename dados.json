@@ -4926,12 +4926,6 @@
           "price": 263,
           "qty": 1
         },
-        "7909746638184": {
-          "code": "7909746638184",
-          "name": "Vestido riviera off com preto DT P",
-          "price": 979,
-          "qty": 1
-        },
         "7909746534073": {
           "code": "7909746534073",
           "name": "Vestido Livia drapeado off DT P",
@@ -4951,7 +4945,7 @@
           "qty": 1
         }
       },
-      "total": 3777,
+      "total": 2798,
       "status": "open"
     },
     "c_1783710465465": {
@@ -10556,6 +10550,13 @@
         "price": 297,
         "qty": 1,
         "lastAt": "2026-07-16T16:46:57.781Z"
+      },
+      "7909746638184": {
+        "code": "7909746638184",
+        "name": "Vestido riviera off com preto DT P",
+        "price": 979,
+        "qty": 1,
+        "lastAt": "2026-07-17T18:14:37.988Z"
       }
     },
     "c_1783444825678": {
@@ -10966,5 +10967,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T18:14:32.144Z"
+  "savedAt": "2026-07-17T18:14:37.989Z"
 }
