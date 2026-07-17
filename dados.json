@@ -5953,9 +5953,15 @@
           "name": "Regata canelada bordo AG M",
           "price": 159,
           "qty": 1
+        },
+        "7900415030421": {
+          "code": "7900415030421",
+          "name": "Jaqueta preta com elástico Lp M",
+          "price": 853,
+          "qty": 1
         }
       },
-      "total": 5720.700000000001,
+      "total": 6573.700000000001,
       "status": "open"
     },
     "c_1784238047579": {
@@ -10863,5 +10869,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:15:57.927Z"
+  "savedAt": "2026-07-17T17:17:22.070Z"
 }
