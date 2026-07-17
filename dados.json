@@ -6093,9 +6093,15 @@
           "name": "Top tex marrom live M",
           "price": 279.9,
           "qty": 1
+        },
+        "7901072434393": {
+          "code": "7901072434393",
+          "name": "Camiseta icon verde oliva live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 7723.899999999998,
+      "total": 7923.799999999997,
       "status": "open"
     }
   },
@@ -11195,5 +11201,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:35:21.733Z"
+  "savedAt": "2026-07-17T21:35:51.421Z"
 }
