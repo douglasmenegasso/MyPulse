@@ -5107,12 +5107,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7908754575887": {
-          "code": "7908754575887",
-          "name": "Regata breath azul petróleo live g",
-          "price": 179.9,
-          "qty": 1
-        },
         "7890171662410": {
           "code": "7890171662410",
           "name": "Legging elástico off com preto AG M",
@@ -5210,7 +5204,7 @@
           "qty": 1
         }
       },
-      "total": 6946.899999999997,
+      "total": 6766.999999999997,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10930,6 +10924,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-17T17:27:19.259Z"
+      },
+      "7908754575887": {
+        "code": "7908754575887",
+        "name": "Regata breath azul petróleo live g",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:27:27.046Z"
       }
     }
   },
@@ -10938,5 +10939,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:27:19.260Z"
+  "savedAt": "2026-07-17T17:27:27.048Z"
 }
