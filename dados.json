@@ -6075,9 +6075,15 @@
           "name": "Legging grafeno roxo malva live M",
           "price": 399.9,
           "qty": 1
+        },
+        "7908931978333": {
+          "code": "7908931978333",
+          "name": "Top nadador grafeno roxo malva live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 939.6999999999999,
+      "total": 1259.6,
       "status": "open"
     }
   },
@@ -10852,5 +10858,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:08:29.118Z"
+  "savedAt": "2026-07-17T17:08:45.995Z"
 }
