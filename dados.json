@@ -5083,12 +5083,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171653449": {
-          "code": "7890171653449",
-          "name": "Legging elástico roxo malva AG g",
-          "price": 369,
-          "qty": 1
-        },
         "7890171662410": {
           "code": "7890171662410",
           "name": "Legging elástico off com preto AG M",
@@ -5156,7 +5150,7 @@
           "qty": 1
         }
       },
-      "total": 4681.499999999999,
+      "total": 4312.499999999999,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10939,6 +10933,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:28:36.039Z"
+      },
+      "7890171653449": {
+        "code": "7890171653449",
+        "name": "Legging elástico roxo malva AG g",
+        "price": 369,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:29:23.619Z"
       }
     }
   },
@@ -10947,5 +10948,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:28:48.593Z"
+  "savedAt": "2026-07-17T17:29:23.620Z"
 }
