@@ -4928,12 +4928,6 @@
     "41991536747": {
       "clientId": "41991536747",
       "items": {
-        "7890171657393": {
-          "code": "7890171657393",
-          "name": "Top nadador preto AG m",
-          "price": 298,
-          "qty": 1
-        },
         "7909746661441": {
           "code": "7909746661441",
           "name": "Pijama short doll bege com off DT M",
@@ -5025,7 +5019,7 @@
           "qty": 1
         }
       },
-      "total": 5279.200000000001,
+      "total": 4981.200000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9487,6 +9481,13 @@
         "price": 298,
         "qty": 1,
         "lastAt": "2026-07-17T16:50:33.178Z"
+      },
+      "7890171657393": {
+        "code": "7890171657393",
+        "name": "Top nadador preto AG m",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:50:39.787Z"
       }
     },
     "41991694056": {
@@ -10788,5 +10789,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:50:33.179Z"
+  "savedAt": "2026-07-17T16:50:39.788Z"
 }
