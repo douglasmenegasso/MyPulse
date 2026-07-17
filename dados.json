@@ -5149,12 +5149,6 @@
           "price": 329.9,
           "qty": 1
         },
-        "7901072484107": {
-          "code": "7901072484107",
-          "name": "Shorts Fit art marrom live g",
-          "price": 219.9,
-          "qty": 1
-        },
         "7901072486422": {
           "code": "7901072486422",
           "name": "Top tex marrom live g",
@@ -5204,7 +5198,7 @@
           "qty": 1
         }
       },
-      "total": 6766.999999999997,
+      "total": 6547.099999999998,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10931,6 +10925,13 @@
         "price": 179.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:27:27.046Z"
+      },
+      "7901072484107": {
+        "code": "7901072484107",
+        "name": "Shorts Fit art marrom live g",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:27:33.870Z"
       }
     }
   },
@@ -10939,5 +10940,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:27:27.048Z"
+  "savedAt": "2026-07-17T17:27:33.871Z"
 }
