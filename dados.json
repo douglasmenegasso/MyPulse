@@ -6075,9 +6075,15 @@
           "name": "Camiseta icon bege live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908990921301": {
+          "code": "7908990921301",
+          "name": "Jaqueta harmony preta live M",
+          "price": 379.9,
+          "qty": 1
         }
       },
-      "total": 6704.199999999999,
+      "total": 7084.0999999999985,
       "status": "open"
     }
   },
@@ -11177,5 +11183,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:34:02.881Z"
+  "savedAt": "2026-07-17T21:34:20.906Z"
 }
