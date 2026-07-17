@@ -5024,12 +5024,6 @@
           "price": 269,
           "qty": 1
         },
-        "01403481064": {
-          "code": "01403481064",
-          "name": "Calça jogger verde movimento P",
-          "price": 339.9,
-          "qty": 1
-        },
         "01603731064": {
           "code": "01603731064",
           "name": "Jaqueta hill verde movimento P",
@@ -5049,7 +5043,7 @@
           "qty": 1
         }
       },
-      "total": 7006.9,
+      "total": 6667,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9483,6 +9477,13 @@
         "price": 549.9,
         "qty": 1,
         "lastAt": "2026-07-13T19:05:20.344Z"
+      },
+      "01403481064": {
+        "code": "01403481064",
+        "name": "Calça jogger verde movimento P",
+        "price": 339.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:49:45.122Z"
       }
     },
     "41991694056": {
@@ -10784,5 +10785,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:49:41.146Z"
+  "savedAt": "2026-07-17T16:49:45.123Z"
 }
