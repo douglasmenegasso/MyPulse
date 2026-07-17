@@ -6049,6 +6049,19 @@
       },
       "total": 5804.7,
       "status": "waiting"
+    },
+    "c_1784049002709": {
+      "clientId": "c_1784049002709",
+      "items": {
+        "7908931976919": {
+          "code": "7908931976919",
+          "name": "Shorts grafeno preto live M",
+          "price": 319.9,
+          "qty": 1
+        }
+      },
+      "total": 319.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -10822,5 +10835,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:07:11.490Z"
+  "savedAt": "2026-07-17T17:07:14.842Z"
 }
