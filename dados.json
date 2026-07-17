@@ -3959,6 +3959,11 @@
       "code": "7909392830499",
       "name": "Meia Sport cano curto preto lupo 41 a 44",
       "price": 19.9
+    },
+    "7891186349631": {
+      "code": "7891186349631",
+      "name": "Meia Sport cano curto branco lupo 41 a 44",
+      "price": 19.9
     }
   },
   "clients": {
@@ -11004,5 +11009,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:36:15.225Z"
+  "savedAt": "2026-07-17T17:36:42.114Z"
 }
