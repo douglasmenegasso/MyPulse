@@ -6034,9 +6034,15 @@
           "name": "Regata canelada marrom AG M",
           "price": 159,
           "qty": 1
+        },
+        "https://produto.liveoficial.com.br/83872.00pt01": {
+          "code": "https://produto.liveoficial.com.br/83872.00pt01",
+          "name": "Regata venal da preta listra off live M",
+          "price": 189,
+          "qty": 1
         }
       },
-      "total": 5335.700000000001,
+      "total": 5524.700000000001,
       "status": "open"
     }
   },
@@ -11136,5 +11142,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:32:16.934Z"
+  "savedAt": "2026-07-17T21:32:18.700Z"
 }
