@@ -5026,49 +5026,6 @@
       "total": 4783.200000000001,
       "status": "waiting"
     },
-    "c_1784135024747": {
-      "clientId": "c_1784135024747",
-      "items": {
-        "7901128629834": {
-          "code": "7901128629834",
-          "name": "Camiseta icon branca live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7890171636268": {
-          "code": "7890171636268",
-          "name": "Regata elástico personalizado preto AG M",
-          "price": 189,
-          "qty": 1
-        },
-        "7890171662410": {
-          "code": "7890171662410",
-          "name": "Legging elástico off com preto AG M",
-          "price": 369,
-          "qty": 1
-        },
-        "7890171651629": {
-          "code": "7890171651629",
-          "name": "Top elástico preto AG g",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171652763": {
-          "code": "7890171652763",
-          "name": "T-shirt cropped mesh preto AG g",
-          "price": 219,
-          "qty": 1
-        },
-        "7901072438629": {
-          "code": "7901072438629",
-          "name": "Camiseta cropped preto live g",
-          "price": 179.9,
-          "qty": 1
-        }
-      },
-      "total": 1375.799999999998,
-      "status": "waiting"
-    },
     "c_1784140554975": {
       "clientId": "c_1784140554975",
       "items": {
@@ -5992,6 +5949,51 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784135024747",
+      "clientName": "Day pilates estivadores",
+      "clientPhone": "",
+      "items": {
+        "7901128629834": {
+          "code": "7901128629834",
+          "name": "Camiseta icon branca live M",
+          "price": 199.9,
+          "qty": 1
+        },
+        "7890171636268": {
+          "code": "7890171636268",
+          "name": "Regata elástico personalizado preto AG M",
+          "price": 189,
+          "qty": 1
+        },
+        "7890171662410": {
+          "code": "7890171662410",
+          "name": "Legging elástico off com preto AG M",
+          "price": 369,
+          "qty": 1
+        },
+        "7890171651629": {
+          "code": "7890171651629",
+          "name": "Top elástico preto AG g",
+          "price": 219,
+          "qty": 1
+        },
+        "7890171652763": {
+          "code": "7890171652763",
+          "name": "T-shirt cropped mesh preto AG g",
+          "price": 219,
+          "qty": 1
+        },
+        "7901072438629": {
+          "code": "7901072438629",
+          "name": "Camiseta cropped preto live g",
+          "price": 179.9,
+          "qty": 1
+        }
+      },
+      "total": 1375.799999999998,
+      "closedAt": "2026-07-17T17:33:41.912Z"
+    },
     {
       "clientId": "c_1784049002709",
       "clientName": "Ro Personal",
@@ -10962,5 +10964,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:32:49.998Z"
+  "savedAt": "2026-07-17T17:33:41.913Z"
 }
