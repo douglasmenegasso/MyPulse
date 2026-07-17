@@ -4988,12 +4988,6 @@
           "price": 489,
           "qty": 1
         },
-        "7890171616109": {
-          "code": "7890171616109",
-          "name": "Regata elástico preto AG M",
-          "price": 198,
-          "qty": 1
-        },
         "7890171614372": {
           "code": "7890171614372",
           "name": "Top elástico preto AG M",
@@ -5019,7 +5013,7 @@
           "qty": 1
         }
       },
-      "total": 4981.200000000001,
+      "total": 4783.200000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -9488,6 +9482,13 @@
         "price": 298,
         "qty": 1,
         "lastAt": "2026-07-17T16:50:39.787Z"
+      },
+      "7890171616109": {
+        "code": "7890171616109",
+        "name": "Regata elástico preto AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:50:48.432Z"
       }
     },
     "41991694056": {
@@ -10789,5 +10790,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:50:39.788Z"
+  "savedAt": "2026-07-17T16:50:48.434Z"
 }
