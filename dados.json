@@ -5942,9 +5942,15 @@
           "name": "Camiseta cotton marrom live M",
           "price": 279.9,
           "qty": 1
+        },
+        "7909865888088": {
+          "code": "7909865888088",
+          "name": "Calça sarja lilás Colcci 38",
+          "price": 377,
+          "qty": 1
         }
       },
-      "total": 1972.8000000000002,
+      "total": 2349.8,
       "status": "open"
     }
   },
@@ -11035,5 +11041,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:26:07.271Z"
+  "savedAt": "2026-07-17T21:26:11.304Z"
 }
