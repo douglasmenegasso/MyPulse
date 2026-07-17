@@ -6005,9 +6005,15 @@
           "name": "T-shirt casual preta AG P",
           "price": 229,
           "qty": 1
+        },
+        "7900292947560": {
+          "code": "7900292947560",
+          "name": "Regata canelada preta logo em couro lP M",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 4339.700000000001,
+      "total": 4582.700000000001,
       "status": "open"
     }
   },
@@ -11107,5 +11113,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:30:13.125Z"
+  "savedAt": "2026-07-17T21:30:26.023Z"
 }
