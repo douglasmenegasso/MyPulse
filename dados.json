@@ -6141,9 +6141,15 @@
           "name": "Camiseta V bordo live M",
           "price": 259.9,
           "qty": 1
+        },
+        "7901072434348": {
+          "code": "7901072434348",
+          "name": "Camiseta icon azul petróleo live M ",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 9430.199999999995,
+      "total": 9630.099999999995,
       "status": "open"
     }
   },
@@ -11243,5 +11249,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:37:21.820Z"
+  "savedAt": "2026-07-17T21:37:25.466Z"
 }
