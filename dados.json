@@ -4931,9 +4931,15 @@
           "name": "Vestido riviera off com preto DT P",
           "price": 979,
           "qty": 1
+        },
+        "7909746534073": {
+          "code": "7909746534073",
+          "name": "Vestido Livia drapeado off DT P",
+          "price": 739,
+          "qty": 1
         }
       },
-      "total": 2470,
+      "total": 3209,
       "status": "open"
     },
     "c_1783710465465": {
@@ -10948,5 +10954,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:49:28.609Z"
+  "savedAt": "2026-07-17T17:49:32.536Z"
 }
