@@ -5089,12 +5089,6 @@
           "price": 369,
           "qty": 1
         },
-        "7908931948992": {
-          "code": "7908931948992",
-          "name": "Legging allure azul petróleo live g",
-          "price": 319.9,
-          "qty": 1
-        },
         "7908931913921": {
           "code": "7908931913921",
           "name": "Top curve allure azul petróleo live g",
@@ -5168,7 +5162,7 @@
           "qty": 1
         }
       },
-      "total": 5201.299999999998,
+      "total": 4881.399999999999,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10937,6 +10931,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-17T17:28:22.241Z"
+      },
+      "7908931948992": {
+        "code": "7908931948992",
+        "name": "Legging allure azul petróleo live g",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:28:35.891Z"
       }
     }
   },
@@ -10945,5 +10946,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:28:22.242Z"
+  "savedAt": "2026-07-17T17:28:35.892Z"
 }
