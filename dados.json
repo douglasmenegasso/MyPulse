@@ -5031,12 +5031,6 @@
           "price": 379.9,
           "qty": 1
         },
-        "7901072406383": {
-          "code": "7901072406383",
-          "name": "Blusão pose bege live P",
-          "price": 399.9,
-          "qty": 1
-        },
         "7908931968341": {
           "code": "7908931968341",
           "name": "Camiseta V equilíbrio preto live M",
@@ -5116,7 +5110,7 @@
           "qty": 1
         }
       },
-      "total": 4446.600000000001,
+      "total": 4046.700000000001,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10786,6 +10780,13 @@
         "price": 19.9,
         "qty": 2,
         "lastAt": "2026-07-17T16:53:21.140Z"
+      },
+      "7901072406383": {
+        "code": "7901072406383",
+        "name": "Blusão pose bege live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:53:55.819Z"
       }
     }
   },
@@ -10794,5 +10795,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:53:24.280Z"
+  "savedAt": "2026-07-17T16:53:55.820Z"
 }
