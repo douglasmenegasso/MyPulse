@@ -6135,9 +6135,15 @@
           "name": "Regata icon pink live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7908931968372": {
+          "code": "7908931968372",
+          "name": "Camiseta V bordo live M",
+          "price": 259.9,
+          "qty": 1
         }
       },
-      "total": 9170.299999999996,
+      "total": 9430.199999999995,
       "status": "open"
     }
   },
@@ -11237,5 +11243,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:37:06.496Z"
+  "savedAt": "2026-07-17T21:37:13.022Z"
 }
