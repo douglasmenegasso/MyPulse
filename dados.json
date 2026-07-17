@@ -5035,12 +5035,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7901128628561": {
-          "code": "7901128628561",
-          "name": "Legging hydefit azul petróleo live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7890171636268": {
           "code": "7890171636268",
           "name": "Regata elástico personalizado preto AG M",
@@ -5072,7 +5066,7 @@
           "qty": 1
         }
       },
-      "total": 1575.699999999998,
+      "total": 1375.799999999998,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10953,6 +10947,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-17T17:31:11.076Z"
+      },
+      "7901128628561": {
+        "code": "7901128628561",
+        "name": "Legging hydefit azul petróleo live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:31:22.871Z"
       }
     }
   },
@@ -10961,5 +10962,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:31:15.480Z"
+  "savedAt": "2026-07-17T17:31:22.872Z"
 }
