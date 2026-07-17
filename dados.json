@@ -6153,9 +6153,15 @@
           "name": "Camiseta verde live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908754537908": {
+          "code": "7908754537908",
+          "name": "Camiseta icon preta live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 9829.999999999995,
+      "total": 10029.899999999994,
       "status": "open"
     }
   },
@@ -11255,5 +11261,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:37:35.042Z"
+  "savedAt": "2026-07-17T21:37:47.634Z"
 }
