@@ -5019,12 +5019,6 @@
     "c_1784049002709": {
       "clientId": "c_1784049002709",
       "items": {
-        "7908754527800": {
-          "code": "7908754527800",
-          "name": "Top icon preto live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "1778001000203": {
           "code": "1778001000203",
           "name": "Legging marcelle preto CCM P",
@@ -5032,7 +5026,7 @@
           "qty": 1
         }
       },
-      "total": 498.9000000000003,
+      "total": 249.0000000000003,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10800,6 +10794,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:56:47.713Z"
+      },
+      "7908754527800": {
+        "code": "7908754527800",
+        "name": "Top icon preto live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:56:54.132Z"
       }
     }
   },
@@ -10808,5 +10809,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:56:47.714Z"
+  "savedAt": "2026-07-17T16:56:54.133Z"
 }
