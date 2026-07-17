@@ -6040,9 +6040,15 @@
           "name": "Regata venal da preta listra off live M",
           "price": 189,
           "qty": 1
+        },
+        "7908990960102": {
+          "code": "7908990960102",
+          "name": "Camiseta texturizada live verde M",
+          "price": 349.9,
+          "qty": 1
         }
       },
-      "total": 5524.700000000001,
+      "total": 5874.6,
       "status": "open"
     }
   },
@@ -11142,5 +11148,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:32:21.386Z"
+  "savedAt": "2026-07-17T21:32:30.984Z"
 }
