@@ -6011,9 +6011,15 @@
           "name": "Regata canelada preta logo em couro lP M",
           "price": 243,
           "qty": 1
+        },
+        "7900415222987": {
+          "code": "7900415222987",
+          "name": "Regata canelada com elástico verde Lp M",
+          "price": 297,
+          "qty": 1
         }
       },
-      "total": 4582.700000000001,
+      "total": 4879.700000000001,
       "status": "open"
     }
   },
@@ -11113,5 +11119,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:30:26.023Z"
+  "savedAt": "2026-07-17T21:30:55.679Z"
 }
