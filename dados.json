@@ -6069,9 +6069,15 @@
           "name": "Shorts icon azul petróleo live M",
           "price": 239.9,
           "qty": 1
+        },
+        "7901072434171": {
+          "code": "7901072434171",
+          "name": "Camiseta icon bege live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 6504.299999999999,
+      "total": 6704.199999999999,
       "status": "open"
     }
   },
@@ -11171,5 +11177,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:33:56.501Z"
+  "savedAt": "2026-07-17T21:34:02.881Z"
 }
