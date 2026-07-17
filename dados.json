@@ -5114,15 +5114,9 @@
           "name": "Kit 3 meias Lupo 34 a 39",
           "price": 49.9,
           "qty": 1
-        },
-        "7909392830451": {
-          "code": "7909392830451",
-          "name": "Meia cano curto preto lupo 33 a 36",
-          "price": 19.9,
-          "qty": 1
         }
       },
-      "total": 4466.500000000001,
+      "total": 4446.600000000001,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10790,8 +10784,8 @@
         "code": "7909392830451",
         "name": "Meia cano curto preto lupo 33 a 36",
         "price": 19.9,
-        "qty": 1,
-        "lastAt": "2026-07-17T16:53:12.882Z"
+        "qty": 2,
+        "lastAt": "2026-07-17T16:53:21.140Z"
       }
     }
   },
@@ -10800,5 +10794,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:53:12.884Z"
+  "savedAt": "2026-07-17T16:53:21.141Z"
 }
