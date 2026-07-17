@@ -3979,6 +3979,11 @@
       "code": "7909865888088",
       "name": "Calça sarja lilás Colcci 38",
       "price": 377
+    },
+    "7900292387113": {
+      "code": "7900292387113",
+      "name": "Regata off com bege bordado Lp M",
+      "price": 233
     }
   },
   "clients": {
@@ -11053,5 +11058,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:26:39.134Z"
+  "savedAt": "2026-07-17T21:27:31.591Z"
 }
