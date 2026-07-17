@@ -5914,9 +5914,15 @@
           "name": "T shirt preta bordado branco LP M",
           "price": 287,
           "qty": 1
+        },
+        "7900415002688": {
+          "code": "7900415002688",
+          "name": "Calça wide leg marrom LP M",
+          "price": 563,
+          "qty": 1
         }
       },
-      "total": 850,
+      "total": 1413,
       "status": "open"
     }
   },
@@ -11007,5 +11013,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:23:06.939Z"
+  "savedAt": "2026-07-17T21:23:33.829Z"
 }
