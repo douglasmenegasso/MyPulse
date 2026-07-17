@@ -5971,9 +5971,15 @@
           "name": "Regata off com bege bordado Lp M",
           "price": 263,
           "qty": 1
+        },
+        "7909746616427": {
+          "code": "7909746616427",
+          "name": "Camiseta oliva com escrita DT P",
+          "price": 339,
+          "qty": 1
         }
       },
-      "total": 3255.7000000000003,
+      "total": 3594.7000000000003,
       "status": "open"
     }
   },
@@ -11064,5 +11070,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:28:26.773Z"
+  "savedAt": "2026-07-17T21:28:38.866Z"
 }
