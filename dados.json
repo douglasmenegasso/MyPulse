@@ -6019,9 +6019,15 @@
           "name": "Vestido longo azul com zíper Lp M",
           "price": 493,
           "qty": 1
+        },
+        "7909746614164": {
+          "code": "7909746614164",
+          "name": "Vestido canelado bordo DT M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 10771.5,
+      "total": 11220.5,
       "status": "open"
     },
     "c_1784238047579": {
@@ -10929,5 +10935,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:24:40.159Z"
+  "savedAt": "2026-07-17T17:24:50.883Z"
 }
