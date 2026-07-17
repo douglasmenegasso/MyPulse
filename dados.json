@@ -5167,12 +5167,6 @@
           "price": 179.9,
           "qty": 1
         },
-        "7890171652596": {
-          "code": "7890171652596",
-          "name": "Top shine alças finas marrom AG g",
-          "price": 198,
-          "qty": 1
-        },
         "7890171617328": {
           "code": "7890171617328",
           "name": "T-shirt cropped rosa AG M",
@@ -5180,7 +5174,7 @@
           "qty": 1
         }
       },
-      "total": 5618.299999999998,
+      "total": 5420.299999999998,
       "status": "open"
     },
     "c_1784140554975": {
@@ -10935,6 +10929,13 @@
         "price": 319,
         "qty": 1,
         "lastAt": "2026-07-17T17:28:05.769Z"
+      },
+      "7890171652596": {
+        "code": "7890171652596",
+        "name": "Top shine alças finas marrom AG g",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-17T17:28:15.630Z"
       }
     }
   },
@@ -10943,5 +10944,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T17:28:05.770Z"
+  "savedAt": "2026-07-17T17:28:15.631Z"
 }
