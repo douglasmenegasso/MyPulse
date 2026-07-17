@@ -6023,9 +6023,15 @@
           "name": "Regata canelada amarela Lp M",
           "price": 297,
           "qty": 1
+        },
+        "7890171615232": {
+          "code": "7890171615232",
+          "name": "Regata canelada marrom AG M",
+          "price": 159,
+          "qty": 1
         }
       },
-      "total": 5176.700000000001,
+      "total": 5335.700000000001,
       "status": "open"
     }
   },
@@ -11125,5 +11131,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T21:31:08.488Z"
+  "savedAt": "2026-07-17T21:31:37.374Z"
 }
