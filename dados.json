@@ -5016,19 +5016,6 @@
       "total": 4783.200000000001,
       "status": "waiting"
     },
-    "c_1784049002709": {
-      "clientId": "c_1784049002709",
-      "items": {
-        "1778001000203": {
-          "code": "1778001000203",
-          "name": "Legging marcelle preto CCM P",
-          "price": 249,
-          "qty": 1
-        }
-      },
-      "total": 249.0000000000003,
-      "status": "waiting"
-    },
     "c_1784135024747": {
       "clientId": "c_1784135024747",
       "items": {
@@ -6054,6 +6041,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784049002709",
+      "clientName": "Ro Personal",
+      "clientPhone": "",
+      "items": {
+        "1778001000203": {
+          "code": "1778001000203",
+          "name": "Legging marcelle preto CCM P",
+          "price": 249,
+          "qty": 1
+        }
+      },
+      "total": 249.0000000000003,
+      "closedAt": "2026-07-17T16:57:00.806Z"
+    },
     {
       "clientId": "c_1783444825678",
       "clientName": "Clau Jaque",
@@ -10809,5 +10811,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:56:57.400Z"
+  "savedAt": "2026-07-17T16:57:00.807Z"
 }
