@@ -5129,18 +5129,6 @@
           "price": 263,
           "qty": 1
         },
-        "7890171628126": {
-          "code": "7890171628126",
-          "name": "Regata canelada rosa AG M",
-          "price": 159,
-          "qty": 1
-        },
-        "7900292621446": {
-          "code": "7900292621446",
-          "name": "Regata canelada off alças marrom LP g",
-          "price": 233,
-          "qty": 1
-        },
         "7909746620486": {
           "code": "7909746620486",
           "name": "Regata canelada marrom DT g",
@@ -5148,7 +5136,7 @@
           "qty": 1
         }
       },
-      "total": 1517,
+      "total": 1125,
       "status": "open"
     },
     "c_1784221698831": {
@@ -10622,6 +10610,20 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-16T16:57:15.373Z"
+      },
+      "7900292621446": {
+        "code": "7900292621446",
+        "name": "Regata canelada off alças marrom LP g",
+        "price": 233,
+        "qty": 1,
+        "lastAt": "2026-07-17T20:39:00.399Z"
+      },
+      "7890171628126": {
+        "code": "7890171628126",
+        "name": "Regata canelada rosa AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-17T20:39:01.247Z"
       }
     },
     "c_1784223679651": {
@@ -10981,5 +10983,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T20:38:58.995Z"
+  "savedAt": "2026-07-17T20:39:01.249Z"
 }
