@@ -5103,12 +5103,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "7908931976711": {
-          "code": "7908931976711",
-          "name": "Legging grafeno preto live P",
-          "price": 399.9,
-          "qty": 1
-        },
         "1778001000203": {
           "code": "1778001000203",
           "name": "Legging marcelle preto CCM P",
@@ -5128,7 +5122,7 @@
           "qty": 2
         }
       },
-      "total": 4886.3,
+      "total": 4486.400000000001,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10783,6 +10777,15 @@
         "qty": 1,
         "lastAt": "2026-07-16T19:14:20.794Z"
       }
+    },
+    "c_1784049002709": {
+      "7908931976711": {
+        "code": "7908931976711",
+        "name": "Legging grafeno preto live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:53:08.081Z"
+      }
     }
   },
   "security": {
@@ -10790,5 +10793,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:52:53.742Z"
+  "savedAt": "2026-07-17T16:53:08.082Z"
 }
