@@ -5333,9 +5333,15 @@
           "name": "Jaqueta canelada preta live g",
           "price": 499.9,
           "qty": 1
+        },
+        "7901128603254": {
+          "code": "7901128603254",
+          "name": "Jaqueta seamless preto live M",
+          "price": 649.9,
+          "qty": 1
         }
       },
-      "total": 2024.6,
+      "total": 2674.5,
       "status": "open"
     },
     "c_1784223679651": {
@@ -10811,5 +10817,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:59:18.283Z"
+  "savedAt": "2026-07-17T16:59:23.066Z"
 }
