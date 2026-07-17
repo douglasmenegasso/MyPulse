@@ -5031,12 +5031,6 @@
           "price": 379.9,
           "qty": 1
         },
-        "7908931968341": {
-          "code": "7908931968341",
-          "name": "Camiseta V equilíbrio preto live M",
-          "price": 259.9,
-          "qty": 1
-        },
         "7908678747919": {
           "code": "7908678747919",
           "name": "Regata icon preta live M",
@@ -5068,7 +5062,7 @@
           "qty": 1
         }
       },
-      "total": 2337.4000000000005,
+      "total": 2077.5000000000005,
       "status": "open"
     },
     "c_1784135024747": {
@@ -10794,6 +10788,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-07-17T16:55:08.845Z"
+      },
+      "7908931968341": {
+        "code": "7908931968341",
+        "name": "Camiseta V equilíbrio preto live M",
+        "price": 259.9,
+        "qty": 1,
+        "lastAt": "2026-07-17T16:55:17.607Z"
       }
     }
   },
@@ -10802,5 +10803,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-17T16:55:08.846Z"
+  "savedAt": "2026-07-17T16:55:17.608Z"
 }
