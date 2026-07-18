@@ -4825,19 +4825,6 @@
       "total": 4134.2,
       "status": "waiting"
     },
-    "c_1783457601997": {
-      "clientId": "c_1783457601997",
-      "items": {
-        "7908990930204": {
-          "code": "7908990930204",
-          "name": "Jaqueta estampa marrom live P",
-          "price": 599.9,
-          "qty": 1
-        }
-      },
-      "total": 599.8999999999999,
-      "status": "waiting"
-    },
     "c_1783458513348": {
       "clientId": "c_1783458513348",
       "items": {},
@@ -6020,6 +6007,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783457601997",
+      "clientName": "Mirely Deyse",
+      "clientPhone": "",
+      "items": {
+        "7908990930204": {
+          "code": "7908990930204",
+          "name": "Jaqueta estampa marrom live P",
+          "price": 599.9,
+          "qty": 1
+        }
+      },
+      "total": 599.8999999999999,
+      "closedAt": "2026-07-18T14:02:38.023Z"
+    },
     {
       "clientId": "c_1784140554975",
       "clientName": "Fia",
@@ -11279,5 +11281,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T14:02:32.796Z"
+  "savedAt": "2026-07-18T14:02:38.024Z"
 }
