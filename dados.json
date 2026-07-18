@@ -4972,27 +4972,9 @@
           "name": "Regata off com bege lp P",
           "price": 263,
           "qty": 1
-        },
-        "7909746534073": {
-          "code": "7909746534073",
-          "name": "Vestido Livia drapeado off DT P",
-          "price": 739,
-          "qty": 1
-        },
-        "7909746638115": {
-          "code": "7909746638115",
-          "name": "Calça rivieira preta com off DT P",
-          "price": 269,
-          "qty": 1
-        },
-        "7909746638085": {
-          "code": "7909746638085",
-          "name": "Blusa rivera off com preto DT P",
-          "price": 299,
-          "qty": 1
         }
       },
-      "total": 2798,
+      "total": 1491,
       "status": "open"
     },
     "c_1783710465465": {
@@ -10828,6 +10810,27 @@
         "price": 979,
         "qty": 1,
         "lastAt": "2026-07-17T18:14:37.988Z"
+      },
+      "7909746638085": {
+        "code": "7909746638085",
+        "name": "Blusa rivera off com preto DT P",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-18T13:55:15.801Z"
+      },
+      "7909746638115": {
+        "code": "7909746638115",
+        "name": "Calça rivieira preta com off DT P",
+        "price": 269,
+        "qty": 1,
+        "lastAt": "2026-07-18T13:55:16.769Z"
+      },
+      "7909746534073": {
+        "code": "7909746534073",
+        "name": "Vestido Livia drapeado off DT P",
+        "price": 739,
+        "qty": 1,
+        "lastAt": "2026-07-18T13:55:17.605Z"
       }
     },
     "c_1783444825678": {
@@ -11261,5 +11264,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T13:55:14.407Z"
+  "savedAt": "2026-07-18T13:55:17.606Z"
 }
