@@ -4828,12 +4828,6 @@
     "c_1783457601997": {
       "clientId": "c_1783457601997",
       "items": {
-        "7909746618957": {
-          "code": "7909746618957",
-          "name": "Legging curve bordo listra branca DT g",
-          "price": 419,
-          "qty": 1
-        },
         "7901072491938": {
           "code": "7901072491938",
           "name": "Legging máxi azul petróleo live g",
@@ -4853,7 +4847,7 @@
           "qty": 1
         }
       },
-      "total": 1668.6999999999998,
+      "total": 1249.6999999999998,
       "status": "open"
     },
     "c_1783458513348": {
@@ -11268,6 +11262,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-18T14:02:04.676Z"
+      },
+      "7909746618957": {
+        "code": "7909746618957",
+        "name": "Legging curve bordo listra branca DT g",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-18T14:02:15.712Z"
       }
     }
   },
@@ -11276,5 +11277,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T14:02:14.449Z"
+  "savedAt": "2026-07-18T14:02:18.388Z"
 }
