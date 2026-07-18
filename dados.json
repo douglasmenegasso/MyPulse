@@ -4828,12 +4828,6 @@
     "c_1783457601997": {
       "clientId": "c_1783457601997",
       "items": {
-        "7908990961284": {
-          "code": "7908990961284",
-          "name": "Legging icon bordo live gg",
-          "price": 319.9,
-          "qty": 1
-        },
         "7909746618957": {
           "code": "7909746618957",
           "name": "Legging curve bordo listra branca DT g",
@@ -4871,7 +4865,7 @@
           "qty": 1
         }
       },
-      "total": 2438.4,
+      "total": 2118.5,
       "status": "open"
     },
     "c_1783458513348": {
@@ -11265,6 +11259,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-18T14:01:42.081Z"
+      },
+      "7908990961284": {
+        "code": "7908990961284",
+        "name": "Legging icon bordo live gg",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-18T14:01:49.782Z"
       }
     }
   },
@@ -11273,5 +11274,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T14:01:42.082Z"
+  "savedAt": "2026-07-18T14:01:49.784Z"
 }
