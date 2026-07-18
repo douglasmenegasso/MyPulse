@@ -5050,19 +5050,6 @@
       "total": 4783.200000000001,
       "status": "waiting"
     },
-    "c_1784140554975": {
-      "clientId": "c_1784140554975",
-      "items": {
-        "01603775907": {
-          "code": "01603775907",
-          "name": "Jaqueta âmago off movimento P",
-          "price": 459.9,
-          "qty": 1
-        }
-      },
-      "total": 459.9000000000001,
-      "status": "waiting"
-    },
     "c_1783444825678": {
       "clientId": "c_1783444825678",
       "items": {
@@ -6087,6 +6074,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784140554975",
+      "clientName": "Fia",
+      "clientPhone": "",
+      "items": {
+        "01603775907": {
+          "code": "01603775907",
+          "name": "Jaqueta âmago off movimento P",
+          "price": 459.9,
+          "qty": 1
+        }
+      },
+      "total": 459.9000000000001,
+      "closedAt": "2026-07-18T13:57:27.783Z"
+    },
     {
       "clientId": "c_1783632087135",
       "clientName": "Luana salão",
@@ -11266,5 +11268,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T13:57:27.769Z"
+  "savedAt": "2026-07-18T13:57:31.245Z"
 }
