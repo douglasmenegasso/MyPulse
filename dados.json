@@ -4828,12 +4828,6 @@
     "c_1783457601997": {
       "clientId": "c_1783457601997",
       "items": {
-        "7901072491938": {
-          "code": "7901072491938",
-          "name": "Legging máxi azul petróleo live g",
-          "price": 329.9,
-          "qty": 1
-        },
         "7901072413596": {
           "code": "7901072413596",
           "name": "Legging icon azul petróleo live gg",
@@ -4847,7 +4841,7 @@
           "qty": 1
         }
       },
-      "total": 1249.6999999999998,
+      "total": 919.7999999999998,
       "status": "open"
     },
     "c_1783458513348": {
@@ -11269,6 +11263,13 @@
         "price": 419,
         "qty": 1,
         "lastAt": "2026-07-18T14:02:15.712Z"
+      },
+      "7901072491938": {
+        "code": "7901072491938",
+        "name": "Legging máxi azul petróleo live g",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-18T14:02:24.604Z"
       }
     }
   },
@@ -11277,5 +11278,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T14:02:18.388Z"
+  "savedAt": "2026-07-18T14:02:24.605Z"
 }
