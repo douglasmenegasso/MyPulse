@@ -4852,12 +4852,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "7901072413381": {
-          "code": "7901072413381",
-          "name": "Top icon azul petróleo live gg",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908990930204": {
           "code": "7908990930204",
           "name": "Jaqueta estampa marrom live P",
@@ -4865,7 +4859,7 @@
           "qty": 1
         }
       },
-      "total": 2118.5,
+      "total": 1868.6,
       "status": "open"
     },
     "c_1783458513348": {
@@ -11266,6 +11260,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-18T14:01:49.782Z"
+      },
+      "7901072413381": {
+        "code": "7901072413381",
+        "name": "Top icon azul petróleo live gg",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-18T14:01:57.340Z"
       }
     }
   },
@@ -11274,5 +11275,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T14:01:49.784Z"
+  "savedAt": "2026-07-18T14:01:57.342Z"
 }
