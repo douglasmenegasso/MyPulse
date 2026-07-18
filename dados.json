@@ -4934,25 +4934,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1783632087135": {
-      "clientId": "c_1783632087135",
-      "items": {
-        "7909746614393": {
-          "code": "7909746614393",
-          "name": "Regata canelada preta DT P",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171627839": {
-          "code": "7890171627839",
-          "name": "Regata um ombro canelado preto AG M",
-          "price": 288,
-          "qty": 1
-        }
-      },
-      "total": 547,
-      "status": "waiting"
-    },
     "c_1783710465465": {
       "clientId": "c_1783710465465",
       "items": {
@@ -6124,6 +6105,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783632087135",
+      "clientName": "Luana salão",
+      "clientPhone": "",
+      "items": {
+        "7909746614393": {
+          "code": "7909746614393",
+          "name": "Regata canelada preta DT P",
+          "price": 259,
+          "qty": 1
+        },
+        "7890171627839": {
+          "code": "7890171627839",
+          "name": "Regata um ombro canelado preto AG M",
+          "price": 288,
+          "qty": 1
+        }
+      },
+      "total": 547,
+      "closedAt": "2026-07-18T13:56:00.084Z"
+    },
     {
       "clientId": "c_1783701666054",
       "clientName": "Gabriela 1802",
@@ -11268,5 +11270,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T13:55:56.970Z"
+  "savedAt": "2026-07-18T13:56:00.085Z"
 }
