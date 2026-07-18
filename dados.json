@@ -5053,22 +5053,10 @@
     "c_1784140554975": {
       "clientId": "c_1784140554975",
       "items": {
-        "01403545907": {
-          "code": "01403545907",
-          "name": "Calça âmago off movimento P",
-          "price": 369.9,
-          "qty": 1
-        },
         "01603775907": {
           "code": "01603775907",
           "name": "Jaqueta âmago off movimento P",
           "price": 459.9,
-          "qty": 1
-        },
-        "02503245910": {
-          "code": "02503245910",
-          "name": "Top canelado com zíper bordo movimento M",
-          "price": 209.9,
           "qty": 1
         },
         "01403625910": {
@@ -5078,7 +5066,7 @@
           "qty": 1
         }
       },
-      "total": 1337.7,
+      "total": 757.9000000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -10686,6 +10674,20 @@
         "price": 298,
         "qty": 1,
         "lastAt": "2026-07-15T18:38:59.897Z"
+      },
+      "01403545907": {
+        "code": "01403545907",
+        "name": "Calça âmago off movimento P",
+        "price": 369.9,
+        "qty": 1,
+        "lastAt": "2026-07-18T13:57:23.311Z"
+      },
+      "02503245910": {
+        "code": "02503245910",
+        "name": "Top canelado com zíper bordo movimento M",
+        "price": 209.9,
+        "qty": 1,
+        "lastAt": "2026-07-18T13:57:24.137Z"
       }
     },
     "c_1779214900706": {
@@ -11270,5 +11272,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T13:57:21.508Z"
+  "savedAt": "2026-07-18T13:57:24.139Z"
 }
