@@ -4943,12 +4943,6 @@
           "price": 259,
           "qty": 1
         },
-        "6906899947577": {
-          "code": "6906899947577",
-          "name": "Regata canelada preta logo couro Lp P",
-          "price": 243,
-          "qty": 1
-        },
         "7890171627839": {
           "code": "7890171627839",
           "name": "Regata um ombro canelado preto AG M",
@@ -4956,7 +4950,7 @@
           "qty": 1
         }
       },
-      "total": 790,
+      "total": 547,
       "status": "open"
     },
     "c_1783710465465": {
@@ -10834,6 +10828,13 @@
         "price": 159,
         "qty": 1,
         "lastAt": "2026-07-18T13:55:33.623Z"
+      },
+      "6906899947577": {
+        "code": "6906899947577",
+        "name": "Regata canelada preta logo couro Lp P",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-18T13:55:53.137Z"
       }
     },
     "c_1783444825678": {
@@ -11267,5 +11268,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T13:55:33.625Z"
+  "savedAt": "2026-07-18T13:55:53.139Z"
 }
