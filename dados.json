@@ -4949,12 +4949,6 @@
           "price": 243,
           "qty": 1
         },
-        "7890171628119": {
-          "code": "7890171628119",
-          "name": "Regata canelada rosa AG P",
-          "price": 159,
-          "qty": 1
-        },
         "7890171627839": {
           "code": "7890171627839",
           "name": "Regata um ombro canelado preto AG M",
@@ -4962,7 +4956,7 @@
           "qty": 1
         }
       },
-      "total": 949,
+      "total": 790,
       "status": "open"
     },
     "c_1783710465465": {
@@ -10833,6 +10827,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-18T13:55:27.307Z"
+      },
+      "7890171628119": {
+        "code": "7890171628119",
+        "name": "Regata canelada rosa AG P",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-18T13:55:33.623Z"
       }
     },
     "c_1783444825678": {
@@ -11266,5 +11267,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T13:55:27.308Z"
+  "savedAt": "2026-07-18T13:55:33.625Z"
 }
