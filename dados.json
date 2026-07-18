@@ -4321,6 +4321,11 @@
       "id": "c_1784322913411",
       "name": "Larissa cliente Jaque salão",
       "phone": ""
+    },
+    "c_1784383425777": {
+      "id": "c_1784383425777",
+      "name": "Vera estivadores",
+      "phone": ""
     }
   },
   "orders": {
@@ -11083,5 +11088,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-18T14:03:32.709Z"
+  "savedAt": "2026-07-18T14:03:45.778Z"
 }
