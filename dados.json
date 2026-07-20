@@ -5914,9 +5914,15 @@
           "name": "Meia cano curto preto lupo 33 a 36",
           "price": 19.9,
           "qty": 1
+        },
+        "7890171663479": {
+          "code": "7890171663479",
+          "name": "Legging elástico lilás AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 437.3999999999999,
+      "total": 806.3999999999999,
       "status": "open"
     }
   },
@@ -11228,5 +11234,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:31:39.453Z"
+  "savedAt": "2026-07-20T17:32:03.424Z"
 }
