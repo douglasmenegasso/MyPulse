@@ -5896,9 +5896,15 @@
           "name": "Calcinha fio nude lupo P",
           "price": 49.9,
           "qty": 1
+        },
+        "7909392810088": {
+          "code": "7909392810088",
+          "name": "Meia Sport branco lupo 33 a 36",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 347.7,
+      "total": 367.59999999999997,
       "status": "open"
     }
   },
@@ -11210,5 +11216,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:31:03.777Z"
+  "savedAt": "2026-07-20T17:31:10.351Z"
 }
