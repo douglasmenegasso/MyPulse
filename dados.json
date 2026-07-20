@@ -4084,6 +4084,11 @@
       "code": "7909746665470",
       "name": "Pijama serenity curto verde claro DT P",
       "price": 319
+    },
+    "7909746658533": {
+      "code": "7909746658533",
+      "name": "Pijama piquet marrom DT P",
+      "price": 399
     }
   },
   "clients": {
@@ -11452,5 +11457,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:56:29.256Z"
+  "savedAt": "2026-07-20T17:57:20.967Z"
 }
