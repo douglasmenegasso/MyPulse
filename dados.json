@@ -4214,6 +4214,11 @@
       "code": "7900415301545",
       "name": "Calça sarja baggy rosa LP 36",
       "price": 673
+    },
+    "7900415273262": {
+      "code": "7900415273262",
+      "name": "Calça jogger com elástico preto LP M",
+      "price": 527
     }
   },
   "clients": {
@@ -11626,5 +11631,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:34:17.387Z"
+  "savedAt": "2026-07-20T20:34:53.595Z"
 }
