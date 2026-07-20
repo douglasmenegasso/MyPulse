@@ -4174,6 +4174,11 @@
       "code": "6172994574608",
       "name": "Calça balloon rosa LP P",
       "price": 553
+    },
+    "7900415199272": {
+      "code": "7900415199272",
+      "name": "Calça balloon de moletom rosa LP P",
+      "price": 553
     }
   },
   "clients": {
@@ -11586,5 +11591,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:29:16.963Z"
+  "savedAt": "2026-07-20T20:29:32.566Z"
 }
