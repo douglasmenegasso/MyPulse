@@ -4079,6 +4079,11 @@
       "code": "7909746646448",
       "name": "Calça flex jogger com bolso bege DT pp",
       "price": 589
+    },
+    "7909746665470": {
+      "code": "7909746665470",
+      "name": "Pijama serenity curto verde claro DT P",
+      "price": 319
     }
   },
   "clients": {
@@ -11447,5 +11452,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:55:29.240Z"
+  "savedAt": "2026-07-20T17:56:05.462Z"
 }
