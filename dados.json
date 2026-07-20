@@ -4159,6 +4159,11 @@
       "code": "7900415348397",
       "name": "Calça sarja baggy caramelo LP 36",
       "price": 673
+    },
+    "7900415302955": {
+      "code": "7900415302955",
+      "name": "T-shirt branca estampa azul escuro LP P",
+      "price": 243
     }
   },
   "clients": {
@@ -11571,5 +11576,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:20:04.083Z"
+  "savedAt": "2026-07-20T20:20:23.497Z"
 }
