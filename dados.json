@@ -4004,6 +4004,11 @@
       "code": "7908754571308",
       "name": "Shorts icon azul petróleo live M",
       "price": 239.9
+    },
+    "7908931968389": {
+      "code": "7908931968389",
+      "name": "Camiseta V equilíbrio bordo live g",
+      "price": 259.9
     }
   },
   "clients": {
@@ -11090,5 +11095,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T16:57:38.595Z"
+  "savedAt": "2026-07-20T16:58:27.561Z"
 }
