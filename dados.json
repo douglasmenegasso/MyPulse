@@ -4129,6 +4129,11 @@
       "code": "7900415146900",
       "name": "Shorts saia com bolsos preto LP P",
       "price": 597
+    },
+    "7900415146917": {
+      "code": "7900415146917",
+      "name": "Shorts saia com bolsos preto LP pp",
+      "price": 597
     }
   },
   "clients": {
@@ -11541,5 +11546,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:11:36.971Z"
+  "savedAt": "2026-07-20T20:12:07.968Z"
 }
