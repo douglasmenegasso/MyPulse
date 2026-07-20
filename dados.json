@@ -5406,12 +5406,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7901072405447": {
-          "code": "7901072405447",
-          "name": "Macaquinho allure bege live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7908990971511": {
           "code": "7908990971511",
           "name": "Shorts rosa live live icon M",
@@ -5449,7 +5443,7 @@
           "qty": 1
         }
       },
-      "total": 7721.499999999996,
+      "total": 7361.599999999997,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11695,6 +11689,13 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-20T20:46:39.172Z"
+      },
+      "7901072405447": {
+        "code": "7901072405447",
+        "name": "Macaquinho allure bege live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:46:44.990Z"
       }
     }
   },
@@ -11703,5 +11704,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:46:41.036Z"
+  "savedAt": "2026-07-20T20:46:44.992Z"
 }
