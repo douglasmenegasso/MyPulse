@@ -6071,9 +6071,15 @@
           "name": "T-shirt com tule roxo malva AG P",
           "price": 239,
           "qty": 1
+        },
+        "7909746620097": {
+          "code": "7909746620097",
+          "name": "Legging sprint marrom DT P",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 6841.699999999999,
+      "total": 7100.699999999999,
       "status": "open"
     }
   },
@@ -11385,5 +11391,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:46:16.425Z"
+  "savedAt": "2026-07-20T17:46:34.689Z"
 }
