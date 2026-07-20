@@ -4139,6 +4139,11 @@
       "code": "7900415273279",
       "name": "Calça jogger com elástico preto LP P",
       "price": 527
+    },
+    "7900415273286": {
+      "code": "7900415273286",
+      "name": "Calça jogger com elástico preto LP pp",
+      "price": 527
     }
   },
   "clients": {
@@ -11551,5 +11556,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:13:12.557Z"
+  "savedAt": "2026-07-20T20:13:26.328Z"
 }
