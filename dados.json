@@ -6201,6 +6201,19 @@
       },
       "total": 906,
       "status": "waiting"
+    },
+    "c_1779210547825": {
+      "clientId": "c_1779210547825",
+      "items": {
+        "7900415284275": {
+          "code": "7900415284275",
+          "name": "Faixa de cabelo cinza LP",
+          "price": 77,
+          "qty": 1
+        }
+      },
+      "total": 77,
+      "status": "open"
     }
   },
   "closed": [
@@ -11511,5 +11524,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T19:43:47.192Z"
+  "savedAt": "2026-07-20T19:44:03.536Z"
 }
