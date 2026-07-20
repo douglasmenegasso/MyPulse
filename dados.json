@@ -6176,9 +6176,15 @@
           "name": "Calça sarja baggy caramelo LP 38",
           "price": 673,
           "qty": 1
+        },
+        "7900292621446": {
+          "code": "7900292621446",
+          "name": "Regata canelada off alças marrom LP g",
+          "price": 233,
+          "qty": 1
         }
       },
-      "total": 673,
+      "total": 906,
       "status": "open"
     }
   },
@@ -11490,5 +11496,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T19:38:28.521Z"
+  "savedAt": "2026-07-20T19:38:50.955Z"
 }
