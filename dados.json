@@ -4034,6 +4034,11 @@
       "code": "7901128641645",
       "name": "Camiseta icon fúcsia live g",
       "price": 199.9
+    },
+    "7890171654262": {
+      "code": "7890171654262",
+      "name": "Bermuda elástico lilás AG P",
+      "price": 259
     }
   },
   "clients": {
@@ -11234,5 +11239,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:32:03.424Z"
+  "savedAt": "2026-07-20T17:32:31.935Z"
 }
