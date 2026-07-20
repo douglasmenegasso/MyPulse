@@ -5860,9 +5860,15 @@
           "name": "Camiseta icon fúcsia live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7908835819299": {
+          "code": "7908835819299",
+          "name": "Camiseta icon azul petróleo live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 11848.99999999999,
+      "total": 12048.89999999999,
       "status": "open"
     }
   },
@@ -11174,5 +11180,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:03:35.436Z"
+  "savedAt": "2026-07-20T17:03:41.403Z"
 }
