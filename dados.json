@@ -4164,6 +4164,11 @@
       "code": "7900415302955",
       "name": "T-shirt branca estampa azul escuro LP P",
       "price": 243
+    },
+    "7900415074401": {
+      "code": "7900415074401",
+      "name": "T-shirt cropped marrom escrita off LP P",
+      "price": 197
     }
   },
   "clients": {
@@ -11576,5 +11581,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:21:04.260Z"
+  "savedAt": "2026-07-20T20:21:15.390Z"
 }
