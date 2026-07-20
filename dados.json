@@ -4763,12 +4763,6 @@
           "price": 198,
           "qty": 1
         },
-        "7908931963377": {
-          "code": "7908931963377",
-          "name": "Camiseta icon azul live P",
-          "price": 199.9,
-          "qty": 1
-        },
         "7908931930508": {
           "code": "7908931930508",
           "name": "Regata cropped pink live M",
@@ -4800,7 +4794,7 @@
           "qty": 1
         }
       },
-      "total": 4016.3999999999955,
+      "total": 3816.4999999999955,
       "status": "open"
     },
     "41995150547": {
@@ -10388,6 +10382,13 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-15T19:23:15.118Z"
+      },
+      "7908931963377": {
+        "code": "7908931963377",
+        "name": "Camiseta icon azul live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:43:20.905Z"
       }
     },
     "c_1783624643893": {
@@ -11686,5 +11687,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:43:20.803Z"
+  "savedAt": "2026-07-20T20:43:24.647Z"
 }
