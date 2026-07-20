@@ -4029,6 +4029,11 @@
       "code": "7901072462211",
       "name": "Camiseta icon rosa live g",
       "price": 199.9
+    },
+    "7901128641645": {
+      "code": "7901128641645",
+      "name": "Camiseta icon fúcsia live g",
+      "price": 199.9
     }
   },
   "clients": {
@@ -11163,5 +11168,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:03:21.335Z"
+  "savedAt": "2026-07-20T17:03:26.507Z"
 }
