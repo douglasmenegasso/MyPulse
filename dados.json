@@ -6216,9 +6216,15 @@
           "name": "Faixa de cabelo marrom LP",
           "price": 77,
           "qty": 1
+        },
+        "7900415284282": {
+          "code": "7900415284282",
+          "name": "Faixa de cabelo bege lp",
+          "price": 77,
+          "qty": 1
         }
       },
-      "total": 154,
+      "total": 231,
       "status": "open"
     }
   },
@@ -11530,5 +11536,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T19:44:10.906Z"
+  "savedAt": "2026-07-20T19:44:18.041Z"
 }
