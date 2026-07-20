@@ -4179,6 +4179,11 @@
       "code": "7900415199272",
       "name": "Calça balloon de moletom rosa LP P",
       "price": 553
+    },
+    "7900415284473": {
+      "code": "7900415284473",
+      "name": "Vestido curto de alça canelado bege LP P",
+      "price": 397
     }
   },
   "clients": {
@@ -11591,5 +11596,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:29:32.566Z"
+  "savedAt": "2026-07-20T20:29:59.384Z"
 }
