@@ -6089,9 +6089,15 @@
           "name": "Camiseta cropped pima preto live P",
           "price": 249.9,
           "qty": 1
+        },
+        "7900292841448": {
+          "code": "7900292841448",
+          "name": "Regata off com bege lp P",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 7649.5999999999985,
+      "total": 7912.5999999999985,
       "status": "open"
     }
   },
@@ -11403,5 +11409,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:46:56.774Z"
+  "savedAt": "2026-07-20T17:47:07.015Z"
 }
