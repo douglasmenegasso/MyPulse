@@ -4019,6 +4019,11 @@
       "code": "7901072408707",
       "name": "Regata halter verde oliva claro live g",
       "price": 179.9
+    },
+    "7901072434287": {
+      "code": "7901072434287",
+      "name": "Camiseta icon pink live g",
+      "price": 199.9
     }
   },
   "clients": {
@@ -11123,5 +11128,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:00:09.992Z"
+  "savedAt": "2026-07-20T17:00:43.965Z"
 }
