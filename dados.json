@@ -6083,9 +6083,15 @@
           "name": "Top sprint alcinha marrom DT M",
           "price": 299,
           "qty": 1
+        },
+        "7908990957324": {
+          "code": "7908990957324",
+          "name": "Camiseta cropped pima preto live P",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 7399.699999999999,
+      "total": 7649.5999999999985,
       "status": "open"
     }
   },
@@ -11397,5 +11403,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:46:48.395Z"
+  "savedAt": "2026-07-20T17:46:56.774Z"
 }
