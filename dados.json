@@ -5376,30 +5376,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "7908931962936": {
-          "code": "7908931962936",
-          "name": "Top cut out verde água live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7908990962557": {
-          "code": "7908990962557",
-          "name": "Regata verde água live M",
-          "price": 179.9,
-          "qty": 1
-        },
-        "7901072423700": {
-          "code": "7901072423700",
-          "name": "Jaqueta dupla face preto e bege live P",
-          "price": 699.9,
-          "qty": 1
-        },
-        "7908754514282": {
-          "code": "7908754514282",
-          "name": "Legging icon preta live M",
-          "price": 319.9,
-          "qty": 1
-        },
         "7908990975434": {
           "code": "7908990975434",
           "name": "Regata soft off live M",
@@ -5407,7 +5383,7 @@
           "qty": 1
         }
       },
-      "total": 5852.199999999999,
+      "total": 4372.6,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11702,6 +11678,34 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-20T20:47:05.277Z"
+      },
+      "7908754514282": {
+        "code": "7908754514282",
+        "name": "Legging icon preta live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:06.010Z"
+      },
+      "7901072423700": {
+        "code": "7901072423700",
+        "name": "Jaqueta dupla face preto e bege live P",
+        "price": 699.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:06.795Z"
+      },
+      "7908990962557": {
+        "code": "7908990962557",
+        "name": "Regata verde água live M",
+        "price": 179.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:07.685Z"
+      },
+      "7908931962936": {
+        "code": "7908931962936",
+        "name": "Top cut out verde água live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:08.095Z"
       }
     }
   },
@@ -11710,5 +11714,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:47:05.278Z"
+  "savedAt": "2026-07-20T20:47:08.097Z"
 }
