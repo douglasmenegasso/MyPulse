@@ -4189,6 +4189,11 @@
       "code": "7900415277796",
       "name": "Shorts saia jeans azul LP 36",
       "price": 443
+    },
+    "7900415164997": {
+      "code": "7900415164997",
+      "name": "Shorts furadinho bege com verde LP P",
+      "price": 497
     }
   },
   "clients": {
@@ -11601,5 +11606,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:31:17.231Z"
+  "savedAt": "2026-07-20T20:31:23.749Z"
 }
