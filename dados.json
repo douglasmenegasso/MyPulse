@@ -4109,6 +4109,11 @@
       "code": "7900415348403",
       "name": "Calça sarja baggy caramelo LP 38",
       "price": 673
+    },
+    "7900415284282": {
+      "code": "7900415284282",
+      "name": "Faixa de cabelo bege lp",
+      "price": 77
     }
   },
   "clients": {
@@ -11496,5 +11501,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T19:42:20.409Z"
+  "savedAt": "2026-07-20T19:42:54.798Z"
 }
