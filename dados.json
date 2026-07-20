@@ -4134,6 +4134,11 @@
       "code": "7900415146917",
       "name": "Shorts saia com bolsos preto LP pp",
       "price": 597
+    },
+    "7900415273279": {
+      "code": "7900415273279",
+      "name": "Calça jogger com elástico preto LP P",
+      "price": 527
     }
   },
   "clients": {
@@ -11546,5 +11551,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:12:12.492Z"
+  "savedAt": "2026-07-20T20:12:44.588Z"
 }
