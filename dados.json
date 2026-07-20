@@ -4124,6 +4124,11 @@
       "code": "7900415284299",
       "name": "Faixa de cabelo marrom LP",
       "price": 77
+    },
+    "7900415146900": {
+      "code": "7900415146900",
+      "name": "Shorts saia com bolsos preto LP P",
+      "price": 597
     }
   },
   "clients": {
@@ -11536,5 +11541,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T19:44:26.305Z"
+  "savedAt": "2026-07-20T20:11:36.971Z"
 }
