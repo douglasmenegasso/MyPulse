@@ -6042,9 +6042,15 @@
           "name": "Top elástico roxo malva AG M",
           "price": 219,
           "qty": 1
+        },
+        "7890171651827": {
+          "code": "7890171651827",
+          "name": "Regata cropped refletivo roxo malva AG P",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 5813.9,
+      "total": 6032.9,
       "status": "open"
     }
   },
@@ -11356,5 +11362,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:45:10.988Z"
+  "savedAt": "2026-07-20T17:45:12.771Z"
 }
