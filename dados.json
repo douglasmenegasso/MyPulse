@@ -4114,6 +4114,11 @@
       "code": "7900415284282",
       "name": "Faixa de cabelo bege lp",
       "price": 77
+    },
+    "7900415284275": {
+      "code": "7900415284275",
+      "name": "Faixa de cabelo cinza LP",
+      "price": 77
     }
   },
   "clients": {
@@ -11501,5 +11506,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T19:42:54.798Z"
+  "savedAt": "2026-07-20T19:43:18.876Z"
 }
