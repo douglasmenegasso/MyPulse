@@ -4154,6 +4154,11 @@
       "code": "7900415199289",
       "name": "Calça balloon de moletom rosa LP pp",
       "price": 553
+    },
+    "7900415348397": {
+      "code": "7900415348397",
+      "name": "Calça sarja baggy caramelo LP 36",
+      "price": 673
     }
   },
   "clients": {
@@ -11566,5 +11571,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:19:03.942Z"
+  "savedAt": "2026-07-20T20:19:31.326Z"
 }
