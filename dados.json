@@ -5989,9 +5989,15 @@
           "name": "Macaquinho twist preto live M",
           "price": 399.9,
           "qty": 1
+        },
+        "01603731064": {
+          "code": "01603731064",
+          "name": "Jaqueta hill verde movimento P",
+          "price": 439.9,
+          "qty": 1
         }
       },
-      "total": 3510.1,
+      "total": 3950,
       "status": "open"
     }
   },
@@ -11303,5 +11309,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:39:20.622Z"
+  "savedAt": "2026-07-20T17:39:26.444Z"
 }
