@@ -4054,6 +4054,11 @@
       "code": "7890171651827",
       "name": "Regata cropped refletivo roxo malva AG P",
       "price": 219
+    },
+    "7601072483063": {
+      "code": "7601072483063",
+      "name": "Legging icon rosa live P",
+      "price": 319.9
     }
   },
   "clients": {
@@ -11362,5 +11367,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:45:45.101Z"
+  "savedAt": "2026-07-20T17:45:52.593Z"
 }
