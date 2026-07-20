@@ -5268,54 +5268,6 @@
     "c_1779218832099": {
       "clientId": "c_1779218832099",
       "items": {
-        "7891186357520": {
-          "code": "7891186357520",
-          "name": "Calcinha fio preto lupo M",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7909392379317": {
-          "code": "7909392379317",
-          "name": "Meia cano médio branco lupo 33 a 36",
-          "price": 19.9,
-          "qty": 1
-        },
-        "7890171378908": {
-          "code": "7890171378908",
-          "name": "Meia rosa AG 34 a 39",
-          "price": 39.9,
-          "qty": 2
-        },
-        "7909392810071": {
-          "code": "7909392810071",
-          "name": "Meia cano curto roxo lupo 33 a 36",
-          "price": 19.9,
-          "qty": 1
-        },
-        "7890171663479": {
-          "code": "7890171663479",
-          "name": "Legging elástico lilás AG P",
-          "price": 369,
-          "qty": 1
-        },
-        "7890171653159": {
-          "code": "7890171653159",
-          "name": "Top elástico lilás AG M",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171645062": {
-          "code": "7890171645062",
-          "name": "Regata cropped mesh lilás AG P",
-          "price": 219,
-          "qty": 1
-        },
         "2962746618438": {
           "code": "2962746618438",
           "name": "Jaqueta dark cherry DT P",
@@ -5365,7 +5317,7 @@
           "qty": 1
         }
       },
-      "total": 3832.9,
+      "total": 2806.4999999999995,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11709,6 +11661,62 @@
         "price": 49.9,
         "qty": 1,
         "lastAt": "2026-07-20T20:47:13.772Z"
+      },
+      "7891186357520": {
+        "code": "7891186357520",
+        "name": "Calcinha fio preto lupo M",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:14.030Z"
+      },
+      "7909392494240": {
+        "code": "7909392494240",
+        "name": "Kit 3 meias Lupo 34 a 39",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:14.705Z"
+      },
+      "7909392379317": {
+        "code": "7909392379317",
+        "name": "Meia cano médio branco lupo 33 a 36",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:15.059Z"
+      },
+      "7890171378908": {
+        "code": "7890171378908",
+        "name": "Meia rosa AG 34 a 39",
+        "price": 39.9,
+        "qty": 2,
+        "lastAt": "2026-07-20T20:47:15.909Z"
+      },
+      "7909392810071": {
+        "code": "7909392810071",
+        "name": "Meia cano curto roxo lupo 33 a 36",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:15.915Z"
+      },
+      "7890171663479": {
+        "code": "7890171663479",
+        "name": "Legging elástico lilás AG P",
+        "price": 369,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:15.926Z"
+      },
+      "7890171653159": {
+        "code": "7890171653159",
+        "name": "Top elástico lilás AG M",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:16.065Z"
+      },
+      "7890171645062": {
+        "code": "7890171645062",
+        "name": "Regata cropped mesh lilás AG P",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:16.966Z"
       }
     }
   },
@@ -11717,5 +11725,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:47:13.773Z"
+  "savedAt": "2026-07-20T20:47:16.968Z"
 }
