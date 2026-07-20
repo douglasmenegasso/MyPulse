@@ -6025,9 +6025,15 @@
           "name": "T-shirt cropped mesh branco AG P",
           "price": 219,
           "qty": 1
+        },
+        "7890171662304": {
+          "code": "7890171662304",
+          "name": "Bermuda elástico roxo malva AG P",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 5335.9,
+      "total": 5594.9,
       "status": "open"
     }
   },
@@ -11339,5 +11345,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:43:47.604Z"
+  "savedAt": "2026-07-20T17:44:02.164Z"
 }
