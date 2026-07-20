@@ -4039,6 +4039,11 @@
       "code": "7890171654262",
       "name": "Bermuda elástico lilás AG P",
       "price": 259
+    },
+    "7908990928164": {
+      "code": "7908990928164",
+      "name": "Macaquinho azul bic live live M",
+      "price": 399.9
     }
   },
   "clients": {
@@ -11281,5 +11286,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:37:19.658Z"
+  "savedAt": "2026-07-20T17:37:55.755Z"
 }
