@@ -4049,6 +4049,11 @@
       "code": "7901072441292",
       "name": "Macaquinho twist preto live M",
       "price": 399.9
+    },
+    "7890171651827": {
+      "code": "7890171651827",
+      "name": "Regata cropped refletivo roxo malva AG P",
+      "price": 219
     }
   },
   "clients": {
@@ -11351,5 +11356,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:44:35.468Z"
+  "savedAt": "2026-07-20T17:45:10.988Z"
 }
