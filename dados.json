@@ -5406,12 +5406,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7908990976189": {
-          "code": "7908990976189",
-          "name": "Top icon violeta live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908990975434": {
           "code": "7908990975434",
           "name": "Regata soft off live M",
@@ -5419,7 +5413,7 @@
           "qty": 1
         }
       },
-      "total": 6351.999999999998,
+      "total": 6102.0999999999985,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11700,6 +11694,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-20T20:46:48.046Z"
+      },
+      "7908990976189": {
+        "code": "7908990976189",
+        "name": "Top icon violeta live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:46:48.802Z"
       }
     }
   },
@@ -11708,5 +11709,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:46:48.048Z"
+  "savedAt": "2026-07-20T20:46:52.151Z"
 }
