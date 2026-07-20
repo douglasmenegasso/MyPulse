@@ -6013,9 +6013,15 @@
           "name": "Top alça fina off com preto AG P",
           "price": 219,
           "qty": 1
+        },
+        "7890171653852": {
+          "code": "7890171653852",
+          "name": "Top um ombro só branco com elástico AG M",
+          "price": 239,
+          "qty": 1
         }
       },
-      "total": 4877.9,
+      "total": 5116.9,
       "status": "open"
     }
   },
@@ -11327,5 +11333,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:42:47.930Z"
+  "savedAt": "2026-07-20T17:42:58.264Z"
 }
