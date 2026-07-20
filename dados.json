@@ -4069,6 +4069,11 @@
       "code": "7909746645823",
       "name": "Legging dashi preto DT P",
       "price": 399
+    },
+    "7909746645786": {
+      "code": "7909746645786",
+      "name": "Legging dash azul claro DT P",
+      "price": 399
     }
   },
   "clients": {
@@ -11437,5 +11442,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:52:26.888Z"
+  "savedAt": "2026-07-20T17:53:09.425Z"
 }
