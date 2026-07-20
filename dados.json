@@ -5459,27 +5459,9 @@
           "name": "Top tex marrom live M",
           "price": 279.9,
           "qty": 1
-        },
-        "7890171652923": {
-          "code": "7890171652923",
-          "name": "Legging shine brilhosa marrom AG P",
-          "price": 298,
-          "qty": 1
-        },
-        "7890171652619": {
-          "code": "7890171652619",
-          "name": "Top shine brilhoso marrom AG M",
-          "price": 198,
-          "qty": 1
-        },
-        "7890171616017": {
-          "code": "7890171616017",
-          "name": "Cropped bege refletivo AG M",
-          "price": 198,
-          "qty": 1
         }
       },
-      "total": 8935.299999999996,
+      "total": 8241.299999999996,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11690,6 +11672,27 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-20T20:46:31.642Z"
+      },
+      "7890171616017": {
+        "code": "7890171616017",
+        "name": "Cropped bege refletivo AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:46:33.867Z"
+      },
+      "7890171652619": {
+        "code": "7890171652619",
+        "name": "Top shine brilhoso marrom AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:46:36.143Z"
+      },
+      "7890171652923": {
+        "code": "7890171652923",
+        "name": "Legging shine brilhosa marrom AG P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:46:36.916Z"
       }
     }
   },
@@ -11698,5 +11701,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:46:33.536Z"
+  "savedAt": "2026-07-20T20:46:36.918Z"
 }
