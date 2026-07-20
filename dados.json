@@ -6007,9 +6007,15 @@
           "name": "Bermuda elástico off com preto AG P",
           "price": 369,
           "qty": 1
+        },
+        "7890171654217": {
+          "code": "7890171654217",
+          "name": "Top alça fina off com preto AG P",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 4658.9,
+      "total": 4877.9,
       "status": "open"
     }
   },
@@ -11321,5 +11327,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:42:08.716Z"
+  "savedAt": "2026-07-20T17:42:47.930Z"
 }
