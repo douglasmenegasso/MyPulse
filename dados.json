@@ -4219,6 +4219,11 @@
       "code": "7900415273262",
       "name": "Calça jogger com elástico preto LP M",
       "price": 527
+    },
+    "7900415199265": {
+      "code": "7900415199265",
+      "name": "Calça balloon de moletom rosa Lp M",
+      "price": 553
     }
   },
   "clients": {
@@ -11631,5 +11636,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:35:17.501Z"
+  "savedAt": "2026-07-20T20:35:28.139Z"
 }
