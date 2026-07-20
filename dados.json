@@ -6077,9 +6077,15 @@
           "name": "Legging sprint marrom DT P",
           "price": 259,
           "qty": 1
+        },
+        "7909746620042": {
+          "code": "7909746620042",
+          "name": "Top sprint alcinha marrom DT M",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 7100.699999999999,
+      "total": 7399.699999999999,
       "status": "open"
     }
   },
@@ -11391,5 +11397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:46:34.689Z"
+  "savedAt": "2026-07-20T17:46:44.900Z"
 }
