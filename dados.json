@@ -4119,6 +4119,11 @@
       "code": "7900415284275",
       "name": "Faixa de cabelo cinza LP",
       "price": 77
+    },
+    "7900415284299": {
+      "code": "7900415284299",
+      "name": "Faixa de cabelo marrom LP",
+      "price": 77
     }
   },
   "clients": {
@@ -11506,5 +11511,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T19:43:23.788Z"
+  "savedAt": "2026-07-20T19:43:47.192Z"
 }
