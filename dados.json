@@ -5972,9 +5972,15 @@
           "name": "Top curve branco live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7908990928164": {
+          "code": "7908990928164",
+          "name": "Macaquinho azul bic live live M",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 2710.2999999999997,
+      "total": 3110.2,
       "status": "open"
     }
   },
@@ -11286,5 +11292,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:37:55.755Z"
+  "savedAt": "2026-07-20T17:38:02.292Z"
 }
