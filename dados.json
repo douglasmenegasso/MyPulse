@@ -6001,9 +6001,15 @@
           "name": "Calça jogger verde movimento P",
           "price": 339.9,
           "qty": 1
+        },
+        "7890171656945": {
+          "code": "7890171656945",
+          "name": "Bermuda elástico off com preto AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 4289.9,
+      "total": 4658.9,
       "status": "open"
     }
   },
@@ -11315,5 +11321,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:41:38.614Z"
+  "savedAt": "2026-07-20T17:42:08.716Z"
 }
