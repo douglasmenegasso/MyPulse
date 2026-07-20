@@ -4194,6 +4194,11 @@
       "code": "7900415164997",
       "name": "Shorts furadinho bege com verde LP P",
       "price": 497
+    },
+    "7900415250386": {
+      "code": "7900415250386",
+      "name": "Shorts boxer com elástico preto Lp P",
+      "price": 473
     }
   },
   "clients": {
@@ -11606,5 +11611,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:31:23.749Z"
+  "savedAt": "2026-07-20T20:32:14.239Z"
 }
