@@ -5837,9 +5837,15 @@
           "name": "Camiseta icon preta live g ",
           "price": 199.9,
           "qty": 1
+        },
+        "7908835803960": {
+          "code": "7908835803960",
+          "name": "Camiseta V action branca live g",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 11269.299999999992,
+      "total": 11459.199999999992,
       "status": "open"
     }
   },
@@ -11151,5 +11157,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:01:48.236Z"
+  "savedAt": "2026-07-20T17:02:06.380Z"
 }
