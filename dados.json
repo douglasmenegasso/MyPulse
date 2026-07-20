@@ -4059,6 +4059,11 @@
       "code": "7601072483063",
       "name": "Legging icon rosa live P",
       "price": 319.9
+    },
+    "7909746646523": {
+      "code": "7909746646523",
+      "name": "Jaqueta flex corta vento bege DT P",
+      "price": 699
     }
   },
   "clients": {
@@ -11427,5 +11432,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:48:52.353Z"
+  "savedAt": "2026-07-20T17:51:51.759Z"
 }
