@@ -4259,6 +4259,11 @@
       "code": "7900415274979",
       "name": "Vestido curto canelado azul escuro Lp g",
       "price": 397
+    },
+    "7900415164966": {
+      "code": "7900415164966",
+      "name": "Shorts furadinho bege com verde LP g",
+      "price": 497
     }
   },
   "clients": {
@@ -11671,5 +11676,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:40:36.648Z"
+  "savedAt": "2026-07-20T20:41:11.121Z"
 }
