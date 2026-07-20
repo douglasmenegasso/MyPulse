@@ -4184,6 +4184,11 @@
       "code": "7900415284473",
       "name": "Vestido curto de alça canelado bege LP P",
       "price": 397
+    },
+    "7900415277796": {
+      "code": "7900415277796",
+      "name": "Shorts saia jeans azul LP 36",
+      "price": 443
     }
   },
   "clients": {
@@ -11596,5 +11601,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:30:17.129Z"
+  "savedAt": "2026-07-20T20:30:35.264Z"
 }
