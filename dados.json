@@ -4249,6 +4249,11 @@
       "code": "7900415150204",
       "name": "T-shirt cinza estampa marrom LP M",
       "price": 197
+    },
+    "7900415302948": {
+      "code": "7900415302948",
+      "name": "T-shirt off estampa azul marinho LP M",
+      "price": 243
     }
   },
   "clients": {
@@ -11661,5 +11666,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:39:17.706Z"
+  "savedAt": "2026-07-20T20:40:06.862Z"
 }
