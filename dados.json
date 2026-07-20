@@ -4204,6 +4204,11 @@
       "code": "7900415284428",
       "name": "Vestido curto canelado de alças preto LP P",
       "price": 397
+    },
+    "7900415301538": {
+      "code": "7900415301538",
+      "name": "Calça sarja baggy rosa LP 34",
+      "price": 673
     }
   },
   "clients": {
@@ -11616,5 +11621,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:33:17.357Z"
+  "savedAt": "2026-07-20T20:33:21.587Z"
 }
