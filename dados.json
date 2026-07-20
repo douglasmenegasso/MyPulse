@@ -5268,18 +5268,6 @@
     "c_1779218832099": {
       "clientId": "c_1779218832099",
       "items": {
-        "7901072451901": {
-          "code": "7901072451901",
-          "name": "Shorts icon rosa ametista live M",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7901072451222": {
-          "code": "7901072451222",
-          "name": "Top icon rosa ametista live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7901072492140": {
           "code": "7901072492140",
           "name": "Macaquinho fúcsia live live M",
@@ -5293,8 +5281,8 @@
           "qty": 1
         }
       },
-      "total": 1109.5999999999995,
-      "status": "open"
+      "total": 619.7999999999995,
+      "status": "waiting"
     },
     "c_1784237432107": {
       "clientId": "c_1784237432107",
@@ -11721,6 +11709,20 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-20T20:47:21.003Z"
+      },
+      "7901072451901": {
+        "code": "7901072451901",
+        "name": "Shorts icon rosa ametista live M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:21.800Z"
+      },
+      "7901072451222": {
+        "code": "7901072451222",
+        "name": "Top icon rosa ametista live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-20T20:47:22.919Z"
       }
     }
   },
@@ -11729,5 +11731,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:47:21.004Z"
+  "savedAt": "2026-07-20T20:47:24.098Z"
 }
