@@ -6101,9 +6101,15 @@
           "name": "Regata canelada rosa AG P",
           "price": 159,
           "qty": 1
+        },
+        "7900415361037": {
+          "code": "7900415361037",
+          "name": "Regata canelada marrom bordado azul Lp P",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 8071.5999999999985,
+      "total": 8334.599999999999,
       "status": "open"
     }
   },
@@ -11415,5 +11421,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:47:18.651Z"
+  "savedAt": "2026-07-20T17:47:37.727Z"
 }
