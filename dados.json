@@ -4094,6 +4094,11 @@
       "code": "7909746645830",
       "name": "Legging dash preto DT M",
       "price": 399
+    },
+    "7909746646530": {
+      "code": "7909746646530",
+      "name": "Jaqueta flex corta v vento bege DT M",
+      "price": 699
     }
   },
   "clients": {
@@ -11462,5 +11467,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:59:29.369Z"
+  "savedAt": "2026-07-20T17:59:39.980Z"
 }
