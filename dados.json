@@ -6095,9 +6095,15 @@
           "name": "Regata off com bege lp P",
           "price": 263,
           "qty": 1
+        },
+        "7890171628119": {
+          "code": "7890171628119",
+          "name": "Regata canelada rosa AG P",
+          "price": 159,
+          "qty": 1
         }
       },
-      "total": 7912.5999999999985,
+      "total": 8071.5999999999985,
       "status": "open"
     }
   },
@@ -11409,5 +11415,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:47:07.015Z"
+  "savedAt": "2026-07-20T17:47:18.651Z"
 }
