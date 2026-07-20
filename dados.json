@@ -4254,6 +4254,11 @@
       "code": "7900415302948",
       "name": "T-shirt off estampa azul marinho LP M",
       "price": 243
+    },
+    "7900415274979": {
+      "code": "7900415274979",
+      "name": "Vestido curto canelado azul escuro Lp g",
+      "price": 397
     }
   },
   "clients": {
@@ -11666,5 +11671,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:40:17.785Z"
+  "savedAt": "2026-07-20T20:40:36.648Z"
 }
