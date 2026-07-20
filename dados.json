@@ -4269,6 +4269,11 @@
       "code": "7900415277819",
       "name": "Shorts saia jeans azul LP 40",
       "price": 443
+    },
+    "7900415150181": {
+      "code": "7900415150181",
+      "name": "T-shirt cinza estampa marrom LP g",
+      "price": 197
     }
   },
   "clients": {
@@ -11681,5 +11686,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:42:17.852Z"
+  "savedAt": "2026-07-20T20:42:20.931Z"
 }
