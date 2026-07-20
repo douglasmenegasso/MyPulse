@@ -5552,37 +5552,6 @@
       "total": 1259.6,
       "status": "waiting"
     },
-    "c_1784135024747": {
-      "clientId": "c_1784135024747",
-      "items": {
-        "7909392361498": {
-          "code": "7909392361498",
-          "name": "Meia azul cano curto lupo 41 a 44",
-          "price": 17.9,
-          "qty": 1
-        },
-        "7891186470779": {
-          "code": "7891186470779",
-          "name": "Meia cano curto branca lupo 41 a 44",
-          "price": 19.9,
-          "qty": 2
-        },
-        "7909392830499": {
-          "code": "7909392830499",
-          "name": "Meia Sport cano curto preto lupo 41 a 44",
-          "price": 19.9,
-          "qty": 1
-        },
-        "7891186349631": {
-          "code": "7891186349631",
-          "name": "Meia Sport cano curto branco lupo 41 a 44",
-          "price": 19.9,
-          "qty": 1
-        }
-      },
-      "total": 97.5,
-      "status": "waiting"
-    },
     "c_1784322913411": {
       "clientId": "c_1784322913411",
       "items": {
@@ -5814,6 +5783,39 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784135024747",
+      "clientName": "Day pilates estivadores",
+      "clientPhone": "",
+      "items": {
+        "7909392361498": {
+          "code": "7909392361498",
+          "name": "Meia azul cano curto lupo 41 a 44",
+          "price": 17.9,
+          "qty": 1
+        },
+        "7891186470779": {
+          "code": "7891186470779",
+          "name": "Meia cano curto branca lupo 41 a 44",
+          "price": 19.9,
+          "qty": 2
+        },
+        "7909392830499": {
+          "code": "7909392830499",
+          "name": "Meia Sport cano curto preto lupo 41 a 44",
+          "price": 19.9,
+          "qty": 1
+        },
+        "7891186349631": {
+          "code": "7891186349631",
+          "name": "Meia Sport cano curto branco lupo 41 a 44",
+          "price": 19.9,
+          "qty": 1
+        }
+      },
+      "total": 97.5,
+      "closedAt": "2026-07-20T16:56:20.500Z"
+    },
     {
       "clientId": "c_1783457601997",
       "clientName": "Mirely Deyse",
@@ -11088,5 +11090,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T16:55:38.475Z"
+  "savedAt": "2026-07-20T16:56:20.503Z"
 }
