@@ -4209,6 +4209,11 @@
       "code": "7900415301538",
       "name": "Calça sarja baggy rosa LP 34",
       "price": 673
+    },
+    "7900415301545": {
+      "code": "7900415301545",
+      "name": "Calça sarja baggy rosa LP 36",
+      "price": 673
     }
   },
   "clients": {
@@ -11621,5 +11626,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:33:21.587Z"
+  "savedAt": "2026-07-20T20:34:04.966Z"
 }
