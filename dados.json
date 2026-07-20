@@ -4694,79 +4694,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1779386183182": {
-      "clientId": "c_1779386183182",
-      "items": {
-        "7901072487573": {
-          "code": "7901072487573",
-          "name": "Regata cropped com bojo branco live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7901072449113": {
-          "code": "7901072449113",
-          "name": "Jaqueta harmony fúcsia live M",
-          "price": 379.9,
-          "qty": 1
-        },
-        "7901072485685": {
-          "code": "7901072485685",
-          "name": "Legging fúcsia live live M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901072447935": {
-          "code": "7901072447935",
-          "name": "Top curve allure fúcsia live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990904847": {
-          "code": "7908990904847",
-          "name": "Legging azul petróleo live live M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7908990904335": {
-          "code": "7908990904335",
-          "name": "Shorts azul petróleo live live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7908931913907": {
-          "code": "7908931913907",
-          "name": "Top curve allure azul petróleo live P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072405621": {
-          "code": "7901072405621",
-          "name": "Jaqueta harmony branco live M",
-          "price": 379.9,
-          "qty": 1
-        },
-        "7901072470827": {
-          "code": "7901072470827",
-          "name": "Shorts fúcsia live live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901072438780": {
-          "code": "7901072438780",
-          "name": "Camiseta cropped pink live M",
-          "price": 179.9,
-          "qty": 1
-        },
-        "7901072438605": {
-          "code": "7901072438605",
-          "name": "Camiseta cropped preto live M",
-          "price": 179.9,
-          "qty": 1
-        }
-      },
-      "total": 2898.899999999995,
-      "status": "waiting"
-    },
     "41995150547": {
       "clientId": "41995150547",
       "items": {},
@@ -6343,6 +6270,81 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779386183182",
+      "clientName": "Julia",
+      "clientPhone": "",
+      "items": {
+        "7901072487573": {
+          "code": "7901072487573",
+          "name": "Regata cropped com bojo branco live M",
+          "price": 219.9,
+          "qty": 1
+        },
+        "7901072449113": {
+          "code": "7901072449113",
+          "name": "Jaqueta harmony fúcsia live M",
+          "price": 379.9,
+          "qty": 1
+        },
+        "7901072485685": {
+          "code": "7901072485685",
+          "name": "Legging fúcsia live live M",
+          "price": 329.9,
+          "qty": 1
+        },
+        "7901072447935": {
+          "code": "7901072447935",
+          "name": "Top curve allure fúcsia live P",
+          "price": 199.9,
+          "qty": 1
+        },
+        "7908990904847": {
+          "code": "7908990904847",
+          "name": "Legging azul petróleo live live M",
+          "price": 329.9,
+          "qty": 1
+        },
+        "7908990904335": {
+          "code": "7908990904335",
+          "name": "Shorts azul petróleo live live M",
+          "price": 249.9,
+          "qty": 1
+        },
+        "7908931913907": {
+          "code": "7908931913907",
+          "name": "Top curve allure azul petróleo live P",
+          "price": 199.9,
+          "qty": 1
+        },
+        "7901072405621": {
+          "code": "7901072405621",
+          "name": "Jaqueta harmony branco live M",
+          "price": 379.9,
+          "qty": 1
+        },
+        "7901072470827": {
+          "code": "7901072470827",
+          "name": "Shorts fúcsia live live M",
+          "price": 249.9,
+          "qty": 1
+        },
+        "7901072438780": {
+          "code": "7901072438780",
+          "name": "Camiseta cropped pink live M",
+          "price": 179.9,
+          "qty": 1
+        },
+        "7901072438605": {
+          "code": "7901072438605",
+          "name": "Camiseta cropped preto live M",
+          "price": 179.9,
+          "qty": 1
+        }
+      },
+      "total": 2898.899999999995,
+      "closedAt": "2026-07-20T20:44:18.814Z"
+    },
     {
       "clientId": "c_1784135024747",
       "clientName": "Day pilates estivadores",
@@ -11692,5 +11694,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:44:17.935Z"
+  "savedAt": "2026-07-20T20:44:21.316Z"
 }
