@@ -4199,6 +4199,11 @@
       "code": "7900415250386",
       "name": "Shorts boxer com elástico preto Lp P",
       "price": 473
+    },
+    "7900415284428": {
+      "code": "7900415284428",
+      "name": "Vestido curto canelado de alças preto LP P",
+      "price": 397
     }
   },
   "clients": {
@@ -11611,5 +11616,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T20:32:17.325Z"
+  "savedAt": "2026-07-20T20:32:47.453Z"
 }
