@@ -5803,9 +5803,15 @@
           "name": "Camiseta icon verde oliva claro live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072408707": {
+          "code": "7901072408707",
+          "name": "Regata halter verde oliva claro live g",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 10489.699999999993,
+      "total": 10669.599999999993,
       "status": "open"
     }
   },
@@ -11117,5 +11123,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-20T17:00:05.318Z"
+  "savedAt": "2026-07-20T17:00:09.992Z"
 }
