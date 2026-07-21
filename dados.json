@@ -5077,12 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7901072405447": {
-          "code": "7901072405447",
-          "name": "Macaquinho allure bege live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7908990972563": {
           "code": "7908990972563",
           "name": "Legging máxi vermelho live M",
@@ -5198,7 +5192,7 @@
           "qty": 1
         }
       },
-      "total": 5706.199999999997,
+      "total": 5346.299999999997,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11219,6 +11213,13 @@
         "price": 333,
         "qty": 1,
         "lastAt": "2026-07-21T20:56:34.998Z"
+      },
+      "7901072405447": {
+        "code": "7901072405447",
+        "name": "Macaquinho allure bege live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:56:46.085Z"
       }
     },
     "c_1784049002709": {
@@ -12100,5 +12101,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:56:37.944Z"
+  "savedAt": "2026-07-21T20:56:46.087Z"
 }
