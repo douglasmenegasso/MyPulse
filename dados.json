@@ -6043,6 +6043,19 @@
       },
       "total": 231,
       "status": "waiting"
+    },
+    "c_1784657638327": {
+      "clientId": "c_1784657638327",
+      "items": {
+        "5142761767": {
+          "code": "5142761767",
+          "name": "Tênis com carimbo caramelo LP 37",
+          "price": 497,
+          "qty": 1
+        }
+      },
+      "total": 497,
+      "status": "open"
     }
   },
   "closed": [
@@ -11738,5 +11751,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:13:58.329Z"
+  "savedAt": "2026-07-21T18:14:17.059Z"
 }
