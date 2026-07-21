@@ -5089,12 +5089,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7908835895507": {
-          "code": "7908835895507",
-          "name": "Top curve preto live live M",
-          "price": 219.9,
-          "qty": 1
-        },
         "7901072486170": {
           "code": "7901072486170",
           "name": "Macaquinho tex marrom live M",
@@ -5114,7 +5108,7 @@
           "qty": 1
         }
       },
-      "total": 1699.3999999999983,
+      "total": 1479.4999999999982,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11233,6 +11227,13 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-07-21T21:01:21.070Z"
+      },
+      "7908835895507": {
+        "code": "7908835895507",
+        "name": "Top curve preto live live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:01:22.433Z"
       }
     },
     "c_1784049002709": {
@@ -12114,5 +12115,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:01:21.071Z"
+  "savedAt": "2026-07-21T21:01:24.740Z"
 }
