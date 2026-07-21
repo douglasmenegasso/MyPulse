@@ -4621,6 +4621,11 @@
       "id": "c_1784657638327",
       "name": "Letícia Gianice",
       "phone": ""
+    },
+    "c_1784670696673": {
+      "id": "c_1784670696673",
+      "name": "Dani feroldi",
+      "phone": ""
     }
   },
   "orders": {
@@ -12120,5 +12125,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:01:46.610Z"
+  "savedAt": "2026-07-21T21:51:36.675Z"
 }
