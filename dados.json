@@ -6321,9 +6321,15 @@
           "name": "Legging dashi preto DT P",
           "price": 399,
           "qty": 1
+        },
+        "7890171657393": {
+          "code": "7890171657393",
+          "name": "Top nadador preto AG m",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 13188.499999999996,
+      "total": 13486.499999999996,
       "status": "open"
     }
   },
@@ -12020,5 +12026,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:32:54.640Z"
+  "savedAt": "2026-07-21T18:33:07.003Z"
 }
