@@ -5107,12 +5107,6 @@
           "price": 219.9,
           "qty": 1
         },
-        "7901072483056": {
-          "code": "7901072483056",
-          "name": "Legging icon rosa ametista live M",
-          "price": 319.9,
-          "qty": 1
-        },
         "7901072475693": {
           "code": "7901072475693",
           "name": "Top curve rosa live M",
@@ -5150,7 +5144,7 @@
           "qty": 1
         }
       },
-      "total": 3466.9999999999986,
+      "total": 3147.0999999999985,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11227,6 +11221,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-21T21:00:34.877Z"
+      },
+      "7901072483056": {
+        "code": "7901072483056",
+        "name": "Legging icon rosa ametista live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:00:42.663Z"
       }
     },
     "c_1784049002709": {
@@ -12108,5 +12109,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:00:34.879Z"
+  "savedAt": "2026-07-21T21:00:42.665Z"
 }
