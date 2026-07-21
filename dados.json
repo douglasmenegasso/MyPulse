@@ -5530,12 +5530,6 @@
           "price": 243,
           "qty": 1
         },
-        "7900415222987": {
-          "code": "7900415222987",
-          "name": "Regata canelada com elástico verde Lp M",
-          "price": 297,
-          "qty": 1
-        },
         "7900415112059": {
           "code": "7900415112059",
           "name": "Regata canelada amarela Lp M",
@@ -5729,7 +5723,7 @@
           "qty": 1
         }
       },
-      "total": 8291.199999999992,
+      "total": 7994.199999999992,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11750,6 +11744,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-21T20:51:02.812Z"
+      },
+      "7900415222987": {
+        "code": "7900415222987",
+        "name": "Regata canelada com elástico verde Lp M",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:14.490Z"
       }
     },
     "c_1783457601997": {
@@ -12070,5 +12071,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:51:08.703Z"
+  "savedAt": "2026-07-21T20:51:14.492Z"
 }
