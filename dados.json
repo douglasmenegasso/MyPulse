@@ -5530,24 +5530,6 @@
           "price": 243,
           "qty": 1
         },
-        "7901072402033": {
-          "code": "7901072402033",
-          "name": "Regata pima branca live M",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901128641720": {
-          "code": "7901128641720",
-          "name": "Regata icon pink live M",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7908931968372": {
-          "code": "7908931968372",
-          "name": "Camiseta V bordo live M",
-          "price": 259.9,
-          "qty": 1
-        },
         "7908931968389": {
           "code": "7908931968389",
           "name": "Camiseta V equilíbrio bordo live g",
@@ -5609,7 +5591,7 @@
           "qty": 1
         }
       },
-      "total": 3543.699999999996,
+      "total": 2843.999999999996,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11770,6 +11752,27 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:52:08.809Z"
+      },
+      "7901072402033": {
+        "code": "7901072402033",
+        "name": "Regata pima branca live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:52:11.431Z"
+      },
+      "7901128641720": {
+        "code": "7901128641720",
+        "name": "Regata icon pink live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:52:12.176Z"
+      },
+      "7908931968372": {
+        "code": "7908931968372",
+        "name": "Camiseta V bordo live M",
+        "price": 259.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:52:13.201Z"
       }
     },
     "c_1783457601997": {
@@ -12090,5 +12093,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:52:10.798Z"
+  "savedAt": "2026-07-21T20:52:14.708Z"
 }
