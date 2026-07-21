@@ -6005,9 +6005,15 @@
           "name": "Shorts marrom live symbol M",
           "price": 259.9,
           "qty": 1
+        },
+        "7900292753918": {
+          "code": "7900292753918",
+          "name": "Moletom ursinho bege LP M",
+          "price": 373,
+          "qty": 1
         }
       },
-      "total": 2435.8,
+      "total": 2808.8,
       "status": "open"
     }
   },
@@ -12173,5 +12179,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:53:29.854Z"
+  "savedAt": "2026-07-21T21:53:51.714Z"
 }
