@@ -6207,9 +6207,15 @@
           "name": "Top curve uva listra branca vivame M ",
           "price": 259,
           "qty": 1
+        },
+        "7909746622770": {
+          "code": "7909746622770",
+          "name": "Jaqueta sprint azul claro DT M",
+          "price": 479,
+          "qty": 1
         }
       },
-      "total": 6788.5,
+      "total": 7267.5,
       "status": "open"
     }
   },
@@ -11906,5 +11912,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:25:59.321Z"
+  "savedAt": "2026-07-21T18:26:41.171Z"
 }
