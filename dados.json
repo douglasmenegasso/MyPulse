@@ -6052,9 +6052,15 @@
           "name": "Tênis com carimbo caramelo LP 37",
           "price": 497,
           "qty": 1
+        },
+        "7891186357520": {
+          "code": "7891186357520",
+          "name": "Calcinha fio preto lupo M",
+          "price": 49.9,
+          "qty": 2
         }
       },
-      "total": 497,
+      "total": 596.8,
       "status": "open"
     }
   },
@@ -11751,5 +11757,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:16:41.810Z"
+  "savedAt": "2026-07-21T18:16:57.496Z"
 }
