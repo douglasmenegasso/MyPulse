@@ -6165,9 +6165,15 @@
           "name": "Bermuda shine brilhosa marrom AG P",
           "price": 239,
           "qty": 1
+        },
+        "7890171652619": {
+          "code": "7890171652619",
+          "name": "Top shine brilhoso marrom AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 4507.6,
+      "total": 4705.6,
       "status": "open"
     }
   },
@@ -11864,5 +11870,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:21:50.888Z"
+  "savedAt": "2026-07-21T18:22:20.887Z"
 }
