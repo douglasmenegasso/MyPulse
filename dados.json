@@ -6189,9 +6189,15 @@
           "name": "Top canelado com zíper bordo movimento M",
           "price": 209.9,
           "qty": 1
+        },
+        "7909746618438": {
+          "code": "7909746618438",
+          "name": "Jaqueta cherry vinho DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 5411.5,
+      "total": 6110.5,
       "status": "open"
     }
   },
@@ -11888,5 +11894,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:25:10.738Z"
+  "savedAt": "2026-07-21T18:25:26.915Z"
 }
