@@ -5524,12 +5524,6 @@
           "price": 263,
           "qty": 1
         },
-        "7909746616427": {
-          "code": "7909746616427",
-          "name": "Camiseta oliva com escrita DT P",
-          "price": 339,
-          "qty": 1
-        },
         "7909746618872": {
           "code": "7909746618872",
           "name": "Camiseta bordo escrita branco vivame P",
@@ -5747,7 +5741,7 @@
           "qty": 1
         }
       },
-      "total": 9122.199999999992,
+      "total": 8783.199999999992,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11754,6 +11748,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:50:56.484Z"
+      },
+      "7909746616427": {
+        "code": "7909746616427",
+        "name": "Camiseta oliva com escrita DT P",
+        "price": 339,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:02.063Z"
       }
     },
     "c_1783457601997": {
@@ -12074,5 +12075,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:50:59.523Z"
+  "savedAt": "2026-07-21T20:51:02.065Z"
 }
