@@ -6219,9 +6219,15 @@
           "name": "Legging dash azul claro DT P",
           "price": 399,
           "qty": 1
+        },
+        "7909746645861": {
+          "code": "7909746645861",
+          "name": "Top dash cruzado azul com branco DT M",
+          "price": 379,
+          "qty": 1
         }
       },
-      "total": 7666.5,
+      "total": 8045.5,
       "status": "open"
     }
   },
@@ -11918,5 +11924,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:26:55.067Z"
+  "savedAt": "2026-07-21T18:27:03.269Z"
 }
