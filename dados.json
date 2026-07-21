@@ -5512,18 +5512,6 @@
     "c_1784322913411": {
       "clientId": "c_1784322913411",
       "items": {
-        "7908990970255": {
-          "code": "7908990970255",
-          "name": "Camiseta cotton marrom live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7909865888088": {
-          "code": "7909865888088",
-          "name": "Calça sarja lilás Colcci 38",
-          "price": 377,
-          "qty": 1
-        },
         "7900415286965": {
           "code": "7900415286965",
           "name": "T-shirt off com rosa LP M",
@@ -5765,7 +5753,7 @@
           "qty": 1
         }
       },
-      "total": 10178.99999999999,
+      "total": 9522.099999999991,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11751,6 +11739,20 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:50:51.532Z"
+      },
+      "7908990970255": {
+        "code": "7908990970255",
+        "name": "Camiseta cotton marrom live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:50:52.403Z"
+      },
+      "7909865888088": {
+        "code": "7909865888088",
+        "name": "Calça sarja lilás Colcci 38",
+        "price": 377,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:50:53.408Z"
       }
     },
     "c_1783457601997": {
@@ -12071,5 +12073,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:50:51.533Z"
+  "savedAt": "2026-07-21T20:50:55.430Z"
 }
