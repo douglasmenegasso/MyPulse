@@ -5113,12 +5113,6 @@
           "price": 399.9,
           "qty": 1
         },
-        "7890171652671": {
-          "code": "7890171652671",
-          "name": "T-shirt com tule branca AG M",
-          "price": 239,
-          "qty": 1
-        },
         "7901072485647": {
           "code": "7901072485647",
           "name": "Legging marrom live live M",
@@ -5132,7 +5126,7 @@
           "qty": 1
         }
       },
-      "total": 2757.2999999999984,
+      "total": 2518.2999999999984,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11230,6 +11224,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-21T21:00:52.817Z"
+      },
+      "7890171652671": {
+        "code": "7890171652671",
+        "name": "T-shirt com tule branca AG M",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:00:59.071Z"
       }
     },
     "c_1784049002709": {
@@ -12111,5 +12112,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:00:56.015Z"
+  "savedAt": "2026-07-21T21:01:00.168Z"
 }
