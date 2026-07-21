@@ -5987,9 +5987,15 @@
           "name": "Calça wide leg marrom LP M",
           "price": 563,
           "qty": 1
+        },
+        "7900415029708": {
+          "code": "7900415029708",
+          "name": "T-shirt off escrita marrom Lp g",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 1413,
+      "total": 1676,
       "status": "open"
     }
   },
@@ -12155,5 +12161,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:52:56.460Z"
+  "savedAt": "2026-07-21T21:53:07.861Z"
 }
