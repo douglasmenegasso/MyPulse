@@ -6052,9 +6052,15 @@
           "name": "Vestido curto canelado azul escuro Lp g",
           "price": 397,
           "qty": 1
+        },
+        "7900415277819": {
+          "code": "7900415277819",
+          "name": "Shorts saia jeans azul LP 40",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 5063.700000000001,
+      "total": 5506.700000000001,
       "status": "open"
     }
   },
@@ -12220,5 +12226,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:55:25.041Z"
+  "savedAt": "2026-07-21T21:55:37.962Z"
 }
