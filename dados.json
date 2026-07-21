@@ -5077,18 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7908990960058": {
-          "code": "7908990960058",
-          "name": "Blusão texturizado verde live P",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990956891": {
-          "code": "7908990956891",
-          "name": "Legging hydefit verde live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7908990971207": {
           "code": "7908990971207",
           "name": "Top curve verde live live M",
@@ -5228,7 +5216,7 @@
           "qty": 1
         }
       },
-      "total": 7401.899999999996,
+      "total": 6702.099999999997,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11214,6 +11202,20 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-21T20:56:14.934Z"
+      },
+      "7908990960058": {
+        "code": "7908990960058",
+        "name": "Blusão texturizado verde live P",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:56:18.163Z"
+      },
+      "7908990956891": {
+        "code": "7908990956891",
+        "name": "Legging hydefit verde live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:56:18.924Z"
       }
     },
     "c_1784049002709": {
@@ -12095,5 +12097,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:56:14.936Z"
+  "savedAt": "2026-07-21T20:56:18.926Z"
 }
