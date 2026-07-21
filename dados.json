@@ -5107,12 +5107,6 @@
           "price": 219.9,
           "qty": 1
         },
-        "7901072462235": {
-          "code": "7901072462235",
-          "name": "Camiseta icon rosa live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7901072486170": {
           "code": "7901072486170",
           "name": "Macaquinho tex marrom live M",
@@ -5138,7 +5132,7 @@
           "qty": 1
         }
       },
-      "total": 2957.1999999999985,
+      "total": 2757.2999999999984,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11229,6 +11223,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-21T21:00:51.785Z"
+      },
+      "7901072462235": {
+        "code": "7901072462235",
+        "name": "Camiseta icon rosa live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:00:52.817Z"
       }
     },
     "c_1784049002709": {
@@ -12110,5 +12111,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:00:51.786Z"
+  "savedAt": "2026-07-21T21:00:56.015Z"
 }
