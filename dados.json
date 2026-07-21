@@ -5530,18 +5530,6 @@
           "price": 243,
           "qty": 1
         },
-        "7908990921301": {
-          "code": "7908990921301",
-          "name": "Jaqueta harmony preta live M",
-          "price": 379.9,
-          "qty": 1
-        },
-        "7901072485869": {
-          "code": "7901072485869",
-          "name": "Legging fuso tex marrom live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7901072486439": {
           "code": "7901072486439",
           "name": "Top tex marrom live M",
@@ -5675,7 +5663,7 @@
           "qty": 1
         }
       },
-      "total": 6169.699999999993,
+      "total": 5429.899999999994,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11759,6 +11747,20 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:51:26.365Z"
+      },
+      "7908990921301": {
+        "code": "7908990921301",
+        "name": "Jaqueta harmony preta live M",
+        "price": 379.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:27.558Z"
+      },
+      "7901072485869": {
+        "code": "7901072485869",
+        "name": "Legging fuso tex marrom live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:29.461Z"
       }
     },
     "c_1783457601997": {
@@ -12079,5 +12081,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:51:26.367Z"
+  "savedAt": "2026-07-21T20:51:29.463Z"
 }
