@@ -6058,9 +6058,15 @@
           "name": "Shorts saia jeans azul LP 40",
           "price": 443,
           "qty": 1
+        },
+        "7900415302948": {
+          "code": "7900415302948",
+          "name": "T-shirt off estampa azul marinho LP M",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 5506.700000000001,
+      "total": 5749.700000000001,
       "status": "open"
     }
   },
@@ -12226,5 +12232,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:55:37.962Z"
+  "savedAt": "2026-07-21T21:55:47.385Z"
 }
