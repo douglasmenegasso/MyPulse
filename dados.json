@@ -5089,12 +5089,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171652428": {
-          "code": "7890171652428",
-          "name": "Jaqueta com bolso versa claro AG M",
-          "price": 489,
-          "qty": 1
-        },
         "7908931902826": {
           "code": "7908931902826",
           "name": "Legging preto live live M",
@@ -5126,7 +5120,7 @@
           "qty": 1
         }
       },
-      "total": 2518.2999999999984,
+      "total": 2029.2999999999984,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11231,6 +11225,13 @@
         "price": 239,
         "qty": 1,
         "lastAt": "2026-07-21T21:00:59.071Z"
+      },
+      "7890171652428": {
+        "code": "7890171652428",
+        "name": "Jaqueta com bolso versa claro AG M",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:01:16.848Z"
       }
     },
     "c_1784049002709": {
@@ -12112,5 +12113,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:01:13.469Z"
+  "savedAt": "2026-07-21T21:01:16.850Z"
 }
