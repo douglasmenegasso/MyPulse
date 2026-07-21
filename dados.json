@@ -5518,22 +5518,10 @@
           "price": 243,
           "qty": 1
         },
-        "7900292387113": {
-          "code": "7900292387113",
-          "name": "Regata off com bege bordado Lp M",
-          "price": 263,
-          "qty": 1
-        },
         "7909746618872": {
           "code": "7909746618872",
           "name": "Camiseta bordo escrita branco vivame P",
           "price": 339,
-          "qty": 1
-        },
-        "7890171533901": {
-          "code": "7890171533901",
-          "name": "T-shirt casual preta AG P",
-          "price": 229,
           "qty": 1
         },
         "7900292947560": {
@@ -5741,7 +5729,7 @@
           "qty": 1
         }
       },
-      "total": 8783.199999999992,
+      "total": 8291.199999999992,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11697,8 +11685,8 @@
         "code": "7890171533901",
         "name": "T-shirt casual preta AG P",
         "price": 229,
-        "qty": 1,
-        "lastAt": "2026-07-17T21:29:41.031Z"
+        "qty": 2,
+        "lastAt": "2026-07-21T20:51:05.253Z"
       },
       "7900292896639": {
         "code": "7900292896639",
@@ -11755,6 +11743,13 @@
         "price": 339,
         "qty": 1,
         "lastAt": "2026-07-21T20:51:02.063Z"
+      },
+      "7900292387113": {
+        "code": "7900292387113",
+        "name": "Regata off com bege bordado Lp M",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:02.812Z"
       }
     },
     "c_1783457601997": {
@@ -12075,5 +12070,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:51:02.065Z"
+  "savedAt": "2026-07-21T20:51:05.254Z"
 }
