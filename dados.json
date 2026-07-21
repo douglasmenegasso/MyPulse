@@ -6315,9 +6315,15 @@
           "name": "Shorts Sport azul DT P",
           "price": 399,
           "qty": 1
+        },
+        "7909746645823": {
+          "code": "7909746645823",
+          "name": "Legging dashi preto DT P",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 12789.499999999996,
+      "total": 13188.499999999996,
       "status": "open"
     }
   },
@@ -12014,5 +12020,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:32:39.883Z"
+  "savedAt": "2026-07-21T18:32:54.640Z"
 }
