@@ -6333,9 +6333,15 @@
           "name": "T-shirt crop preta símbolo aerodry AG M",
           "price": 198,
           "qty": 1
+        },
+        "7901072486446": {
+          "code": "7901072486446",
+          "name": "Top tex marrom live P",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 13684.499999999996,
+      "total": 13964.399999999996,
       "status": "open"
     }
   },
@@ -12032,5 +12038,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T19:01:10.050Z"
+  "savedAt": "2026-07-21T19:01:16.626Z"
 }
