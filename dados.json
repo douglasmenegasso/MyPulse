@@ -5077,12 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7901072430692": {
-          "code": "7901072430692",
-          "name": "Legging azul petróleo live live M",
-          "price": 329.9,
-          "qty": 1
-        },
         "7901072434249": {
           "code": "7901072434249",
           "name": "Camiseta icon azul petróleo live M",
@@ -5102,7 +5096,7 @@
           "qty": 1
         }
       },
-      "total": 1079.599999999998,
+      "total": 749.6999999999981,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11235,6 +11229,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-21T21:01:29.203Z"
+      },
+      "7901072430692": {
+        "code": "7901072430692",
+        "name": "Legging azul petróleo live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:01:35.301Z"
       }
     },
     "c_1784049002709": {
@@ -12116,5 +12117,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:01:29.205Z"
+  "savedAt": "2026-07-21T21:01:35.303Z"
 }
