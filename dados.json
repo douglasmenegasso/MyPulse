@@ -6112,9 +6112,15 @@
           "name": "Cropped icon bordo live M",
           "price": 179.9,
           "qty": 1
+        },
+        "7890171636114": {
+          "code": "7890171636114",
+          "name": "Regata ajuste lateral marrom AG P",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 2595,
+      "total": 2793,
       "status": "open"
     }
   },
@@ -11811,5 +11817,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:19:44.831Z"
+  "savedAt": "2026-07-21T18:19:54.449Z"
 }
