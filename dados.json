@@ -5970,9 +5970,15 @@
           "name": "Calça pantalona preta moletom lp P",
           "price": 563,
           "qty": 1
+        },
+        "7900172959614": {
+          "code": "7900172959614",
+          "name": "T shirt preta bordado branco LP M",
+          "price": 287,
+          "qty": 1
         }
       },
-      "total": 563,
+      "total": 850,
       "status": "open"
     }
   },
@@ -12138,5 +12144,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:52:13.226Z"
+  "savedAt": "2026-07-21T21:52:21.373Z"
 }
