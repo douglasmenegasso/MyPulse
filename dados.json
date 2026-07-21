@@ -6339,9 +6339,15 @@
           "name": "Top tex marrom live P",
           "price": 279.9,
           "qty": 1
+        },
+        "7890171653166": {
+          "code": "7890171653166",
+          "name": "Top elástico lilás AG P",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 13964.399999999996,
+      "total": 14183.399999999996,
       "status": "open"
     }
   },
@@ -12038,5 +12044,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T19:01:16.626Z"
+  "savedAt": "2026-07-21T19:01:26.184Z"
 }
