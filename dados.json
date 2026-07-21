@@ -5077,12 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7908990971207": {
-          "code": "7908990971207",
-          "name": "Top curve verde live live M",
-          "price": 219.9,
-          "qty": 1
-        },
         "7900415058616": {
           "code": "7900415058616",
           "name": "Calça marrom com elástico LP P",
@@ -5216,7 +5210,7 @@
           "qty": 1
         }
       },
-      "total": 6702.099999999997,
+      "total": 6482.199999999997,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11216,6 +11210,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:56:18.924Z"
+      },
+      "7908990971207": {
+        "code": "7908990971207",
+        "name": "Top curve verde live live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:56:20.457Z"
       }
     },
     "c_1784049002709": {
@@ -12097,5 +12098,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:56:18.926Z"
+  "savedAt": "2026-07-21T20:56:22.899Z"
 }
