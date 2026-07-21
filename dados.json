@@ -6159,9 +6159,15 @@
           "name": "Legging shine brilhosa marrom AG P",
           "price": 298,
           "qty": 1
+        },
+        "7890171652992": {
+          "code": "7890171652992",
+          "name": "Bermuda shine brilhosa marrom AG P",
+          "price": 239,
+          "qty": 1
         }
       },
-      "total": 4268.6,
+      "total": 4507.6,
       "status": "open"
     }
   },
@@ -11858,5 +11864,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:21:47.043Z"
+  "savedAt": "2026-07-21T18:21:50.888Z"
 }
