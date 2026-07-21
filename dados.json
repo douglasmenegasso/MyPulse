@@ -5077,12 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7909746546113": {
-          "code": "7909746546113",
-          "name": "Camisola florida DT M",
-          "price": 299,
-          "qty": 1
-        },
         "7900415030124": {
           "code": "7900415030124",
           "name": "Vestido curto vazado preto Lp P",
@@ -5258,7 +5252,7 @@
           "qty": 1
         }
       },
-      "total": 9426.899999999996,
+      "total": 9127.899999999996,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11209,6 +11203,13 @@
         "price": 439,
         "qty": 1,
         "lastAt": "2026-07-21T20:55:32.704Z"
+      },
+      "7909746546113": {
+        "code": "7909746546113",
+        "name": "Camisola florida DT M",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:55:33.772Z"
       }
     },
     "c_1784049002709": {
@@ -12090,5 +12091,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:55:32.705Z"
+  "savedAt": "2026-07-21T20:55:36.368Z"
 }
