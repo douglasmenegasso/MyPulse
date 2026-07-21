@@ -4294,6 +4294,11 @@
       "code": "7900415029708",
       "name": "T-shirt off escrita marrom Lp g",
       "price": 263
+    },
+    "7900358032391": {
+      "code": "7900358032391",
+      "name": "Camiseta poque preta CCM M",
+      "price": 219
     }
   },
   "clients": {
@@ -12191,5 +12196,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:54:17.814Z"
+  "savedAt": "2026-07-21T21:54:40.131Z"
 }
