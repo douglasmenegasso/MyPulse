@@ -6076,9 +6076,15 @@
           "name": "Meia Sport braço lupo 37 a 40",
           "price": 19.9,
           "qty": 1
+        },
+        "7909392494240": {
+          "code": "7909392494240",
+          "name": "Kit 3 meias Lupo 34 a 39",
+          "price": 49.9,
+          "qty": 1
         }
       },
-      "total": 656.4999999999999,
+      "total": 706.3999999999999,
       "status": "open"
     }
   },
@@ -11775,5 +11781,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:17:12.855Z"
+  "savedAt": "2026-07-21T18:17:16.616Z"
 }
