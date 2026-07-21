@@ -5590,12 +5590,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7908754537908": {
-          "code": "7908754537908",
-          "name": "Camiseta icon preta live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7908931968389": {
           "code": "7908931968389",
           "name": "Camiseta V equilíbrio bordo live g",
@@ -5657,7 +5651,7 @@
           "qty": 1
         }
       },
-      "total": 5149.9999999999945,
+      "total": 4950.099999999995,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11762,6 +11756,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:51:30.889Z"
+      },
+      "7908754537908": {
+        "code": "7908754537908",
+        "name": "Camiseta icon preta live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:57.114Z"
       }
     },
     "c_1783457601997": {
@@ -12082,5 +12083,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:51:33.122Z"
+  "savedAt": "2026-07-21T20:51:57.116Z"
 }
