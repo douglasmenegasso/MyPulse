@@ -5089,12 +5089,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7901072486170": {
-          "code": "7901072486170",
-          "name": "Macaquinho tex marrom live M",
-          "price": 399.9,
-          "qty": 1
-        },
         "7901072485647": {
           "code": "7901072485647",
           "name": "Legging marrom live live M",
@@ -5108,7 +5102,7 @@
           "qty": 1
         }
       },
-      "total": 1479.4999999999982,
+      "total": 1079.599999999998,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11234,6 +11228,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-21T21:01:22.433Z"
+      },
+      "7901072486170": {
+        "code": "7901072486170",
+        "name": "Macaquinho tex marrom live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:01:29.203Z"
       }
     },
     "c_1784049002709": {
@@ -12115,5 +12116,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:01:24.740Z"
+  "savedAt": "2026-07-21T21:01:29.205Z"
 }
