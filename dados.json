@@ -6088,9 +6088,15 @@
           "name": "Calça âmago off movimento P",
           "price": 369.9,
           "qty": 1
+        },
+        "7901072485869": {
+          "code": "7901072485869",
+          "name": "Legging fuso tex marrom live M",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 1076.2999999999997,
+      "total": 1436.1999999999998,
       "status": "open"
     }
   },
@@ -11787,5 +11793,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:17:43.344Z"
+  "savedAt": "2026-07-21T18:17:51.079Z"
 }
