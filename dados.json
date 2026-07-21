@@ -6213,9 +6213,15 @@
           "name": "Jaqueta sprint azul claro DT M",
           "price": 479,
           "qty": 1
+        },
+        "7909746645786": {
+          "code": "7909746645786",
+          "name": "Legging dash azul claro DT P",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 7267.5,
+      "total": 7666.5,
       "status": "open"
     }
   },
@@ -11912,5 +11918,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:26:41.171Z"
+  "savedAt": "2026-07-21T18:26:55.067Z"
 }
