@@ -5530,30 +5530,6 @@
           "price": 243,
           "qty": 1
         },
-        "7901072434393": {
-          "code": "7901072434393",
-          "name": "Camiseta icon verde oliva live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908990983217": {
-          "code": "7908990983217",
-          "name": "Camiseta harmony laranja live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7890171342534": {
-          "code": "7890171342534",
-          "name": "T-shirt cropped cinza AG M",
-          "price": 197,
-          "qty": 1
-        },
-        "7908835804042": {
-          "code": "7908835804042",
-          "name": "Camiseta V action preta live M",
-          "price": 189.9,
-          "qty": 1
-        },
         "7908931962608": {
           "code": "7908931962608",
           "name": "Camiseta icon violeta live M",
@@ -5639,7 +5615,7 @@
           "qty": 1
         }
       },
-      "total": 4550.299999999996,
+      "total": 3743.5999999999963,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11765,6 +11741,34 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:52:00.241Z"
+      },
+      "7901072434393": {
+        "code": "7901072434393",
+        "name": "Camiseta icon verde oliva live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:52:04.419Z"
+      },
+      "7908990983217": {
+        "code": "7908990983217",
+        "name": "Camiseta harmony laranja live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:52:05.157Z"
+      },
+      "7890171342534": {
+        "code": "7890171342534",
+        "name": "T-shirt cropped cinza AG M",
+        "price": 197,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:52:05.908Z"
+      },
+      "7908835804042": {
+        "code": "7908835804042",
+        "name": "Camiseta V action preta live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:52:07.266Z"
       }
     },
     "c_1783457601997": {
@@ -12085,5 +12089,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:52:03.817Z"
+  "savedAt": "2026-07-21T20:52:07.267Z"
 }
