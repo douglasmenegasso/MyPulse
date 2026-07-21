@@ -6082,9 +6082,15 @@
           "name": "Kit 3 meias Lupo 34 a 39",
           "price": 49.9,
           "qty": 1
+        },
+        "01403545907": {
+          "code": "01403545907",
+          "name": "Calça âmago off movimento P",
+          "price": 369.9,
+          "qty": 1
         }
       },
-      "total": 706.3999999999999,
+      "total": 1076.2999999999997,
       "status": "open"
     }
   },
@@ -11781,5 +11787,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:17:16.616Z"
+  "savedAt": "2026-07-21T18:17:39.597Z"
 }
