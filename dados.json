@@ -5999,9 +5999,15 @@
           "name": "Nayara marrom live symbol M",
           "price": 499.9,
           "qty": 1
+        },
+        "7901128619057": {
+          "code": "7901128619057",
+          "name": "Shorts marrom live symbol M",
+          "price": 259.9,
+          "qty": 1
         }
       },
-      "total": 2175.9,
+      "total": 2435.8,
       "status": "open"
     }
   },
@@ -12167,5 +12173,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:53:16.440Z"
+  "savedAt": "2026-07-21T21:53:29.854Z"
 }
