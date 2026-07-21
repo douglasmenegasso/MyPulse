@@ -6327,9 +6327,15 @@
           "name": "Top nadador preto AG m",
           "price": 298,
           "qty": 1
+        },
+        "7890171620120": {
+          "code": "7890171620120",
+          "name": "T-shirt crop preta símbolo aerodry AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 13486.499999999996,
+      "total": 13684.499999999996,
       "status": "open"
     }
   },
@@ -12026,5 +12032,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:33:11.879Z"
+  "savedAt": "2026-07-21T18:33:38.027Z"
 }
