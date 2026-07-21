@@ -5077,12 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7900292900626": {
-          "code": "7900292900626",
-          "name": "Vestido canelado marrom com zíper Lp pp",
-          "price": 493,
-          "qty": 1
-        },
         "7900415268572": {
           "code": "7900415268572",
           "name": "Shorts jeans bege com detalhe couro LP 36",
@@ -5246,7 +5240,7 @@
           "qty": 1
         }
       },
-      "total": 8710.899999999996,
+      "total": 8217.899999999996,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11211,6 +11205,13 @@
         "price": 417,
         "qty": 1,
         "lastAt": "2026-07-21T20:55:45.859Z"
+      },
+      "7900292900626": {
+        "code": "7900292900626",
+        "name": "Vestido canelado marrom com zíper Lp pp",
+        "price": 493,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:55:57.626Z"
       }
     },
     "c_1784049002709": {
@@ -12092,5 +12093,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:55:45.861Z"
+  "savedAt": "2026-07-21T20:55:57.627Z"
 }
