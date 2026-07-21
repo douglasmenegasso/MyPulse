@@ -4279,6 +4279,11 @@
       "code": "7890171652992",
       "name": "Bermuda shine brilhosa marrom AG P",
       "price": 239
+    },
+    "7909746620004": {
+      "code": "7909746620004",
+      "name": "Top sprint azul claro DT P",
+      "price": 299
     }
   },
   "clients": {
@@ -6345,9 +6350,15 @@
           "name": "Top elástico lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "7909746620004": {
+          "code": "7909746620004",
+          "name": "Top sprint azul claro DT P",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 14183.399999999996,
+      "total": 14482.399999999996,
       "status": "open"
     }
   },
@@ -12044,5 +12055,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T19:01:55.064Z"
+  "savedAt": "2026-07-21T19:01:59.511Z"
 }
