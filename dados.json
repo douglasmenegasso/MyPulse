@@ -5512,18 +5512,6 @@
     "c_1784322913411": {
       "clientId": "c_1784322913411",
       "items": {
-        "7900415002688": {
-          "code": "7900415002688",
-          "name": "Calça wide leg marrom LP M",
-          "price": 563,
-          "qty": 1
-        },
-        "7908990970200": {
-          "code": "7908990970200",
-          "name": "Camiseta cotton bege live M",
-          "price": 279.9,
-          "qty": 1
-        },
         "7908990970255": {
           "code": "7908990970255",
           "name": "Camiseta cotton marrom live M",
@@ -5777,7 +5765,7 @@
           "qty": 1
         }
       },
-      "total": 11021.89999999999,
+      "total": 10178.99999999999,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11749,6 +11737,20 @@
         "price": 287,
         "qty": 1,
         "lastAt": "2026-07-21T20:50:48.026Z"
+      },
+      "7900415002688": {
+        "code": "7900415002688",
+        "name": "Calça wide leg marrom LP M",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:50:49.842Z"
+      },
+      "7908990970200": {
+        "code": "7908990970200",
+        "name": "Camiseta cotton bege live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:50:51.532Z"
       }
     },
     "c_1783457601997": {
@@ -12069,5 +12071,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:50:48.028Z"
+  "savedAt": "2026-07-21T20:50:51.533Z"
 }
