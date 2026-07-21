@@ -5530,18 +5530,6 @@
           "price": 243,
           "qty": 1
         },
-        "7900415112059": {
-          "code": "7900415112059",
-          "name": "Regata canelada amarela Lp M",
-          "price": 297,
-          "qty": 1
-        },
-        "7890171615232": {
-          "code": "7890171615232",
-          "name": "Regata canelada marrom AG M",
-          "price": 159,
-          "qty": 1
-        },
         "https://produto.liveoficial.com.br/83872.00pt01": {
           "code": "https://produto.liveoficial.com.br/83872.00pt01",
           "name": "Regata venal da preta listra off live M",
@@ -5723,7 +5711,7 @@
           "qty": 1
         }
       },
-      "total": 7994.199999999992,
+      "total": 7538.199999999992,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11751,6 +11739,20 @@
         "price": 297,
         "qty": 1,
         "lastAt": "2026-07-21T20:51:14.490Z"
+      },
+      "7900415112059": {
+        "code": "7900415112059",
+        "name": "Regata canelada amarela Lp M",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:19.365Z"
+      },
+      "7890171615232": {
+        "code": "7890171615232",
+        "name": "Regata canelada marrom AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:51:20.288Z"
       }
     },
     "c_1783457601997": {
@@ -12071,5 +12073,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:51:14.492Z"
+  "savedAt": "2026-07-21T20:51:20.290Z"
 }
