@@ -6034,9 +6034,15 @@
           "name": "Camiseta poque preta CCM M",
           "price": 219,
           "qty": 1
+        },
+        "7900415199265": {
+          "code": "7900415199265",
+          "name": "Calça balloon de moletom rosa Lp M",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 3954.7000000000003,
+      "total": 4507.700000000001,
       "status": "open"
     }
   },
@@ -12202,5 +12208,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:54:45.562Z"
+  "savedAt": "2026-07-21T21:54:56.796Z"
 }
