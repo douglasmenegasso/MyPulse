@@ -5077,18 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7908990954651": {
-          "code": "7908990954651",
-          "name": "Shorts máxi vermelho live M",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7908931962783": {
-          "code": "7908931962783",
-          "name": "Top cut out vermelho live M",
-          "price": 279.9,
-          "qty": 1
-        },
         "7908990975373": {
           "code": "7908990975373",
           "name": "Cropped soft off live M",
@@ -5186,7 +5174,7 @@
           "qty": 1
         }
       },
-      "total": 5016.399999999998,
+      "total": 4496.5999999999985,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11221,6 +11209,20 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:56:52.488Z"
+      },
+      "7908990954651": {
+        "code": "7908990954651",
+        "name": "Shorts máxi vermelho live M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:56:53.389Z"
+      },
+      "7908931962783": {
+        "code": "7908931962783",
+        "name": "Top cut out vermelho live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T20:56:54.271Z"
       }
     },
     "c_1784049002709": {
@@ -12102,5 +12104,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T20:56:52.489Z"
+  "savedAt": "2026-07-21T20:56:56.215Z"
 }
