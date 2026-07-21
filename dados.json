@@ -6058,9 +6058,15 @@
           "name": "Calcinha fio preto lupo M",
           "price": 49.9,
           "qty": 2
+        },
+        "7900373056259": {
+          "code": "7900373056259",
+          "name": "Meia cano médio branco com verde lupo 34 a 39",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 596.8,
+      "total": 616.6999999999999,
       "status": "open"
     }
   },
@@ -11757,5 +11763,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:16:57.496Z"
+  "savedAt": "2026-07-21T18:17:04.006Z"
 }
