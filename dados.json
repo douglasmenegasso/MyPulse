@@ -5089,12 +5089,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7908931902826": {
-          "code": "7908931902826",
-          "name": "Legging preto live live M",
-          "price": 329.9,
-          "qty": 1
-        },
         "7908835895507": {
           "code": "7908835895507",
           "name": "Top curve preto live live M",
@@ -5120,7 +5114,7 @@
           "qty": 1
         }
       },
-      "total": 2029.2999999999984,
+      "total": 1699.3999999999983,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11232,6 +11226,13 @@
         "price": 489,
         "qty": 1,
         "lastAt": "2026-07-21T21:01:16.848Z"
+      },
+      "7908931902826": {
+        "code": "7908931902826",
+        "name": "Legging preto live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:01:21.070Z"
       }
     },
     "c_1784049002709": {
@@ -12113,5 +12114,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:01:16.850Z"
+  "savedAt": "2026-07-21T21:01:21.071Z"
 }
