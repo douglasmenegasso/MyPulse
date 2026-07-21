@@ -6011,9 +6011,15 @@
           "name": "Moletom ursinho bege LP M",
           "price": 373,
           "qty": 1
+        },
+        "7901072402293": {
+          "code": "7901072402293",
+          "name": "Calça reta vermelha live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 2808.8,
+      "total": 3208.7000000000003,
       "status": "open"
     }
   },
@@ -12179,5 +12185,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:53:51.714Z"
+  "savedAt": "2026-07-21T21:54:03.676Z"
 }
