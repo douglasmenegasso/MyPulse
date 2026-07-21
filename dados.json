@@ -5074,25 +5074,6 @@
       "total": 3074.4,
       "status": "waiting"
     },
-    "c_1784223679651": {
-      "clientId": "c_1784223679651",
-      "items": {
-        "7901072485647": {
-          "code": "7901072485647",
-          "name": "Legging marrom live live M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901072455244": {
-          "code": "7901072455244",
-          "name": "Top curve marrom live live M",
-          "price": 219.9,
-          "qty": 1
-        }
-      },
-      "total": 549.7999999999981,
-      "status": "waiting"
-    },
     "c_1784237432107": {
       "clientId": "c_1784237432107",
       "items": {
@@ -5978,6 +5959,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784223679651",
+      "clientName": "Célia",
+      "clientPhone": "",
+      "items": {
+        "7901072485647": {
+          "code": "7901072485647",
+          "name": "Legging marrom live live M",
+          "price": 329.9,
+          "qty": 1
+        },
+        "7901072455244": {
+          "code": "7901072455244",
+          "name": "Top curve marrom live live M",
+          "price": 219.9,
+          "qty": 1
+        }
+      },
+      "total": 549.7999999999981,
+      "closedAt": "2026-07-21T21:01:44.447Z"
+    },
     {
       "clientId": "c_1779218832099",
       "clientName": "Maitê estivadores",
@@ -12118,5 +12120,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:01:42.945Z"
+  "savedAt": "2026-07-21T21:01:46.610Z"
 }
