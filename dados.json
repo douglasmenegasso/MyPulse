@@ -6177,9 +6177,15 @@
           "name": "Cropped bege refletivo AG M",
           "price": 198,
           "qty": 1
+        },
+        "01403625910": {
+          "code": "01403625910",
+          "name": "Calça flare bordo movimento P",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 4903.6,
+      "total": 5201.6,
       "status": "open"
     }
   },
@@ -11876,5 +11882,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:24:42.586Z"
+  "savedAt": "2026-07-21T18:24:52.627Z"
 }
