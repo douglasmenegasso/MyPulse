@@ -4274,6 +4274,11 @@
       "code": "7900415150181",
       "name": "T-shirt cinza estampa marrom LP g",
       "price": 197
+    },
+    "7890171652992": {
+      "code": "7890171652992",
+      "name": "Bermuda shine brilhosa marrom AG P",
+      "price": 239
     }
   },
   "clients": {
@@ -11853,5 +11858,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T18:21:42.204Z"
+  "savedAt": "2026-07-21T18:21:47.043Z"
 }
