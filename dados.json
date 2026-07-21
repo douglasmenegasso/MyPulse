@@ -6361,9 +6361,15 @@
           "name": "Top sprint azul claro DT P",
           "price": 299,
           "qty": 1
+        },
+        "7890171643709": {
+          "code": "7890171643709",
+          "name": "Top elástico preto AG P",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 14482.399999999996,
+      "total": 14701.399999999996,
       "status": "open"
     }
   },
@@ -12060,5 +12066,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T19:02:23.374Z"
+  "savedAt": "2026-07-21T19:02:27.280Z"
 }
