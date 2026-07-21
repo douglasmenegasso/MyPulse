@@ -5077,12 +5077,6 @@
     "c_1784223679651": {
       "clientId": "c_1784223679651",
       "items": {
-        "7901072427517": {
-          "code": "7901072427517",
-          "name": "Macaquinho azul petróleo live live M",
-          "price": 399.9,
-          "qty": 1
-        },
         "7901072430692": {
           "code": "7901072430692",
           "name": "Legging azul petróleo live live M",
@@ -5168,7 +5162,7 @@
           "qty": 1
         }
       },
-      "total": 4296.699999999999,
+      "total": 3896.799999999999,
       "status": "open"
     },
     "c_1784237432107": {
@@ -11224,6 +11218,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-21T20:57:20.388Z"
+      },
+      "7901072427517": {
+        "code": "7901072427517",
+        "name": "Macaquinho azul petróleo live live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-21T21:00:20.519Z"
       }
     },
     "c_1784049002709": {
@@ -12105,5 +12106,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-21T21:00:13.374Z"
+  "savedAt": "2026-07-21T21:00:20.521Z"
 }
