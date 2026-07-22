@@ -6146,9 +6146,15 @@
           "name": "Top icon bordo live g",
           "price": 249.9,
           "qty": 1
+        },
+        "7908754537762": {
+          "code": "7908754537762",
+          "name": "Camiseta icon off live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 1628.1,
+      "total": 1828,
       "status": "open"
     }
   },
@@ -12314,5 +12320,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:57:17.013Z"
+  "savedAt": "2026-07-22T17:57:22.118Z"
 }
