@@ -6483,9 +6483,15 @@
           "name": "Vestido curto de alça canelado bege LP P",
           "price": 397,
           "qty": 1
+        },
+        "7900292900626": {
+          "code": "7900292900626",
+          "name": "Vestido canelado marrom com zíper Lp pp",
+          "price": 493,
+          "qty": 1
         }
       },
-      "total": 8235,
+      "total": 8728,
       "status": "open"
     }
   },
@@ -12660,5 +12666,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:49:55.797Z"
+  "savedAt": "2026-07-22T18:50:06.426Z"
 }
