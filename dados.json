@@ -6447,9 +6447,15 @@
           "name": "Regata canelada bege LP P",
           "price": 297,
           "qty": 1
+        },
+        "7900415074401": {
+          "code": "7900415074401",
+          "name": "T-shirt cropped marrom escrita off LP P",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 6218,
+      "total": 6415,
       "status": "open"
     }
   },
@@ -12624,5 +12630,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:46:56.447Z"
+  "savedAt": "2026-07-22T18:47:43.940Z"
 }
