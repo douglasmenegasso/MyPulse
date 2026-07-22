@@ -6188,9 +6188,15 @@
           "name": "Legging marrom live symbol M",
           "price": 329.9,
           "qty": 1
+        },
+        "7901128603186": {
+          "code": "7901128603186",
+          "name": "Legging marrom live symbol G",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 3754.7000000000003,
+      "total": 4084.6000000000004,
       "status": "open"
     }
   },
@@ -12356,5 +12362,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:59:56.485Z"
+  "savedAt": "2026-07-22T18:00:01.246Z"
 }
