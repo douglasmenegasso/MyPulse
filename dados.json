@@ -6477,9 +6477,15 @@
           "name": "Legging azul petróleo live live M",
           "price": 329.9,
           "qty": 1
+        },
+        "7908754570479": {
+          "code": "7908754570479",
+          "name": "Top curve azul petróleo live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 10537.9,
+      "total": 10727.8,
       "status": "open"
     }
   },
@@ -12710,5 +12716,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T19:00:14.290Z"
+  "savedAt": "2026-07-22T19:00:19.246Z"
 }
