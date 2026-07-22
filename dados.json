@@ -6123,9 +6123,15 @@
           "name": "Top curve branco live G",
           "price": 189.9,
           "qty": 1
+        },
+        "7908990982364": {
+          "code": "7908990982364",
+          "name": "Regata training rosa neon live P",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 909.2999999999998,
+      "total": 1089.1999999999998,
       "status": "open"
     }
   },
@@ -12291,5 +12297,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:55:53.901Z"
+  "savedAt": "2026-07-22T17:56:01.374Z"
 }
