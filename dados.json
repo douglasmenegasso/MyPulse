@@ -6495,9 +6495,15 @@
           "name": "Cropped soft off live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072486439": {
+          "code": "7901072486439",
+          "name": "Top tex marrom live M",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 11127.599999999999,
+      "total": 11407.499999999998,
       "status": "open"
     }
   },
@@ -12728,5 +12734,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T19:00:43.060Z"
+  "savedAt": "2026-07-22T19:00:54.168Z"
 }
