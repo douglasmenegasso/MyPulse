@@ -6334,9 +6334,15 @@
           "name": "Regata icon pink live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072434171": {
+          "code": "7901072434171",
+          "name": "Camiseta icon bege live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 9850.799999999994,
+      "total": 10050.699999999993,
       "status": "open"
     }
   },
@@ -12502,5 +12508,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:11:13.642Z"
+  "savedAt": "2026-07-22T18:11:51.319Z"
 }
