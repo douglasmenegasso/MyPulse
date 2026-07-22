@@ -6489,9 +6489,15 @@
           "name": "Vestido canelado marrom com zíper Lp pp",
           "price": 493,
           "qty": 1
+        },
+        "7900415164997": {
+          "code": "7900415164997",
+          "name": "Shorts furadinho bege com verde LP P",
+          "price": 497,
+          "qty": 1
         }
       },
-      "total": 8728,
+      "total": 9225,
       "status": "open"
     }
   },
@@ -12666,5 +12672,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:50:06.426Z"
+  "savedAt": "2026-07-22T18:50:23.605Z"
 }
