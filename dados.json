@@ -6304,9 +6304,15 @@
           "name": "Calça bruma bordo movimento P",
           "price": 309.9,
           "qty": 1
+        },
+        "02603750912": {
+          "code": "02603750912",
+          "name": "Jaqueta bruma bordo movimento M",
+          "price": 439.9,
+          "qty": 1
         }
       },
-      "total": 8331.299999999996,
+      "total": 8771.199999999995,
       "status": "open"
     }
   },
@@ -12472,5 +12478,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:09:18.034Z"
+  "savedAt": "2026-07-22T18:09:49.885Z"
 }
