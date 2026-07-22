@@ -4309,6 +4309,11 @@
       "code": "7908754537762",
       "name": "Camiseta icon off live g",
       "price": 199.9
+    },
+    "7908931968358": {
+      "code": "7908931968358",
+      "name": "Camiseta V equilíbrio preta live g",
+      "price": 259.9
     }
   },
   "clients": {
@@ -12368,5 +12373,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:00:32.992Z"
+  "savedAt": "2026-07-22T18:01:19.150Z"
 }
