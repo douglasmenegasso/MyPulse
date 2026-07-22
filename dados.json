@@ -6256,9 +6256,15 @@
           "name": "Top neopren roxo malva live g",
           "price": 249.9,
           "qty": 1
+        },
+        "7901072446501": {
+          "code": "7901072446501",
+          "name": "Regata icon rosa live g",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 6592.0999999999985,
+      "total": 6781.999999999998,
       "status": "open"
     }
   },
@@ -12424,5 +12430,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:05:15.586Z"
+  "savedAt": "2026-07-22T18:05:19.433Z"
 }
