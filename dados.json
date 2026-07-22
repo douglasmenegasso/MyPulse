@@ -6310,9 +6310,15 @@
           "name": "Jaqueta bruma bordo movimento M",
           "price": 439.9,
           "qty": 1
+        },
+        "7908754514305": {
+          "code": "7908754514305",
+          "name": "Legging icon preto live g",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 8771.199999999995,
+      "total": 9091.099999999995,
       "status": "open"
     }
   },
@@ -12478,5 +12484,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:10:05.095Z"
+  "savedAt": "2026-07-22T18:10:10.375Z"
 }
