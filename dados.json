@@ -6507,9 +6507,15 @@
           "name": "Shorts saia jeans azul LP 36",
           "price": 443,
           "qty": 1
+        },
+        "7900415302955": {
+          "code": "7900415302955",
+          "name": "T-shirt branca estampa azul escuro LP P",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 9965,
+      "total": 10208,
       "status": "open"
     }
   },
@@ -12684,5 +12690,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:50:55.600Z"
+  "savedAt": "2026-07-22T18:51:06.458Z"
 }
