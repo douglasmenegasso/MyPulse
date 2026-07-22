@@ -6423,9 +6423,15 @@
           "name": "Regata listrada cinza em linho LP P",
           "price": 223,
           "qty": 1
+        },
+        "7900415268572": {
+          "code": "7900415268572",
+          "name": "Shorts jeans bege com detalhe couro LP 36",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 4842,
+      "total": 5395,
       "status": "open"
     }
   },
@@ -12600,5 +12606,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:45:00.637Z"
+  "savedAt": "2026-07-22T18:45:36.498Z"
 }
