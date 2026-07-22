@@ -4636,6 +4636,11 @@
       "id": "c_1784670696673",
       "name": "Dani feroldi",
       "phone": ""
+    },
+    "c_1784742777976": {
+      "id": "c_1784742777976",
+      "name": "Ivete Célia",
+      "phone": ""
     }
   },
   "orders": {
@@ -12232,5 +12237,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:52:42.683Z"
+  "savedAt": "2026-07-22T17:52:57.978Z"
 }
