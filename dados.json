@@ -6170,9 +6170,15 @@
           "name": "Top elástico lilás AG g",
           "price": 219,
           "qty": 1
+        },
+        "7901072402033": {
+          "code": "7901072402033",
+          "name": "Regata pima branca live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 2675,
+      "total": 2924.9,
       "status": "open"
     }
   },
@@ -12338,5 +12344,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:58:50.557Z"
+  "savedAt": "2026-07-22T17:59:20.014Z"
 }
