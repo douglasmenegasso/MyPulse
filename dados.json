@@ -6292,9 +6292,15 @@
           "name": "Top curve verde militar live live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7901072402101": {
+          "code": "7901072402101",
+          "name": "Regata pima verde live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 7771.499999999996,
+      "total": 8021.399999999996,
       "status": "open"
     }
   },
@@ -12460,5 +12466,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:08:18.451Z"
+  "savedAt": "2026-07-22T18:08:39.536Z"
 }
