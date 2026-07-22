@@ -4449,6 +4449,11 @@
       "code": "7908990985891",
       "name": "Top curve roxo live g",
       "price": 189.9
+    },
+    "7908754505952": {
+      "code": "7908754505952",
+      "name": "Top curve vinho live g",
+      "price": 189.9
     }
   },
   "clients": {
@@ -12867,5 +12872,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T21:42:44.065Z"
+  "savedAt": "2026-07-22T21:43:08.929Z"
 }
