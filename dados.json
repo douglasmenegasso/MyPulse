@@ -6387,9 +6387,15 @@
           "name": "Calça flex jogger com bolso bege DT pp",
           "price": 589,
           "qty": 1
+        },
+        "7909746646523": {
+          "code": "7909746646523",
+          "name": "Jaqueta flex corta vento bege DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 1862,
+      "total": 2561,
       "status": "open"
     }
   },
@@ -12564,5 +12570,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:43:52.228Z"
+  "savedAt": "2026-07-22T18:44:00.529Z"
 }
