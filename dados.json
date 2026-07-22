@@ -6471,9 +6471,15 @@
           "name": "T-shirt branca estampa azul escuro LP P",
           "price": 243,
           "qty": 1
+        },
+        "7901072430692": {
+          "code": "7901072430692",
+          "name": "Legging azul petróleo live live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 10208,
+      "total": 10537.9,
       "status": "open"
     }
   },
@@ -12704,5 +12710,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:59:38.404Z"
+  "savedAt": "2026-07-22T19:00:14.290Z"
 }
