@@ -6459,9 +6459,15 @@
           "name": "Pijama piquet marrom DT P",
           "price": 399,
           "qty": 1
+        },
+        "7909746661434": {
+          "code": "7909746661434",
+          "name": "Pijama short doll marrom com off DT P",
+          "price": 439,
+          "qty": 1
         }
       },
-      "total": 6814,
+      "total": 7253,
       "status": "open"
     }
   },
@@ -12636,5 +12642,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:48:01.266Z"
+  "savedAt": "2026-07-22T18:48:17.076Z"
 }
