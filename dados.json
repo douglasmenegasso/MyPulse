@@ -6112,9 +6112,15 @@
           "name": "Legging intense pink live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7908011244587": {
+          "code": "7908011244587",
+          "name": "Top curve branco live G",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 719.3999999999999,
+      "total": 909.2999999999998,
       "status": "open"
     }
   },
@@ -12280,5 +12286,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:54:31.569Z"
+  "savedAt": "2026-07-22T17:54:47.474Z"
 }
