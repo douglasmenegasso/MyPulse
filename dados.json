@@ -6477,9 +6477,15 @@
           "name": "Top cropped preto com zíper Lp M",
           "price": 287,
           "qty": 1
+        },
+        "7900415284473": {
+          "code": "7900415284473",
+          "name": "Vestido curto de alça canelado bege LP P",
+          "price": 397,
+          "qty": 1
         }
       },
-      "total": 7838,
+      "total": 8235,
       "status": "open"
     }
   },
@@ -12654,5 +12660,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:49:25.950Z"
+  "savedAt": "2026-07-22T18:49:52.017Z"
 }
