@@ -6217,9 +6217,15 @@
           "name": "Jaqueta camuflada verde live P",
           "price": 699.9,
           "qty": 1
+        },
+        "7909746616403": {
+          "code": "7909746616403",
+          "name": "Legging oliva vivame M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 5324.299999999999,
+      "total": 5723.299999999999,
       "status": "open"
     }
   },
@@ -12385,5 +12391,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:02:17.923Z"
+  "savedAt": "2026-07-22T18:02:26.381Z"
 }
