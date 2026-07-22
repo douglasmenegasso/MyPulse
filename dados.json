@@ -6345,9 +6345,15 @@
           "name": "Camiseta icon bege live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908678747933": {
+          "code": "7908678747933",
+          "name": "Regata icon preta live g",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 10050.699999999993,
+      "total": 10240.599999999993,
       "status": "open"
     }
   },
@@ -12513,5 +12519,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:12:36.558Z"
+  "savedAt": "2026-07-22T18:12:43.562Z"
 }
