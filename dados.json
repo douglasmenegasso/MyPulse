@@ -6328,9 +6328,15 @@
           "name": "Top icon preto live g",
           "price": 249.9,
           "qty": 1
+        },
+        "7901128641720": {
+          "code": "7901128641720",
+          "name": "Regata icon pink live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 9660.899999999994,
+      "total": 9850.799999999994,
       "status": "open"
     }
   },
@@ -12496,5 +12502,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:11:06.741Z"
+  "savedAt": "2026-07-22T18:11:13.642Z"
 }
