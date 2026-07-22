@@ -6073,6 +6073,19 @@
       },
       "total": 5749.700000000001,
       "status": "waiting"
+    },
+    "c_1784742777976": {
+      "clientId": "c_1784742777976",
+      "items": {
+        "7890171643617": {
+          "code": "7890171643617",
+          "name": "Garrafa térmica azul AG",
+          "price": 198,
+          "qty": 1
+        }
+      },
+      "total": 198,
+      "status": "open"
     }
   },
   "closed": [
@@ -12237,5 +12250,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:52:57.978Z"
+  "savedAt": "2026-07-22T17:53:08.216Z"
 }
