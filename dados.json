@@ -4314,6 +4314,11 @@
       "code": "7908931968358",
       "name": "Camiseta V equilíbrio preta live g",
       "price": 259.9
+    },
+    "7908931944727": {
+      "code": "7908931944727",
+      "name": "Legging neopren roxo malva live g",
+      "price": 359.9
     }
   },
   "clients": {
@@ -12397,5 +12402,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:02:55.707Z"
+  "savedAt": "2026-07-22T18:04:06.186Z"
 }
