@@ -6471,9 +6471,15 @@
           "name": "Calça flare preta movimento P",
           "price": 298,
           "qty": 1
+        },
+        "7909917723541": {
+          "code": "7909917723541",
+          "name": "Top cropped preto com zíper Lp M",
+          "price": 287,
+          "qty": 1
         }
       },
-      "total": 7551,
+      "total": 7838,
       "status": "open"
     }
   },
@@ -12648,5 +12654,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:49:16.922Z"
+  "savedAt": "2026-07-22T18:49:25.950Z"
 }
