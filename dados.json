@@ -6205,9 +6205,15 @@
           "name": "Top tex marrom live g",
           "price": 279.9,
           "qty": 1
+        },
+        "7908931968358": {
+          "code": "7908931968358",
+          "name": "Camiseta V equilíbrio preta live g",
+          "price": 259.9,
+          "qty": 1
         }
       },
-      "total": 4364.5,
+      "total": 4624.4,
       "status": "open"
     }
   },
@@ -12373,5 +12379,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:01:19.150Z"
+  "savedAt": "2026-07-22T18:01:24.065Z"
 }
