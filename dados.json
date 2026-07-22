@@ -6152,9 +6152,15 @@
           "name": "Camiseta icon off live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7890171663462": {
+          "code": "7890171663462",
+          "name": "Legging elástico lilás AG M",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 1828,
+      "total": 2197,
       "status": "open"
     }
   },
@@ -12320,5 +12326,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:57:29.679Z"
+  "savedAt": "2026-07-22T17:58:23.495Z"
 }
