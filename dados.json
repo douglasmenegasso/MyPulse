@@ -6129,9 +6129,15 @@
           "name": "Regata training rosa neon live P",
           "price": 179.9,
           "qty": 1
+        },
+        "7890171632772": {
+          "code": "7890171632772",
+          "name": "Legging vinho símbolo AG M",
+          "price": 289,
+          "qty": 1
         }
       },
-      "total": 1089.1999999999998,
+      "total": 1378.1999999999998,
       "status": "open"
     }
   },
@@ -12297,5 +12303,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:56:01.374Z"
+  "savedAt": "2026-07-22T17:56:12.288Z"
 }
