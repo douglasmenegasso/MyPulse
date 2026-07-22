@@ -6489,9 +6489,15 @@
           "name": "Camiseta icon azul petróleo live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908990975373": {
+          "code": "7908990975373",
+          "name": "Cropped soft off live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 10927.699999999999,
+      "total": 11127.599999999999,
       "status": "open"
     }
   },
@@ -12722,5 +12728,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T19:00:38.519Z"
+  "savedAt": "2026-07-22T19:00:43.060Z"
 }
