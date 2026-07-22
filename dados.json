@@ -6262,9 +6262,15 @@
           "name": "Regata icon rosa live g",
           "price": 189.9,
           "qty": 1
+        },
+        "7901128628578": {
+          "code": "7901128628578",
+          "name": "Legging hydefit azul live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 6781.999999999998,
+      "total": 6981.899999999998,
       "status": "open"
     }
   },
@@ -12430,5 +12436,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:05:19.433Z"
+  "savedAt": "2026-07-22T18:05:45.416Z"
 }
