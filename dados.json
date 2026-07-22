@@ -5379,12 +5379,6 @@
           "price": 243,
           "qty": 1
         },
-        "7908931968389": {
-          "code": "7908931968389",
-          "name": "Camiseta V equilíbrio bordo live g",
-          "price": 259.9,
-          "qty": 1
-        },
         "7901072434379": {
           "code": "7901072434379",
           "name": "Camiseta icon verde oliva claro live g",
@@ -5410,7 +5404,7 @@
           "qty": 1
         }
       },
-      "total": 1884.4999999999955,
+      "total": 1624.5999999999954,
       "status": "open"
     },
     "c_1784568449324": {
@@ -12366,6 +12360,13 @@
         "price": 179.9,
         "qty": 1,
         "lastAt": "2026-07-22T18:52:50.360Z"
+      },
+      "7908931968389": {
+        "code": "7908931968389",
+        "name": "Camiseta V equilíbrio bordo live g",
+        "price": 259.9,
+        "qty": 1,
+        "lastAt": "2026-07-22T18:52:57.609Z"
       }
     },
     "c_1783457601997": {
@@ -12695,5 +12696,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:52:52.949Z"
+  "savedAt": "2026-07-22T18:52:57.611Z"
 }
