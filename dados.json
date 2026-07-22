@@ -6081,12 +6081,6 @@
           "price": 553,
           "qty": 1
         },
-        "7890171628126": {
-          "code": "7890171628126",
-          "name": "Regata canelada rosa AG M",
-          "price": 159,
-          "qty": 1
-        },
         "7900415274979": {
           "code": "7900415274979",
           "name": "Vestido curto canelado azul escuro Lp g",
@@ -6106,7 +6100,7 @@
           "qty": 1
         }
       },
-      "total": 5749.700000000001,
+      "total": 5590.700000000001,
       "status": "open"
     },
     "c_1784742777976": {
@@ -12518,6 +12512,15 @@
         "qty": 1,
         "lastAt": "2026-07-20T20:47:22.919Z"
       }
+    },
+    "c_1784670696673": {
+      "7890171628126": {
+        "code": "7890171628126",
+        "name": "Regata canelada rosa AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-22T18:27:31.952Z"
+      }
     }
   },
   "security": {
@@ -12525,5 +12528,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:27:27.638Z"
+  "savedAt": "2026-07-22T18:27:31.954Z"
 }
