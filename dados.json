@@ -6082,9 +6082,15 @@
           "name": "Garrafa térmica azul AG",
           "price": 198,
           "qty": 1
+        },
+        "7890171378908": {
+          "code": "7890171378908",
+          "name": "Meia rosa AG 34 a 39",
+          "price": 39.9,
+          "qty": 2
         }
       },
-      "total": 198,
+      "total": 277.8,
       "status": "open"
     }
   },
@@ -12250,5 +12256,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:53:08.216Z"
+  "savedAt": "2026-07-22T17:53:15.371Z"
 }
