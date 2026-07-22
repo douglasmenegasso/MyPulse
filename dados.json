@@ -4354,6 +4354,11 @@
       "code": "7909746615055",
       "name": "Top preto com zíper DT g",
       "price": 399
+    },
+    "7778815586455": {
+      "code": "7778815586455",
+      "name": "Tô alças dupla preto Rowa g",
+      "price": 259.9
     }
   },
   "clients": {
@@ -12772,5 +12777,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T21:23:26.589Z"
+  "savedAt": "2026-07-22T21:23:52.938Z"
 }
