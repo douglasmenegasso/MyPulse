@@ -4364,6 +4364,11 @@
       "code": "7908678757529",
       "name": "Top curve seamless preto live g",
       "price": 94.9
+    },
+    "7909746480141": {
+      "code": "7909746480141",
+      "name": "Top extreme alças finas preto DT g",
+      "price": 249
     }
   },
   "clients": {
@@ -12782,5 +12787,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T21:24:15.379Z"
+  "savedAt": "2026-07-22T21:25:09.190Z"
 }
