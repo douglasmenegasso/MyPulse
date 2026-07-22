@@ -4676,6 +4676,11 @@
       "id": "c_1784742777976",
       "name": "Ivete Célia",
       "phone": ""
+    },
+    "c_1784745694787": {
+      "id": "c_1784745694787",
+      "name": "Barbara Ana maria",
+      "phone": ""
     }
   },
   "orders": {
@@ -12528,5 +12533,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:37:52.655Z"
+  "savedAt": "2026-07-22T18:41:34.789Z"
 }
