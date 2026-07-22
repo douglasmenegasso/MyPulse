@@ -6088,9 +6088,15 @@
           "name": "Meia rosa AG 34 a 39",
           "price": 39.9,
           "qty": 2
+        },
+        "7909392821831": {
+          "code": "7909392821831",
+          "name": "Meia cano médio cinza lupo 36 a 39",
+          "price": 16.9,
+          "qty": 1
         }
       },
-      "total": 277.8,
+      "total": 294.7,
       "status": "open"
     }
   },
@@ -12256,5 +12262,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:53:15.371Z"
+  "savedAt": "2026-07-22T17:53:39.641Z"
 }
