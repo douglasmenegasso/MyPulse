@@ -6223,9 +6223,15 @@
           "name": "Legging oliva vivame M",
           "price": 399,
           "qty": 1
+        },
+        "7909746616380": {
+          "code": "7909746616380",
+          "name": "Top nadador oliva vivame g",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 5723.299999999999,
+      "total": 5982.299999999999,
       "status": "open"
     }
   },
@@ -12391,5 +12397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:02:26.381Z"
+  "savedAt": "2026-07-22T18:02:55.707Z"
 }
