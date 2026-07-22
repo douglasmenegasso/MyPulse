@@ -6369,9 +6369,15 @@
           "name": "Tênis com carimbo off LP 36",
           "price": 497,
           "qty": 1
+        },
+        "7900415058616": {
+          "code": "7900415058616",
+          "name": "Calça marrom com elástico LP P",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 497,
+      "total": 940,
       "status": "open"
     }
   },
@@ -12546,5 +12552,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:41:48.568Z"
+  "savedAt": "2026-07-22T18:41:58.502Z"
 }
