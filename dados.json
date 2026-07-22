@@ -6211,9 +6211,15 @@
           "name": "Camiseta V equilíbrio preta live g",
           "price": 259.9,
           "qty": 1
+        },
+        "7901072426138": {
+          "code": "7901072426138",
+          "name": "Jaqueta camuflada verde live P",
+          "price": 699.9,
+          "qty": 1
         }
       },
-      "total": 4624.4,
+      "total": 5324.299999999999,
       "status": "open"
     }
   },
@@ -12379,5 +12385,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:01:34.242Z"
+  "savedAt": "2026-07-22T18:02:17.923Z"
 }
