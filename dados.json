@@ -6280,9 +6280,15 @@
           "name": "Regata breath azul petróleo live g",
           "price": 179.9,
           "qty": 1
+        },
+        "7908990956877": {
+          "code": "7908990956877",
+          "name": "Legging hydefit verde militar live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 7351.699999999997,
+      "total": 7551.599999999997,
       "status": "open"
     }
   },
@@ -12448,5 +12454,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:06:27.395Z"
+  "savedAt": "2026-07-22T18:06:46.204Z"
 }
