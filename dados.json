@@ -6381,9 +6381,15 @@
           "name": "Top Sport duplo marrom com elástico LP M",
           "price": 333,
           "qty": 1
+        },
+        "7909746646448": {
+          "code": "7909746646448",
+          "name": "Calça flex jogger com bolso bege DT pp",
+          "price": 589,
+          "qty": 1
         }
       },
-      "total": 1273,
+      "total": 1862,
       "status": "open"
     }
   },
@@ -12558,5 +12564,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T18:43:30.169Z"
+  "savedAt": "2026-07-22T18:43:52.228Z"
 }
