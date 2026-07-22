@@ -6158,9 +6158,15 @@
           "name": "Legging elástico lilás AG M",
           "price": 369,
           "qty": 1
+        },
+        "7890171654156": {
+          "code": "7890171654156",
+          "name": "Bermuda elástico lilás AG M",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 2197,
+      "total": 2456,
       "status": "open"
     }
   },
@@ -12326,5 +12332,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-22T17:58:30.717Z"
+  "savedAt": "2026-07-22T17:58:37.770Z"
 }
