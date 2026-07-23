@@ -5943,9 +5943,15 @@
           "name": "Calça texturizada verde live G",
           "price": 599.9,
           "qty": 1
+        },
+        "7900415030421": {
+          "code": "7900415030421",
+          "name": "Jaqueta preta com elástico Lp M",
+          "price": 853,
+          "qty": 1
         }
       },
-      "total": 8780.4,
+      "total": 9633.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -12999,5 +13005,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:42:50.523Z"
+  "savedAt": "2026-07-23T17:43:03.409Z"
 }
