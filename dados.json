@@ -5176,12 +5176,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7900292841448": {
-          "code": "7900292841448",
-          "name": "Regata off com bege lp P",
-          "price": 263,
-          "qty": 1
-        },
         "7890171628119": {
           "code": "7890171628119",
           "name": "Regata canelada rosa AG P",
@@ -5189,7 +5183,7 @@
           "qty": 1
         }
       },
-      "total": 3312.4000000000005,
+      "total": 3049.4000000000005,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13038,6 +13032,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-23T18:04:21.687Z"
+      },
+      "7900292841448": {
+        "code": "7900292841448",
+        "name": "Regata off com bege lp P",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:04:28.938Z"
       }
     }
   },
@@ -13046,5 +13047,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:04:21.688Z"
+  "savedAt": "2026-07-23T18:04:28.940Z"
 }
