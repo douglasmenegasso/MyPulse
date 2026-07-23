@@ -5453,27 +5453,9 @@
           "name": "Calça texturizada verde live G",
           "price": 599.9,
           "qty": 1
-        },
-        "7909746618056": {
-          "code": "7909746618056",
-          "name": "Calça com bolso roxo DT M",
-          "price": 449,
-          "qty": 1
-        },
-        "7909746617288": {
-          "code": "7909746617288",
-          "name": "Regata elite roxo DT g",
-          "price": 299,
-          "qty": 1
-        },
-        "7900292887552": {
-          "code": "7900292887552",
-          "name": "Vestido longo azul com zíper Lp M",
-          "price": 493,
-          "qty": 1
         }
       },
-      "total": 10771.5,
+      "total": 9530.5,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12108,6 +12090,27 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-23T17:16:45.096Z"
+      },
+      "7900292887552": {
+        "code": "7900292887552",
+        "name": "Vestido longo azul com zíper Lp M",
+        "price": 493,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:46.226Z"
+      },
+      "7909746617288": {
+        "code": "7909746617288",
+        "name": "Regata elite roxo DT g",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:47.096Z"
+      },
+      "7909746618056": {
+        "code": "7909746618056",
+        "name": "Calça com bolso roxo DT M",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:48.008Z"
       }
     },
     "c_1784135024747": {
@@ -12910,5 +12913,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:16:45.097Z"
+  "savedAt": "2026-07-23T17:16:48.010Z"
 }
