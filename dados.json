@@ -5907,9 +5907,15 @@
           "name": "Blusão pose bege live P",
           "price": 399.9,
           "qty": 1
+        },
+        "7909746618056": {
+          "code": "7909746618056",
+          "name": "Calça com bolso roxo DT M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 5990.6,
+      "total": 6439.6,
       "status": "open"
     },
     "c_1784742777976": {
@@ -12963,5 +12969,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:41:21.370Z"
+  "savedAt": "2026-07-23T17:41:43.502Z"
 }
