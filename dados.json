@@ -5236,12 +5236,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7890171645512": {
-          "code": "7890171645512",
-          "name": "T-shirt com tule roxo malva AG P",
-          "price": 239,
-          "qty": 1
-        },
         "7909746620097": {
           "code": "7909746620097",
           "name": "Legging sprint marrom DT P",
@@ -5279,7 +5273,7 @@
           "qty": 1
         }
       },
-      "total": 7515,
+      "total": 7276,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13023,6 +13017,13 @@
         "price": 19.9,
         "qty": 1,
         "lastAt": "2026-07-23T18:01:33.517Z"
+      },
+      "7890171645512": {
+        "code": "7890171645512",
+        "name": "T-shirt com tule roxo malva AG P",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:01:46.029Z"
       }
     }
   },
@@ -13031,5 +13032,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:01:37.924Z"
+  "savedAt": "2026-07-23T18:01:46.031Z"
 }
