@@ -5134,12 +5134,6 @@
           "price": 219,
           "qty": 1
         },
-        "7890171646748": {
-          "code": "7890171646748",
-          "name": "Jaqueta com bolso verde claro AG P",
-          "price": 489,
-          "qty": 1
-        },
         "7890171645543": {
           "code": "7890171645543",
           "name": "Bermuda com silicone verde claro AG P",
@@ -5231,7 +5225,7 @@
           "qty": 1
         }
       },
-      "total": 5352.1,
+      "total": 4863.1,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13031,6 +13025,13 @@
         "price": 239,
         "qty": 1,
         "lastAt": "2026-07-23T18:03:04.916Z"
+      },
+      "7890171646748": {
+        "code": "7890171646748",
+        "name": "Jaqueta com bolso verde claro AG P",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:03:16.275Z"
       }
     }
   },
@@ -13039,5 +13040,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:03:04.918Z"
+  "savedAt": "2026-07-23T18:03:16.277Z"
 }
