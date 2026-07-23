@@ -4941,21 +4941,9 @@
           "name": "Camiseta pima bege AG men g",
           "price": 269,
           "qty": 1
-        },
-        "7890171558089": {
-          "code": "7890171558089",
-          "name": "Bermuda eterno cinza AG men M",
-          "price": 329,
-          "qty": 1
-        },
-        "7890171566084": {
-          "code": "7890171566084",
-          "name": "Bermuda eterno cinza AG men g",
-          "price": 329,
-          "qty": 1
         }
       },
-      "total": 1455,
+      "total": 797,
       "status": "open"
     },
     "41995409638": {
@@ -7866,6 +7854,20 @@
         "price": 339,
         "qty": 1,
         "lastAt": "2026-07-07T20:10:30.546Z"
+      },
+      "7890171566084": {
+        "code": "7890171566084",
+        "name": "Bermuda eterno cinza AG men g",
+        "price": 329,
+        "qty": 1,
+        "lastAt": "2026-07-23T20:11:01.961Z"
+      },
+      "7890171558089": {
+        "code": "7890171558089",
+        "name": "Bermuda eterno cinza AG men M",
+        "price": 329,
+        "qty": 1,
+        "lastAt": "2026-07-23T20:11:03.184Z"
       }
     },
     "41995409638": {
@@ -13092,5 +13094,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T20:10:59.175Z"
+  "savedAt": "2026-07-23T20:11:03.186Z"
 }
