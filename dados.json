@@ -5919,9 +5919,15 @@
           "name": "Regata elite roxo DT g",
           "price": 299,
           "qty": 1
+        },
+        "7909746614164": {
+          "code": "7909746614164",
+          "name": "Vestido canelado bordo DT M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 6738.6,
+      "total": 7187.6,
       "status": "open"
     },
     "c_1784742777976": {
@@ -12975,5 +12981,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:41:54.191Z"
+  "savedAt": "2026-07-23T17:42:15.991Z"
 }
