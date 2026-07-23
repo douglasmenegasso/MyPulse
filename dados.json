@@ -5163,9 +5163,15 @@
           "name": "Calça wide leg preta com elástico LP P",
           "price": 443,
           "qty": 1
+        },
+        "7900415030438": {
+          "code": "7900415030438",
+          "name": "Jaqueta preta com elástico LP P",
+          "price": 853,
+          "qty": 1
         }
       },
-      "total": 2850.8,
+      "total": 3703.8,
       "status": "open"
     },
     "c_1783444825678": {
@@ -13046,5 +13052,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:58:35.282Z"
+  "savedAt": "2026-07-23T17:58:56.140Z"
 }
