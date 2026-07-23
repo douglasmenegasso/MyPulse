@@ -5346,18 +5346,6 @@
           "price": 499.9,
           "qty": 1
         },
-        "7901072428897": {
-          "code": "7901072428897",
-          "name": "Legging azul petróleo live live g",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901072429184": {
-          "code": "7901072429184",
-          "name": "Top curve azul petróleo live live g",
-          "price": 219.9,
-          "qty": 1
-        },
         "7890171616079": {
           "code": "7890171616079",
           "name": "Legging brilhosa terracota AG M",
@@ -5395,7 +5383,7 @@
           "qty": 1
         }
       },
-      "total": 5350.700000000001,
+      "total": 4800.9000000000015,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12121,6 +12109,20 @@
         "price": 419,
         "qty": 1,
         "lastAt": "2026-07-23T17:17:11.155Z"
+      },
+      "7901072429184": {
+        "code": "7901072429184",
+        "name": "Top curve azul petróleo live live g",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:12.482Z"
+      },
+      "7901072428897": {
+        "code": "7901072428897",
+        "name": "Legging azul petróleo live live g",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:13.304Z"
       }
     },
     "c_1784135024747": {
@@ -12923,5 +12925,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:17:11.156Z"
+  "savedAt": "2026-07-23T17:17:13.305Z"
 }
