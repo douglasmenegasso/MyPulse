@@ -5158,12 +5158,6 @@
           "price": 219,
           "qty": 1
         },
-        "7601072483063": {
-          "code": "7601072483063",
-          "name": "Legging icon rosa live P",
-          "price": 319.9,
-          "qty": 1
-        },
         "7909746620097": {
           "code": "7909746620097",
           "name": "Legging sprint marrom DT P",
@@ -5201,7 +5195,7 @@
           "qty": 1
         }
       },
-      "total": 3895.3000000000006,
+      "total": 3575.4000000000005,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13036,6 +13030,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-23T18:03:53.998Z"
+      },
+      "7601072483063": {
+        "code": "7601072483063",
+        "name": "Legging icon rosa live P",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:04:13.391Z"
       }
     }
   },
@@ -13044,5 +13045,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:03:54.000Z"
+  "savedAt": "2026-07-23T18:04:13.392Z"
 }
