@@ -5199,27 +5199,9 @@
           "name": "Blusa um ombro moletom cinza Lp g",
           "price": 167,
           "qty": 1
-        },
-        "7900292387090": {
-          "code": "7900292387090",
-          "name": "Regata off com bege lp g",
-          "price": 263,
-          "qty": 1
-        },
-        "7900292725687": {
-          "code": "7900292725687",
-          "name": "Regata canelada preta alça marrom Lp g",
-          "price": 233,
-          "qty": 1
-        },
-        "7900415361020": {
-          "code": "7900415361020",
-          "name": "Regata canelada marrom bordado azul Lp M",
-          "price": 263,
-          "qty": 1
         }
       },
-      "total": 926,
+      "total": 167,
       "status": "open"
     },
     "c_1784221698831": {
@@ -11514,6 +11496,27 @@
         "price": 199,
         "qty": 1,
         "lastAt": "2026-07-23T17:21:12.026Z"
+      },
+      "7900415361020": {
+        "code": "7900415361020",
+        "name": "Regata canelada marrom bordado azul Lp M",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:21:12.580Z"
+      },
+      "7900292725687": {
+        "code": "7900292725687",
+        "name": "Regata canelada preta alça marrom Lp g",
+        "price": 233,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:21:13.204Z"
+      },
+      "7900292387090": {
+        "code": "7900292387090",
+        "name": "Regata off com bege lp g",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:21:13.835Z"
       }
     },
     "c_1784223679651": {
@@ -12947,5 +12950,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:21:12.028Z"
+  "savedAt": "2026-07-23T17:21:15.748Z"
 }
