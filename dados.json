@@ -5513,49 +5513,6 @@
       "total": 1259.6,
       "status": "waiting"
     },
-    "c_1784322913411": {
-      "clientId": "c_1784322913411",
-      "items": {
-        "7900415286965": {
-          "code": "7900415286965",
-          "name": "T-shirt off com rosa LP M",
-          "price": 243,
-          "qty": 1
-        },
-        "7909746618872": {
-          "code": "7909746618872",
-          "name": "Camiseta bordo escrita branco vivame P",
-          "price": 339,
-          "qty": 1
-        },
-        "7900292947560": {
-          "code": "7900292947560",
-          "name": "Regata canelada preta logo em couro lP M",
-          "price": 243,
-          "qty": 1
-        },
-        "7901072434287": {
-          "code": "7901072434287",
-          "name": "Camiseta icon pink live g",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901128641645": {
-          "code": "7901128641645",
-          "name": "Camiseta icon fúcsia live g",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072434379": {
-          "code": "7901072434379",
-          "name": "Camiseta icon verde oliva claro live g",
-          "price": 199.9,
-          "qty": 1
-        }
-      },
-      "total": 1424.7000000000003,
-      "status": "waiting"
-    },
     "c_1784568449324": {
       "clientId": "c_1784568449324",
       "items": {
@@ -6681,6 +6638,51 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784322913411",
+      "clientName": "Larissa cliente Jaque salão",
+      "clientPhone": "",
+      "items": {
+        "7900415286965": {
+          "code": "7900415286965",
+          "name": "T-shirt off com rosa LP M",
+          "price": 243,
+          "qty": 1
+        },
+        "7909746618872": {
+          "code": "7909746618872",
+          "name": "Camiseta bordo escrita branco vivame P",
+          "price": 339,
+          "qty": 1
+        },
+        "7900292947560": {
+          "code": "7900292947560",
+          "name": "Regata canelada preta logo em couro lP M",
+          "price": 243,
+          "qty": 1
+        },
+        "7901072434287": {
+          "code": "7901072434287",
+          "name": "Camiseta icon pink live g",
+          "price": 199.9,
+          "qty": 1
+        },
+        "7901128641645": {
+          "code": "7901128641645",
+          "name": "Camiseta icon fúcsia live g",
+          "price": 199.9,
+          "qty": 1
+        },
+        "7901072434379": {
+          "code": "7901072434379",
+          "name": "Camiseta icon verde oliva claro live g",
+          "price": 199.9,
+          "qty": 1
+        }
+      },
+      "total": 1424.7000000000003,
+      "closedAt": "2026-07-23T16:47:30.899Z"
+    },
     {
       "clientId": "c_1784223679651",
       "clientName": "Célia",
@@ -12907,5 +12909,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T16:47:25.508Z"
+  "savedAt": "2026-07-23T16:47:30.900Z"
 }
