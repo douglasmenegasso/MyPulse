@@ -5128,12 +5128,6 @@
           "price": 369,
           "qty": 1
         },
-        "7890171653159": {
-          "code": "7890171653159",
-          "name": "Top elástico lilás AG M",
-          "price": 219,
-          "qty": 1
-        },
         "7908011244686": {
           "code": "7908011244686",
           "name": "Top curve branco live M",
@@ -5219,7 +5213,7 @@
           "qty": 1
         }
       },
-      "total": 4554.1,
+      "total": 4335.1,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13033,6 +13027,13 @@
         "price": 309,
         "qty": 1,
         "lastAt": "2026-07-23T18:03:23.588Z"
+      },
+      "7890171653159": {
+        "code": "7890171653159",
+        "name": "Top elástico lilás AG M",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:03:38.381Z"
       }
     }
   },
@@ -13041,5 +13042,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:03:34.027Z"
+  "savedAt": "2026-07-23T18:03:38.382Z"
 }
