@@ -5901,9 +5901,15 @@
           "name": "T-shirt off estampa azul marinho LP M",
           "price": 243,
           "qty": 1
+        },
+        "7901072406383": {
+          "code": "7901072406383",
+          "name": "Blusão pose bege live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 5590.700000000001,
+      "total": 5990.6,
       "status": "open"
     },
     "c_1784742777976": {
@@ -12957,5 +12963,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:40:33.862Z"
+  "savedAt": "2026-07-23T17:41:17.381Z"
 }
