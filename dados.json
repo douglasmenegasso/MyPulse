@@ -5289,49 +5289,6 @@
       "total": 3074.4,
       "status": "waiting"
     },
-    "c_1784237432107": {
-      "clientId": "c_1784237432107",
-      "items": {
-        "7890171616079": {
-          "code": "7890171616079",
-          "name": "Legging brilhosa terracota AG M",
-          "price": 319,
-          "qty": 1
-        },
-        "7890171618905": {
-          "code": "7890171618905",
-          "name": "Top nadador brilhoso terracota AG M",
-          "price": 238,
-          "qty": 1
-        },
-        "7890171614501": {
-          "code": "7890171614501",
-          "name": "T-shirt inspiracional terracota AG M",
-          "price": 198,
-          "qty": 1
-        },
-        "7909746618681": {
-          "code": "7909746618681",
-          "name": "Caça iconic bordo DT P",
-          "price": 599,
-          "qty": 1
-        },
-        "7890171615263": {
-          "code": "7890171615263",
-          "name": "Regata canelada bordo AG M",
-          "price": 159,
-          "qty": 1
-        },
-        "7900292959075": {
-          "code": "7900292959075",
-          "name": "Calça alfaiataria marrom Lp M",
-          "price": 597,
-          "qty": 1
-        }
-      },
-      "total": 2110.000000000002,
-      "status": "waiting"
-    },
     "c_1784049002709": {
       "clientId": "c_1784049002709",
       "items": {
@@ -6488,6 +6445,51 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784237432107",
+      "clientName": "Fernanda Prima",
+      "clientPhone": "",
+      "items": {
+        "7890171616079": {
+          "code": "7890171616079",
+          "name": "Legging brilhosa terracota AG M",
+          "price": 319,
+          "qty": 1
+        },
+        "7890171618905": {
+          "code": "7890171618905",
+          "name": "Top nadador brilhoso terracota AG M",
+          "price": 238,
+          "qty": 1
+        },
+        "7890171614501": {
+          "code": "7890171614501",
+          "name": "T-shirt inspiracional terracota AG M",
+          "price": 198,
+          "qty": 1
+        },
+        "7909746618681": {
+          "code": "7909746618681",
+          "name": "Caça iconic bordo DT P",
+          "price": 599,
+          "qty": 1
+        },
+        "7890171615263": {
+          "code": "7890171615263",
+          "name": "Regata canelada bordo AG M",
+          "price": 159,
+          "qty": 1
+        },
+        "7900292959075": {
+          "code": "7900292959075",
+          "name": "Calça alfaiataria marrom Lp M",
+          "price": 597,
+          "qty": 1
+        }
+      },
+      "total": 2110.000000000002,
+      "closedAt": "2026-07-23T17:17:40.346Z"
+    },
     {
       "clientId": "c_1784322913411",
       "clientName": "Larissa cliente Jaque salão",
@@ -12934,5 +12936,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:17:29.327Z"
+  "savedAt": "2026-07-23T17:17:40.348Z"
 }
