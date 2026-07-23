@@ -5230,63 +5230,8 @@
     },
     "c_1784221698831": {
       "clientId": "c_1784221698831",
-      "items": {
-        "7901072438032": {
-          "code": "7901072438032",
-          "name": "Camiseta pima bege live P",
-          "price": 299.9,
-          "qty": 1
-        },
-        "7900415286941": {
-          "code": "7900415286941",
-          "name": "T-shirt off com rosa LP g",
-          "price": 243,
-          "qty": 1
-        },
-        "01603835914": {
-          "code": "01603835914",
-          "name": "Camiseta vita marrom movimento P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "01603835629": {
-          "code": "01603835629",
-          "name": "Camiseta vita off com bordo movimento P",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7909746620837": {
-          "code": "7909746620837",
-          "name": "Camiseta move azul claro escrita off DT P",
-          "price": 339,
-          "qty": 1
-        },
-        "7900292610075": {
-          "code": "7900292610075",
-          "name": "T-shirt off estampa ursinho Lp g",
-          "price": 243,
-          "qty": 1
-        },
-        "7901072428606": {
-          "code": "7901072428606",
-          "name": "Jaqueta canelada preta live g",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7901128603254": {
-          "code": "7901128603254",
-          "name": "Jaqueta seamless preto live M",
-          "price": 649.9,
-          "qty": 1
-        },
-        "7901072406383": {
-          "code": "7901072406383",
-          "name": "Blusão pose bege live P",
-          "price": 399.9,
-          "qty": 1
-        }
-      },
-      "total": 3074.4,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12929,6 +12874,71 @@
         "qty": 1,
         "lastAt": "2026-07-22T18:27:31.952Z"
       }
+    },
+    "c_1784221698831": {
+      "7901072406383": {
+        "code": "7901072406383",
+        "name": "Blusão pose bege live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:11.811Z"
+      },
+      "7901128603254": {
+        "code": "7901128603254",
+        "name": "Jaqueta seamless preto live M",
+        "price": 649.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:11.995Z"
+      },
+      "7901072428606": {
+        "code": "7901072428606",
+        "name": "Jaqueta canelada preta live g",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:12.088Z"
+      },
+      "7900292610075": {
+        "code": "7900292610075",
+        "name": "T-shirt off estampa ursinho Lp g",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:12.263Z"
+      },
+      "7909746620837": {
+        "code": "7909746620837",
+        "name": "Camiseta move azul claro escrita off DT P",
+        "price": 339,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:12.374Z"
+      },
+      "01603835629": {
+        "code": "01603835629",
+        "name": "Camiseta vita off com bordo movimento P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:12.533Z"
+      },
+      "01603835914": {
+        "code": "01603835914",
+        "name": "Camiseta vita marrom movimento P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:12.642Z"
+      },
+      "7900415286941": {
+        "code": "7900415286941",
+        "name": "T-shirt off com rosa LP g",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:12.810Z"
+      },
+      "7901072438032": {
+        "code": "7901072438032",
+        "name": "Camiseta pima bege live P",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:19:13.387Z"
+      }
     }
   },
   "security": {
@@ -12936,5 +12946,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:19:10.979Z"
+  "savedAt": "2026-07-23T17:19:13.389Z"
 }
