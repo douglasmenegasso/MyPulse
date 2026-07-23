@@ -5116,12 +5116,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7901128603032": {
-          "code": "7901128603032",
-          "name": "Top estampa marrom live symbol M",
-          "price": 239.9,
-          "qty": 1
-        },
         "7901128603193": {
           "code": "7901128603193",
           "name": "Legging marrom live symbol M",
@@ -5183,7 +5177,7 @@
           "qty": 1
         }
       },
-      "total": 4094.3000000000006,
+      "total": 3854.4000000000005,
       "status": "open"
     },
     "c_1783444825678": {
@@ -10137,6 +10131,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-23T17:55:35.067Z"
+      },
+      "7901128603032": {
+        "code": "7901128603032",
+        "name": "Top estampa marrom live symbol M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:55:40.822Z"
       }
     },
     "41991694056": {
@@ -13029,5 +13030,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:55:39.960Z"
+  "savedAt": "2026-07-23T17:55:44.264Z"
 }
