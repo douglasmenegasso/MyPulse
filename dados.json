@@ -4554,6 +4554,11 @@
       "code": "7900415109028",
       "name": "Bolsa fecho easy marrom com espelho LP",
       "price": 853
+    },
+    "7900415031541": {
+      "code": "7900415031541",
+      "name": "Lancheira térmica preta com off LP",
+      "price": 393
     }
   },
   "clients": {
@@ -13123,5 +13128,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T21:25:08.101Z"
+  "savedAt": "2026-07-23T21:25:11.700Z"
 }
