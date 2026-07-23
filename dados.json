@@ -5358,18 +5358,6 @@
           "price": 219.9,
           "qty": 1
         },
-        "7890171657782": {
-          "code": "7890171657782",
-          "name": "Legging marrom elástico azul AG M",
-          "price": 419,
-          "qty": 1
-        },
-        "7890171657362": {
-          "code": "7890171657362",
-          "name": "Top nadador marrom elástico azul AG g",
-          "price": 289,
-          "qty": 1
-        },
         "7890171616079": {
           "code": "7890171616079",
           "name": "Legging brilhosa terracota AG M",
@@ -5407,7 +5395,7 @@
           "qty": 1
         }
       },
-      "total": 6058.700000000001,
+      "total": 5350.700000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12119,6 +12107,20 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-23T17:17:08.177Z"
+      },
+      "7890171657362": {
+        "code": "7890171657362",
+        "name": "Top nadador marrom elástico azul AG g",
+        "price": 289,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:10.520Z"
+      },
+      "7890171657782": {
+        "code": "7890171657782",
+        "name": "Legging marrom elástico azul AG M",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:11.155Z"
       }
     },
     "c_1784135024747": {
@@ -12921,5 +12923,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:17:08.178Z"
+  "savedAt": "2026-07-23T17:17:11.156Z"
 }
