@@ -5116,12 +5116,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7901128603193": {
-          "code": "7901128603193",
-          "name": "Legging marrom live symbol M",
-          "price": 329.9,
-          "qty": 1
-        },
         "7901128619095": {
           "code": "7901128619095",
           "name": "Jaqueta marrom live symbol P",
@@ -5177,7 +5171,7 @@
           "qty": 1
         }
       },
-      "total": 3854.4000000000005,
+      "total": 3524.5000000000005,
       "status": "open"
     },
     "c_1783444825678": {
@@ -10138,6 +10132,13 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-23T17:55:40.822Z"
+      },
+      "7901128603193": {
+        "code": "7901128603193",
+        "name": "Legging marrom live symbol M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:55:48.265Z"
       }
     },
     "41991694056": {
@@ -13030,5 +13031,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:55:44.264Z"
+  "savedAt": "2026-07-23T17:55:48.267Z"
 }
