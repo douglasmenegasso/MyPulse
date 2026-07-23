@@ -4494,6 +4494,11 @@
       "code": "7909746639198",
       "name": "Calça conchas marrom com bege DT P",
       "price": 439
+    },
+    "7909746639228": {
+      "code": "7909746639228",
+      "name": "Camiseta conchas marrom com bege DT P",
+      "price": 299
     }
   },
   "clients": {
@@ -13057,5 +13062,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T19:11:26.213Z"
+  "savedAt": "2026-07-23T19:11:33.892Z"
 }
