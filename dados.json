@@ -5212,27 +5212,8 @@
     },
     "c_1784049002709": {
       "clientId": "c_1784049002709",
-      "items": {
-        "7908931976919": {
-          "code": "7908931976919",
-          "name": "Shorts grafeno preto live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7901072412483": {
-          "code": "7901072412483",
-          "name": "Top alças fina preto live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7908931976728": {
-          "code": "7908931976728",
-          "name": "Legging grafeno roxo malva live M",
-          "price": 399.9,
-          "qty": 1
-        }
-      },
-      "total": 939.6999999999999,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1784568449324": {
@@ -11953,6 +11934,27 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-23T17:54:53.020Z"
+      },
+      "7908931976728": {
+        "code": "7908931976728",
+        "name": "Legging grafeno roxo malva live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:54:53.709Z"
+      },
+      "7901072412483": {
+        "code": "7901072412483",
+        "name": "Top alças fina preto live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:54:53.719Z"
+      },
+      "7908931976919": {
+        "code": "7908931976919",
+        "name": "Shorts grafeno preto live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:54:54.237Z"
       }
     },
     "c_1784237432107": {
@@ -13025,5 +13027,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:54:53.021Z"
+  "savedAt": "2026-07-23T17:54:57.865Z"
 }
