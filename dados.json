@@ -5949,9 +5949,15 @@
           "name": "Jaqueta marrom live symbol M",
           "price": 499.9,
           "qty": 1
+        },
+        "7909746620486": {
+          "code": "7909746620486",
+          "name": "Regata canelada marrom DT g",
+          "price": 199,
+          "qty": 1
         }
       },
-      "total": 9633.4,
+      "total": 9832.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13012,5 +13018,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:44:34.120Z"
+  "savedAt": "2026-07-23T17:44:46.587Z"
 }
