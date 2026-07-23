@@ -5193,15 +5193,8 @@
     },
     "c_1783444825678": {
       "clientId": "c_1783444825678",
-      "items": {
-        "7900041723025": {
-          "code": "7900041723025",
-          "name": "Blusa um ombro moletom cinza Lp g",
-          "price": 167,
-          "qty": 1
-        }
-      },
-      "total": 167,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1784221698831": {
@@ -11517,6 +11510,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-23T17:21:13.835Z"
+      },
+      "7900041723025": {
+        "code": "7900041723025",
+        "name": "Blusa um ombro moletom cinza Lp g",
+        "price": 167,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:21:18.187Z"
       }
     },
     "c_1784223679651": {
@@ -12950,5 +12950,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:21:15.748Z"
+  "savedAt": "2026-07-23T17:21:19.594Z"
 }
