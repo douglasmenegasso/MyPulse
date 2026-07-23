@@ -5301,15 +5301,9 @@
           "name": "Regata canelada marrom bordado azul Lp P",
           "price": 263,
           "qty": 1
-        },
-        "7900292729609": {
-          "code": "7900292729609",
-          "name": "Calça baggy off LP pp",
-          "price": 647,
-          "qty": 1
         }
       },
-      "total": 8981.599999999999,
+      "total": 8334.599999999999,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13017,6 +13011,15 @@
         "qty": 1,
         "lastAt": "2026-07-23T17:19:13.387Z"
       }
+    },
+    "c_1784568449324": {
+      "7900292729609": {
+        "code": "7900292729609",
+        "name": "Calça baggy off LP pp",
+        "price": 647,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:00:41.625Z"
+      }
     }
   },
   "security": {
@@ -13024,5 +13027,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:00:34.991Z"
+  "savedAt": "2026-07-23T18:00:41.626Z"
 }
