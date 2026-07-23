@@ -5931,9 +5931,15 @@
           "name": "Vestido longo azul com zíper Lp M",
           "price": 493,
           "qty": 1
+        },
+        "7908990960041": {
+          "code": "7908990960041",
+          "name": "Blusão texturizado verde live g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 7680.6,
+      "total": 8180.5,
       "status": "open"
     },
     "c_1784742777976": {
@@ -12987,5 +12993,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:42:23.836Z"
+  "savedAt": "2026-07-23T17:42:39.402Z"
 }
