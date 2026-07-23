@@ -4509,6 +4509,11 @@
       "code": "7909746670924",
       "name": "Pijama short doll erica cinza DT P",
       "price": 389
+    },
+    "7909746670962": {
+      "code": "7909746670962",
+      "name": "Camisola erica midi cinza DT P",
+      "price": 419
     }
   },
   "clients": {
@@ -13072,5 +13077,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T19:20:02.917Z"
+  "savedAt": "2026-07-23T19:20:41.781Z"
 }
