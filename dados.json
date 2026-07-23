@@ -5157,9 +5157,15 @@
           "name": "Top Sport duplo preto Lp M",
           "price": 333,
           "qty": 1
+        },
+        "7900415044527": {
+          "code": "7900415044527",
+          "name": "Calça wide leg preta com elástico LP P",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 2407.8,
+      "total": 2850.8,
       "status": "open"
     },
     "c_1783444825678": {
@@ -13040,5 +13046,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:58:29.391Z"
+  "savedAt": "2026-07-23T17:58:35.282Z"
 }
