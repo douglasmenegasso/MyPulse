@@ -4921,19 +4921,6 @@
       "total": 4.547473508864641e-13,
       "status": "open"
     },
-    "c_1779470225053": {
-      "clientId": "c_1779470225053",
-      "items": {
-        "7890171656419": {
-          "code": "7890171656419",
-          "name": "Camiseta pima bege AG men g",
-          "price": 269,
-          "qty": 1
-        }
-      },
-      "total": 269,
-      "status": "open"
-    },
     "41995409638": {
       "clientId": "41995409638",
       "items": {},
@@ -6079,6 +6066,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779470225053",
+      "clientName": "Jeff e Jhon",
+      "clientPhone": "",
+      "items": {
+        "7890171656419": {
+          "code": "7890171656419",
+          "name": "Camiseta pima bege AG men g",
+          "price": 269,
+          "qty": 1
+        }
+      },
+      "total": 269,
+      "closedAt": "2026-07-23T20:11:17.789Z"
+    },
     {
       "clientId": "c_1784568449324",
       "clientName": "Ana Flávia amiga Julia",
@@ -13096,5 +13098,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T20:11:14.344Z"
+  "savedAt": "2026-07-23T20:11:17.791Z"
 }
