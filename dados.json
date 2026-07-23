@@ -4930,12 +4930,6 @@
           "price": 269,
           "qty": 1
         },
-        "7890171646533": {
-          "code": "7890171646533",
-          "name": "Camiseta bicolor verde e cinza AG men g",
-          "price": 259,
-          "qty": 1
-        },
         "7890171656419": {
           "code": "7890171656419",
           "name": "Camiseta pima bege AG men g",
@@ -4943,7 +4937,7 @@
           "qty": 1
         }
       },
-      "total": 797,
+      "total": 538,
       "status": "open"
     },
     "41995409638": {
@@ -7868,6 +7862,13 @@
         "price": 329,
         "qty": 1,
         "lastAt": "2026-07-23T20:11:03.184Z"
+      },
+      "7890171646533": {
+        "code": "7890171646533",
+        "name": "Camiseta bicolor verde e cinza AG men g",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-23T20:11:04.446Z"
       }
     },
     "41995409638": {
@@ -13094,5 +13095,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T20:11:03.186Z"
+  "savedAt": "2026-07-23T20:11:07.209Z"
 }
