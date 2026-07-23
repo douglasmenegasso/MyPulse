@@ -5116,12 +5116,6 @@
           "price": 49.9,
           "qty": 1
         },
-        "7909392810088": {
-          "code": "7909392810088",
-          "name": "Meia Sport branco lupo 33 a 36",
-          "price": 19.9,
-          "qty": 1
-        },
         "7909392494240": {
           "code": "7909392494240",
           "name": "Kit 3 meias Lupo 34 a 39",
@@ -5291,7 +5285,7 @@
           "qty": 1
         }
       },
-      "total": 7554.799999999999,
+      "total": 7534.9,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13021,6 +13015,13 @@
         "price": 339.9,
         "qty": 1,
         "lastAt": "2026-07-23T18:01:13.719Z"
+      },
+      "7909392810088": {
+        "code": "7909392810088",
+        "name": "Meia Sport branco lupo 33 a 36",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:01:20.983Z"
       }
     }
   },
@@ -13029,5 +13030,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:01:13.720Z"
+  "savedAt": "2026-07-23T18:01:20.984Z"
 }
