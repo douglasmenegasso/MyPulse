@@ -5164,12 +5164,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "7901072451222": {
-          "code": "7901072451222",
-          "name": "Top icon rosa ametista live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7909746620097": {
           "code": "7909746620097",
           "name": "Legging sprint marrom DT P",
@@ -5207,7 +5201,7 @@
           "qty": 1
         }
       },
-      "total": 4145.200000000001,
+      "total": 3895.3000000000006,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13035,6 +13029,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-23T18:03:45.592Z"
+      },
+      "7901072451222": {
+        "code": "7901072451222",
+        "name": "Top icon rosa ametista live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:03:53.998Z"
       }
     }
   },
@@ -13043,5 +13044,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:03:45.593Z"
+  "savedAt": "2026-07-23T18:03:54.000Z"
 }
