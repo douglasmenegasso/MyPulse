@@ -4529,6 +4529,11 @@
       "code": "7909746655808",
       "name": "Pijama Lucca curto bege DT M men",
       "price": 389
+    },
+    "7900415110284": {
+      "code": "7900415110284",
+      "name": "Copo térmico preto com off LP",
+      "price": 197
     }
   },
   "clients": {
@@ -13098,5 +13103,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T20:11:21.122Z"
+  "savedAt": "2026-07-23T21:16:58.121Z"
 }
