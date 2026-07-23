@@ -5316,36 +5316,6 @@
           "price": 219,
           "qty": 1
         },
-        "7890171657454": {
-          "code": "7890171657454",
-          "name": "Legging assimétrica preto com off AG M",
-          "price": 449,
-          "qty": 1
-        },
-        "7890171662717": {
-          "code": "7890171662717",
-          "name": "Bermuda elástico preto com off AG M",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171651629": {
-          "code": "7890171651629",
-          "name": "Top elástico preto AG g",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171649220": {
-          "code": "7890171649220",
-          "name": "Cropped refletivo preto AG g",
-          "price": 198,
-          "qty": 1
-        },
-        "7901072437790": {
-          "code": "7901072437790",
-          "name": "Jaqueta máxi branca live g",
-          "price": 499.9,
-          "qty": 1
-        },
         "7890171616079": {
           "code": "7890171616079",
           "name": "Legging brilhosa terracota AG M",
@@ -5383,7 +5353,7 @@
           "qty": 1
         }
       },
-      "total": 4800.9000000000015,
+      "total": 3176.000000000002,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12123,6 +12093,41 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-07-23T17:17:13.304Z"
+      },
+      "7901072437790": {
+        "code": "7901072437790",
+        "name": "Jaqueta máxi branca live g",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:14.305Z"
+      },
+      "7890171649220": {
+        "code": "7890171649220",
+        "name": "Cropped refletivo preto AG g",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:15.776Z"
+      },
+      "7890171651629": {
+        "code": "7890171651629",
+        "name": "Top elástico preto AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:16.606Z"
+      },
+      "7890171662717": {
+        "code": "7890171662717",
+        "name": "Bermuda elástico preto com off AG M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:17.305Z"
+      },
+      "7890171657454": {
+        "code": "7890171657454",
+        "name": "Legging assimétrica preto com off AG M",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:17.857Z"
       }
     },
     "c_1784135024747": {
@@ -12925,5 +12930,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:17:13.305Z"
+  "savedAt": "2026-07-23T17:17:19.336Z"
 }
