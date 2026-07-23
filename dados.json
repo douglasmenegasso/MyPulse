@@ -5110,18 +5110,6 @@
     "41991536747": {
       "clientId": "41991536747",
       "items": {
-        "7909746661441": {
-          "code": "7909746661441",
-          "name": "Pijama short doll bege com off DT M",
-          "price": 439,
-          "qty": 1
-        },
-        "7901072402057": {
-          "code": "7901072402057",
-          "name": "Regata pima preta live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7901072482004": {
           "code": "7901072482004",
           "name": "Blusa cropped marrom live g",
@@ -5195,7 +5183,7 @@
           "qty": 1
         }
       },
-      "total": 4783.200000000001,
+      "total": 4094.3000000000006,
       "status": "open"
     },
     "c_1783444825678": {
@@ -10135,6 +10123,20 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-17T16:50:48.432Z"
+      },
+      "7909746661441": {
+        "code": "7909746661441",
+        "name": "Pijama short doll bege com off DT M",
+        "price": 439,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:55:32.872Z"
+      },
+      "7901072402057": {
+        "code": "7901072402057",
+        "name": "Regata pima preta live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:55:35.067Z"
       }
     },
     "41991694056": {
@@ -13027,5 +13029,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:55:31.085Z"
+  "savedAt": "2026-07-23T17:55:35.069Z"
 }
