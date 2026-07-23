@@ -5158,12 +5158,6 @@
           "price": 219,
           "qty": 1
         },
-        "7909746620097": {
-          "code": "7909746620097",
-          "name": "Legging sprint marrom DT P",
-          "price": 259,
-          "qty": 1
-        },
         "7908990957324": {
           "code": "7908990957324",
           "name": "Camiseta cropped pima preto live P",
@@ -5171,7 +5165,7 @@
           "qty": 1
         }
       },
-      "total": 2591.4000000000005,
+      "total": 2332.4000000000005,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13041,6 +13035,13 @@
         "price": 299,
         "qty": 1,
         "lastAt": "2026-07-23T18:04:42.739Z"
+      },
+      "7909746620097": {
+        "code": "7909746620097",
+        "name": "Legging sprint marrom DT P",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:04:53.434Z"
       }
     }
   },
@@ -13049,5 +13050,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:04:45.664Z"
+  "savedAt": "2026-07-23T18:04:53.436Z"
 }
