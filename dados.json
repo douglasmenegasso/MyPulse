@@ -4762,11 +4762,6 @@
       "name": "Kawane ivonete",
       "phone": ""
     },
-    "c_1783710465465": {
-      "id": "c_1783710465465",
-      "name": "Anna Rebecca 1",
-      "phone": ""
-    },
     "c_1783711001466": {
       "id": "c_1783711001466",
       "name": "Sabrina",
@@ -5081,31 +5076,6 @@
       "items": {},
       "total": 0,
       "status": "open"
-    },
-    "c_1783710465465": {
-      "clientId": "c_1783710465465",
-      "items": {
-        "7900292979806": {
-          "code": "7900292979806",
-          "name": "Top Sport duplo preto Lp M",
-          "price": 333,
-          "qty": 1
-        },
-        "7900415044527": {
-          "code": "7900415044527",
-          "name": "Calça wide leg preta com elástico LP P",
-          "price": 443,
-          "qty": 1
-        },
-        "7900415030438": {
-          "code": "7900415030438",
-          "name": "Jaqueta preta com elástico LP P",
-          "price": 853,
-          "qty": 1
-        }
-      },
-      "total": 1629,
-      "status": "waiting"
     },
     "c_1783444825678": {
       "clientId": "c_1783444825678",
@@ -13054,5 +13024,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:59:04.090Z"
+  "savedAt": "2026-07-23T17:59:14.288Z"
 }
