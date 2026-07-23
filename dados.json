@@ -4549,6 +4549,11 @@
       "code": "7900415109059",
       "name": "Bolsa pequena off com dourado LP",
       "price": 597
+    },
+    "7900415109028": {
+      "code": "7900415109028",
+      "name": "Bolsa fecho easy marrom com espelho LP",
+      "price": 853
     }
   },
   "clients": {
@@ -13118,5 +13123,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T21:24:24.468Z"
+  "savedAt": "2026-07-23T21:24:48.253Z"
 }
