@@ -5370,12 +5370,6 @@
           "price": 289,
           "qty": 1
         },
-        "7890171655405": {
-          "code": "7890171655405",
-          "name": "T-shirt off com detalhes marrom AG M",
-          "price": 259,
-          "qty": 1
-        },
         "7890171616079": {
           "code": "7890171616079",
           "name": "Legging brilhosa terracota AG M",
@@ -5413,7 +5407,7 @@
           "qty": 1
         }
       },
-      "total": 6317.700000000001,
+      "total": 6058.700000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12118,6 +12112,13 @@
         "price": 379,
         "qty": 1,
         "lastAt": "2026-07-23T17:17:02.878Z"
+      },
+      "7890171655405": {
+        "code": "7890171655405",
+        "name": "T-shirt off com detalhes marrom AG M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:08.177Z"
       }
     },
     "c_1784135024747": {
@@ -12920,5 +12921,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:17:05.288Z"
+  "savedAt": "2026-07-23T17:17:08.178Z"
 }
