@@ -4514,6 +4514,11 @@
       "code": "7909746670962",
       "name": "Camisola erica midi cinza DT P",
       "price": 419
+    },
+    "7909746639136": {
+      "code": "7909746639136",
+      "name": "Vestido consigas marrom com bege DT P",
+      "price": 469
     }
   },
   "clients": {
@@ -13077,5 +13082,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T19:21:02.957Z"
+  "savedAt": "2026-07-23T19:21:12.532Z"
 }
