@@ -5545,15 +5545,9 @@
           "name": "Camiseta icon fúcsia live g",
           "price": 199.9,
           "qty": 1
-        },
-        "7908754537885": {
-          "code": "7908754537885",
-          "name": "Camiseta icon preta live g ",
-          "price": 199.9,
-          "qty": 1
         }
       },
-      "total": 1424.7000000000003,
+      "total": 1224.8000000000002,
       "status": "open"
     },
     "c_1784568449324": {
@@ -12569,8 +12563,8 @@
         "code": "7908754537885",
         "name": "Camiseta icon preta live g ",
         "price": 199.9,
-        "qty": 1,
-        "lastAt": "2026-07-22T18:53:49.027Z"
+        "qty": 2,
+        "lastAt": "2026-07-23T16:47:14.166Z"
       },
       "7901072434379": {
         "code": "7901072434379",
@@ -12907,5 +12901,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T16:47:13.087Z"
+  "savedAt": "2026-07-23T16:47:16.668Z"
 }
