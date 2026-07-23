@@ -5435,27 +5435,9 @@
           "name": "Calça alfaiataria marrom Lp M",
           "price": 597,
           "qty": 1
-        },
-        "7900292955398": {
-          "code": "7900292955398",
-          "name": "Regata listrada marrom Lp M",
-          "price": 223,
-          "qty": 1
-        },
-        "7908990960041": {
-          "code": "7908990960041",
-          "name": "Blusão texturizado verde live g",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7908990960201": {
-          "code": "7908990960201",
-          "name": "Calça texturizada verde live G",
-          "price": 599.9,
-          "qty": 1
         }
       },
-      "total": 9530.5,
+      "total": 8207.7,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12111,6 +12093,27 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-23T17:16:48.008Z"
+      },
+      "7908990960201": {
+        "code": "7908990960201",
+        "name": "Calça texturizada verde live G",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:48.959Z"
+      },
+      "7908990960041": {
+        "code": "7908990960041",
+        "name": "Blusão texturizado verde live g",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:50.107Z"
+      },
+      "7900292955398": {
+        "code": "7900292955398",
+        "name": "Regata listrada marrom Lp M",
+        "price": 223,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:51.190Z"
       }
     },
     "c_1784135024747": {
@@ -12913,5 +12916,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:16:48.010Z"
+  "savedAt": "2026-07-23T17:16:51.191Z"
 }
