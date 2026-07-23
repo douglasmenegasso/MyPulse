@@ -5217,15 +5217,9 @@
           "name": "Regata canelada marrom bordado azul Lp M",
           "price": 263,
           "qty": 1
-        },
-        "7909746620486": {
-          "code": "7909746620486",
-          "name": "Regata canelada marrom DT g",
-          "price": 199,
-          "qty": 1
         }
       },
-      "total": 1125,
+      "total": 926,
       "status": "open"
     },
     "c_1784221698831": {
@@ -11513,6 +11507,13 @@
         "price": 159,
         "qty": 1,
         "lastAt": "2026-07-17T20:39:01.247Z"
+      },
+      "7909746620486": {
+        "code": "7909746620486",
+        "name": "Regata canelada marrom DT g",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:21:12.026Z"
       }
     },
     "c_1784223679651": {
@@ -12946,5 +12947,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:21:06.429Z"
+  "savedAt": "2026-07-23T17:21:12.028Z"
 }
