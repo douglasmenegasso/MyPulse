@@ -5095,79 +5095,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1784568449324": {
-      "clientId": "c_1784568449324",
-      "items": {
-        "7890171643563": {
-          "code": "7890171643563",
-          "name": "Garrafa térmica rosa AG",
-          "price": 198,
-          "qty": 1
-        },
-        "7891186222699": {
-          "code": "7891186222699",
-          "name": "Calcinha fio preto lupo P",
-          "price": 49.9,
-          "qty": 2
-        },
-        "7891186222675": {
-          "code": "7891186222675",
-          "name": "Calcinha fio nude lupo P",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7890171663479": {
-          "code": "7890171663479",
-          "name": "Legging elástico lilás AG P",
-          "price": 369,
-          "qty": 1
-        },
-        "7901072441292": {
-          "code": "7901072441292",
-          "name": "Macaquinho twist preto live M",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7890171652817": {
-          "code": "7890171652817",
-          "name": "T-shirt cropped mesh branco AG P",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171662304": {
-          "code": "7890171662304",
-          "name": "Bermuda elástico roxo malva AG P",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171662229": {
-          "code": "7890171662229",
-          "name": "Top elástico roxo malva AG M",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171651827": {
-          "code": "7890171651827",
-          "name": "Regata cropped refletivo roxo malva AG P",
-          "price": 219,
-          "qty": 1
-        },
-        "7908990957324": {
-          "code": "7908990957324",
-          "name": "Camiseta cropped pima preto live P",
-          "price": 249.9,
-          "qty": 1
-        }
-      },
-      "total": 2332.4000000000005,
-      "status": "waiting"
-    },
     "c_1779214900706": {
       "clientId": "c_1779214900706",
       "items": {
@@ -6136,6 +6063,81 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784568449324",
+      "clientName": "Ana Flávia amiga Julia",
+      "clientPhone": "",
+      "items": {
+        "7890171643563": {
+          "code": "7890171643563",
+          "name": "Garrafa térmica rosa AG",
+          "price": 198,
+          "qty": 1
+        },
+        "7891186222699": {
+          "code": "7891186222699",
+          "name": "Calcinha fio preto lupo P",
+          "price": 49.9,
+          "qty": 2
+        },
+        "7891186222675": {
+          "code": "7891186222675",
+          "name": "Calcinha fio nude lupo P",
+          "price": 49.9,
+          "qty": 1
+        },
+        "7909392494240": {
+          "code": "7909392494240",
+          "name": "Kit 3 meias Lupo 34 a 39",
+          "price": 49.9,
+          "qty": 1
+        },
+        "7890171663479": {
+          "code": "7890171663479",
+          "name": "Legging elástico lilás AG P",
+          "price": 369,
+          "qty": 1
+        },
+        "7901072441292": {
+          "code": "7901072441292",
+          "name": "Macaquinho twist preto live M",
+          "price": 399.9,
+          "qty": 1
+        },
+        "7890171652817": {
+          "code": "7890171652817",
+          "name": "T-shirt cropped mesh branco AG P",
+          "price": 219,
+          "qty": 1
+        },
+        "7890171662304": {
+          "code": "7890171662304",
+          "name": "Bermuda elástico roxo malva AG P",
+          "price": 259,
+          "qty": 1
+        },
+        "7890171662229": {
+          "code": "7890171662229",
+          "name": "Top elástico roxo malva AG M",
+          "price": 219,
+          "qty": 1
+        },
+        "7890171651827": {
+          "code": "7890171651827",
+          "name": "Regata cropped refletivo roxo malva AG P",
+          "price": 219,
+          "qty": 1
+        },
+        "7908990957324": {
+          "code": "7908990957324",
+          "name": "Camiseta cropped pima preto live P",
+          "price": 249.9,
+          "qty": 1
+        }
+      },
+      "total": 2332.4000000000005,
+      "closedAt": "2026-07-23T18:06:23.324Z"
+    },
     {
       "clientId": "41991536747",
       "clientName": "Anna Rebecca",
@@ -13050,5 +13052,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:06:09.416Z"
+  "savedAt": "2026-07-23T18:06:23.325Z"
 }
