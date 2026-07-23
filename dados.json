@@ -4559,6 +4559,11 @@
       "code": "7900415031541",
       "name": "Lancheira térmica preta com off LP",
       "price": 393
+    },
+    "7900415110925": {
+      "code": "7900415110925",
+      "name": "Mala de mão preta com off LP",
+      "price": 897
     }
   },
   "clients": {
@@ -13128,5 +13133,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T21:25:11.700Z"
+  "savedAt": "2026-07-23T21:25:52.219Z"
 }
