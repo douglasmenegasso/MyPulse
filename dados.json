@@ -5292,30 +5292,6 @@
     "c_1784237432107": {
       "clientId": "c_1784237432107",
       "items": {
-        "7890171663462": {
-          "code": "7890171663462",
-          "name": "Legging elástico lilás AG M",
-          "price": 369,
-          "qty": 1
-        },
-        "7890171654156": {
-          "code": "7890171654156",
-          "name": "Bermuda elástico lilás AG M",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171653142": {
-          "code": "7890171653142",
-          "name": "Top elástico lilás AG g",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171648544": {
-          "code": "7890171648544",
-          "name": "Regata cropped mesh lilás AG M",
-          "price": 219,
-          "qty": 1
-        },
         "7890171616079": {
           "code": "7890171616079",
           "name": "Legging brilhosa terracota AG M",
@@ -5353,7 +5329,7 @@
           "qty": 1
         }
       },
-      "total": 3176.000000000002,
+      "total": 2110.000000000002,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12128,6 +12104,34 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-23T17:17:17.857Z"
+      },
+      "7890171648544": {
+        "code": "7890171648544",
+        "name": "Regata cropped mesh lilás AG M",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:19.354Z"
+      },
+      "7890171653142": {
+        "code": "7890171653142",
+        "name": "Top elástico lilás AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:20.225Z"
+      },
+      "7890171654156": {
+        "code": "7890171654156",
+        "name": "Bermuda elástico lilás AG M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:20.853Z"
+      },
+      "7890171663462": {
+        "code": "7890171663462",
+        "name": "Legging elástico lilás AG M",
+        "price": 369,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:17:21.476Z"
       }
     },
     "c_1784135024747": {
@@ -12930,5 +12934,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:17:19.336Z"
+  "savedAt": "2026-07-23T17:17:22.956Z"
 }
