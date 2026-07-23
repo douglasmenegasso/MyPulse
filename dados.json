@@ -4519,6 +4519,11 @@
       "code": "7909746639136",
       "name": "Vestido franzido marrom com bege DT P",
       "price": 469
+    },
+    "7909746639143": {
+      "code": "7909746639143",
+      "name": "Vestido franzido marrom com bege DT M",
+      "price": 469
     }
   },
   "clients": {
@@ -13082,5 +13087,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T19:23:12.552Z"
+  "savedAt": "2026-07-23T19:23:31.884Z"
 }
