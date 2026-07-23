@@ -5073,9 +5073,15 @@
           "name": "Jaqueta marrom live symbol P",
           "price": 499.9,
           "qty": 1
+        },
+        "7909746646523": {
+          "code": "7909746646523",
+          "name": "Jaqueta flex corta vento bege DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 4913.999999999999,
+      "total": 5612.999999999999,
       "status": "open"
     },
     "c_1783458513348": {
@@ -13145,5 +13151,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T22:01:47.149Z"
+  "savedAt": "2026-07-23T22:02:12.492Z"
 }
