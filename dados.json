@@ -5158,12 +5158,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "7908990928164": {
-          "code": "7908990928164",
-          "name": "Macaquinho azul bic live live M",
-          "price": 399.9,
-          "qty": 1
-        },
         "7901072441292": {
           "code": "7901072441292",
           "name": "Macaquinho twist preto live M",
@@ -5261,7 +5255,7 @@
           "qty": 1
         }
       },
-      "total": 6798,
+      "total": 6398.1,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13026,6 +13020,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-23T18:02:11.750Z"
+      },
+      "7908990928164": {
+        "code": "7908990928164",
+        "name": "Macaquinho azul bic live live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:02:17.402Z"
       }
     }
   },
@@ -13034,5 +13035,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:02:11.752Z"
+  "savedAt": "2026-07-23T18:02:17.404Z"
 }
