@@ -5418,18 +5418,6 @@
           "price": 379,
           "qty": 1
         },
-        "7909746579685": {
-          "code": "7909746579685",
-          "name": "Legging com pezinho preto DT M",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171654064": {
-          "code": "7890171654064",
-          "name": "Calça reta com franzido preto AG M",
-          "price": 399,
-          "qty": 1
-        },
         "7900292959075": {
           "code": "7900292959075",
           "name": "Calça alfaiataria marrom Lp M",
@@ -5437,7 +5425,7 @@
           "qty": 1
         }
       },
-      "total": 8207.7,
+      "total": 7549.700000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -12114,6 +12102,20 @@
         "price": 223,
         "qty": 1,
         "lastAt": "2026-07-23T17:16:51.190Z"
+      },
+      "7890171654064": {
+        "code": "7890171654064",
+        "name": "Calça reta com franzido preto AG M",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:53.208Z"
+      },
+      "7909746579685": {
+        "code": "7909746579685",
+        "name": "Legging com pezinho preto DT M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:16:54.201Z"
       }
     },
     "c_1784135024747": {
@@ -12916,5 +12918,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:16:51.191Z"
+  "savedAt": "2026-07-23T17:16:54.203Z"
 }
