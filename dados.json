@@ -5122,12 +5122,6 @@
           "price": 49.9,
           "qty": 1
         },
-        "7909392830451": {
-          "code": "7909392830451",
-          "name": "Meia cano curto preto lupo 33 a 36",
-          "price": 19.9,
-          "qty": 1
-        },
         "7890171663479": {
           "code": "7890171663479",
           "name": "Legging elástico lilás AG P",
@@ -5285,7 +5279,7 @@
           "qty": 1
         }
       },
-      "total": 7534.9,
+      "total": 7515,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13022,6 +13016,13 @@
         "price": 19.9,
         "qty": 1,
         "lastAt": "2026-07-23T18:01:20.983Z"
+      },
+      "7909392830451": {
+        "code": "7909392830451",
+        "name": "Meia cano curto preto lupo 33 a 36",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:01:33.517Z"
       }
     }
   },
@@ -13030,5 +13031,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:01:32.406Z"
+  "savedAt": "2026-07-23T18:01:37.924Z"
 }
