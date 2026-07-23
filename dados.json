@@ -5955,9 +5955,15 @@
           "name": "Regata canelada marrom DT g",
           "price": 199,
           "qty": 1
+        },
+        "7900415286941": {
+          "code": "7900415286941",
+          "name": "T-shirt off com rosa LP g",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 9832.4,
+      "total": 10075.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13018,5 +13024,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:44:46.587Z"
+  "savedAt": "2026-07-23T17:45:42.458Z"
 }
