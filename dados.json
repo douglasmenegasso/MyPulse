@@ -5061,9 +5061,15 @@
           "name": "Nayara marrom live symbol M",
           "price": 499.9,
           "qty": 1
+        },
+        "7901072486422": {
+          "code": "7901072486422",
+          "name": "Top tex marrom live g",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 4134.2,
+      "total": 4414.099999999999,
       "status": "open"
     },
     "c_1783458513348": {
@@ -13133,5 +13139,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T22:01:33.191Z"
+  "savedAt": "2026-07-23T22:01:39.452Z"
 }
