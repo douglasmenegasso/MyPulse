@@ -5158,12 +5158,6 @@
           "price": 399.9,
           "qty": 1
         },
-        "7890171653852": {
-          "code": "7890171653852",
-          "name": "Top um ombro só branco com elástico AG M",
-          "price": 239,
-          "qty": 1
-        },
         "7890171652817": {
           "code": "7890171652817",
           "name": "T-shirt cropped mesh branco AG P",
@@ -5237,7 +5231,7 @@
           "qty": 1
         }
       },
-      "total": 5591.1,
+      "total": 5352.1,
       "status": "open"
     },
     "c_1779214900706": {
@@ -13030,6 +13024,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-23T18:02:52.642Z"
+      },
+      "7890171653852": {
+        "code": "7890171653852",
+        "name": "Top um ombro só branco com elástico AG M",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-23T18:03:04.916Z"
       }
     }
   },
@@ -13038,5 +13039,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T18:02:52.644Z"
+  "savedAt": "2026-07-23T18:03:04.918Z"
 }
