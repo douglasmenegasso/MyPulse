@@ -5122,12 +5122,6 @@
           "price": 259.9,
           "qty": 1
         },
-        "7901072469746": {
-          "code": "7901072469746",
-          "name": "Jaqueta bomber marrom live P",
-          "price": 549.9,
-          "qty": 1
-        },
         "7890171637807": {
           "code": "7890171637807",
           "name": "Jaqueta cropped preto AG M",
@@ -5159,7 +5153,7 @@
           "qty": 1
         }
       },
-      "total": 2624.7000000000003,
+      "total": 2074.8,
       "status": "open"
     },
     "c_1783444825678": {
@@ -10141,6 +10135,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-23T17:56:01.255Z"
+      },
+      "7901072469746": {
+        "code": "7901072469746",
+        "name": "Jaqueta bomber marrom live P",
+        "price": 549.9,
+        "qty": 1,
+        "lastAt": "2026-07-23T17:56:19.297Z"
       }
     },
     "41991694056": {
@@ -13033,5 +13034,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-23T17:56:01.256Z"
+  "savedAt": "2026-07-23T17:56:19.298Z"
 }
