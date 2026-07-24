@@ -5381,12 +5381,6 @@
           "price": 219,
           "qty": 1
         },
-        "7901072492485": {
-          "code": "7901072492485",
-          "name": "Top máxi azul petróleo live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908754537908": {
           "code": "7908754537908",
           "name": "Camiseta icon preta live M",
@@ -5478,7 +5472,7 @@
           "qty": 1
         }
       },
-      "total": 10461.800000000001,
+      "total": 10211.900000000001,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13409,6 +13403,13 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-24T19:56:51.195Z"
+      },
+      "7901072492485": {
+        "code": "7901072492485",
+        "name": "Top máxi azul petróleo live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:56:52.354Z"
       }
     }
   },
@@ -13417,5 +13418,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:56:51.196Z"
+  "savedAt": "2026-07-24T19:56:55.815Z"
 }
