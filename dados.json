@@ -5767,12 +5767,6 @@
           "price": 493,
           "qty": 1
         },
-        "7900415164997": {
-          "code": "7900415164997",
-          "name": "Shorts furadinho bege com verde LP P",
-          "price": 497,
-          "qty": 1
-        },
         "7900415122454": {
           "code": "7900415122454",
           "name": "Regata canelada verde Lp P",
@@ -5852,7 +5846,7 @@
           "qty": 1
         }
       },
-      "total": 10644.199999999997,
+      "total": 10147.199999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13442,6 +13436,13 @@
         "price": 439,
         "qty": 1,
         "lastAt": "2026-07-24T20:09:12.707Z"
+      },
+      "7900415164997": {
+        "code": "7900415164997",
+        "name": "Shorts furadinho bege com verde LP P",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:09:19.331Z"
       }
     }
   },
@@ -13450,5 +13451,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:09:15.573Z"
+  "savedAt": "2026-07-24T20:09:19.332Z"
 }
