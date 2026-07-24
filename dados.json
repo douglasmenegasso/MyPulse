@@ -6102,9 +6102,15 @@
           "name": "Camiseta air move verde live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7890171652428": {
+          "code": "7890171652428",
+          "name": "Jaqueta com bolso versa claro AG M",
+          "price": 489,
+          "qty": 1
         }
       },
-      "total": 12127.999999999995,
+      "total": 12616.999999999995,
       "status": "open"
     }
   },
@@ -13768,5 +13774,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:44:55.198Z"
+  "savedAt": "2026-07-24T21:45:10.860Z"
 }
