@@ -5833,6 +5833,19 @@
       },
       "total": 5323,
       "status": "waiting"
+    },
+    "41996113214": {
+      "clientId": "41996113214",
+      "items": {
+        "7909392494240": {
+          "code": "7909392494240",
+          "name": "Kit 3 meias Lupo 34 a 39",
+          "price": 49.9,
+          "qty": 1
+        }
+      },
+      "total": 49.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -13486,5 +13499,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:31:59.840Z"
+  "savedAt": "2026-07-24T21:32:43.464Z"
 }
