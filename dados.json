@@ -4579,6 +4579,11 @@
       "code": "7900041672804",
       "name": "Coturno com logo bege Lp 35",
       "price": 497
+    },
+    "7900292947577": {
+      "code": "7900292947577",
+      "name": "Regata canelada preta logo couro LP P",
+      "price": 243
     }
   },
   "clients": {
@@ -13319,5 +13324,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:59:03.568Z"
+  "savedAt": "2026-07-24T17:59:46.372Z"
 }
