@@ -5743,12 +5743,6 @@
           "price": 263,
           "qty": 1
         },
-        "7900415074401": {
-          "code": "7900415074401",
-          "name": "T-shirt cropped marrom escrita off LP P",
-          "price": 197,
-          "qty": 1
-        },
         "7909746658533": {
           "code": "7909746658533",
           "name": "Pijama piquet marrom DT P",
@@ -5870,7 +5864,7 @@
           "qty": 1
         }
       },
-      "total": 11679.199999999997,
+      "total": 11482.199999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13439,6 +13433,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-24T20:08:50.253Z"
+      },
+      "7900415074401": {
+        "code": "7900415074401",
+        "name": "T-shirt cropped marrom escrita off LP P",
+        "price": 197,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:08:55.848Z"
       }
     }
   },
@@ -13447,5 +13448,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:08:50.254Z"
+  "savedAt": "2026-07-24T20:08:55.849Z"
 }
