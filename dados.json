@@ -5440,15 +5440,9 @@
           "name": "Top elástico lilás AG P",
           "price": 219,
           "qty": 1
-        },
-        "7890171643709": {
-          "code": "7890171643709",
-          "name": "Top elástico preto AG P",
-          "price": 219,
-          "qty": 1
         }
       },
-      "total": 9015.100000000002,
+      "total": 8796.100000000002,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13414,6 +13408,13 @@
         "price": 298,
         "qty": 1,
         "lastAt": "2026-07-24T19:57:55.188Z"
+      },
+      "7890171643709": {
+        "code": "7890171643709",
+        "name": "Top elástico preto AG P",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:58:03.978Z"
       }
     }
   },
@@ -13422,5 +13423,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:57:55.190Z"
+  "savedAt": "2026-07-24T19:58:03.980Z"
 }
