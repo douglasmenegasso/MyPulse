@@ -5315,12 +5315,6 @@
           "price": 198,
           "qty": 1
         },
-        "7890171616017": {
-          "code": "7890171616017",
-          "name": "Cropped bege refletivo AG M",
-          "price": 198,
-          "qty": 1
-        },
         "01403625910": {
           "code": "01403625910",
           "name": "Calça flare bordo movimento P",
@@ -5394,7 +5388,7 @@
           "qty": 1
         }
       },
-      "total": 6452.300000000003,
+      "total": 6254.300000000003,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13423,6 +13417,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-07-24T20:03:01.819Z"
+      },
+      "7890171616017": {
+        "code": "7890171616017",
+        "name": "Cropped bege refletivo AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:03:14.278Z"
       }
     }
   },
@@ -13431,5 +13432,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:03:01.820Z"
+  "savedAt": "2026-07-24T20:03:14.279Z"
 }
