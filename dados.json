@@ -6119,9 +6119,15 @@
           "name": "Bermuda Barra silicone verde claro AG M",
           "price": 259,
           "qty": 1
+        },
+        "7908011244587": {
+          "code": "7908011244587",
+          "name": "Top curve branco live G",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 12875.999999999995,
+      "total": 13065.899999999994,
       "status": "open"
     }
   },
@@ -13785,5 +13791,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:45:39.809Z"
+  "savedAt": "2026-07-24T21:45:44.723Z"
 }
