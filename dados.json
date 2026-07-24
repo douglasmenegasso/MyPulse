@@ -5683,12 +5683,6 @@
     "c_1784745694787": {
       "clientId": "c_1784745694787",
       "items": {
-        "7900292699117": {
-          "code": "7900292699117",
-          "name": "Tênis com carimbo off LP 36",
-          "price": 497,
-          "qty": 1
-        },
         "7900292900626": {
           "code": "7900292900626",
           "name": "Vestido canelado marrom com zíper Lp pp",
@@ -5726,7 +5720,7 @@
           "qty": 1
         }
       },
-      "total": 3046.7999999999984,
+      "total": 2549.7999999999984,
       "status": "open"
     },
     "c1779306442215": {
@@ -13463,6 +13457,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-07-24T20:11:54.485Z"
+      },
+      "7900292699117": {
+        "code": "7900292699117",
+        "name": "Tênis com carimbo off LP 36",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:11:56.497Z"
       }
     }
   },
@@ -13471,5 +13472,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:11:54.486Z"
+  "savedAt": "2026-07-24T20:11:58.661Z"
 }
