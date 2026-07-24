@@ -5890,9 +5890,15 @@
           "name": "Vestido franzido marrom com bege DT P",
           "price": 469,
           "qty": 1
+        },
+        "7909746638184": {
+          "code": "7909746638184",
+          "name": "Vestido riviera off com preto DT P",
+          "price": 979,
+          "qty": 1
         }
       },
-      "total": 2032.6,
+      "total": 3011.6,
       "status": "open"
     }
   },
@@ -13547,5 +13553,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:35:49.520Z"
+  "savedAt": "2026-07-24T21:35:56.866Z"
 }
