@@ -5701,12 +5701,6 @@
           "price": 333,
           "qty": 1
         },
-        "7890171628126": {
-          "code": "7890171628126",
-          "name": "Regata canelada rosa AG M",
-          "price": 159,
-          "qty": 1
-        },
         "7900415199289": {
           "code": "7900415199289",
           "name": "Calça balloon de moletom rosa LP pp",
@@ -5798,7 +5792,7 @@
           "qty": 1
         }
       },
-      "total": 6647.299999999997,
+      "total": 6488.299999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13451,6 +13445,13 @@
         "price": 673,
         "qty": 1,
         "lastAt": "2026-07-24T20:10:24.097Z"
+      },
+      "7890171628126": {
+        "code": "7890171628126",
+        "name": "Regata canelada rosa AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:10:33.367Z"
       }
     }
   },
@@ -13459,5 +13460,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:10:24.098Z"
+  "savedAt": "2026-07-24T20:10:33.369Z"
 }
