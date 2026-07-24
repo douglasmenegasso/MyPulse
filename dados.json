@@ -5884,9 +5884,15 @@
           "name": "Camiseta conchas marrom com bege DT P",
           "price": 299,
           "qty": 1
+        },
+        "7909746639136": {
+          "code": "7909746639136",
+          "name": "Vestido franzido marrom com bege DT P",
+          "price": 469,
+          "qty": 1
         }
       },
-      "total": 1563.6,
+      "total": 2032.6,
       "status": "open"
     }
   },
@@ -13541,5 +13547,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:35:20.014Z"
+  "savedAt": "2026-07-24T21:35:38.124Z"
 }
