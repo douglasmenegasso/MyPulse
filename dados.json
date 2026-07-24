@@ -5303,12 +5303,6 @@
           "price": 298,
           "qty": 1
         },
-        "7890171652619": {
-          "code": "7890171652619",
-          "name": "Top shine brilhoso marrom AG M",
-          "price": 198,
-          "qty": 1
-        },
         "7909746618438": {
           "code": "7909746618438",
           "name": "Jaqueta cherry vinho DT P",
@@ -5370,7 +5364,7 @@
           "qty": 1
         }
       },
-      "total": 5507.400000000003,
+      "total": 5309.400000000003,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13427,6 +13421,13 @@
         "price": 239,
         "qty": 1,
         "lastAt": "2026-07-24T20:03:34.649Z"
+      },
+      "7890171652619": {
+        "code": "7890171652619",
+        "name": "Top shine brilhoso marrom AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:03:35.660Z"
       }
     }
   },
@@ -13435,5 +13436,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:03:34.651Z"
+  "savedAt": "2026-07-24T20:03:39.578Z"
 }
