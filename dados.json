@@ -6166,9 +6166,15 @@
           "name": "Regata cropped marrom live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7890171655405": {
+          "code": "7890171655405",
+          "name": "T-shirt off com detalhes marrom AG M",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 2179.3,
+      "total": 2438.3,
       "status": "open"
     }
   },
@@ -13205,5 +13211,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T16:48:32.631Z"
+  "savedAt": "2026-07-24T16:49:29.762Z"
 }
