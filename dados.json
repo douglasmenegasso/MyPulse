@@ -6164,10 +6164,16 @@
           "name": "Shoulder metalesse preta detalhe dourado Lp",
           "price": 693,
           "qty": 1
+        },
+        "7900041672804": {
+          "code": "7900041672804",
+          "name": "Coturno com logo bege Lp 35",
+          "price": 497,
+          "qty": 1
         }
       },
-      "total": 13030.199999999997,
-      "status": "open"
+      "total": 13527.199999999997,
+      "status": "waiting"
     },
     "c1779306442215": {
       "clientId": "c1779306442215",
@@ -13271,5 +13277,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:25:08.500Z"
+  "savedAt": "2026-07-24T17:25:11.759Z"
 }
