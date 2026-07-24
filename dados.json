@@ -5339,12 +5339,6 @@
           "price": 699,
           "qty": 1
         },
-        "7909746618933": {
-          "code": "7909746618933",
-          "name": "Legging curve uva listra branca DT P",
-          "price": 419,
-          "qty": 1
-        },
         "7909746622770": {
           "code": "7909746622770",
           "name": "Jaqueta sprint azul claro DT M",
@@ -5436,7 +5430,7 @@
           "qty": 1
         }
       },
-      "total": 8537.100000000002,
+      "total": 8118.100000000002,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13416,6 +13410,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-24T19:58:10.363Z"
+      },
+      "7909746618933": {
+        "code": "7909746618933",
+        "name": "Legging curve uva listra branca DT P",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:58:21.676Z"
       }
     }
   },
@@ -13424,5 +13425,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:58:10.364Z"
+  "savedAt": "2026-07-24T19:58:21.678Z"
 }
