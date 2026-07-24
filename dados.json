@@ -6090,9 +6090,15 @@
           "name": "Top eterno liso verde AG g",
           "price": 209,
           "qty": 1
+        },
+        "7890171616109": {
+          "code": "7890171616109",
+          "name": "Regata elástico preto AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 11710.099999999995,
+      "total": 11908.099999999995,
       "status": "open"
     }
   },
@@ -13756,5 +13762,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:44:31.389Z"
+  "savedAt": "2026-07-24T21:44:36.572Z"
 }
