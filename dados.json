@@ -5707,12 +5707,6 @@
           "price": 279.9,
           "qty": 1
         },
-        "7901072485869": {
-          "code": "7901072485869",
-          "name": "Legging fuso tex marrom live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7901128602981": {
           "code": "7901128602981",
           "name": "Top nadador marrom live symbol G",
@@ -5738,7 +5732,7 @@
           "qty": 1
         }
       },
-      "total": 3686.5999999999985,
+      "total": 3326.6999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -13461,6 +13455,13 @@
         "price": 243,
         "qty": 1,
         "lastAt": "2026-07-24T20:11:38.701Z"
+      },
+      "7901072485869": {
+        "code": "7901072485869",
+        "name": "Legging fuso tex marrom live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:11:49.701Z"
       }
     }
   },
@@ -13469,5 +13470,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:11:38.703Z"
+  "savedAt": "2026-07-24T20:11:49.703Z"
 }
