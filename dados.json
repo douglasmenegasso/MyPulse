@@ -5991,9 +5991,15 @@
           "name": "Camiseta icon rosa live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072462235": {
+          "code": "7901072462235",
+          "name": "Camiseta icon rosa live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 7766.899999999998,
+      "total": 7966.799999999997,
       "status": "open"
     }
   },
@@ -13648,5 +13654,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:40:49.240Z"
+  "savedAt": "2026-07-24T21:40:53.543Z"
 }
