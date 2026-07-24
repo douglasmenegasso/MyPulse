@@ -6125,9 +6125,15 @@
           "name": "Top curve branco live G",
           "price": 189.9,
           "qty": 1
+        },
+        "7890171657782": {
+          "code": "7890171657782",
+          "name": "Legging marrom elástico azul AG M",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 13065.899999999994,
+      "total": 13484.899999999994,
       "status": "open"
     }
   },
@@ -13791,5 +13797,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:45:51.097Z"
+  "savedAt": "2026-07-24T21:45:56.487Z"
 }
