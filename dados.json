@@ -5701,12 +5701,6 @@
           "price": 333,
           "qty": 1
         },
-        "7900415110000": {
-          "code": "7900415110000",
-          "name": "Regata listrada cinza em linho LP P",
-          "price": 223,
-          "qty": 1
-        },
         "7909917723541": {
           "code": "7909917723541",
           "name": "Top cropped preto com zíper Lp M",
@@ -5768,7 +5762,7 @@
           "qty": 1
         }
       },
-      "total": 5215.5999999999985,
+      "total": 4992.5999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -13456,6 +13450,13 @@
         "price": 553,
         "qty": 1,
         "lastAt": "2026-07-24T20:10:59.600Z"
+      },
+      "7900415110000": {
+        "code": "7900415110000",
+        "name": "Regata listrada cinza em linho LP P",
+        "price": 223,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:11:06.103Z"
       }
     }
   },
@@ -13464,5 +13465,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:10:59.603Z"
+  "savedAt": "2026-07-24T20:11:06.104Z"
 }
