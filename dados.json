@@ -5279,24 +5279,6 @@
     "c_1784657638327": {
       "clientId": "c_1784657638327",
       "items": {
-        "7909392830475": {
-          "code": "7909392830475",
-          "name": "Meia Sport preto lupo 37 a 40",
-          "price": 19.9,
-          "qty": 1
-        },
-        "7891186349624": {
-          "code": "7891186349624",
-          "name": "Meia Sport braço lupo 37 a 40",
-          "price": 19.9,
-          "qty": 1
-        },
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
         "01403545907": {
           "code": "01403545907",
           "name": "Calça âmago off movimento P",
@@ -5568,7 +5550,7 @@
           "qty": 1
         }
       },
-      "total": 14084.699999999997,
+      "total": 13994.999999999998,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13394,6 +13376,27 @@
         "price": 19.9,
         "qty": 1,
         "lastAt": "2026-07-24T19:54:51.461Z"
+      },
+      "7909392830475": {
+        "code": "7909392830475",
+        "name": "Meia Sport preto lupo 37 a 40",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:54:52.122Z"
+      },
+      "7891186349624": {
+        "code": "7891186349624",
+        "name": "Meia Sport braço lupo 37 a 40",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:54:54.402Z"
+      },
+      "7909392494240": {
+        "code": "7909392494240",
+        "name": "Kit 3 meias Lupo 34 a 39",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:54:55.508Z"
       }
     }
   },
@@ -13402,5 +13405,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:54:51.462Z"
+  "savedAt": "2026-07-24T19:54:55.510Z"
 }
