@@ -6256,9 +6256,15 @@
           "name": "Bolsa pequena preta com dourado LP",
           "price": 597,
           "qty": 1
+        },
+        "7900415154004": {
+          "code": "7900415154004",
+          "name": "Shorts saia marrom LP pp",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 597,
+      "total": 1040,
       "status": "open"
     }
   },
@@ -13295,5 +13301,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:56:46.865Z"
+  "savedAt": "2026-07-24T17:57:04.734Z"
 }
