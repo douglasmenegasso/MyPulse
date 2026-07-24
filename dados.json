@@ -5405,12 +5405,6 @@
           "price": 219,
           "qty": 1
         },
-        "7901128628561": {
-          "code": "7901128628561",
-          "name": "Legging hydefit azul petróleo live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7901072492300": {
           "code": "7901072492300",
           "name": "Shorts máxi azul petróleo live M",
@@ -5514,7 +5508,7 @@
           "qty": 1
         }
       },
-      "total": 11881.199999999999,
+      "total": 11681.3,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13403,6 +13397,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-24T19:56:01.808Z"
+      },
+      "7901128628561": {
+        "code": "7901128628561",
+        "name": "Legging hydefit azul petróleo live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:56:09.175Z"
       }
     }
   },
@@ -13411,5 +13412,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:56:01.810Z"
+  "savedAt": "2026-07-24T19:56:09.176Z"
 }
