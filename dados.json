@@ -6145,9 +6145,15 @@
           "name": "Legging marrom live symbol G",
           "price": 329.9,
           "qty": 1
+        },
+        "7900292531325": {
+          "code": "7900292531325",
+          "name": "Shoulder metalesse preta detalhe dourado Lp",
+          "price": 693,
+          "qty": 1
         }
       },
-      "total": 12337.199999999997,
+      "total": 13030.199999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13252,5 +13258,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:08:38.569Z"
+  "savedAt": "2026-07-24T17:08:42.329Z"
 }
