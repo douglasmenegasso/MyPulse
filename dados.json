@@ -6015,9 +6015,15 @@
           "name": "Jaqueta máxi branca live g",
           "price": 499.9,
           "qty": 1
+        },
+        "7901072428897": {
+          "code": "7901072428897",
+          "name": "Legging azul petróleo live live g",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 8976.499999999996,
+      "total": 9306.399999999996,
       "status": "open"
     }
   },
@@ -13681,5 +13687,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:41:38.799Z"
+  "savedAt": "2026-07-24T21:41:48.029Z"
 }
