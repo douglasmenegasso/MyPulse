@@ -5701,12 +5701,6 @@
           "price": 333,
           "qty": 1
         },
-        "7909917723541": {
-          "code": "7909917723541",
-          "name": "Top cropped preto com zíper Lp M",
-          "price": 287,
-          "qty": 1
-        },
         "7900292900626": {
           "code": "7900292900626",
           "name": "Vestido canelado marrom com zíper Lp pp",
@@ -5762,7 +5756,7 @@
           "qty": 1
         }
       },
-      "total": 4992.5999999999985,
+      "total": 4705.5999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -13457,6 +13451,13 @@
         "price": 223,
         "qty": 1,
         "lastAt": "2026-07-24T20:11:06.103Z"
+      },
+      "7909917723541": {
+        "code": "7909917723541",
+        "name": "Top cropped preto com zíper Lp M",
+        "price": 287,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:11:12.306Z"
       }
     }
   },
@@ -13465,5 +13466,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:11:06.104Z"
+  "savedAt": "2026-07-24T20:11:12.307Z"
 }
