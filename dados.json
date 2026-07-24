@@ -5860,9 +5860,15 @@
           "name": "Meia Sport braço lupo 37 a 40",
           "price": 19.9,
           "qty": 1
+        },
+        "7900415109059": {
+          "code": "7900415109059",
+          "name": "Bolsa pequena off com dourado LP",
+          "price": 597,
+          "qty": 1
         }
       },
-      "total": 109.6,
+      "total": 706.6,
       "status": "open"
     }
   },
@@ -13517,5 +13523,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:33:51.629Z"
+  "savedAt": "2026-07-24T21:34:25.489Z"
 }
