@@ -5743,12 +5743,6 @@
           "price": 263,
           "qty": 1
         },
-        "7909746661434": {
-          "code": "7909746661434",
-          "name": "Pijama short doll marrom com off DT P",
-          "price": 439,
-          "qty": 1
-        },
         "01403620243": {
           "code": "01403620243",
           "name": "Calça flare preta movimento P",
@@ -5858,7 +5852,7 @@
           "qty": 1
         }
       },
-      "total": 11083.199999999997,
+      "total": 10644.199999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13441,6 +13435,13 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-07-24T20:09:03.978Z"
+      },
+      "7909746661434": {
+        "code": "7909746661434",
+        "name": "Pijama short doll marrom com off DT P",
+        "price": 439,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:09:12.707Z"
       }
     }
   },
@@ -13449,5 +13450,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:09:03.980Z"
+  "savedAt": "2026-07-24T20:09:12.709Z"
 }
