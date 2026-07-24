@@ -5848,9 +5848,15 @@
           "name": "Meia cano médio branco com verde lupo 34 a 39",
           "price": 19.9,
           "qty": 1
+        },
+        "7909392830475": {
+          "code": "7909392830475",
+          "name": "Meia Sport preto lupo 37 a 40",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 69.8,
+      "total": 89.69999999999999,
       "status": "open"
     }
   },
@@ -13505,5 +13511,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:32:48.408Z"
+  "savedAt": "2026-07-24T21:33:47.311Z"
 }
