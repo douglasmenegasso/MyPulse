@@ -5197,9 +5197,15 @@
           "name": "Jaqueta marrom live symbol g",
           "price": 499.9,
           "qty": 1
+        },
+        "7901072423700": {
+          "code": "7901072423700",
+          "name": "Jaqueta dupla face preto e bege live P",
+          "price": 699.9,
+          "qty": 1
         }
       },
-      "total": 1647.9,
+      "total": 2347.8,
       "status": "open"
     },
     "c_1784049002709": {
@@ -13391,5 +13397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:31:17.082Z"
+  "savedAt": "2026-07-24T19:31:26.755Z"
 }
