@@ -5701,12 +5701,6 @@
           "price": 333,
           "qty": 1
         },
-        "7900415199289": {
-          "code": "7900415199289",
-          "name": "Calça balloon de moletom rosa LP pp",
-          "price": 553,
-          "qty": 1
-        },
         "7900415110000": {
           "code": "7900415110000",
           "name": "Regata listrada cinza em linho LP P",
@@ -5774,7 +5768,7 @@
           "qty": 1
         }
       },
-      "total": 5768.5999999999985,
+      "total": 5215.5999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -13455,6 +13449,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-24T20:10:54.594Z"
+      },
+      "7900415199289": {
+        "code": "7900415199289",
+        "name": "Calça balloon de moletom rosa LP pp",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:10:59.600Z"
       }
     }
   },
@@ -13463,5 +13464,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:10:54.595Z"
+  "savedAt": "2026-07-24T20:10:59.603Z"
 }
