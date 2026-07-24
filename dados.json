@@ -5297,12 +5297,6 @@
           "price": 198,
           "qty": 1
         },
-        "7901072451222": {
-          "code": "7901072451222",
-          "name": "Top icon rosa ametista live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7901072450133": {
           "code": "7901072450133",
           "name": "Regata cropped icon rosa live M",
@@ -5496,7 +5490,7 @@
           "qty": 1
         }
       },
-      "total": 11121.5,
+      "total": 10871.6,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13406,6 +13400,13 @@
         "price": 239.9,
         "qty": 1,
         "lastAt": "2026-07-24T19:56:31.035Z"
+      },
+      "7901072451222": {
+        "code": "7901072451222",
+        "name": "Top icon rosa ametista live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:56:32.867Z"
       }
     }
   },
@@ -13414,5 +13415,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:56:31.036Z"
+  "savedAt": "2026-07-24T19:56:35.277Z"
 }
