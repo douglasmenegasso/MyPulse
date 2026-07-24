@@ -5854,9 +5854,15 @@
           "name": "Meia Sport preto lupo 37 a 40",
           "price": 19.9,
           "qty": 1
+        },
+        "7891186349624": {
+          "code": "7891186349624",
+          "name": "Meia Sport braço lupo 37 a 40",
+          "price": 19.9,
+          "qty": 1
         }
       },
-      "total": 89.69999999999999,
+      "total": 109.6,
       "status": "open"
     }
   },
@@ -13511,5 +13517,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:33:47.311Z"
+  "savedAt": "2026-07-24T21:33:51.629Z"
 }
