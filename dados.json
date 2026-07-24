@@ -6309,9 +6309,15 @@
           "name": "Regata alça fina preta DT M",
           "price": 279,
           "qty": 1
+        },
+        "7900292360550": {
+          "code": "7900292360550",
+          "name": "Cropped camisa preto Lp P",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 3397,
+      "total": 3860,
       "status": "open"
     }
   },
@@ -13348,5 +13354,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T18:01:11.109Z"
+  "savedAt": "2026-07-24T18:01:23.623Z"
 }
