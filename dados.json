@@ -5279,12 +5279,6 @@
     "c_1784657638327": {
       "clientId": "c_1784657638327",
       "items": {
-        "5142761767": {
-          "code": "5142761767",
-          "name": "Tênis com carimbo caramelo LP 37",
-          "price": 497,
-          "qty": 1
-        },
         "7891186357520": {
           "code": "7891186357520",
           "name": "Calcinha fio preto lupo M",
@@ -5586,7 +5580,7 @@
           "qty": 1
         }
       },
-      "total": 14701.399999999996,
+      "total": 14204.399999999996,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13390,6 +13384,15 @@
         "qty": 1,
         "lastAt": "2026-07-23T18:04:53.434Z"
       }
+    },
+    "c_1784657638327": {
+      "5142761767": {
+        "code": "5142761767",
+        "name": "Tênis com carimbo caramelo LP 37",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:54:41.543Z"
+      }
     }
   },
   "security": {
@@ -13397,5 +13400,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:54:33.418Z"
+  "savedAt": "2026-07-24T19:54:41.545Z"
 }
