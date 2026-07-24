@@ -4564,6 +4564,11 @@
       "code": "7900415110925",
       "name": "Mala de mão preta com off LP",
       "price": 897
+    },
+    "7908931949012": {
+      "code": "7908931949012",
+      "name": "Legging allure azul petróleo live M",
+      "price": 319.9
     }
   },
   "clients": {
@@ -13151,5 +13156,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T16:46:31.970Z"
+  "savedAt": "2026-07-24T16:46:57.796Z"
 }
