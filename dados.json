@@ -5185,9 +5185,15 @@
           "name": "Jaqueta esportiva bege AG P",
           "price": 449,
           "qty": 1
+        },
+        "7909746646530": {
+          "code": "7909746646530",
+          "name": "Jaqueta flex corta v vento bege DT M",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 449,
+      "total": 1148,
       "status": "open"
     },
     "c_1784049002709": {
@@ -13379,5 +13385,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:29:29.331Z"
+  "savedAt": "2026-07-24T19:29:50.209Z"
 }
