@@ -6044,9 +6044,15 @@
           "name": "Shorts icon azul live g",
           "price": 239.9,
           "qty": 1
+        },
+        "7890171663462": {
+          "code": "7890171663462",
+          "name": "Legging elástico lilás AG M",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 9966.099999999995,
+      "total": 10335.099999999995,
       "status": "open"
     }
   },
@@ -13710,5 +13716,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:42:50.675Z"
+  "savedAt": "2026-07-24T21:43:15.175Z"
 }
