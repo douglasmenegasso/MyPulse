@@ -5979,9 +5979,15 @@
           "name": "Shorts icon rosa live g",
           "price": 239.9,
           "qty": 1
+        },
+        "7901072451239": {
+          "code": "7901072451239",
+          "name": "Top icon rosa live g",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 7317.0999999999985,
+      "total": 7566.999999999998,
       "status": "open"
     }
   },
@@ -13636,5 +13642,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:40:17.302Z"
+  "savedAt": "2026-07-24T21:40:31.612Z"
 }
