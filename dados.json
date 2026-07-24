@@ -5920,9 +5920,15 @@
           "name": "Regata canelada marrom bordado azul Lp M",
           "price": 263,
           "qty": 1
+        },
+        "7900415150204": {
+          "code": "7900415150204",
+          "name": "T-shirt cinza estampa marrom LP M",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 4429.6,
+      "total": 4626.6,
       "status": "open"
     }
   },
@@ -13577,5 +13583,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:36:53.701Z"
+  "savedAt": "2026-07-24T21:37:10.695Z"
 }
