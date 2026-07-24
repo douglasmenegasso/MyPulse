@@ -5749,12 +5749,6 @@
           "price": 297,
           "qty": 1
         },
-        "7900415277796": {
-          "code": "7900415277796",
-          "name": "Shorts saia jeans azul LP 36",
-          "price": 443,
-          "qty": 1
-        },
         "7900415302955": {
           "code": "7900415302955",
           "name": "T-shirt branca estampa azul escuro LP P",
@@ -5816,7 +5810,7 @@
           "qty": 1
         }
       },
-      "total": 8436.299999999997,
+      "total": 7993.299999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13448,6 +13442,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-24T20:10:00.488Z"
+      },
+      "7900415277796": {
+        "code": "7900415277796",
+        "name": "Shorts saia jeans azul LP 36",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:10:06.930Z"
       }
     }
   },
@@ -13456,5 +13457,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:10:00.489Z"
+  "savedAt": "2026-07-24T20:10:06.931Z"
 }
