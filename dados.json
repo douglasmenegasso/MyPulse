@@ -5429,12 +5429,6 @@
           "price": 399,
           "qty": 1
         },
-        "7890171657393": {
-          "code": "7890171657393",
-          "name": "Top nadador preto AG m",
-          "price": 298,
-          "qty": 1
-        },
         "7901072486446": {
           "code": "7901072486446",
           "name": "Top tex marrom live P",
@@ -5454,7 +5448,7 @@
           "qty": 1
         }
       },
-      "total": 9313.100000000002,
+      "total": 9015.100000000002,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13413,6 +13407,13 @@
         "price": 299,
         "qty": 1,
         "lastAt": "2026-07-24T19:57:42.651Z"
+      },
+      "7890171657393": {
+        "code": "7890171657393",
+        "name": "Top nadador preto AG m",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:57:55.188Z"
       }
     }
   },
@@ -13421,5 +13422,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:57:42.653Z"
+  "savedAt": "2026-07-24T19:57:55.190Z"
 }
