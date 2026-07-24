@@ -5997,9 +5997,15 @@
           "name": "Legging com bolso vermelho live g",
           "price": 319.9,
           "qty": 1
+        },
+        "7908990985945": {
+          "code": "7908990985945",
+          "name": "Top curve vermelho live G",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 8086.799999999997,
+      "total": 8276.699999999997,
       "status": "open"
     }
   },
@@ -13663,5 +13669,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:41:11.200Z"
+  "savedAt": "2026-07-24T21:41:17.798Z"
 }
