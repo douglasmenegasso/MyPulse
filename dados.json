@@ -5689,12 +5689,6 @@
           "price": 497,
           "qty": 1
         },
-        "7900415011420": {
-          "code": "7900415011420",
-          "name": "Top Sport duplo marrom com elástico LP M",
-          "price": 333,
-          "qty": 1
-        },
         "7900292900626": {
           "code": "7900292900626",
           "name": "Vestido canelado marrom com zíper Lp pp",
@@ -5750,7 +5744,7 @@
           "qty": 1
         }
       },
-      "total": 4262.5999999999985,
+      "total": 3929.5999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -13459,6 +13453,13 @@
         "price": 443,
         "qty": 1,
         "lastAt": "2026-07-24T20:11:18.701Z"
+      },
+      "7900415011420": {
+        "code": "7900415011420",
+        "name": "Top Sport duplo marrom com elástico LP M",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:11:30.775Z"
       }
     }
   },
@@ -13467,5 +13468,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:11:20.077Z"
+  "savedAt": "2026-07-24T20:11:30.777Z"
 }
