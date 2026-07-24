@@ -6009,9 +6009,15 @@
           "name": "Camiseta icon branco live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072437790": {
+          "code": "7901072437790",
+          "name": "Jaqueta máxi branca live g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 8476.599999999997,
+      "total": 8976.499999999996,
       "status": "open"
     }
   },
@@ -13675,5 +13681,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:41:24.036Z"
+  "savedAt": "2026-07-24T21:41:38.799Z"
 }
