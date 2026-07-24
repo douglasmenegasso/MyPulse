@@ -6073,9 +6073,15 @@
           "name": "T-shirt com tule branca AG M",
           "price": 239,
           "qty": 1
+        },
+        "7890171656211": {
+          "code": "7890171656211",
+          "name": "Legging preta listra verde AG M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 11052.099999999995,
+      "total": 11501.099999999995,
       "status": "open"
     }
   },
@@ -13739,5 +13745,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:44:11.335Z"
+  "savedAt": "2026-07-24T21:44:16.519Z"
 }
