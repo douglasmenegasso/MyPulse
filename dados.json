@@ -5866,9 +5866,15 @@
           "name": "Bolsa pequena off com dourado LP",
           "price": 597,
           "qty": 1
+        },
+        "7909746639198": {
+          "code": "7909746639198",
+          "name": "Calça conchas marrom com bege DT P",
+          "price": 439,
+          "qty": 1
         }
       },
-      "total": 706.6,
+      "total": 1145.6,
       "status": "open"
     }
   },
@@ -13523,5 +13529,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:34:25.489Z"
+  "savedAt": "2026-07-24T21:34:38.543Z"
 }
