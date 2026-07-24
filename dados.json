@@ -6084,9 +6084,15 @@
           "name": "Legging preta listra verde AG M",
           "price": 449,
           "qty": 1
+        },
+        "7890171649633": {
+          "code": "7890171649633",
+          "name": "Top eterno liso verde AG g",
+          "price": 209,
+          "qty": 1
         }
       },
-      "total": 11501.099999999995,
+      "total": 11710.099999999995,
       "status": "open"
     }
   },
@@ -13750,5 +13756,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:44:28.113Z"
+  "savedAt": "2026-07-24T21:44:31.389Z"
 }
