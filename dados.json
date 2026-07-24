@@ -6315,9 +6315,15 @@
           "name": "Cropped camisa preto Lp P",
           "price": 463,
           "qty": 1
+        },
+        "7900415146900": {
+          "code": "7900415146900",
+          "name": "Shorts saia com bolsos preto LP P",
+          "price": 597,
+          "qty": 1
         }
       },
-      "total": 3860,
+      "total": 4457,
       "status": "open"
     }
   },
@@ -13354,5 +13360,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T18:01:23.623Z"
+  "savedAt": "2026-07-24T18:01:44.245Z"
 }
