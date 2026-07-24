@@ -6096,9 +6096,15 @@
           "name": "Regata elástico preto AG M",
           "price": 198,
           "qty": 1
+        },
+        "7908990959755": {
+          "code": "7908990959755",
+          "name": "Camiseta air move verde live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 11908.099999999995,
+      "total": 12127.999999999995,
       "status": "open"
     }
   },
@@ -13762,5 +13768,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:44:50.942Z"
+  "savedAt": "2026-07-24T21:44:55.198Z"
 }
