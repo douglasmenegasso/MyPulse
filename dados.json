@@ -5070,12 +5070,6 @@
           "price": 359.9,
           "qty": 1
         },
-        "7901128619088": {
-          "code": "7901128619088",
-          "name": "Nayara marrom live symbol M",
-          "price": 499.9,
-          "qty": 1
-        },
         "7901072486422": {
           "code": "7901072486422",
           "name": "Top tex marrom live g",
@@ -5095,7 +5089,7 @@
           "qty": 1
         }
       },
-      "total": 3987.2,
+      "total": 3487.2999999999997,
       "status": "open"
     },
     "c_1783458513348": {
@@ -7470,6 +7464,13 @@
         "price": 229,
         "qty": 1,
         "lastAt": "2026-07-24T20:16:19.406Z"
+      },
+      "7901128619088": {
+        "code": "7901128619088",
+        "name": "Nayara marrom live symbol M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:16:26.349Z"
       }
     },
     "c_1779389649186": {
@@ -13476,5 +13477,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:16:19.408Z"
+  "savedAt": "2026-07-24T20:16:26.351Z"
 }
