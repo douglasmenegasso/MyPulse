@@ -4940,7 +4940,8 @@
           "qty": 4
         }
       },
-      "total": 788
+      "total": 788,
+      "status": "waiting"
     },
     "419987410025": {
       "clientId": "419987410025",
@@ -13265,5 +13266,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:14:49.703Z"
+  "savedAt": "2026-07-24T17:14:54.578Z"
 }
