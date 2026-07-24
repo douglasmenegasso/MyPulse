@@ -6199,6 +6199,19 @@
       },
       "total": 2438.3,
       "status": "waiting"
+    },
+    "c_1784912723786": {
+      "clientId": "c_1784912723786",
+      "items": {
+        "7900415109028": {
+          "code": "7900415109028",
+          "name": "Bolsa fecho easy marrom com espelho LP",
+          "price": 853,
+          "qty": 1
+        }
+      },
+      "total": 853,
+      "status": "open"
     }
   },
   "closed": [
@@ -13234,5 +13247,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:06:42.396Z"
+  "savedAt": "2026-07-24T17:06:59.738Z"
 }
