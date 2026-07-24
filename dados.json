@@ -6160,9 +6160,15 @@
           "name": "Macacão allure adaptiv marrom live M",
           "price": 449.9,
           "qty": 1
+        },
+        "7908990956327": {
+          "code": "7908990956327",
+          "name": "Regata cropped marrom live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 1979.4,
+      "total": 2179.3,
       "status": "open"
     }
   },
@@ -13199,5 +13205,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T16:47:49.133Z"
+  "savedAt": "2026-07-24T16:48:26.274Z"
 }
