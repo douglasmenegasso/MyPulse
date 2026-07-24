@@ -5737,12 +5737,6 @@
           "price": 243,
           "qty": 1
         },
-        "7901072434249": {
-          "code": "7901072434249",
-          "name": "Camiseta icon azul petróleo live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7901072486439": {
           "code": "7901072486439",
           "name": "Top tex marrom live M",
@@ -5780,7 +5774,7 @@
           "qty": 1
         }
       },
-      "total": 5968.499999999998,
+      "total": 5768.5999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -13454,6 +13448,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-24T20:10:45.361Z"
+      },
+      "7901072434249": {
+        "code": "7901072434249",
+        "name": "Camiseta icon azul petróleo live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:10:54.594Z"
       }
     }
   },
@@ -13462,5 +13463,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:10:45.362Z"
+  "savedAt": "2026-07-24T20:10:54.595Z"
 }
