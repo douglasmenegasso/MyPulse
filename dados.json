@@ -5908,9 +5908,15 @@
           "name": "Regata canelada rosa AG M",
           "price": 159,
           "qty": 1
+        },
+        "7900415277802": {
+          "code": "7900415277802",
+          "name": "Shorts saia jeans azul LP 38",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 3723.6,
+      "total": 4166.6,
       "status": "open"
     }
   },
@@ -13565,5 +13571,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:36:29.471Z"
+  "savedAt": "2026-07-24T21:36:41.716Z"
 }
