@@ -6247,6 +6247,19 @@
       },
       "total": 853,
       "status": "waiting"
+    },
+    "c_1784915787114": {
+      "clientId": "c_1784915787114",
+      "items": {
+        "7900415026448": {
+          "code": "7900415026448",
+          "name": "Bolsa pequena preta com dourado LP",
+          "price": 597,
+          "qty": 1
+        }
+      },
+      "total": 597,
+      "status": "open"
     }
   },
   "closed": [
@@ -13282,5 +13295,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:56:27.116Z"
+  "savedAt": "2026-07-24T17:56:46.865Z"
 }
