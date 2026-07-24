@@ -6121,6 +6121,19 @@
       },
       "total": 12337.199999999997,
       "status": "waiting"
+    },
+    "c1779306442215": {
+      "clientId": "c1779306442215",
+      "items": {
+        "7908931949012": {
+          "code": "7908931949012",
+          "name": "Legging allure azul petróleo live M",
+          "price": 319.9,
+          "qty": 1
+        }
+      },
+      "total": 319.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -13156,5 +13169,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T16:46:57.796Z"
+  "savedAt": "2026-07-24T16:47:02.408Z"
 }
