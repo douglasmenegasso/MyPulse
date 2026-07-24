@@ -5291,12 +5291,6 @@
           "price": 179.9,
           "qty": 1
         },
-        "7890171636114": {
-          "code": "7890171636114",
-          "name": "Regata ajuste lateral marrom AG P",
-          "price": 198,
-          "qty": 1
-        },
         "7890171622056": {
           "code": "7890171622056",
           "name": "Regata cropped azul AG M",
@@ -5532,7 +5526,7 @@
           "qty": 1
         }
       },
-      "total": 12656.199999999999,
+      "total": 12458.199999999999,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13400,6 +13394,13 @@
         "price": 699,
         "qty": 1,
         "lastAt": "2026-07-24T19:55:31.202Z"
+      },
+      "7890171636114": {
+        "code": "7890171636114",
+        "name": "Regata ajuste lateral marrom AG P",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:55:44.740Z"
       }
     }
   },
@@ -13408,5 +13409,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:55:31.204Z"
+  "savedAt": "2026-07-24T19:55:44.742Z"
 }
