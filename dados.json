@@ -5195,9 +5195,15 @@
           "name": "Faixa de cabelo bege lp",
           "price": 77,
           "qty": 1
+        },
+        "7900415110925": {
+          "code": "7900415110925",
+          "name": "Mala de mão preta com off LP",
+          "price": 897,
+          "qty": 1
         }
       },
-      "total": 231,
+      "total": 1128,
       "status": "open"
     },
     "c_1784657638327": {
@@ -13211,5 +13217,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T16:57:46.290Z"
+  "savedAt": "2026-07-24T16:58:13.452Z"
 }
