@@ -5387,12 +5387,6 @@
           "price": 399,
           "qty": 1
         },
-        "7909746645861": {
-          "code": "7909746645861",
-          "name": "Top dash cruzado azul com branco DT M",
-          "price": 379,
-          "qty": 1
-        },
         "7890171663479": {
           "code": "7890171663479",
           "name": "Legging elástico lilás AG P",
@@ -5526,7 +5520,7 @@
           "qty": 1
         }
       },
-      "total": 12458.199999999999,
+      "total": 12079.199999999999,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13401,6 +13395,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-24T19:55:44.740Z"
+      },
+      "7909746645861": {
+        "code": "7909746645861",
+        "name": "Top dash cruzado azul com branco DT M",
+        "price": 379,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:55:52.240Z"
       }
     }
   },
@@ -13409,5 +13410,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:55:44.742Z"
+  "savedAt": "2026-07-24T19:55:52.242Z"
 }
