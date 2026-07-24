@@ -5279,12 +5279,6 @@
     "c_1784657638327": {
       "clientId": "c_1784657638327",
       "items": {
-        "7891186357520": {
-          "code": "7891186357520",
-          "name": "Calcinha fio preto lupo M",
-          "price": 49.9,
-          "qty": 2
-        },
         "7900373056259": {
           "code": "7900373056259",
           "name": "Meia cano médio branco com verde lupo 34 a 39",
@@ -5580,7 +5574,7 @@
           "qty": 1
         }
       },
-      "total": 14204.399999999996,
+      "total": 14104.599999999997,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13392,6 +13386,13 @@
         "price": 497,
         "qty": 1,
         "lastAt": "2026-07-24T19:54:41.543Z"
+      },
+      "7891186357520": {
+        "code": "7891186357520",
+        "name": "Calcinha fio preto lupo M",
+        "price": 49.9,
+        "qty": 2,
+        "lastAt": "2026-07-24T19:54:44.356Z"
       }
     }
   },
@@ -13400,5 +13401,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:54:41.545Z"
+  "savedAt": "2026-07-24T19:54:45.643Z"
 }
