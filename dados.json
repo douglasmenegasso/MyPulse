@@ -6285,9 +6285,15 @@
           "name": "Shorts moletom marrom LP P",
           "price": 297,
           "qty": 1
+        },
+        "7900292947577": {
+          "code": "7900292947577",
+          "name": "Regata canelada preta logo couro LP P",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 1939,
+      "total": 2182,
       "status": "open"
     }
   },
@@ -13324,5 +13330,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T17:59:46.372Z"
+  "savedAt": "2026-07-24T17:59:48.835Z"
 }
