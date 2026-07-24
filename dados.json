@@ -5381,12 +5381,6 @@
           "price": 219,
           "qty": 1
         },
-        "7901072427470": {
-          "code": "7901072427470",
-          "name": "Macaquinho marrom live live M",
-          "price": 399.9,
-          "qty": 1
-        },
         "7901072465014": {
           "code": "7901072465014",
           "name": "Macaquinho allure fúcsia live M",
@@ -5466,7 +5460,7 @@
           "qty": 1
         }
       },
-      "total": 10012.000000000002,
+      "total": 9612.100000000002,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13411,6 +13405,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-24T19:57:28.523Z"
+      },
+      "7901072427470": {
+        "code": "7901072427470",
+        "name": "Macaquinho marrom live live M",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:57:35.011Z"
       }
     }
   },
@@ -13419,5 +13420,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:57:31.052Z"
+  "savedAt": "2026-07-24T19:57:35.013Z"
 }
