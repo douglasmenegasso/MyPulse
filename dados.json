@@ -5902,9 +5902,15 @@
           "name": "Calça balloon de moletom rosa LP P",
           "price": 553,
           "qty": 1
+        },
+        "7890171628126": {
+          "code": "7890171628126",
+          "name": "Regata canelada rosa AG M",
+          "price": 159,
+          "qty": 1
         }
       },
-      "total": 3564.6,
+      "total": 3723.6,
       "status": "open"
     }
   },
@@ -13559,5 +13565,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:36:19.880Z"
+  "savedAt": "2026-07-24T21:36:29.471Z"
 }
