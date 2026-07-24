@@ -5191,9 +5191,15 @@
           "name": "Jaqueta flex corta v vento bege DT M",
           "price": 699,
           "qty": 1
+        },
+        "7901128619071": {
+          "code": "7901128619071",
+          "name": "Jaqueta marrom live symbol g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 1148,
+      "total": 1647.9,
       "status": "open"
     },
     "c_1784049002709": {
@@ -13385,5 +13391,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:29:50.209Z"
+  "savedAt": "2026-07-24T19:29:59.516Z"
 }
