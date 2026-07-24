@@ -5345,12 +5345,6 @@
           "price": 419,
           "qty": 1
         },
-        "7909746618919": {
-          "code": "7909746618919",
-          "name": "Top curve uva listra branca vivame M ",
-          "price": 259,
-          "qty": 1
-        },
         "7909746622770": {
           "code": "7909746622770",
           "name": "Jaqueta sprint azul claro DT M",
@@ -5442,7 +5436,7 @@
           "qty": 1
         }
       },
-      "total": 8796.100000000002,
+      "total": 8537.100000000002,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13415,6 +13409,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-24T19:58:03.978Z"
+      },
+      "7909746618919": {
+        "code": "7909746618919",
+        "name": "Top curve uva listra branca vivame M ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:58:10.363Z"
       }
     }
   },
@@ -13423,5 +13424,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:58:03.980Z"
+  "savedAt": "2026-07-24T19:58:10.364Z"
 }
