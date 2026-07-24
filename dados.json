@@ -6003,9 +6003,15 @@
           "name": "Top curve vermelho live G",
           "price": 189.9,
           "qty": 1
+        },
+        "7901128629841": {
+          "code": "7901128629841",
+          "name": "Camiseta icon branco live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 8276.699999999997,
+      "total": 8476.599999999997,
       "status": "open"
     }
   },
@@ -13669,5 +13675,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:41:17.798Z"
+  "savedAt": "2026-07-24T21:41:24.036Z"
 }
