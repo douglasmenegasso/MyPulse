@@ -5064,12 +5064,6 @@
           "price": 689,
           "qty": 1
         },
-        "7900292935932": {
-          "code": "7900292935932",
-          "name": "Moletom marrom bordado off Lp P",
-          "price": 587,
-          "qty": 1
-        },
         "7909746482176": {
           "code": "7909746482176",
           "name": "Regata canelada off DT g",
@@ -5107,7 +5101,7 @@
           "qty": 1
         }
       },
-      "total": 4803.2,
+      "total": 4216.2,
       "status": "open"
     },
     "c_1783458513348": {
@@ -7468,6 +7462,13 @@
         "price": 549.9,
         "qty": 1,
         "lastAt": "2026-07-24T20:16:07.216Z"
+      },
+      "7900292935932": {
+        "code": "7900292935932",
+        "name": "Moletom marrom bordado off Lp P",
+        "price": 587,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:16:13.967Z"
       }
     },
     "c_1779389649186": {
@@ -13474,5 +13475,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:16:07.218Z"
+  "savedAt": "2026-07-24T20:16:13.968Z"
 }
