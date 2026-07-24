@@ -6297,9 +6297,15 @@
           "name": "Calça sarja baggy caramelo LP 36",
           "price": 673,
           "qty": 1
+        },
+        "7900292841448": {
+          "code": "7900292841448",
+          "name": "Regata off com bege lp P",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 2855,
+      "total": 3118,
       "status": "open"
     }
   },
@@ -13336,5 +13342,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T18:00:38.685Z"
+  "savedAt": "2026-07-24T18:00:50.690Z"
 }
