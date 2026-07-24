@@ -4584,6 +4584,11 @@
       "code": "7900292947577",
       "name": "Regata canelada preta logo couro LP P",
       "price": 243
+    },
+    "7900292900619": {
+      "code": "7900292900619",
+      "name": "Vestido com zíper mídi marrom LP P",
+      "price": 493
     }
   },
   "clients": {
@@ -13583,5 +13588,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:37:10.695Z"
+  "savedAt": "2026-07-24T21:37:44.991Z"
 }
