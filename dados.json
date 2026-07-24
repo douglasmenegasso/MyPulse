@@ -5701,12 +5701,6 @@
           "price": 333,
           "qty": 1
         },
-        "7909746646523": {
-          "code": "7909746646523",
-          "name": "Jaqueta flex corta vento bege DT P",
-          "price": 699,
-          "qty": 1
-        },
         "7900415301538": {
           "code": "7900415301538",
           "name": "Calça sarja baggy rosa LP 34",
@@ -5888,7 +5882,7 @@
           "qty": 1
         }
       },
-      "total": 12938.199999999997,
+      "total": 12239.199999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13436,6 +13430,13 @@
         "price": 589,
         "qty": 1,
         "lastAt": "2026-07-24T20:08:33.018Z"
+      },
+      "7909746646523": {
+        "code": "7909746646523",
+        "name": "Jaqueta flex corta vento bege DT P",
+        "price": 699,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:08:37.191Z"
       }
     }
   },
@@ -13444,5 +13445,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:08:33.019Z"
+  "savedAt": "2026-07-24T20:08:37.193Z"
 }
