@@ -5743,12 +5743,6 @@
           "price": 263,
           "qty": 1
         },
-        "7900415361037": {
-          "code": "7900415361037",
-          "name": "Regata canelada marrom bordado azul Lp P",
-          "price": 263,
-          "qty": 1
-        },
         "7900415074401": {
           "code": "7900415074401",
           "name": "T-shirt cropped marrom escrita off LP P",
@@ -5876,7 +5870,7 @@
           "qty": 1
         }
       },
-      "total": 11942.199999999997,
+      "total": 11679.199999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -13438,6 +13432,13 @@
         "price": 297,
         "qty": 1,
         "lastAt": "2026-07-24T20:08:44.103Z"
+      },
+      "7900415361037": {
+        "code": "7900415361037",
+        "name": "Regata canelada marrom bordado azul Lp P",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:08:50.253Z"
       }
     }
   },
@@ -13446,5 +13447,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:08:44.105Z"
+  "savedAt": "2026-07-24T20:08:50.254Z"
 }
