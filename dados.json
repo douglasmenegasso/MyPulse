@@ -5076,12 +5076,6 @@
           "price": 229,
           "qty": 1
         },
-        "7901072469722": {
-          "code": "7901072469722",
-          "name": "Jaqueta bomber marrom live M",
-          "price": 549.9,
-          "qty": 1
-        },
         "7901072485852": {
           "code": "7901072485852",
           "name": "Legging tex marrom live g",
@@ -5113,7 +5107,7 @@
           "qty": 1
         }
       },
-      "total": 5353.099999999999,
+      "total": 4803.2,
       "status": "open"
     },
     "c_1783458513348": {
@@ -7467,6 +7461,13 @@
         "price": 259.9,
         "qty": 1,
         "lastAt": "2026-07-24T20:15:58.268Z"
+      },
+      "7901072469722": {
+        "code": "7901072469722",
+        "name": "Jaqueta bomber marrom live M",
+        "price": 549.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:16:07.216Z"
       }
     },
     "c_1779389649186": {
@@ -13473,5 +13474,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:15:58.270Z"
+  "savedAt": "2026-07-24T20:16:07.218Z"
 }
