@@ -5279,12 +5279,6 @@
     "c_1784657638327": {
       "clientId": "c_1784657638327",
       "items": {
-        "7900373056259": {
-          "code": "7900373056259",
-          "name": "Meia cano médio branco com verde lupo 34 a 39",
-          "price": 19.9,
-          "qty": 1
-        },
         "7909392830475": {
           "code": "7909392830475",
           "name": "Meia Sport preto lupo 37 a 40",
@@ -5574,7 +5568,7 @@
           "qty": 1
         }
       },
-      "total": 14104.599999999997,
+      "total": 14084.699999999997,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13393,6 +13387,13 @@
         "price": 49.9,
         "qty": 2,
         "lastAt": "2026-07-24T19:54:44.356Z"
+      },
+      "7900373056259": {
+        "code": "7900373056259",
+        "name": "Meia cano médio branco com verde lupo 34 a 39",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:54:51.461Z"
       }
     }
   },
@@ -13401,5 +13402,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:54:45.643Z"
+  "savedAt": "2026-07-24T19:54:51.462Z"
 }
