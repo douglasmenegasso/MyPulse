@@ -5961,9 +5961,15 @@
           "name": "Legging dash preto DT M",
           "price": 399,
           "qty": 1
+        },
+        "7890171627273": {
+          "code": "7890171627273",
+          "name": "Top elástico preto AG g",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 6538.299999999999,
+      "total": 6757.299999999999,
       "status": "open"
     }
   },
@@ -13618,5 +13624,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:39:04.597Z"
+  "savedAt": "2026-07-24T21:39:27.039Z"
 }
