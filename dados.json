@@ -5701,12 +5701,6 @@
           "price": 297,
           "qty": 1
         },
-        "7900415302955": {
-          "code": "7900415302955",
-          "name": "T-shirt branca estampa azul escuro LP P",
-          "price": 243,
-          "qty": 1
-        },
         "7901072486439": {
           "code": "7901072486439",
           "name": "Top tex marrom live M",
@@ -5744,7 +5738,7 @@
           "qty": 1
         }
       },
-      "total": 3929.5999999999985,
+      "total": 3686.5999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -13460,6 +13454,13 @@
         "price": 333,
         "qty": 1,
         "lastAt": "2026-07-24T20:11:30.775Z"
+      },
+      "7900415302955": {
+        "code": "7900415302955",
+        "name": "T-shirt branca estampa azul escuro LP P",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-24T20:11:38.701Z"
       }
     }
   },
@@ -13468,5 +13469,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T20:11:30.777Z"
+  "savedAt": "2026-07-24T20:11:38.703Z"
 }
