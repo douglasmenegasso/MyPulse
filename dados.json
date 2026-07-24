@@ -5991,9 +5991,15 @@
           "name": "Camiseta icon rosa live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908931961137": {
+          "code": "7908931961137",
+          "name": "Legging com bolso vermelho live g",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 7766.899999999998,
+      "total": 8086.799999999997,
       "status": "open"
     }
   },
@@ -13657,5 +13663,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T21:40:57.596Z"
+  "savedAt": "2026-07-24T21:41:11.200Z"
 }
