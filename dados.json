@@ -5447,12 +5447,6 @@
           "price": 219,
           "qty": 1
         },
-        "7909746620004": {
-          "code": "7909746620004",
-          "name": "Top sprint azul claro DT P",
-          "price": 299,
-          "qty": 1
-        },
         "7890171643709": {
           "code": "7890171643709",
           "name": "Top elástico preto AG P",
@@ -5460,7 +5454,7 @@
           "qty": 1
         }
       },
-      "total": 9612.100000000002,
+      "total": 9313.100000000002,
       "status": "open"
     },
     "c_1784670696673": {
@@ -13412,6 +13406,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-24T19:57:35.011Z"
+      },
+      "7909746620004": {
+        "code": "7909746620004",
+        "name": "Top sprint azul claro DT P",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-24T19:57:42.651Z"
       }
     }
   },
@@ -13420,5 +13421,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-24T19:57:35.013Z"
+  "savedAt": "2026-07-24T19:57:42.653Z"
 }
