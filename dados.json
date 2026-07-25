@@ -4619,6 +4619,11 @@
       "code": "7900358022248",
       "name": "Camiseta poque off CCM M",
       "price": 219
+    },
+    "7890171656037": {
+      "code": "7890171656037",
+      "name": "Regata de tule com franzido preto AG g",
+      "price": 219
     }
   },
   "clients": {
@@ -13913,5 +13918,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:27:11.739Z"
+  "savedAt": "2026-07-25T15:27:30.286Z"
 }
