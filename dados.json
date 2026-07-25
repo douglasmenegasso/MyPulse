@@ -6195,9 +6195,15 @@
           "name": "Calça reta com franzido preto AG M",
           "price": 399,
           "qty": 1
+        },
+        "7908011244655": {
+          "code": "7908011244655",
+          "name": "Top curve preto live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 4000.6000000000004,
+      "total": 4190.5,
       "status": "open"
     }
   },
@@ -13907,5 +13913,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:26:47.750Z"
+  "savedAt": "2026-07-25T15:27:11.739Z"
 }
