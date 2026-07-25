@@ -5663,43 +5663,6 @@
       "total": 10440.499999999993,
       "status": "waiting"
     },
-    "c_1784745694787": {
-      "clientId": "c_1784745694787",
-      "items": {
-        "7900292900626": {
-          "code": "7900292900626",
-          "name": "Vestido canelado marrom com zíper Lp pp",
-          "price": 493,
-          "qty": 1
-        },
-        "7900415122454": {
-          "code": "7900415122454",
-          "name": "Regata canelada verde Lp P",
-          "price": 297,
-          "qty": 1
-        },
-        "7901128602981": {
-          "code": "7901128602981",
-          "name": "Top nadador marrom live symbol G",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7901128603186": {
-          "code": "7901128603186",
-          "name": "Legging marrom live symbol G",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7900292531325": {
-          "code": "7900292531325",
-          "name": "Shoulder metalesse preta detalhe dourado Lp",
-          "price": 693,
-          "qty": 1
-        }
-      },
-      "total": 2052.7999999999984,
-      "status": "waiting"
-    },
     "c1779306442215": {
       "clientId": "c1779306442215",
       "items": {
@@ -6151,6 +6114,45 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784745694787",
+      "clientName": "Barbara Ana maria",
+      "clientPhone": "",
+      "items": {
+        "7900292900626": {
+          "code": "7900292900626",
+          "name": "Vestido canelado marrom com zíper Lp pp",
+          "price": 493,
+          "qty": 1
+        },
+        "7900415122454": {
+          "code": "7900415122454",
+          "name": "Regata canelada verde Lp P",
+          "price": 297,
+          "qty": 1
+        },
+        "7901128602981": {
+          "code": "7901128602981",
+          "name": "Top nadador marrom live symbol G",
+          "price": 239.9,
+          "qty": 1
+        },
+        "7901128603186": {
+          "code": "7901128603186",
+          "name": "Legging marrom live symbol G",
+          "price": 329.9,
+          "qty": 1
+        },
+        "7900292531325": {
+          "code": "7900292531325",
+          "name": "Shoulder metalesse preta detalhe dourado Lp",
+          "price": 693,
+          "qty": 1
+        }
+      },
+      "total": 2052.7999999999984,
+      "closedAt": "2026-07-25T14:45:48.666Z"
+    },
     {
       "clientId": "c_1784657638327",
       "clientName": "Letícia Gianice",
@@ -13817,5 +13819,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T14:45:44.190Z"
+  "savedAt": "2026-07-25T14:45:48.667Z"
 }
