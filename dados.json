@@ -6125,9 +6125,15 @@
           "name": "Calça malha fria off com preto DT M",
           "price": 589,
           "qty": 1
+        },
+        "7909746524876": {
+          "code": "7909746524876",
+          "name": "Regata mistral tule off com preto DT M",
+          "price": 239,
+          "qty": 1
         }
       },
-      "total": 589,
+      "total": 828,
       "status": "open"
     }
   },
@@ -13837,5 +13843,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:22:29.062Z"
+  "savedAt": "2026-07-25T15:22:37.337Z"
 }
