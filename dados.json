@@ -6218,9 +6218,15 @@
           "name": "Legging shine marrom AG M",
           "price": 298,
           "qty": 1
+        },
+        "7890171652619": {
+          "code": "7890171652619",
+          "name": "Top shine brilhoso marrom AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 4707.5,
+      "total": 4905.5,
       "status": "open"
     }
   },
@@ -13930,5 +13936,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:28:05.918Z"
+  "savedAt": "2026-07-25T15:28:13.386Z"
 }
