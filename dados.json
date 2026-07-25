@@ -6212,9 +6212,15 @@
           "name": "Regata de tule com franzido preto AG g",
           "price": 219,
           "qty": 1
+        },
+        "7890171652916": {
+          "code": "7890171652916",
+          "name": "Legging shine marrom AG M",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 4409.5,
+      "total": 4707.5,
       "status": "open"
     }
   },
@@ -13924,5 +13930,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:27:58.071Z"
+  "savedAt": "2026-07-25T15:28:05.918Z"
 }
