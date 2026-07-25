@@ -6142,9 +6142,15 @@
           "name": "Calça sarja lilás Colcci 38",
           "price": 377,
           "qty": 1
+        },
+        "7900358022248": {
+          "code": "7900358022248",
+          "name": "Camiseta poque off CCM M",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 1205,
+      "total": 1424,
       "status": "open"
     }
   },
@@ -13854,5 +13860,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:23:17.338Z"
+  "savedAt": "2026-07-25T15:23:20.768Z"
 }
