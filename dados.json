@@ -45,6 +45,11 @@
       "name": "Jaqueta máxi preto live M",
       "price": 398
     },
+    "9496": {
+      "code": "9496",
+      "name": "Calça moletom preta live M",
+      "price": 349.9
+    },
     "79094546": {
       "code": "79094546",
       "name": "Jaqueta marrom live symbol g",
@@ -13860,5 +13865,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:23:20.768Z"
+  "savedAt": "2026-07-25T15:24:19.642Z"
 }
