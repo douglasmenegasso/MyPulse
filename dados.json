@@ -6189,9 +6189,15 @@
           "name": "Top curve verde DT M",
           "price": 239,
           "qty": 1
+        },
+        "7890171654064": {
+          "code": "7890171654064",
+          "name": "Calça reta com franzido preto AG M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 3601.6000000000004,
+      "total": 4000.6000000000004,
       "status": "open"
     }
   },
@@ -13901,5 +13907,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-25T15:26:08.207Z"
+  "savedAt": "2026-07-25T15:26:47.750Z"
 }
