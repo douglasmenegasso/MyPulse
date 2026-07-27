@@ -5844,9 +5844,15 @@
           "name": "Legging eterna cos liso rosa AG P",
           "price": 298,
           "qty": 1
+        },
+        "7908931956331": {
+          "code": "7908931956331",
+          "name": "Legging jacquard pink live M",
+          "price": 349.9,
+          "qty": 1
         }
       },
-      "total": 6893.699999999998,
+      "total": 7243.599999999998,
       "status": "open"
     },
     "c_1784912723786": {
@@ -14056,5 +14062,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T17:22:38.640Z"
+  "savedAt": "2026-07-27T17:22:44.048Z"
 }
