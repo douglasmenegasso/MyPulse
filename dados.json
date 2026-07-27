@@ -6220,9 +6220,15 @@
           "name": "Blusão texturizado verde live P",
           "price": 499.9,
           "qty": 1
+        },
+        "7908990981442": {
+          "code": "7908990981442",
+          "name": "Legging hydefit verde live g",
+          "price": 299.9,
+          "qty": 1
         }
       },
-      "total": 10096.699999999993,
+      "total": 10396.599999999993,
       "status": "open"
     }
   },
@@ -14437,5 +14443,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:04:01.723Z"
+  "savedAt": "2026-07-27T20:04:06.047Z"
 }
