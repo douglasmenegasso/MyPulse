@@ -5363,12 +5363,6 @@
           "price": 439.9,
           "qty": 1
         },
-        "7908754514305": {
-          "code": "7908754514305",
-          "name": "Legging icon preto live g",
-          "price": 319.9,
-          "qty": 1
-        },
         "7901072434171": {
           "code": "7901072434171",
           "name": "Camiseta icon bege live M",
@@ -5376,7 +5370,7 @@
           "qty": 1
         }
       },
-      "total": 2578.999999999999,
+      "total": 2259.099999999999,
       "status": "open"
     },
     "c1779306442215": {
@@ -14187,6 +14181,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:42:56.118Z"
+      },
+      "7908754514305": {
+        "code": "7908754514305",
+        "name": "Legging icon preto live g",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:43:02.317Z"
       }
     }
   },
@@ -14195,5 +14196,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:42:56.121Z"
+  "savedAt": "2026-07-27T18:43:02.318Z"
 }
