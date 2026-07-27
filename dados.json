@@ -6172,9 +6172,15 @@
           "name": "Legging verde militar live live g",
           "price": 329.9,
           "qty": 1
+        },
+        "7901072402101": {
+          "code": "7901072402101",
+          "name": "Regata pima verde live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 8177.199999999995,
+      "total": 8427.099999999995,
       "status": "open"
     }
   },
@@ -14389,5 +14395,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:45:22.662Z"
+  "savedAt": "2026-07-27T19:45:29.964Z"
 }
