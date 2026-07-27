@@ -5423,12 +5423,6 @@
           "price": 599.9,
           "qty": 1
         },
-        "7900415030421": {
-          "code": "7900415030421",
-          "name": "Jaqueta preta com elástico Lp M",
-          "price": 853,
-          "qty": 1
-        },
         "7901128619088": {
           "code": "7901128619088",
           "name": "Jaqueta marrom live symbol M",
@@ -5448,7 +5442,7 @@
           "qty": 1
         }
       },
-      "total": 9329.4,
+      "total": 8476.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13384,6 +13378,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-27T18:29:05.951Z"
+      },
+      "7900415030421": {
+        "code": "7900415030421",
+        "name": "Jaqueta preta com elástico Lp M",
+        "price": 853,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:29:13.758Z"
       }
     },
     "c_1784221698831": {
@@ -14148,5 +14149,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:29:11.087Z"
+  "savedAt": "2026-07-27T18:29:13.760Z"
 }
