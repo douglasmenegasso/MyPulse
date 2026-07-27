@@ -5327,12 +5327,6 @@
           "price": 259.9,
           "qty": 1
         },
-        "7900292753918": {
-          "code": "7900292753918",
-          "name": "Moletom ursinho bege LP M",
-          "price": 373,
-          "qty": 1
-        },
         "7901072402293": {
           "code": "7901072402293",
           "name": "Calça reta vermelha live P",
@@ -5418,7 +5412,7 @@
           "qty": 1
         }
       },
-      "total": 7164.4,
+      "total": 6791.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13389,6 +13383,13 @@
         "price": 563,
         "qty": 1,
         "lastAt": "2026-07-27T18:29:47.479Z"
+      },
+      "7900292753918": {
+        "code": "7900292753918",
+        "name": "Moletom ursinho bege LP M",
+        "price": 373,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:29:59.432Z"
       }
     },
     "c_1784221698831": {
@@ -14153,5 +14154,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:29:47.480Z"
+  "savedAt": "2026-07-27T18:29:59.434Z"
 }
