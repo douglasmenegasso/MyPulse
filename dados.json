@@ -5312,49 +5312,6 @@
       "total": 937.8,
       "status": "waiting"
     },
-    "c_1779210547825": {
-      "clientId": "c_1779210547825",
-      "items": {
-        "7900415284275": {
-          "code": "7900415284275",
-          "name": "Faixa de cabelo cinza LP",
-          "price": 77,
-          "qty": 1
-        },
-        "7900415284299": {
-          "code": "7900415284299",
-          "name": "Faixa de cabelo marrom LP",
-          "price": 77,
-          "qty": 1
-        },
-        "7900415284282": {
-          "code": "7900415284282",
-          "name": "Faixa de cabelo bege lp",
-          "price": 77,
-          "qty": 1
-        },
-        "7900415110925": {
-          "code": "7900415110925",
-          "name": "Mala de mão preta com off LP",
-          "price": 897,
-          "qty": 1
-        },
-        "7900415031541": {
-          "code": "7900415031541",
-          "name": "Lancheira térmica preta com off LP",
-          "price": 393,
-          "qty": 1
-        },
-        "7900415031251": {
-          "code": "7900415031251",
-          "name": "Bolsa preta fecho easy espelho LP",
-          "price": 853,
-          "qty": 1
-        }
-      },
-      "total": 2374,
-      "status": "waiting"
-    },
     "c1779306442215": {
       "clientId": "c1779306442215",
       "items": {
@@ -6279,6 +6236,51 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779210547825",
+      "clientName": "July",
+      "clientPhone": "",
+      "items": {
+        "7900415284275": {
+          "code": "7900415284275",
+          "name": "Faixa de cabelo cinza LP",
+          "price": 77,
+          "qty": 1
+        },
+        "7900415284299": {
+          "code": "7900415284299",
+          "name": "Faixa de cabelo marrom LP",
+          "price": 77,
+          "qty": 1
+        },
+        "7900415284282": {
+          "code": "7900415284282",
+          "name": "Faixa de cabelo bege lp",
+          "price": 77,
+          "qty": 1
+        },
+        "7900415110925": {
+          "code": "7900415110925",
+          "name": "Mala de mão preta com off LP",
+          "price": 897,
+          "qty": 1
+        },
+        "7900415031541": {
+          "code": "7900415031541",
+          "name": "Lancheira térmica preta com off LP",
+          "price": 393,
+          "qty": 1
+        },
+        "7900415031251": {
+          "code": "7900415031251",
+          "name": "Bolsa preta fecho easy espelho LP",
+          "price": 853,
+          "qty": 1
+        }
+      },
+      "total": 2374,
+      "closedAt": "2026-07-27T22:00:37.705Z"
+    },
     {
       "clientId": "c_1779214900706",
       "clientName": "Dinley",
@@ -14524,5 +14526,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T22:00:33.600Z"
+  "savedAt": "2026-07-27T22:00:37.707Z"
 }
