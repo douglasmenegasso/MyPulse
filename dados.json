@@ -5244,7 +5244,7 @@
           "code": "7900292753918",
           "name": "Moletom ursinho bege LP M",
           "price": 373,
-          "qty": 1
+          "qty": 2
         },
         "7900415002688": {
           "code": "7900415002688",
@@ -5253,7 +5253,7 @@
           "qty": 1
         }
       },
-      "total": 3833.7000000000003,
+      "total": 4206.700000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -14213,5 +14213,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:55:27.023Z"
+  "savedAt": "2026-07-27T18:55:51.183Z"
 }
