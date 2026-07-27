@@ -5327,12 +5327,6 @@
           "price": 39.9,
           "qty": 2
         },
-        "7909392821831": {
-          "code": "7909392821831",
-          "name": "Meia cano médio cinza lupo 36 a 39",
-          "price": 16.9,
-          "qty": 1
-        },
         "7909392821824": {
           "code": "7909392821824",
           "name": "Meia cano médio branco lupo 36 a 39",
@@ -5562,7 +5556,7 @@
           "qty": 1
         }
       },
-      "total": 10440.499999999993,
+      "total": 10423.599999999993,
       "status": "open"
     },
     "c1779306442215": {
@@ -14155,6 +14149,15 @@
         "qty": 1,
         "lastAt": "2026-07-27T18:15:43.415Z"
       }
+    },
+    "c_1784742777976": {
+      "7909392821831": {
+        "code": "7909392821831",
+        "name": "Meia cano médio cinza lupo 36 a 39",
+        "price": 16.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:36:24.230Z"
+      }
     }
   },
   "security": {
@@ -14162,5 +14165,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:36:18.088Z"
+  "savedAt": "2026-07-27T18:36:24.232Z"
 }
