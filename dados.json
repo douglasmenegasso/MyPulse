@@ -5781,9 +5781,15 @@
           "name": "Top Sport duplo marrom com elástico LP M",
           "price": 333,
           "qty": 1
+        },
+        "7908990975403": {
+          "code": "7908990975403",
+          "name": "Camiseta cropped laranja live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 4898.2,
+      "total": 5098.099999999999,
       "status": "open"
     },
     "c_1784912723786": {
@@ -13993,5 +13999,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T17:19:33.377Z"
+  "savedAt": "2026-07-27T17:19:37.817Z"
 }
