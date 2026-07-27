@@ -6209,9 +6209,15 @@
           "name": "Macaquinho marrom live live M",
           "price": 399.9,
           "qty": 1
+        },
+        "7908990960058": {
+          "code": "7908990960058",
+          "name": "Blusão texturizado verde live P",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 9596.799999999994,
+      "total": 10096.699999999993,
       "status": "open"
     }
   },
@@ -14426,5 +14432,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:03:14.641Z"
+  "savedAt": "2026-07-27T20:03:32.189Z"
 }
