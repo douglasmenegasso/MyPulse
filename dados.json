@@ -5125,15 +5125,8 @@
     },
     "41988948469": {
       "clientId": "41988948469",
-      "items": {
-        "7909746638184": {
-          "code": "7909746638184",
-          "name": "Vestido riviera off com preto DT P",
-          "price": 979,
-          "qty": 1
-        }
-      },
-      "total": 979,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "41991098260": {
@@ -11101,6 +11094,13 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-14T19:14:38.976Z"
+      },
+      "7909746638184": {
+        "code": "7909746638184",
+        "name": "Vestido riviera off com preto DT P",
+        "price": 979,
+        "qty": 1,
+        "lastAt": "2026-07-27T22:00:23.429Z"
       }
     },
     "c_1783543770765": {
@@ -14522,5 +14522,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T22:00:22.808Z"
+  "savedAt": "2026-07-27T22:00:26.271Z"
 }
