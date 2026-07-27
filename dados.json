@@ -5245,9 +5245,15 @@
           "name": "Moletom ursinho bege LP M",
           "price": 373,
           "qty": 1
+        },
+        "7900415002688": {
+          "code": "7900415002688",
+          "name": "Calça wide leg marrom LP M",
+          "price": 563,
+          "qty": 1
         }
       },
-      "total": 3270.7000000000003,
+      "total": 3833.7000000000003,
       "status": "open"
     },
     "c_1784049002709": {
@@ -14207,5 +14213,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:55:15.173Z"
+  "savedAt": "2026-07-27T18:55:27.023Z"
 }
