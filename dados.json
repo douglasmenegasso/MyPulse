@@ -6034,9 +6034,15 @@
           "name": "T-shirt cropped rosa AG M",
           "price": 198,
           "qty": 1
+        },
+        "7890171663462": {
+          "code": "7890171663462",
+          "name": "Legging elástico lilás AG M",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 1297.4,
+      "total": 1666.4,
       "status": "open"
     }
   },
@@ -14251,5 +14257,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:37:56.632Z"
+  "savedAt": "2026-07-27T19:38:14.901Z"
 }
