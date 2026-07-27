@@ -6112,9 +6112,15 @@
           "name": "Top curve preto live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7890171656037": {
+          "code": "7890171656037",
+          "name": "Regata de tule com franzido preto AG g",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 5529.0999999999985,
+      "total": 5748.0999999999985,
       "status": "open"
     }
   },
@@ -14329,5 +14335,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:41:02.943Z"
+  "savedAt": "2026-07-27T19:41:16.435Z"
 }
