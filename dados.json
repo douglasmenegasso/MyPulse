@@ -5733,9 +5733,15 @@
           "name": "T-shirt off com detalhes marrom AG M",
           "price": 259,
           "qty": 1
+        },
+        "7890171645659": {
+          "code": "7890171645659",
+          "name": "Legging canelada brilhosa marrom AG P",
+          "price": 319,
+          "qty": 1
         }
       },
-      "total": 2438.3,
+      "total": 2757.3,
       "status": "open"
     },
     "c_1784912723786": {
@@ -13945,5 +13951,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T17:17:44.745Z"
+  "savedAt": "2026-07-27T17:18:00.256Z"
 }
