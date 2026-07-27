@@ -5315,12 +5315,6 @@
     "c_1784742777976": {
       "clientId": "c_1784742777976",
       "items": {
-        "7890171643617": {
-          "code": "7890171643617",
-          "name": "Garrafa térmica azul AG",
-          "price": 198,
-          "qty": 1
-        },
         "7909392494240": {
           "code": "7909392494240",
           "name": "Kit 3 meias Lupo 34 a 39",
@@ -5544,7 +5538,7 @@
           "qty": 1
         }
       },
-      "total": 10328.899999999994,
+      "total": 10130.899999999994,
       "status": "open"
     },
     "c1779306442215": {
@@ -14159,6 +14153,13 @@
         "price": 39.9,
         "qty": 2,
         "lastAt": "2026-07-27T18:36:45.694Z"
+      },
+      "7890171643617": {
+        "code": "7890171643617",
+        "name": "Garrafa térmica azul AG",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:36:55.851Z"
       }
     }
   },
@@ -14167,5 +14168,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:36:45.696Z"
+  "savedAt": "2026-07-27T18:36:55.853Z"
 }
