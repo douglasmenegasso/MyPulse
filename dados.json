@@ -6016,9 +6016,15 @@
           "name": "Blusão pose bege live P",
           "price": 399.9,
           "qty": 1
+        },
+        "7908931944727": {
+          "code": "7908931944727",
+          "name": "Legging neopren roxo malva live g",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 489.59999999999997,
+      "total": 849.5,
       "status": "open"
     }
   },
@@ -14233,5 +14239,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:37:23.250Z"
+  "savedAt": "2026-07-27T19:37:32.541Z"
 }
