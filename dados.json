@@ -5321,12 +5321,6 @@
           "price": 49.9,
           "qty": 1
         },
-        "7908990976226": {
-          "code": "7908990976226",
-          "name": "Top icon bordo live g",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908754537762": {
           "code": "7908754537762",
           "name": "Camiseta icon off live g",
@@ -5382,7 +5376,7 @@
           "qty": 1
         }
       },
-      "total": 2828.899999999999,
+      "total": 2578.999999999999,
       "status": "open"
     },
     "c1779306442215": {
@@ -14186,6 +14180,13 @@
         "price": 289,
         "qty": 1,
         "lastAt": "2026-07-27T18:42:15.465Z"
+      },
+      "7908990976226": {
+        "code": "7908990976226",
+        "name": "Top icon bordo live g",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:42:56.118Z"
       }
     }
   },
@@ -14194,5 +14195,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:42:16.755Z"
+  "savedAt": "2026-07-27T18:42:56.121Z"
 }
