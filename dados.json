@@ -5374,15 +5374,9 @@
           "name": "Calça texturizada verde live G",
           "price": 599.9,
           "qty": 1
-        },
-        "7900415286941": {
-          "code": "7900415286941",
-          "name": "T-shirt off com rosa LP g",
-          "price": 243,
-          "qty": 1
         }
       },
-      "total": 4834.800000000001,
+      "total": 4591.800000000001,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13388,6 +13382,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:30:49.933Z"
+      },
+      "7900415286941": {
+        "code": "7900415286941",
+        "name": "T-shirt off com rosa LP g",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:30:58.672Z"
       }
     },
     "c_1784221698831": {
@@ -14152,5 +14153,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:30:49.935Z"
+  "savedAt": "2026-07-27T18:30:58.674Z"
 }
