@@ -6118,9 +6118,15 @@
           "name": "Regata de tule com franzido preto AG g",
           "price": 219,
           "qty": 1
+        },
+        "7901128619088": {
+          "code": "7901128619088",
+          "name": "Jaqueta marrom live symbol M",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 5748.0999999999985,
+      "total": 6247.999999999998,
       "status": "open"
     }
   },
@@ -14335,5 +14341,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:41:19.456Z"
+  "savedAt": "2026-07-27T19:41:30.813Z"
 }
