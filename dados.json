@@ -5399,12 +5399,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7901128641720": {
-          "code": "7901128641720",
-          "name": "Regata icon pink live M",
-          "price": 189.9,
-          "qty": 1
-        },
         "7901072434171": {
           "code": "7901072434171",
           "name": "Camiseta icon bege live M",
@@ -5418,7 +5412,7 @@
           "qty": 1
         }
       },
-      "total": 4187.4,
+      "total": 3997.4999999999995,
       "status": "open"
     },
     "c1779306442215": {
@@ -14180,6 +14174,13 @@
         "price": 179.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:39:46.465Z"
+      },
+      "7901128641720": {
+        "code": "7901128641720",
+        "name": "Regata icon pink live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:39:53.747Z"
       }
     }
   },
@@ -14188,5 +14189,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:39:46.467Z"
+  "savedAt": "2026-07-27T18:39:53.748Z"
 }
