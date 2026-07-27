@@ -5296,9 +5296,15 @@
           "name": "Top tex marrom live M",
           "price": 279.9,
           "qty": 1
+        },
+        "014036259100": {
+          "code": "014036259100",
+          "name": "Calça canelada preta flare movimento P",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 639.8,
+      "total": 937.8,
       "status": "open"
     },
     "c_1779214900706": {
@@ -14491,5 +14497,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:23:17.317Z"
+  "savedAt": "2026-07-27T20:23:23.066Z"
 }
