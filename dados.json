@@ -6249,9 +6249,15 @@
           "name": "Legging canelada brilhosa marrom AG g",
           "price": 319,
           "qty": 1
+        },
+        "7908011244686": {
+          "code": "7908011244686",
+          "name": "Top curve branco live M",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 11582.499999999993,
+      "total": 11772.399999999992,
       "status": "open"
     }
   },
@@ -14466,5 +14472,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:05:34.255Z"
+  "savedAt": "2026-07-27T20:05:58.321Z"
 }
