@@ -5333,12 +5333,6 @@
           "price": 259.9,
           "qty": 1
         },
-        "7901072446501": {
-          "code": "7901072446501",
-          "name": "Regata icon rosa live g",
-          "price": 189.9,
-          "qty": 1
-        },
         "014035": {
           "code": "014035",
           "name": "Calça bruma bordo movimento P",
@@ -5358,7 +5352,7 @@
           "qty": 1
         }
       },
-      "total": 1649.2999999999988,
+      "total": 1459.3999999999987,
       "status": "open"
     },
     "c1779306442215": {
@@ -14190,6 +14184,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:43:46.808Z"
+      },
+      "7901072446501": {
+        "code": "7901072446501",
+        "name": "Regata icon rosa live g",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:43:51.491Z"
       }
     }
   },
@@ -14198,5 +14199,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:43:46.809Z"
+  "savedAt": "2026-07-27T18:43:53.585Z"
 }
