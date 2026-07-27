@@ -5345,12 +5345,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7901072402033": {
-          "code": "7901072402033",
-          "name": "Regata pima branca live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "7908931968358": {
           "code": "7908931968358",
           "name": "Camiseta V equilíbrio preta live g",
@@ -5400,7 +5394,7 @@
           "qty": 1
         }
       },
-      "total": 3557.6999999999994,
+      "total": 3307.7999999999993,
       "status": "open"
     },
     "c1779306442215": {
@@ -14183,6 +14177,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:40:08.347Z"
+      },
+      "7901072402033": {
+        "code": "7901072402033",
+        "name": "Regata pima branca live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:40:20.638Z"
       }
     }
   },
@@ -14191,5 +14192,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:40:11.826Z"
+  "savedAt": "2026-07-27T18:40:20.640Z"
 }
