@@ -5321,12 +5321,6 @@
           "price": 49.9,
           "qty": 1
         },
-        "7908011244587": {
-          "code": "7908011244587",
-          "name": "Top curve branco live G",
-          "price": 189.9,
-          "qty": 1
-        },
         "7890171632772": {
           "code": "7890171632772",
           "name": "Legging vinho símbolo AG M",
@@ -5394,7 +5388,7 @@
           "qty": 1
         }
       },
-      "total": 3307.7999999999993,
+      "total": 3117.899999999999,
       "status": "open"
     },
     "c1779306442215": {
@@ -14184,6 +14178,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:40:20.638Z"
+      },
+      "7908011244587": {
+        "code": "7908011244587",
+        "name": "Top curve branco live G",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:42:11.420Z"
       }
     }
   },
@@ -14192,5 +14193,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:42:09.913Z"
+  "savedAt": "2026-07-27T18:42:13.161Z"
 }
