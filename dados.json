@@ -4654,6 +4654,11 @@
       "code": "03403620243",
       "name": "Legging canelada preta MeC g",
       "price": 299
+    },
+    "7901072404990": {
+      "code": "7901072404990",
+      "name": "Top curve allure bege live M",
+      "price": 199.9
     }
   },
   "clients": {
@@ -14226,5 +14231,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:57:17.041Z"
+  "savedAt": "2026-07-27T18:57:43.540Z"
 }
