@@ -6015,12 +6015,6 @@
           "price": 219,
           "qty": 1
         },
-        "7890171652916": {
-          "code": "7890171652916",
-          "name": "Legging shine marrom AG M",
-          "price": 298,
-          "qty": 1
-        },
         "7890171617328": {
           "code": "7890171617328",
           "name": "T-shirt cropped rosa AG M",
@@ -6028,7 +6022,7 @@
           "qty": 1
         }
       },
-      "total": 4905.5,
+      "total": 4607.5,
       "status": "open"
     },
     "c_1785176035223": {
@@ -13997,6 +13991,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-27T17:11:21.339Z"
+      },
+      "7890171652916": {
+        "code": "7890171652916",
+        "name": "Legging shine marrom AG M",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-27T19:03:12.074Z"
       }
     },
     "c_1785176035223": {
@@ -14261,5 +14262,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:03:08.632Z"
+  "savedAt": "2026-07-27T19:03:12.076Z"
 }
