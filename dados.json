@@ -5296,15 +5296,9 @@
           "name": "Top tex marrom live M",
           "price": 279.9,
           "qty": 1
-        },
-        "03403620243": {
-          "code": "03403620243",
-          "name": "Legging canelada preta MeC g",
-          "price": 299,
-          "qty": 1
         }
       },
-      "total": 938.8,
+      "total": 639.8,
       "status": "open"
     },
     "c_1779214900706": {
@@ -12319,6 +12313,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-23T17:54:54.237Z"
+      },
+      "03403620243": {
+        "code": "03403620243",
+        "name": "Legging canelada preta MeC g",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-27T20:23:15.077Z"
       }
     },
     "c_1784237432107": {
@@ -14490,5 +14491,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:23:14.352Z"
+  "savedAt": "2026-07-27T20:23:17.317Z"
 }
