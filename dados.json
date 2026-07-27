@@ -5312,25 +5312,6 @@
       "total": 937.8,
       "status": "waiting"
     },
-    "c_1779214900706": {
-      "clientId": "c_1779214900706",
-      "items": {
-        "7900415348403": {
-          "code": "7900415348403",
-          "name": "Calça sarja baggy caramelo LP 38",
-          "price": 673,
-          "qty": 1
-        },
-        "7900292621446": {
-          "code": "7900292621446",
-          "name": "Regata canelada off alças marrom LP g",
-          "price": 233,
-          "qty": 1
-        }
-      },
-      "total": 906,
-      "status": "waiting"
-    },
     "c_1779210547825": {
       "clientId": "c_1779210547825",
       "items": {
@@ -6298,6 +6279,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779214900706",
+      "clientName": "Dinley",
+      "clientPhone": "",
+      "items": {
+        "7900415348403": {
+          "code": "7900415348403",
+          "name": "Calça sarja baggy caramelo LP 38",
+          "price": 673,
+          "qty": 1
+        },
+        "7900292621446": {
+          "code": "7900292621446",
+          "name": "Regata canelada off alças marrom LP g",
+          "price": 233,
+          "qty": 1
+        }
+      },
+      "total": 906,
+      "closedAt": "2026-07-27T22:00:33.598Z"
+    },
     {
       "clientId": "c_1784742777976",
       "clientName": "Ivete Célia",
@@ -14522,5 +14524,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T22:00:29.758Z"
+  "savedAt": "2026-07-27T22:00:33.600Z"
 }
