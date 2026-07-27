@@ -6070,9 +6070,15 @@
           "name": "Top curve verde DT M",
           "price": 239,
           "qty": 1
+        },
+        "7900292896639": {
+          "code": "7900292896639",
+          "name": "Calça pantalona preta moletom lp P",
+          "price": 563,
+          "qty": 1
         }
       },
-      "total": 2961.4,
+      "total": 3524.4,
       "status": "open"
     }
   },
@@ -14287,5 +14293,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:39:33.389Z"
+  "savedAt": "2026-07-27T19:39:52.764Z"
 }
