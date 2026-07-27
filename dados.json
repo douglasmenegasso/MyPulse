@@ -5185,15 +5185,8 @@
     },
     "c_1783623370358": {
       "clientId": "c_1783623370358",
-      "items": {
-        "7900415274993": {
-          "code": "7900415274993",
-          "name": "Vestido curto canelado de alça azul LP M",
-          "price": 397,
-          "qty": 1
-        }
-      },
-      "total": 397,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1783624643893": {
@@ -10400,6 +10393,13 @@
         "price": 599,
         "qty": 1,
         "lastAt": "2026-07-10T20:02:49.806Z"
+      },
+      "7900415274993": {
+        "code": "7900415274993",
+        "name": "Vestido curto canelado de alça azul LP M",
+        "price": 397,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:27:24.625Z"
       }
     },
     "41991536747": {
@@ -14146,5 +14146,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:27:24.044Z"
+  "savedAt": "2026-07-27T18:27:26.923Z"
 }
