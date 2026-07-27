@@ -6398,16 +6398,10 @@
           "name": "Legging canelada bordo MeC g",
           "price": 299,
           "qty": 1
-        },
-        "03403620243": {
-          "code": "03403620243",
-          "name": "Legging canelada preta MeC g",
-          "price": 299,
-          "qty": 1
         }
       },
-      "total": 807,
-      "status": "open"
+      "total": 508,
+      "status": "waiting"
     }
   },
   "closed": [
@@ -14118,6 +14112,15 @@
         "qty": 1,
         "lastAt": "2026-07-27T17:11:21.339Z"
       }
+    },
+    "c_1785176035223": {
+      "03403620243": {
+        "code": "03403620243",
+        "name": "Legging canelada preta MeC g",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:15:43.415Z"
+      }
     }
   },
   "security": {
@@ -14125,5 +14128,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:15:43.166Z"
+  "savedAt": "2026-07-27T18:15:47.478Z"
 }
