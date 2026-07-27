@@ -6100,9 +6100,15 @@
           "name": "Top cut out vermelho live M",
           "price": 279.9,
           "qty": 1
+        },
+        "7890171654064": {
+          "code": "7890171654064",
+          "name": "Calça reta com franzido preto AG M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 4940.199999999999,
+      "total": 5339.199999999999,
       "status": "open"
     }
   },
@@ -14317,5 +14323,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:40:37.593Z"
+  "savedAt": "2026-07-27T19:40:52.470Z"
 }
