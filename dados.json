@@ -5312,31 +5312,6 @@
       "total": 2374,
       "status": "waiting"
     },
-    "c_1784670696673": {
-      "clientId": "c_1784670696673",
-      "items": {
-        "7909746618056": {
-          "code": "7909746618056",
-          "name": "Calça com bolso roxo DT M",
-          "price": 449,
-          "qty": 1
-        },
-        "7909746617288": {
-          "code": "7909746617288",
-          "name": "Regata elite roxo DT g",
-          "price": 299,
-          "qty": 1
-        },
-        "7900292887552": {
-          "code": "7900292887552",
-          "name": "Vestido longo azul com zíper Lp M",
-          "price": 493,
-          "qty": 1
-        }
-      },
-      "total": 1241.000000000001,
-      "status": "waiting"
-    },
     "c_1784742777976": {
       "clientId": "c_1784742777976",
       "items": {
@@ -6290,6 +6265,33 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784670696673",
+      "clientName": "Dani feroldi",
+      "clientPhone": "",
+      "items": {
+        "7909746618056": {
+          "code": "7909746618056",
+          "name": "Calça com bolso roxo DT M",
+          "price": 449,
+          "qty": 1
+        },
+        "7909746617288": {
+          "code": "7909746617288",
+          "name": "Regata elite roxo DT g",
+          "price": 299,
+          "qty": 1
+        },
+        "7900292887552": {
+          "code": "7900292887552",
+          "name": "Vestido longo azul com zíper Lp M",
+          "price": 493,
+          "qty": 1
+        }
+      },
+      "total": 1241.000000000001,
+      "closedAt": "2026-07-27T18:33:13.743Z"
+    },
     {
       "clientId": "c_1784745694787",
       "clientName": "Barbara Ana maria",
@@ -14160,5 +14162,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:33:11.188Z"
+  "savedAt": "2026-07-27T18:33:13.745Z"
 }
