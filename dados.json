@@ -6373,6 +6373,19 @@
       },
       "total": 4905.5,
       "status": "waiting"
+    },
+    "c_1785176035223": {
+      "clientId": "c_1785176035223",
+      "items": {
+        "03503245910": {
+          "code": "03503245910",
+          "name": "Top canelado com zíper bordo MeC g",
+          "price": 209,
+          "qty": 1
+        }
+      },
+      "total": 209,
+      "status": "open"
     }
   },
   "closed": [
@@ -14090,5 +14103,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:13:57.311Z"
+  "savedAt": "2026-07-27T18:14:06.742Z"
 }
