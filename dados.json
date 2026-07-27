@@ -5369,12 +5369,6 @@
           "price": 259,
           "qty": 1
         },
-        "7890171653142": {
-          "code": "7890171653142",
-          "name": "Top elástico lilás AG g",
-          "price": 219,
-          "qty": 1
-        },
         "7901072402033": {
           "code": "7901072402033",
           "name": "Regata pima branca live M",
@@ -5448,7 +5442,7 @@
           "qty": 1
         }
       },
-      "total": 5574.199999999999,
+      "total": 5355.199999999999,
       "status": "open"
     },
     "c1779306442215": {
@@ -14175,6 +14169,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:39:06.125Z"
+      },
+      "7890171653142": {
+        "code": "7890171653142",
+        "name": "Top elástico lilás AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:39:11.849Z"
       }
     }
   },
@@ -14183,5 +14184,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:39:09.627Z"
+  "savedAt": "2026-07-27T18:39:13.207Z"
 }
