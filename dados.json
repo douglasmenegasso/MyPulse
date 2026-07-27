@@ -5393,12 +5393,6 @@
           "price": 599.9,
           "qty": 1
         },
-        "7901128619088": {
-          "code": "7901128619088",
-          "name": "Jaqueta marrom live symbol M",
-          "price": 499.9,
-          "qty": 1
-        },
         "7900415286941": {
           "code": "7900415286941",
           "name": "T-shirt off com rosa LP g",
@@ -5406,7 +5400,7 @@
           "qty": 1
         }
       },
-      "total": 6531.5,
+      "total": 6031.6,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13326,8 +13320,8 @@
         "code": "7901128619088",
         "name": "Nayara marrom live symbol M",
         "price": 499.9,
-        "qty": 1,
-        "lastAt": "2026-07-23T17:43:48.408Z"
+        "qty": 2,
+        "lastAt": "2026-07-27T18:30:16.596Z"
       },
       "7900415273262": {
         "code": "7900415273262",
@@ -14155,5 +14149,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:30:11.108Z"
+  "savedAt": "2026-07-27T18:30:16.597Z"
 }
