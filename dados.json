@@ -5274,8 +5274,15 @@
     },
     "c_1784049002709": {
       "clientId": "c_1784049002709",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7901072485869": {
+          "code": "7901072485869",
+          "name": "Legging fuso tex marrom live M",
+          "price": 359.9,
+          "qty": 1
+        }
+      },
+      "total": 359.9,
       "status": "open"
     },
     "c_1779214900706": {
@@ -14401,5 +14408,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:00:14.409Z"
+  "savedAt": "2026-07-27T20:00:30.291Z"
 }
