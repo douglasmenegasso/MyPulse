@@ -5470,15 +5470,9 @@
           "name": "Regata icon preta live g",
           "price": 189.9,
           "qty": 1
-        },
-        "7908990956822": {
-          "code": "7908990956822",
-          "name": "Legging hydefit preta live g ",
-          "price": 199.9,
-          "qty": 1
         }
       },
-      "total": 7213.699999999997,
+      "total": 7013.799999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -14170,6 +14164,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:38:22.253Z"
+      },
+      "7908990956822": {
+        "code": "7908990956822",
+        "name": "Legging hydefit preta live g ",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:38:29.312Z"
       }
     }
   },
@@ -14178,5 +14179,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:38:22.255Z"
+  "savedAt": "2026-07-27T18:38:29.314Z"
 }
