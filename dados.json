@@ -5321,12 +5321,6 @@
           "price": 563,
           "qty": 1
         },
-        "7901072402293": {
-          "code": "7901072402293",
-          "name": "Calça reta vermelha live P",
-          "price": 399.9,
-          "qty": 1
-        },
         "7900415199265": {
           "code": "7900415199265",
           "name": "Calça balloon de moletom rosa Lp M",
@@ -5400,7 +5394,7 @@
           "qty": 1
         }
       },
-      "total": 6031.6,
+      "total": 5631.700000000001,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13385,6 +13379,13 @@
         "price": 259.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:30:07.595Z"
+      },
+      "7901072402293": {
+        "code": "7901072402293",
+        "name": "Calça reta vermelha live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:30:27.343Z"
       }
     },
     "c_1784221698831": {
@@ -14149,5 +14150,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:30:16.597Z"
+  "savedAt": "2026-07-27T18:30:27.345Z"
 }
