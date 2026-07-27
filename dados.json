@@ -5453,12 +5453,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7908754570455": {
-          "code": "7908754570455",
-          "name": "Top curve azul petróleo live g",
-          "price": 189.9,
-          "qty": 1
-        },
         "7908754575887": {
           "code": "7908754575887",
           "name": "Regata breath azul petróleo live g",
@@ -5520,7 +5514,7 @@
           "qty": 1
         }
       },
-      "total": 9461.199999999995,
+      "total": 9271.299999999996,
       "status": "open"
     },
     "c1779306442215": {
@@ -14163,6 +14157,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:37:21.126Z"
+      },
+      "7908754570455": {
+        "code": "7908754570455",
+        "name": "Top curve azul petróleo live g",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:37:30.080Z"
       }
     }
   },
@@ -14171,5 +14172,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:37:21.127Z"
+  "savedAt": "2026-07-27T18:37:30.081Z"
 }
