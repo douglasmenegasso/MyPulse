@@ -6094,9 +6094,15 @@
           "name": "Calça reta vermelha live P",
           "price": 399.9,
           "qty": 1
+        },
+        "7908931962783": {
+          "code": "7908931962783",
+          "name": "Top cut out vermelho live M",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 4660.299999999999,
+      "total": 4940.199999999999,
       "status": "open"
     }
   },
@@ -14311,5 +14317,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:40:30.000Z"
+  "savedAt": "2026-07-27T19:40:37.593Z"
 }
