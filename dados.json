@@ -6058,9 +6058,15 @@
           "name": "Regata cropped mesh lilás AG M",
           "price": 219,
           "qty": 1
+        },
+        "7909746580049": {
+          "code": "7909746580049",
+          "name": "Legging curve verde DT M",
+          "price": 359,
+          "qty": 1
         }
       },
-      "total": 2363.4,
+      "total": 2722.4,
       "status": "open"
     }
   },
@@ -14275,5 +14281,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:38:56.460Z"
+  "savedAt": "2026-07-27T19:39:13.985Z"
 }
