@@ -5357,12 +5357,6 @@
           "price": 399.9,
           "qty": 1
         },
-        "7900415273262": {
-          "code": "7900415273262",
-          "name": "Calça jogger com elástico preto LP M",
-          "price": 527,
-          "qty": 1
-        },
         "7900358032391": {
           "code": "7900358032391",
           "name": "Camiseta poque preta CCM M",
@@ -5460,7 +5454,7 @@
           "qty": 1
         }
       },
-      "total": 10075.4,
+      "total": 9548.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13382,6 +13376,13 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-23T17:43:48.408Z"
+      },
+      "7900415273262": {
+        "code": "7900415273262",
+        "name": "Calça jogger com elástico preto LP M",
+        "price": 527,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:28:53.517Z"
       }
     },
     "c_1784221698831": {
@@ -14146,5 +14147,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:28:11.054Z"
+  "savedAt": "2026-07-27T18:28:53.520Z"
 }
