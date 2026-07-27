@@ -5321,12 +5321,6 @@
           "price": 49.9,
           "qty": 1
         },
-        "7890171632772": {
-          "code": "7890171632772",
-          "name": "Legging vinho símbolo AG M",
-          "price": 289,
-          "qty": 1
-        },
         "7908990976226": {
           "code": "7908990976226",
           "name": "Top icon bordo live g",
@@ -5388,7 +5382,7 @@
           "qty": 1
         }
       },
-      "total": 3117.899999999999,
+      "total": 2828.899999999999,
       "status": "open"
     },
     "c1779306442215": {
@@ -14185,6 +14179,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:42:11.420Z"
+      },
+      "7890171632772": {
+        "code": "7890171632772",
+        "name": "Legging vinho símbolo AG M",
+        "price": 289,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:42:15.465Z"
       }
     }
   },
@@ -14193,5 +14194,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:42:13.161Z"
+  "savedAt": "2026-07-27T18:42:16.755Z"
 }
