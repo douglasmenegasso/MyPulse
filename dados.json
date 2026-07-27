@@ -6231,9 +6231,15 @@
           "name": "Legging hydefit verde live g",
           "price": 299.9,
           "qty": 1
+        },
+        "7908990954507": {
+          "code": "7908990954507",
+          "name": "Top v nadador verde live g",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 10396.599999999993,
+      "total": 10676.499999999993,
       "status": "open"
     }
   },
@@ -14448,5 +14454,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:04:37.776Z"
+  "savedAt": "2026-07-27T20:04:41.965Z"
 }
