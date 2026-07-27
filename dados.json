@@ -5387,12 +5387,6 @@
           "price": 499.9,
           "qty": 1
         },
-        "7901128603186": {
-          "code": "7901128603186",
-          "name": "Legging marrom live symbol G",
-          "price": 329.9,
-          "qty": 1
-        },
         "7901072486422": {
           "code": "7901072486422",
           "name": "Top tex marrom live g",
@@ -5466,7 +5460,7 @@
           "qty": 1
         }
       },
-      "total": 6683.899999999998,
+      "total": 6353.999999999998,
       "status": "open"
     },
     "c1779306442215": {
@@ -14172,6 +14166,13 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:38:35.664Z"
+      },
+      "7901128603186": {
+        "code": "7901128603186",
+        "name": "Legging marrom live symbol G",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:38:43.132Z"
       }
     }
   },
@@ -14180,5 +14181,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:38:35.665Z"
+  "savedAt": "2026-07-27T18:38:43.133Z"
 }
