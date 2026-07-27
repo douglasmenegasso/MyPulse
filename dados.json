@@ -6014,16 +6014,10 @@
           "name": "Regata de tule com franzido preto AG g",
           "price": 219,
           "qty": 1
-        },
-        "7890171617328": {
-          "code": "7890171617328",
-          "name": "T-shirt cropped rosa AG M",
-          "price": 198,
-          "qty": 1
         }
       },
-      "total": 4607.5,
-      "status": "open"
+      "total": 4409.5,
+      "status": "waiting"
     },
     "c_1785176035223": {
       "clientId": "c_1785176035223",
@@ -13998,6 +13992,13 @@
         "price": 298,
         "qty": 1,
         "lastAt": "2026-07-27T19:03:12.074Z"
+      },
+      "7890171617328": {
+        "code": "7890171617328",
+        "name": "T-shirt cropped rosa AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-27T19:03:12.788Z"
       }
     },
     "c_1785176035223": {
@@ -14262,5 +14263,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:03:12.076Z"
+  "savedAt": "2026-07-27T19:03:15.899Z"
 }
