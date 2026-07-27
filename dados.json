@@ -5174,9 +5174,15 @@
           "name": "Jaqueta flex corta vento bege DT P",
           "price": 699,
           "qty": 1
+        },
+        "7900415277819": {
+          "code": "7900415277819",
+          "name": "Shorts saia jeans azul LP 40",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 2747.5999999999995,
+      "total": 3190.6,
       "status": "open"
     },
     "c_1783458513348": {
@@ -14510,5 +14516,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T21:00:45.640Z"
+  "savedAt": "2026-07-27T21:00:48.603Z"
 }
