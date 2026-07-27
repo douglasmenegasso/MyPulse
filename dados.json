@@ -5315,12 +5315,6 @@
     "c_1784670696673": {
       "clientId": "c_1784670696673",
       "items": {
-        "7900292896639": {
-          "code": "7900292896639",
-          "name": "Calça pantalona preta moletom lp P",
-          "price": 563,
-          "qty": 1
-        },
         "7900415002688": {
           "code": "7900415002688",
           "name": "Calça wide leg marrom LP M",
@@ -5424,7 +5418,7 @@
           "qty": 1
         }
       },
-      "total": 7727.4,
+      "total": 7164.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13388,6 +13382,13 @@
         "price": 199,
         "qty": 1,
         "lastAt": "2026-07-27T18:29:35.123Z"
+      },
+      "7900292896639": {
+        "code": "7900292896639",
+        "name": "Calça pantalona preta moletom lp P",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:29:47.479Z"
       }
     },
     "c_1784221698831": {
@@ -14152,5 +14153,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:29:35.125Z"
+  "savedAt": "2026-07-27T18:29:47.480Z"
 }
