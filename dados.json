@@ -5315,12 +5315,6 @@
     "c_1784670696673": {
       "clientId": "c_1784670696673",
       "items": {
-        "7900415002688": {
-          "code": "7900415002688",
-          "name": "Calça wide leg marrom LP M",
-          "price": 563,
-          "qty": 1
-        },
         "7909746618056": {
           "code": "7909746618056",
           "name": "Calça com bolso roxo DT M",
@@ -5340,7 +5334,7 @@
           "qty": 1
         }
       },
-      "total": 1804.000000000001,
+      "total": 1241.000000000001,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13395,6 +13389,13 @@
         "price": 599.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:32:15.385Z"
+      },
+      "7900415002688": {
+        "code": "7900415002688",
+        "name": "Calça wide leg marrom LP M",
+        "price": 563,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:32:38.452Z"
       }
     },
     "c_1784221698831": {
@@ -14159,5 +14160,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:32:15.387Z"
+  "savedAt": "2026-07-27T18:32:38.453Z"
 }
