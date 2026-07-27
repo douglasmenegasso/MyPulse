@@ -5471,12 +5471,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7901072402101": {
-          "code": "7901072402101",
-          "name": "Regata pima verde live M",
-          "price": 249.9,
-          "qty": 1
-        },
         "014035": {
           "code": "014035",
           "name": "Calça bruma bordo movimento P",
@@ -5532,7 +5526,7 @@
           "qty": 1
         }
       },
-      "total": 9910.999999999995,
+      "total": 9661.099999999995,
       "status": "open"
     },
     "c1779306442215": {
@@ -14161,6 +14155,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:37:04.962Z"
+      },
+      "7901072402101": {
+        "code": "7901072402101",
+        "name": "Regata pima verde live M",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:37:12.564Z"
       }
     }
   },
@@ -14169,5 +14170,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:37:09.385Z"
+  "savedAt": "2026-07-27T18:37:12.566Z"
 }
