@@ -5989,6 +5989,19 @@
       },
       "total": 832,
       "status": "waiting"
+    },
+    "c_1785180993362": {
+      "clientId": "c_1785180993362",
+      "items": {
+        "7909392830451": {
+          "code": "7909392830451",
+          "name": "Meia cano curto preto lupo 33 a 36",
+          "price": 19.9,
+          "qty": 1
+        }
+      },
+      "total": 19.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -14202,5 +14215,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:36:33.364Z"
+  "savedAt": "2026-07-27T19:36:54.095Z"
 }
