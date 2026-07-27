@@ -5505,9 +5505,15 @@
           "name": "Top nadador rosa live live M",
           "price": 259.9,
           "qty": 1
+        },
+        "7901072404990": {
+          "code": "7901072404990",
+          "name": "Top curve allure bege live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 7993.2999999999965,
+      "total": 8193.199999999997,
       "status": "open"
     },
     "c_1784912723786": {
@@ -14231,5 +14237,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:57:43.540Z"
+  "savedAt": "2026-07-27T18:57:45.508Z"
 }
