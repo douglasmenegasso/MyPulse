@@ -5327,12 +5327,6 @@
           "price": 443,
           "qty": 1
         },
-        "7900415302948": {
-          "code": "7900415302948",
-          "name": "T-shirt off estampa azul marinho LP M",
-          "price": 243,
-          "qty": 1
-        },
         "7909746618056": {
           "code": "7909746618056",
           "name": "Calça com bolso roxo DT M",
@@ -5370,7 +5364,7 @@
           "qty": 1
         }
       },
-      "total": 4038.800000000001,
+      "total": 3795.800000000001,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13390,6 +13384,13 @@
         "price": 553,
         "qty": 1,
         "lastAt": "2026-07-27T18:31:12.731Z"
+      },
+      "7900415302948": {
+        "code": "7900415302948",
+        "name": "T-shirt off estampa azul marinho LP M",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:31:31.269Z"
       }
     },
     "c_1784221698831": {
@@ -14154,5 +14155,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:31:15.558Z"
+  "savedAt": "2026-07-27T18:31:31.270Z"
 }
