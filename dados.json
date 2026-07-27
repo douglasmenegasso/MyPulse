@@ -5411,12 +5411,6 @@
           "price": 259.9,
           "qty": 1
         },
-        "7909746616380": {
-          "code": "7909746616380",
-          "name": "Top nadador oliva vivame g",
-          "price": 259,
-          "qty": 1
-        },
         "7908931944727": {
           "code": "7908931944727",
           "name": "Legging neopren roxo malva live g",
@@ -5490,7 +5484,7 @@
           "qty": 1
         }
       },
-      "total": 7792.599999999997,
+      "total": 7533.599999999997,
       "status": "open"
     },
     "c1779306442215": {
@@ -14168,6 +14162,13 @@
         "price": 699.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:38:04.940Z"
+      },
+      "7909746616380": {
+        "code": "7909746616380",
+        "name": "Top nadador oliva vivame g",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:38:12.462Z"
       }
     }
   },
@@ -14176,5 +14177,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:38:09.541Z"
+  "savedAt": "2026-07-27T18:38:13.800Z"
 }
