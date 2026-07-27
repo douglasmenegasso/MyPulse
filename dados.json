@@ -5338,15 +5338,9 @@
           "name": "Vestido longo azul com zíper Lp M",
           "price": 493,
           "qty": 1
-        },
-        "7908990960201": {
-          "code": "7908990960201",
-          "name": "Calça texturizada verde live G",
-          "price": 599.9,
-          "qty": 1
         }
       },
-      "total": 2403.900000000001,
+      "total": 1804.000000000001,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13394,6 +13388,13 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:32:07.927Z"
+      },
+      "7908990960201": {
+        "code": "7908990960201",
+        "name": "Calça texturizada verde live G",
+        "price": 599.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:32:15.385Z"
       }
     },
     "c_1784221698831": {
@@ -14158,5 +14159,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:32:11.164Z"
+  "savedAt": "2026-07-27T18:32:15.387Z"
 }
