@@ -6154,9 +6154,15 @@
           "name": "Legging icon preto live g",
           "price": 319.9,
           "qty": 1
+        },
+        "7908754527824": {
+          "code": "7908754527824",
+          "name": "Top icon preto live g",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 7397.499999999996,
+      "total": 7647.399999999996,
       "status": "open"
     }
   },
@@ -14371,5 +14377,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:42:34.763Z"
+  "savedAt": "2026-07-27T19:42:43.039Z"
 }
