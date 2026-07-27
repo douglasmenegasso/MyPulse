@@ -6277,6 +6277,19 @@
       },
       "total": 13152.399999999992,
       "status": "waiting"
+    },
+    "c_1784237432107": {
+      "clientId": "c_1784237432107",
+      "items": {
+        "7909746620486": {
+          "code": "7909746620486",
+          "name": "Regata canelada marrom DT g",
+          "price": 199,
+          "qty": 1
+        }
+      },
+      "total": 199,
+      "status": "open"
     }
   },
   "closed": [
@@ -14497,5 +14510,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:23:26.884Z"
+  "savedAt": "2026-07-27T20:23:52.734Z"
 }
