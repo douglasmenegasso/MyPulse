@@ -6203,9 +6203,15 @@
           "name": "Jaqueta bomber marrom live P",
           "price": 549.9,
           "qty": 1
+        },
+        "7901072492126": {
+          "code": "7901072492126",
+          "name": "Macaquinho marrom live live M",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 9196.899999999994,
+      "total": 9596.799999999994,
       "status": "open"
     }
   },
@@ -14420,5 +14426,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T20:02:52.645Z"
+  "savedAt": "2026-07-27T20:03:02.669Z"
 }
