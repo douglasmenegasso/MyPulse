@@ -5805,9 +5805,15 @@
           "name": "Top eterno liso laranja AG M",
           "price": 209,
           "qty": 1
+        },
+        "7908990956891": {
+          "code": "7908990956891",
+          "name": "Legging hydefit verde live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 5955.999999999999,
+      "total": 6155.899999999999,
       "status": "open"
     },
     "c_1784912723786": {
@@ -14017,5 +14023,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T17:20:12.739Z"
+  "savedAt": "2026-07-27T17:20:26.250Z"
 }
