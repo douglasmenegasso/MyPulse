@@ -6410,8 +6410,15 @@
     },
     "c_1785176191516": {
       "clientId": "c_1785176191516",
-      "items": {},
-      "total": 0,
+      "items": {
+        "03403620243": {
+          "code": "03403620243",
+          "name": "Legging canelada preta MeC g",
+          "price": 299,
+          "qty": 1
+        }
+      },
+      "total": 299,
       "status": "open"
     }
   },
@@ -14139,5 +14146,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:16:54.479Z"
+  "savedAt": "2026-07-27T18:17:05.647Z"
 }
