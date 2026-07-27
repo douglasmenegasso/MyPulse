@@ -5012,11 +5012,6 @@
       "name": "Andressa Sabrina",
       "phone": ""
     },
-    "c_1784992935738": {
-      "id": "c_1784992935738",
-      "name": "Nora Ivete",
-      "phone": ""
-    },
     "c_1785176035223": {
       "id": "c_1785176035223",
       "name": "Emili cunhada",
@@ -5937,91 +5932,6 @@
         }
       },
       "total": 29.9,
-      "status": "waiting"
-    },
-    "c_1784992935738": {
-      "clientId": "c_1784992935738",
-      "items": {
-        "2218": {
-          "code": "2218",
-          "name": "Calça malha fria off com preto DT M",
-          "price": 589,
-          "qty": 1
-        },
-        "9496": {
-          "code": "9496",
-          "name": "Calça moletom preta live M",
-          "price": 349.9,
-          "qty": 1
-        },
-        "7909746524876": {
-          "code": "7909746524876",
-          "name": "Regata mistral tule off com preto DT M",
-          "price": 239,
-          "qty": 1
-        },
-        "7909865888088": {
-          "code": "7909865888088",
-          "name": "Calça sarja lilás Colcci 38",
-          "price": 377,
-          "qty": 1
-        },
-        "7900358022248": {
-          "code": "7900358022248",
-          "name": "Camiseta poque off CCM M",
-          "price": 219,
-          "qty": 1
-        },
-        "7901072469746": {
-          "code": "7901072469746",
-          "name": "Jaqueta bomber marrom live P",
-          "price": 549.9,
-          "qty": 1
-        },
-        "7901072402293": {
-          "code": "7901072402293",
-          "name": "Calça reta vermelha live P",
-          "price": 399.9,
-          "qty": 1
-        },
-        "7908931962783": {
-          "code": "7908931962783",
-          "name": "Top cut out vermelho live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7909746580049": {
-          "code": "7909746580049",
-          "name": "Legging curve verde DT M",
-          "price": 359,
-          "qty": 1
-        },
-        "7909746580070": {
-          "code": "7909746580070",
-          "name": "Top curve verde DT M",
-          "price": 239,
-          "qty": 1
-        },
-        "7890171654064": {
-          "code": "7890171654064",
-          "name": "Calça reta com franzido preto AG M",
-          "price": 399,
-          "qty": 1
-        },
-        "7908011244655": {
-          "code": "7908011244655",
-          "name": "Top curve preto live M",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7890171656037": {
-          "code": "7890171656037",
-          "name": "Regata de tule com franzido preto AG g",
-          "price": 219,
-          "qty": 1
-        }
-      },
-      "total": 4409.5,
       "status": "waiting"
     },
     "c_1785176035223": {
@@ -14287,5 +14197,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:36:18.547Z"
+  "savedAt": "2026-07-27T19:36:27.170Z"
 }
