@@ -5321,12 +5321,6 @@
           "price": 563,
           "qty": 1
         },
-        "7900415199265": {
-          "code": "7900415199265",
-          "name": "Calça balloon de moletom rosa Lp M",
-          "price": 553,
-          "qty": 1
-        },
         "7900415277819": {
           "code": "7900415277819",
           "name": "Shorts saia jeans azul LP 40",
@@ -5376,7 +5370,7 @@
           "qty": 1
         }
       },
-      "total": 4591.800000000001,
+      "total": 4038.800000000001,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13389,6 +13383,13 @@
         "price": 243,
         "qty": 1,
         "lastAt": "2026-07-27T18:30:58.672Z"
+      },
+      "7900415199265": {
+        "code": "7900415199265",
+        "name": "Calça balloon de moletom rosa Lp M",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:31:12.731Z"
       }
     },
     "c_1784221698831": {
@@ -14153,5 +14154,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:31:11.125Z"
+  "savedAt": "2026-07-27T18:31:15.558Z"
 }
