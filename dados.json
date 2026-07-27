@@ -5465,12 +5465,6 @@
           "price": 179.9,
           "qty": 1
         },
-        "7908990956877": {
-          "code": "7908990956877",
-          "name": "Legging hydefit verde militar live g",
-          "price": 199.9,
-          "qty": 1
-        },
         "014035": {
           "code": "014035",
           "name": "Calça bruma bordo movimento P",
@@ -5526,7 +5520,7 @@
           "qty": 1
         }
       },
-      "total": 9661.099999999995,
+      "total": 9461.199999999995,
       "status": "open"
     },
     "c1779306442215": {
@@ -14162,6 +14156,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:37:12.564Z"
+      },
+      "7908990956877": {
+        "code": "7908990956877",
+        "name": "Legging hydefit verde militar live g",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:37:21.126Z"
       }
     }
   },
@@ -14170,5 +14171,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:37:12.566Z"
+  "savedAt": "2026-07-27T18:37:21.127Z"
 }
