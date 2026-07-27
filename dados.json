@@ -5239,9 +5239,15 @@
           "name": "Jaqueta bomber marrom live M",
           "price": 549.9,
           "qty": 1
+        },
+        "7900292753918": {
+          "code": "7900292753918",
+          "name": "Moletom ursinho bege LP M",
+          "price": 373,
+          "qty": 1
         }
       },
-      "total": 2897.7000000000003,
+      "total": 3270.7000000000003,
       "status": "open"
     },
     "c_1784049002709": {
@@ -14201,5 +14207,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:55:10.641Z"
+  "savedAt": "2026-07-27T18:55:15.173Z"
 }
