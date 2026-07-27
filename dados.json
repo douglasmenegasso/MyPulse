@@ -6082,9 +6082,15 @@
           "name": "T shirt preta bordado branco LP M",
           "price": 287,
           "qty": 1
+        },
+        "7909746614164": {
+          "code": "7909746614164",
+          "name": "Vestido canelado bordo DT M",
+          "price": 449,
+          "qty": 1
         }
       },
-      "total": 3811.4,
+      "total": 4260.4,
       "status": "open"
     }
   },
@@ -14299,5 +14305,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:40:01.313Z"
+  "savedAt": "2026-07-27T19:40:18.662Z"
 }
