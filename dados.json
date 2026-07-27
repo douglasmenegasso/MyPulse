@@ -5417,12 +5417,6 @@
           "price": 499.9,
           "qty": 1
         },
-        "7909746620486": {
-          "code": "7909746620486",
-          "name": "Regata canelada marrom DT g",
-          "price": 199,
-          "qty": 1
-        },
         "7900415286941": {
           "code": "7900415286941",
           "name": "T-shirt off com rosa LP g",
@@ -5430,7 +5424,7 @@
           "qty": 1
         }
       },
-      "total": 7926.4,
+      "total": 7727.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13387,6 +13381,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-27T18:29:29.612Z"
+      },
+      "7909746620486": {
+        "code": "7909746620486",
+        "name": "Regata canelada marrom DT g",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:29:35.123Z"
       }
     },
     "c_1784221698831": {
@@ -14151,5 +14152,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:29:29.614Z"
+  "savedAt": "2026-07-27T18:29:35.125Z"
 }
