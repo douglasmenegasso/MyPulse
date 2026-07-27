@@ -5312,49 +5312,6 @@
       "total": 2374,
       "status": "waiting"
     },
-    "c_1784742777976": {
-      "clientId": "c_1784742777976",
-      "items": {
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7908754537762": {
-          "code": "7908754537762",
-          "name": "Camiseta icon off live g",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908931968358": {
-          "code": "7908931968358",
-          "name": "Camiseta V equilíbrio preta live g",
-          "price": 259.9,
-          "qty": 1
-        },
-        "014035": {
-          "code": "014035",
-          "name": "Calça bruma bordo movimento P",
-          "price": 309.9,
-          "qty": 1
-        },
-        "02603750912": {
-          "code": "02603750912",
-          "name": "Jaqueta bruma bordo movimento M",
-          "price": 439.9,
-          "qty": 1
-        },
-        "7901072434171": {
-          "code": "7901072434171",
-          "name": "Camiseta icon bege live M",
-          "price": 199.9,
-          "qty": 1
-        }
-      },
-      "total": 1459.3999999999987,
-      "status": "waiting"
-    },
     "c1779306442215": {
       "clientId": "c1779306442215",
       "items": {
@@ -6055,6 +6012,51 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784742777976",
+      "clientName": "Ivete Célia",
+      "clientPhone": "",
+      "items": {
+        "7909392494240": {
+          "code": "7909392494240",
+          "name": "Kit 3 meias Lupo 34 a 39",
+          "price": 49.9,
+          "qty": 1
+        },
+        "7908754537762": {
+          "code": "7908754537762",
+          "name": "Camiseta icon off live g",
+          "price": 199.9,
+          "qty": 1
+        },
+        "7908931968358": {
+          "code": "7908931968358",
+          "name": "Camiseta V equilíbrio preta live g",
+          "price": 259.9,
+          "qty": 1
+        },
+        "014035": {
+          "code": "014035",
+          "name": "Calça bruma bordo movimento P",
+          "price": 309.9,
+          "qty": 1
+        },
+        "02603750912": {
+          "code": "02603750912",
+          "name": "Jaqueta bruma bordo movimento M",
+          "price": 439.9,
+          "qty": 1
+        },
+        "7901072434171": {
+          "code": "7901072434171",
+          "name": "Camiseta icon bege live M",
+          "price": 199.9,
+          "qty": 1
+        }
+      },
+      "total": 1459.3999999999987,
+      "closedAt": "2026-07-27T18:47:09.797Z"
+    },
     {
       "clientId": "c_1784670696673",
       "clientName": "Dani feroldi",
@@ -14199,5 +14201,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:46:39.751Z"
+  "savedAt": "2026-07-27T18:47:09.799Z"
 }
