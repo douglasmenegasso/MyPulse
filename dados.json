@@ -5898,19 +5898,6 @@
       "total": 13773.899999999994,
       "status": "waiting"
     },
-    "c_1783701666054": {
-      "clientId": "c_1783701666054",
-      "items": {
-        "7891186110972": {
-          "code": "7891186110972",
-          "name": "Meia calça fio 15 preta lupo m",
-          "price": 29.9,
-          "qty": 1
-        }
-      },
-      "total": 29.9,
-      "status": "waiting"
-    },
     "c_1785176035223": {
       "clientId": "c_1785176035223",
       "items": {
@@ -6236,6 +6223,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1783701666054",
+      "clientName": "Gabriela 1802",
+      "clientPhone": "",
+      "items": {
+        "7891186110972": {
+          "code": "7891186110972",
+          "name": "Meia calça fio 15 preta lupo m",
+          "price": 29.9,
+          "qty": 1
+        }
+      },
+      "total": 29.9,
+      "closedAt": "2026-07-27T22:00:44.394Z"
+    },
     {
       "clientId": "c_1779210547825",
       "clientName": "July",
@@ -14526,5 +14528,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T22:00:37.707Z"
+  "savedAt": "2026-07-27T22:00:44.396Z"
 }
