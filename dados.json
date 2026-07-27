@@ -6010,9 +6010,15 @@
           "name": "Kit 3 meias Lupo 34 a 39",
           "price": 49.9,
           "qty": 1
+        },
+        "7901072406383": {
+          "code": "7901072406383",
+          "name": "Blusão pose bege live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 89.69999999999999,
+      "total": 489.59999999999997,
       "status": "open"
     }
   },
@@ -14227,5 +14233,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:37:19.203Z"
+  "savedAt": "2026-07-27T19:37:23.250Z"
 }
