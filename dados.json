@@ -6166,9 +6166,15 @@
           "name": "Camiseta icon preta live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908990939245": {
+          "code": "7908990939245",
+          "name": "Legging verde militar live live g",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 7847.299999999996,
+      "total": 8177.199999999995,
       "status": "open"
     }
   },
@@ -14383,5 +14389,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T19:45:14.495Z"
+  "savedAt": "2026-07-27T19:45:18.577Z"
 }
