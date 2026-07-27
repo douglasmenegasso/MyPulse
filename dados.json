@@ -5327,12 +5327,6 @@
           "price": 39.9,
           "qty": 2
         },
-        "7909392821824": {
-          "code": "7909392821824",
-          "name": "Meia cano médio branco lupo 36 a 39",
-          "price": 14.9,
-          "qty": 1
-        },
         "7909392494240": {
           "code": "7909392494240",
           "name": "Kit 3 meias Lupo 34 a 39",
@@ -5556,7 +5550,7 @@
           "qty": 1
         }
       },
-      "total": 10423.599999999993,
+      "total": 10408.699999999993,
       "status": "open"
     },
     "c1779306442215": {
@@ -14157,6 +14151,13 @@
         "price": 16.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:36:24.230Z"
+      },
+      "7909392821824": {
+        "code": "7909392821824",
+        "name": "Meia cano médio branco lupo 36 a 39",
+        "price": 14.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:36:38.148Z"
       }
     }
   },
@@ -14165,5 +14166,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:36:24.232Z"
+  "savedAt": "2026-07-27T18:36:38.150Z"
 }
