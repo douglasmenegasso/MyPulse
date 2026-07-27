@@ -5327,12 +5327,6 @@
           "price": 563,
           "qty": 1
         },
-        "7900415029708": {
-          "code": "7900415029708",
-          "name": "T-shirt off escrita marrom Lp g",
-          "price": 263,
-          "qty": 1
-        },
         "7901128619057": {
           "code": "7901128619057",
           "name": "Shorts marrom live symbol M",
@@ -5436,7 +5430,7 @@
           "qty": 1
         }
       },
-      "total": 8189.4,
+      "total": 7926.4,
       "status": "open"
     },
     "c_1784742777976": {
@@ -13386,6 +13380,13 @@
         "price": 287,
         "qty": 1,
         "lastAt": "2026-07-27T18:29:19.324Z"
+      },
+      "7900415029708": {
+        "code": "7900415029708",
+        "name": "T-shirt off escrita marrom Lp g",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:29:29.612Z"
       }
     },
     "c_1784221698831": {
@@ -14150,5 +14151,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:29:19.326Z"
+  "savedAt": "2026-07-27T18:29:29.614Z"
 }
