@@ -5381,12 +5381,6 @@
           "price": 249.9,
           "qty": 1
         },
-        "7901128619095": {
-          "code": "7901128619095",
-          "name": "Jaqueta marrom live symbol P",
-          "price": 499.9,
-          "qty": 1
-        },
         "7901072486422": {
           "code": "7901072486422",
           "name": "Top tex marrom live g",
@@ -5460,7 +5454,7 @@
           "qty": 1
         }
       },
-      "total": 6353.999999999998,
+      "total": 5854.0999999999985,
       "status": "open"
     },
     "c1779306442215": {
@@ -14173,6 +14167,13 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:38:43.132Z"
+      },
+      "7901128619095": {
+        "code": "7901128619095",
+        "name": "Jaqueta marrom live symbol P",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:38:59.814Z"
       }
     }
   },
@@ -14181,5 +14182,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:38:43.133Z"
+  "savedAt": "2026-07-27T18:38:59.815Z"
 }
