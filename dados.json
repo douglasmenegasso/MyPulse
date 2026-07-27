@@ -5393,12 +5393,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "7908754527824": {
-          "code": "7908754527824",
-          "name": "Top icon preto live g",
-          "price": 249.9,
-          "qty": 1
-        },
         "7901072434171": {
           "code": "7901072434171",
           "name": "Camiseta icon bege live M",
@@ -5412,7 +5406,7 @@
           "qty": 1
         }
       },
-      "total": 3997.4999999999995,
+      "total": 3747.5999999999995,
       "status": "open"
     },
     "c1779306442215": {
@@ -14181,6 +14175,13 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-27T18:39:53.747Z"
+      },
+      "7908754527824": {
+        "code": "7908754527824",
+        "name": "Top icon preto live g",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-27T18:40:00.622Z"
       }
     }
   },
@@ -14189,5 +14190,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T18:39:53.748Z"
+  "savedAt": "2026-07-27T18:40:00.624Z"
 }
