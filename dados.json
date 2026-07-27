@@ -5787,9 +5787,15 @@
           "name": "Camiseta cropped laranja live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908990975373": {
+          "code": "7908990975373",
+          "name": "Cropped soft off live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 5098.099999999999,
+      "total": 5297.999999999999,
       "status": "open"
     },
     "c_1784912723786": {
@@ -13999,5 +14005,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-27T17:19:37.817Z"
+  "savedAt": "2026-07-27T17:19:49.329Z"
 }
