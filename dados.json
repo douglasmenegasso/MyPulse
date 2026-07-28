@@ -5287,8 +5287,15 @@
     },
     "41991694056": {
       "clientId": "41991694056",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7900292699247": {
+          "code": "7900292699247",
+          "name": "Tênis caramelo Lp 37",
+          "price": 497,
+          "qty": 1
+        }
+      },
+      "total": 497,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14694,5 +14701,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:40:30.191Z"
+  "savedAt": "2026-07-28T18:40:34.873Z"
 }
