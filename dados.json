@@ -5545,12 +5545,6 @@
           "price": 297,
           "qty": 1
         },
-        "7909746615857": {
-          "code": "7909746615857",
-          "name": "Regata alça fina preta DT M",
-          "price": 279,
-          "qty": 1
-        },
         "7909746639136": {
           "code": "7909746639136",
           "name": "Vestido franzido marrom com bege DT P",
@@ -5558,7 +5552,7 @@
           "qty": 1
         }
       },
-      "total": 1204,
+      "total": 925,
       "status": "open"
     },
     "41996113214": {
@@ -14537,6 +14531,13 @@
         "price": 463,
         "qty": 1,
         "lastAt": "2026-07-28T16:39:45.169Z"
+      },
+      "7909746615857": {
+        "code": "7909746615857",
+        "name": "Regata alça fina preta DT M",
+        "price": 279,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:39:53.757Z"
       }
     }
   },
@@ -14545,5 +14546,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:39:45.170Z"
+  "savedAt": "2026-07-28T16:39:53.759Z"
 }
