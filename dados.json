@@ -5387,9 +5387,15 @@
           "name": "Moletom over off LP P",
           "price": 463,
           "qty": 1
+        },
+        "7909746646523": {
+          "code": "7909746646523",
+          "name": "Jaqueta flex corta vento bege DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 5312.400000000001,
+      "total": 6011.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14795,5 +14801,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:45:28.782Z"
+  "savedAt": "2026-07-28T18:45:40.972Z"
 }
