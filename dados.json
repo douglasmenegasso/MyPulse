@@ -4674,6 +4674,11 @@
       "code": "7900415162412",
       "name": "Calça jeans azul mol LP 40",
       "price": 417
+    },
+    "7900415162405": {
+      "code": "7900415162405",
+      "name": "Calça jeans mom azul LP 38",
+      "price": 417
     }
   },
   "clients": {
@@ -14555,5 +14560,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:03:00.743Z"
+  "savedAt": "2026-07-28T17:03:30.372Z"
 }
