@@ -5734,19 +5734,6 @@
       "total": 9150.999999999996,
       "status": "waiting"
     },
-    "c_1784912723786": {
-      "clientId": "c_1784912723786",
-      "items": {
-        "7900415109028": {
-          "code": "7900415109028",
-          "name": "Bolsa fecho easy marrom com espelho LP",
-          "price": 853,
-          "qty": 1
-        }
-      },
-      "total": 853,
-      "status": "waiting"
-    },
     "41996113214": {
       "clientId": "41996113214",
       "items": {
@@ -6521,6 +6508,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784912723786",
+      "clientName": "Janete Deyse",
+      "clientPhone": "",
+      "items": {
+        "7900415109028": {
+          "code": "7900415109028",
+          "name": "Bolsa fecho easy marrom com espelho LP",
+          "price": 853,
+          "qty": 1
+        }
+      },
+      "total": 853,
+      "closedAt": "2026-07-28T20:24:59.731Z"
+    },
     {
       "clientId": "c_1784915787114",
       "clientName": "Andressa Sabrina",
@@ -14943,5 +14945,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T20:24:49.672Z"
+  "savedAt": "2026-07-28T20:24:59.733Z"
 }
