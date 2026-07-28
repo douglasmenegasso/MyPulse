@@ -5587,12 +5587,6 @@
           "price": 463,
           "qty": 1
         },
-        "7900415146900": {
-          "code": "7900415146900",
-          "name": "Shorts saia com bolsos preto LP P",
-          "price": 597,
-          "qty": 1
-        },
         "7900415284411": {
           "code": "7900415284411",
           "name": "Vestido curto de alça canelado preto LP M",
@@ -5606,7 +5600,7 @@
           "qty": 1
         }
       },
-      "total": 4726,
+      "total": 4129,
       "status": "open"
     },
     "41996113214": {
@@ -14529,6 +14523,13 @@
         "price": 597,
         "qty": 1,
         "lastAt": "2026-07-28T16:37:28.862Z"
+      },
+      "7900415146900": {
+        "code": "7900415146900",
+        "name": "Shorts saia com bolsos preto LP P",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:37:37.873Z"
       }
     }
   },
@@ -14537,5 +14538,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:37:28.863Z"
+  "savedAt": "2026-07-28T16:37:37.874Z"
 }
