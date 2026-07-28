@@ -5393,9 +5393,15 @@
           "name": "Jaqueta flex corta vento bege DT P",
           "price": 699,
           "qty": 1
+        },
+        "7909746619534": {
+          "code": "7909746619534",
+          "name": "Legging bege com off DT M",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 6011.400000000001,
+      "total": 6380.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14801,5 +14807,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:46:23.575Z"
+  "savedAt": "2026-07-28T18:46:39.399Z"
 }
