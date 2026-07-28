@@ -4729,6 +4729,11 @@
       "code": "7900292699247",
       "name": "Tênis caramelo Lp 37",
       "price": 497
+    },
+    "7900415250461": {
+      "code": "7900415250461",
+      "name": "Moletom over rose LP P",
+      "price": 463
     }
   },
   "clients": {
@@ -14707,5 +14712,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:40:44.544Z"
+  "savedAt": "2026-07-28T18:41:10.374Z"
 }
