@@ -4724,6 +4724,11 @@
       "code": "7900415284107",
       "name": "T-shirt over marrom escrita off Lp M",
       "price": 243
+    },
+    "7900292699247": {
+      "code": "7900292699247",
+      "name": "Tênis caramelo Lp 37",
+      "price": 497
     }
   },
   "clients": {
@@ -14689,5 +14694,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:40:18.857Z"
+  "savedAt": "2026-07-28T18:40:30.191Z"
 }
