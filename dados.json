@@ -5381,9 +5381,15 @@
           "name": "Shorts camurça caramelo LP M",
           "price": 723,
           "qty": 1
+        },
+        "7900415277154": {
+          "code": "7900415277154",
+          "name": "Moletom over off LP P",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 4849.400000000001,
+      "total": 5312.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14789,5 +14795,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:45:22.596Z"
+  "savedAt": "2026-07-28T18:45:28.782Z"
 }
