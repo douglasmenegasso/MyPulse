@@ -4689,6 +4689,11 @@
       "code": "7900415162191",
       "name": "Calça jeans mom azul LP 34",
       "price": 417
+    },
+    "7900415166106": {
+      "code": "7900415166106",
+      "name": "Shorts camurça caramelo LP M",
+      "price": 723
     }
   },
   "clients": {
@@ -14570,5 +14575,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:10:48.685Z"
+  "savedAt": "2026-07-28T17:10:57.335Z"
 }
