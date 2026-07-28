@@ -6453,9 +6453,15 @@
           "name": "Legging icon rosa ametista live M",
           "price": 319.9,
           "qty": 1
+        },
+        "7900415250478": {
+          "code": "7900415250478",
+          "name": "Moletom over rose LP pp",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 929.6999999999999,
+      "total": 1392.6999999999998,
       "status": "open"
     }
   },
@@ -14866,5 +14872,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:55:48.992Z"
+  "savedAt": "2026-07-28T18:55:51.946Z"
 }
