@@ -4669,6 +4669,11 @@
       "code": "7908990954507",
       "name": "Top v nadador verde live g",
       "price": 279.9
+    },
+    "7900415162412": {
+      "code": "7900415162412",
+      "name": "Calça jeans azul mol LP 40",
+      "price": 417
     }
   },
   "clients": {
@@ -14550,5 +14555,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:02:31.771Z"
+  "savedAt": "2026-07-28T17:03:00.743Z"
 }
