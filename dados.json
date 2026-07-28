@@ -5399,9 +5399,15 @@
           "name": "Legging bege com off DT M",
           "price": 369,
           "qty": 1
+        },
+        "7909746619480": {
+          "code": "7909746619480",
+          "name": "Top boost bege com off DT g",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 6380.400000000001,
+      "total": 6599.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14807,5 +14813,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:46:39.399Z"
+  "savedAt": "2026-07-28T18:46:56.023Z"
 }
