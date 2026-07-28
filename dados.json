@@ -6181,6 +6181,12 @@
       },
       "total": 358,
       "status": "waiting"
+    },
+    "c_1785260669357": {
+      "clientId": "c_1785260669357",
+      "items": {},
+      "total": 0,
+      "status": "open"
     }
   },
   "closed": [
@@ -14590,5 +14596,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:45:06.288Z"
+  "savedAt": "2026-07-28T17:45:09.647Z"
 }
