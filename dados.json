@@ -5369,9 +5369,15 @@
           "name": "T-shirt cinza estampa marrom LP g",
           "price": 197,
           "qty": 1
+        },
+        "7890171615409": {
+          "code": "7890171615409",
+          "name": "Regata um ombro off AG M",
+          "price": 288,
+          "qty": 1
         }
       },
-      "total": 3838.4000000000005,
+      "total": 4126.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14777,5 +14783,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:44:53.498Z"
+  "savedAt": "2026-07-28T18:44:57.551Z"
 }
