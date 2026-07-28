@@ -5322,9 +5322,15 @@
           "name": "Top neopren roxo malva live g",
           "price": 249.9,
           "qty": 1
+        },
+        "7890171617328": {
+          "code": "7890171617328",
+          "name": "T-shirt cropped rosa AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 1766.8000000000002,
+      "total": 1964.8000000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14730,5 +14736,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:41:56.485Z"
+  "savedAt": "2026-07-28T18:42:09.099Z"
 }
