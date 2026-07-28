@@ -5533,12 +5533,6 @@
     "c_1784915787114": {
       "clientId": "c_1784915787114",
       "items": {
-        "7900415026448": {
-          "code": "7900415026448",
-          "name": "Bolsa pequena preta com dourado LP",
-          "price": 597,
-          "qty": 1
-        },
         "7900415154004": {
           "code": "7900415154004",
           "name": "Shorts saia marrom LP pp",
@@ -5612,7 +5606,7 @@
           "qty": 1
         }
       },
-      "total": 5323,
+      "total": 4726,
       "status": "open"
     },
     "41996113214": {
@@ -14527,6 +14521,15 @@
         "qty": 1,
         "lastAt": "2026-07-27T18:43:51.491Z"
       }
+    },
+    "c_1784915787114": {
+      "7900415026448": {
+        "code": "7900415026448",
+        "name": "Bolsa pequena preta com dourado LP",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:37:28.862Z"
+      }
     }
   },
   "security": {
@@ -14534,5 +14537,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:37:19.890Z"
+  "savedAt": "2026-07-28T16:37:28.863Z"
 }
