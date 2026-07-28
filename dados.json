@@ -5557,12 +5557,6 @@
           "price": 673,
           "qty": 1
         },
-        "7900292841448": {
-          "code": "7900292841448",
-          "name": "Regata off com bege lp P",
-          "price": 263,
-          "qty": 1
-        },
         "7909746615857": {
           "code": "7909746615857",
           "name": "Regata alça fina preta DT M",
@@ -5582,7 +5576,7 @@
           "qty": 1
         }
       },
-      "total": 2846,
+      "total": 2583,
       "status": "open"
     },
     "41996113214": {
@@ -14533,6 +14527,13 @@
         "price": 397,
         "qty": 1,
         "lastAt": "2026-07-28T16:38:43.292Z"
+      },
+      "7900292841448": {
+        "code": "7900292841448",
+        "name": "Regata off com bege lp P",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:38:52.489Z"
       }
     }
   },
@@ -14541,5 +14542,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:38:43.294Z"
+  "savedAt": "2026-07-28T16:38:52.490Z"
 }
