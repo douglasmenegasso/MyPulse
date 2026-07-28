@@ -5142,15 +5142,8 @@
     },
     "41992418671": {
       "clientId": "41992418671",
-      "items": {
-        "7900415110284": {
-          "code": "7900415110284",
-          "name": "Copo térmico preto com off LP",
-          "price": 197,
-          "qty": 4
-        }
-      },
-      "total": 788,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "419987410025": {
@@ -14933,6 +14926,15 @@
         "qty": 1,
         "lastAt": "2026-07-28T16:40:14.455Z"
       }
+    },
+    "41992418671": {
+      "7900415110284": {
+        "code": "7900415110284",
+        "name": "Copo térmico preto com off LP",
+        "price": 197,
+        "qty": 4,
+        "lastAt": "2026-07-28T20:17:31.890Z"
+      }
     }
   },
   "security": {
@@ -14940,5 +14942,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T20:17:30.669Z"
+  "savedAt": "2026-07-28T20:17:33.895Z"
 }
