@@ -5545,12 +5545,6 @@
           "price": 297,
           "qty": 1
         },
-        "7900292947577": {
-          "code": "7900292947577",
-          "name": "Regata canelada preta logo couro LP P",
-          "price": 243,
-          "qty": 1
-        },
         "7900415348397": {
           "code": "7900415348397",
           "name": "Calça sarja baggy caramelo LP 36",
@@ -5576,7 +5570,7 @@
           "qty": 1
         }
       },
-      "total": 2583,
+      "total": 2340,
       "status": "open"
     },
     "41996113214": {
@@ -14534,6 +14528,13 @@
         "price": 263,
         "qty": 1,
         "lastAt": "2026-07-28T16:38:52.489Z"
+      },
+      "7900292947577": {
+        "code": "7900292947577",
+        "name": "Regata canelada preta logo couro LP P",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:39:16.226Z"
       }
     }
   },
@@ -14542,5 +14543,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:39:02.209Z"
+  "savedAt": "2026-07-28T16:39:16.227Z"
 }
