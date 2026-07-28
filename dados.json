@@ -5551,12 +5551,6 @@
           "price": 279,
           "qty": 1
         },
-        "7900292360550": {
-          "code": "7900292360550",
-          "name": "Cropped camisa preto Lp P",
-          "price": 463,
-          "qty": 1
-        },
         "7909746639136": {
           "code": "7909746639136",
           "name": "Vestido franzido marrom com bege DT P",
@@ -5564,7 +5558,7 @@
           "qty": 1
         }
       },
-      "total": 1667,
+      "total": 1204,
       "status": "open"
     },
     "41996113214": {
@@ -14536,6 +14530,13 @@
         "price": 673,
         "qty": 1,
         "lastAt": "2026-07-28T16:39:32.441Z"
+      },
+      "7900292360550": {
+        "code": "7900292360550",
+        "name": "Cropped camisa preto Lp P",
+        "price": 463,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:39:45.169Z"
       }
     }
   },
@@ -14544,5 +14545,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:39:32.442Z"
+  "savedAt": "2026-07-28T16:39:45.170Z"
 }
