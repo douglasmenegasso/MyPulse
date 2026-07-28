@@ -5325,12 +5325,6 @@
           "price": 497,
           "qty": 1
         },
-        "7900415110284": {
-          "code": "7900415110284",
-          "name": "Copo térmico preto com off LP",
-          "price": 197,
-          "qty": 1
-        },
         "7900415250461": {
           "code": "7900415250461",
           "name": "Moletom over rose LP P",
@@ -5446,7 +5440,7 @@
           "qty": 1
         }
       },
-      "total": 7328.400000000001,
+      "total": 7131.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -10893,6 +10887,13 @@
         "price": 319.9,
         "qty": 1,
         "lastAt": "2026-07-13T17:29:27.966Z"
+      },
+      "7900415110284": {
+        "code": "7900415110284",
+        "name": "Copo térmico preto com off LP",
+        "price": 197,
+        "qty": 1,
+        "lastAt": "2026-07-28T20:24:45.650Z"
       }
     },
     "c_1779382988768": {
@@ -14942,5 +14943,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T20:24:42.869Z"
+  "savedAt": "2026-07-28T20:24:45.652Z"
 }
