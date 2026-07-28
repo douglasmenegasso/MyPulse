@@ -5352,9 +5352,15 @@
           "name": "Shorts Fit art marrom live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7900415162412": {
+          "code": "7900415162412",
+          "name": "Calça jeans azul mol LP 40",
+          "price": 417,
+          "qty": 1
         }
       },
-      "total": 3224.4000000000005,
+      "total": 3641.4000000000005,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14760,5 +14766,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:43:27.123Z"
+  "savedAt": "2026-07-28T18:43:47.561Z"
 }
