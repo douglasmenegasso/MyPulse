@@ -4694,6 +4694,11 @@
       "code": "7900415166106",
       "name": "Shorts camurça caramelo LP M",
       "price": 723
+    },
+    "7900415250454": {
+      "code": "7900415250454",
+      "name": "Moletom oversized rosa LP M",
+      "price": 463
     }
   },
   "clients": {
@@ -14575,5 +14580,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:13:57.252Z"
+  "savedAt": "2026-07-28T17:14:07.164Z"
 }
