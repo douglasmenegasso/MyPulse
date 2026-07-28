@@ -4699,6 +4699,11 @@
       "code": "7900415250454",
       "name": "Moletom oversized rosa LP M",
       "price": 463
+    },
+    "7900415352103": {
+      "code": "7900415352103",
+      "name": "Moletom decote v rose LP pp",
+      "price": 587
     }
   },
   "clients": {
@@ -14585,5 +14590,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:44:29.359Z"
+  "savedAt": "2026-07-28T17:45:06.288Z"
 }
