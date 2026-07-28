@@ -6320,19 +6320,6 @@
       "total": 13152.399999999992,
       "status": "waiting"
     },
-    "c_1784237432107": {
-      "clientId": "c_1784237432107",
-      "items": {
-        "7890171615232": {
-          "code": "7890171615232",
-          "name": "Regata canelada marrom AG M",
-          "price": 159,
-          "qty": 1
-        }
-      },
-      "total": 159,
-      "status": "waiting"
-    },
     "c_1785260669357": {
       "clientId": "c_1785260669357",
       "items": {
@@ -6489,6 +6476,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784237432107",
+      "clientName": "Fernanda Prima",
+      "clientPhone": "",
+      "items": {
+        "7890171615232": {
+          "code": "7890171615232",
+          "name": "Regata canelada marrom AG M",
+          "price": 159,
+          "qty": 1
+        }
+      },
+      "total": 159,
+      "closedAt": "2026-07-28T20:25:29.392Z"
+    },
     {
       "clientId": "c_1785176191516",
       "clientName": "Claudete sogra",
@@ -14948,5 +14950,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T20:25:26.847Z"
+  "savedAt": "2026-07-28T20:25:30.472Z"
 }
