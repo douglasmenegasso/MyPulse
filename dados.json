@@ -6248,9 +6248,15 @@
           "name": "T-shirt off estampa azul marinho LP M",
           "price": 243,
           "qty": 1
+        },
+        "7900415162405": {
+          "code": "7900415162405",
+          "name": "Calça jeans mom azul LP 38",
+          "price": 417,
+          "qty": 1
         }
       },
-      "total": 4333,
+      "total": 4750,
       "status": "open"
     }
   },
@@ -14661,5 +14667,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:54:29.415Z"
+  "savedAt": "2026-07-28T17:54:46.556Z"
 }
