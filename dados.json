@@ -6323,12 +6323,6 @@
     "c_1784237432107": {
       "clientId": "c_1784237432107",
       "items": {
-        "7909746620486": {
-          "code": "7909746620486",
-          "name": "Regata canelada marrom DT g",
-          "price": 199,
-          "qty": 1
-        },
         "7890171615232": {
           "code": "7890171615232",
           "name": "Regata canelada marrom AG M",
@@ -6336,8 +6330,8 @@
           "qty": 1
         }
       },
-      "total": 358,
-      "status": "open"
+      "total": 159,
+      "status": "waiting"
     },
     "c_1785260669357": {
       "clientId": "c_1785260669357",
@@ -12879,6 +12873,13 @@
         "price": 369,
         "qty": 1,
         "lastAt": "2026-07-23T17:17:21.476Z"
+      },
+      "7909746620486": {
+        "code": "7909746620486",
+        "name": "Regata canelada marrom DT g",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-07-28T20:25:26.035Z"
       }
     },
     "c_1784135024747": {
@@ -14947,5 +14948,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T20:25:23.137Z"
+  "savedAt": "2026-07-28T20:25:26.847Z"
 }
