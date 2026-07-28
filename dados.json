@@ -6242,9 +6242,15 @@
           "name": "Pijama short doll erica cinza DT P",
           "price": 389,
           "qty": 1
+        },
+        "7900415302948": {
+          "code": "7900415302948",
+          "name": "T-shirt off estampa azul marinho LP M",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 4090,
+      "total": 4333,
       "status": "open"
     }
   },
@@ -14655,5 +14661,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:54:00.440Z"
+  "savedAt": "2026-07-28T17:54:29.415Z"
 }
