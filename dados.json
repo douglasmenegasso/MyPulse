@@ -5544,15 +5544,9 @@
           "name": "Shorts moletom marrom LP P",
           "price": 297,
           "qty": 1
-        },
-        "7909746639136": {
-          "code": "7909746639136",
-          "name": "Vestido franzido marrom com bege DT P",
-          "price": 469,
-          "qty": 1
         }
       },
-      "total": 925,
+      "total": 456,
       "status": "open"
     },
     "41996113214": {
@@ -14538,6 +14532,13 @@
         "price": 279,
         "qty": 1,
         "lastAt": "2026-07-28T16:39:53.757Z"
+      },
+      "7909746639136": {
+        "code": "7909746639136",
+        "name": "Vestido franzido marrom com bege DT P",
+        "price": 469,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:39:58.641Z"
       }
     }
   },
@@ -14546,5 +14547,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:39:53.759Z"
+  "savedAt": "2026-07-28T16:39:58.642Z"
 }
