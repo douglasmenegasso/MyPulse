@@ -5375,9 +5375,15 @@
           "name": "Regata um ombro off AG M",
           "price": 288,
           "qty": 1
+        },
+        "7900415166106": {
+          "code": "7900415166106",
+          "name": "Shorts camurça caramelo LP M",
+          "price": 723,
+          "qty": 1
         }
       },
-      "total": 4126.400000000001,
+      "total": 4849.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14783,5 +14789,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:44:57.551Z"
+  "savedAt": "2026-07-28T18:45:11.327Z"
 }
