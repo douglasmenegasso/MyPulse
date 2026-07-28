@@ -5575,12 +5575,6 @@
           "price": 463,
           "qty": 1
         },
-        "7900415284411": {
-          "code": "7900415284411",
-          "name": "Vestido curto de alça canelado preto LP M",
-          "price": 397,
-          "qty": 1
-        },
         "7909746639136": {
           "code": "7909746639136",
           "name": "Vestido franzido marrom com bege DT P",
@@ -5588,7 +5582,7 @@
           "qty": 1
         }
       },
-      "total": 3243,
+      "total": 2846,
       "status": "open"
     },
     "41996113214": {
@@ -14532,6 +14526,13 @@
         "price": 443,
         "qty": 1,
         "lastAt": "2026-07-28T16:38:33.671Z"
+      },
+      "7900415284411": {
+        "code": "7900415284411",
+        "name": "Vestido curto de alça canelado preto LP M",
+        "price": 397,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:38:43.292Z"
       }
     }
   },
@@ -14540,5 +14541,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:38:33.673Z"
+  "savedAt": "2026-07-28T16:38:43.294Z"
 }
