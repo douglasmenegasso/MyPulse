@@ -5545,12 +5545,6 @@
           "price": 297,
           "qty": 1
         },
-        "7900415348397": {
-          "code": "7900415348397",
-          "name": "Calça sarja baggy caramelo LP 36",
-          "price": 673,
-          "qty": 1
-        },
         "7909746615857": {
           "code": "7909746615857",
           "name": "Regata alça fina preta DT M",
@@ -5570,7 +5564,7 @@
           "qty": 1
         }
       },
-      "total": 2340,
+      "total": 1667,
       "status": "open"
     },
     "41996113214": {
@@ -14535,6 +14529,13 @@
         "price": 243,
         "qty": 1,
         "lastAt": "2026-07-28T16:39:16.226Z"
+      },
+      "7900415348397": {
+        "code": "7900415348397",
+        "name": "Calça sarja baggy caramelo LP 36",
+        "price": 673,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:39:32.441Z"
       }
     }
   },
@@ -14543,5 +14544,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:39:16.227Z"
+  "savedAt": "2026-07-28T16:39:32.442Z"
 }
