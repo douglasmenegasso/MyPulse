@@ -6184,8 +6184,15 @@
     },
     "c_1785260669357": {
       "clientId": "c_1785260669357",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7900415352103": {
+          "code": "7900415352103",
+          "name": "Moletom decote v rose LP pp",
+          "price": 587,
+          "qty": 1
+        }
+      },
+      "total": 587,
       "status": "open"
     }
   },
@@ -14596,5 +14603,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:45:09.647Z"
+  "savedAt": "2026-07-28T17:45:14.205Z"
 }
