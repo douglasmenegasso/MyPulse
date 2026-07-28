@@ -6236,9 +6236,15 @@
           "name": "Pijama short doll bege com off DT M",
           "price": 439,
           "qty": 1
+        },
+        "7909746670924": {
+          "code": "7909746670924",
+          "name": "Pijama short doll erica cinza DT P",
+          "price": 389,
+          "qty": 1
         }
       },
-      "total": 3701,
+      "total": 4090,
       "status": "open"
     }
   },
@@ -14649,5 +14655,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:53:51.737Z"
+  "savedAt": "2026-07-28T17:54:00.440Z"
 }
