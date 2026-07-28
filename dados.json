@@ -5293,9 +5293,15 @@
           "name": "Tênis caramelo Lp 37",
           "price": 497,
           "qty": 1
+        },
+        "7900415110284": {
+          "code": "7900415110284",
+          "name": "Copo térmico preto com off LP",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 497,
+      "total": 694,
       "status": "open"
     },
     "c_1783444825678": {
@@ -14701,5 +14707,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T18:40:34.873Z"
+  "savedAt": "2026-07-28T18:40:44.544Z"
 }
