@@ -6038,9 +6038,15 @@
           "name": "Top nadador marrom elástico azul AG g",
           "price": 289,
           "qty": 1
+        },
+        "7900415110284": {
+          "code": "7900415110284",
+          "name": "Copo térmico preto com off LP",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 13773.899999999994,
+      "total": 13970.899999999994,
       "status": "open"
     },
     "c_1785176035223": {
@@ -14921,5 +14927,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T19:55:09.858Z"
+  "savedAt": "2026-07-28T19:55:17.458Z"
 }
