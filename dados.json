@@ -5295,8 +5295,15 @@
     },
     "c_1783623370358": {
       "clientId": "c_1783623370358",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7909746615857": {
+          "code": "7909746615857",
+          "name": "Regata alça fina preta DT M",
+          "price": 279,
+          "qty": 1
+        }
+      },
+      "total": 279,
       "status": "open"
     },
     "c_1783624643893": {
@@ -14878,5 +14885,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T19:33:37.021Z"
+  "savedAt": "2026-07-28T19:33:56.636Z"
 }
