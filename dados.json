@@ -6254,9 +6254,15 @@
           "name": "Calça jeans mom azul LP 38",
           "price": 417,
           "qty": 1
+        },
+        "7900415157470": {
+          "code": "7900415157470",
+          "name": "Calça jeans mol azul LP 36",
+          "price": 417,
+          "qty": 1
         }
       },
-      "total": 4750,
+      "total": 5167,
       "status": "open"
     }
   },
@@ -14667,5 +14673,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T17:54:46.556Z"
+  "savedAt": "2026-07-28T17:55:02.977Z"
 }
