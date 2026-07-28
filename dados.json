@@ -6042,19 +6042,6 @@
       "total": 508,
       "status": "waiting"
     },
-    "c_1785176191516": {
-      "clientId": "c_1785176191516",
-      "items": {
-        "03403620243": {
-          "code": "03403620243",
-          "name": "Legging canelada preta MeC g",
-          "price": 299,
-          "qty": 1
-        }
-      },
-      "total": 299,
-      "status": "waiting"
-    },
     "c_1785180680259": {
       "clientId": "c_1785180680259",
       "items": {
@@ -6508,6 +6495,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1785176191516",
+      "clientName": "Claudete sogra",
+      "clientPhone": "",
+      "items": {
+        "03403620243": {
+          "code": "03403620243",
+          "name": "Legging canelada preta MeC g",
+          "price": 299,
+          "qty": 1
+        }
+      },
+      "total": 299,
+      "closedAt": "2026-07-28T20:25:12.255Z"
+    },
     {
       "clientId": "c_1784912723786",
       "clientName": "Janete Deyse",
@@ -14945,5 +14947,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T20:24:59.733Z"
+  "savedAt": "2026-07-28T20:25:12.257Z"
 }
