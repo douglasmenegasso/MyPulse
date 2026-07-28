@@ -5533,12 +5533,6 @@
     "c_1784915787114": {
       "clientId": "c_1784915787114",
       "items": {
-        "7900415154004": {
-          "code": "7900415154004",
-          "name": "Shorts saia marrom LP pp",
-          "price": 443,
-          "qty": 1
-        },
         "7890171615232": {
           "code": "7890171615232",
           "name": "Regata canelada marrom AG M",
@@ -5594,7 +5588,7 @@
           "qty": 1
         }
       },
-      "total": 3686,
+      "total": 3243,
       "status": "open"
     },
     "41996113214": {
@@ -14531,6 +14525,13 @@
         "price": 443,
         "qty": 1,
         "lastAt": "2026-07-28T16:37:53.393Z"
+      },
+      "7900415154004": {
+        "code": "7900415154004",
+        "name": "Shorts saia marrom LP pp",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-07-28T16:38:33.671Z"
       }
     }
   },
@@ -14539,5 +14540,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-28T16:38:01.969Z"
+  "savedAt": "2026-07-28T16:38:33.673Z"
 }
