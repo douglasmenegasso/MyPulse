@@ -5454,19 +5454,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1784221698831": {
-      "clientId": "c_1784221698831",
-      "items": {
-        "7901072469722": {
-          "code": "7901072469722",
-          "name": "Jaqueta bomber marrom live M",
-          "price": 549.9,
-          "qty": 1
-        }
-      },
-      "total": 549.9000000000001,
-      "status": "open"
-    },
     "c_1784049002709": {
       "clientId": "c_1784049002709",
       "items": {
@@ -6433,6 +6420,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784221698831",
+      "clientName": "Jaque salão",
+      "clientPhone": "",
+      "items": {
+        "7901072469722": {
+          "code": "7901072469722",
+          "name": "Jaqueta bomber marrom live M",
+          "price": 549.9,
+          "qty": 1
+        }
+      },
+      "total": 549.9000000000001,
+      "closedAt": "2026-07-29T19:48:14.495Z"
+    },
     {
       "clientId": "c_1779821818362",
       "clientName": "Janaína Loren",
@@ -14978,5 +14980,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:48:11.151Z"
+  "savedAt": "2026-07-29T19:48:14.497Z"
 }
