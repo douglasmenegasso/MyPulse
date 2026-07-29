@@ -5457,18 +5457,6 @@
     "c_1784221698831": {
       "clientId": "c_1784221698831",
       "items": {
-        "7890171643488": {
-          "code": "7890171643488",
-          "name": "Jaqueta esportiva bege AG P",
-          "price": 449,
-          "qty": 1
-        },
-        "7909746646530": {
-          "code": "7909746646530",
-          "name": "Jaqueta flex corta v vento bege DT M",
-          "price": 699,
-          "qty": 1
-        },
         "7901072469722": {
           "code": "7901072469722",
           "name": "Jaqueta bomber marrom live M",
@@ -5476,7 +5464,7 @@
           "qty": 1
         }
       },
-      "total": 1697.9,
+      "total": 549.9000000000001,
       "status": "open"
     },
     "c_1784049002709": {
@@ -13921,6 +13909,20 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-07-29T19:48:08.149Z"
+      },
+      "7909746646530": {
+        "code": "7909746646530",
+        "name": "Jaqueta flex corta v vento bege DT M",
+        "price": 699,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:48:10.184Z"
+      },
+      "7890171643488": {
+        "code": "7890171643488",
+        "name": "Jaqueta esportiva bege AG P",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:48:11.149Z"
       }
     },
     "c_1784568449324": {
@@ -14976,5 +14978,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:48:08.151Z"
+  "savedAt": "2026-07-29T19:48:11.151Z"
 }
