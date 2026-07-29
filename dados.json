@@ -6180,12 +6180,6 @@
     "c_1785260669357": {
       "clientId": "c_1785260669357",
       "items": {
-        "7900415166113": {
-          "code": "7900415166113",
-          "name": "Shorts couro sintético caramelo LP P",
-          "price": 723,
-          "qty": 1
-        },
         "7900415348397": {
           "code": "7900415348397",
           "name": "Calça sarja baggy caramelo LP 36",
@@ -6217,7 +6211,7 @@
           "qty": 1
         }
       },
-      "total": 2736,
+      "total": 2013,
       "status": "open"
     },
     "41991536747": {
@@ -14990,6 +14984,13 @@
         "price": 463,
         "qty": 1,
         "lastAt": "2026-07-29T20:14:24.821Z"
+      },
+      "7900415166113": {
+        "code": "7900415166113",
+        "name": "Shorts couro sintético caramelo LP P",
+        "price": 723,
+        "qty": 1,
+        "lastAt": "2026-07-29T20:14:25.995Z"
       }
     }
   },
@@ -14998,5 +14999,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T20:14:24.823Z"
+  "savedAt": "2026-07-29T20:14:29.080Z"
 }
