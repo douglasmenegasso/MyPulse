@@ -6177,37 +6177,6 @@
       "total": 13152.399999999992,
       "status": "waiting"
     },
-    "c_1785260669357": {
-      "clientId": "c_1785260669357",
-      "items": {
-        "7900415348397": {
-          "code": "7900415348397",
-          "name": "Calça sarja baggy caramelo LP 36",
-          "price": 673,
-          "qty": 1
-        },
-        "7900292841448": {
-          "code": "7900292841448",
-          "name": "Regata off com bege lp P",
-          "price": 263,
-          "qty": 1
-        },
-        "7900415302948": {
-          "code": "7900415302948",
-          "name": "T-shirt off estampa azul marinho LP M",
-          "price": 243,
-          "qty": 1
-        },
-        "7900415157470": {
-          "code": "7900415157470",
-          "name": "Calça jeans mol azul LP 36",
-          "price": 417,
-          "qty": 1
-        }
-      },
-      "total": 1596,
-      "status": "waiting"
-    },
     "41991536747": {
       "clientId": "41991536747",
       "items": {
@@ -6298,6 +6267,39 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1785260669357",
+      "clientName": "Mariana Murilo",
+      "clientPhone": "",
+      "items": {
+        "7900415348397": {
+          "code": "7900415348397",
+          "name": "Calça sarja baggy caramelo LP 36",
+          "price": 673,
+          "qty": 1
+        },
+        "7900292841448": {
+          "code": "7900292841448",
+          "name": "Regata off com bege lp P",
+          "price": 263,
+          "qty": 1
+        },
+        "7900415302948": {
+          "code": "7900415302948",
+          "name": "T-shirt off estampa azul marinho LP M",
+          "price": 243,
+          "qty": 1
+        },
+        "7900415157470": {
+          "code": "7900415157470",
+          "name": "Calça jeans mol azul LP 36",
+          "price": 417,
+          "qty": 1
+        }
+      },
+      "total": 1596,
+      "closedAt": "2026-07-29T20:14:50.463Z"
+    },
     {
       "clientId": "c_1784221698831",
       "clientName": "Jaque salão",
@@ -15000,5 +15002,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T20:14:49.507Z"
+  "savedAt": "2026-07-29T20:14:53.410Z"
 }
