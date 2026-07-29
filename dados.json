@@ -5298,15 +5298,8 @@
     },
     "c_1783623370358": {
       "clientId": "c_1783623370358",
-      "items": {
-        "7900415146900": {
-          "code": "7900415146900",
-          "name": "Shorts saia com bolsos preto LP P",
-          "price": 597,
-          "qty": 1
-        }
-      },
-      "total": 597,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1783624643893": {
@@ -10657,6 +10650,13 @@
         "price": 279,
         "qty": 1,
         "lastAt": "2026-07-29T19:50:35.782Z"
+      },
+      "7900415146900": {
+        "code": "7900415146900",
+        "name": "Shorts saia com bolsos preto LP P",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:50:36.404Z"
       }
     },
     "41991536747": {
@@ -14990,5 +14990,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:50:35.784Z"
+  "savedAt": "2026-07-29T19:50:40.581Z"
 }
