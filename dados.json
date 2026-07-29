@@ -6180,12 +6180,6 @@
     "c_1785260669357": {
       "clientId": "c_1785260669357",
       "items": {
-        "7900415352103": {
-          "code": "7900415352103",
-          "name": "Moletom decote v rose LP pp",
-          "price": 587,
-          "qty": 1
-        },
         "7900415199289": {
           "code": "7900415199289",
           "name": "Calça balloon de moletom rosa LP pp",
@@ -6216,18 +6210,6 @@
           "price": 263,
           "qty": 1
         },
-        "7909746661441": {
-          "code": "7909746661441",
-          "name": "Pijama short doll bege com off DT M",
-          "price": 439,
-          "qty": 1
-        },
-        "7909746670924": {
-          "code": "7909746670924",
-          "name": "Pijama short doll erica cinza DT P",
-          "price": 389,
-          "qty": 1
-        },
         "7900415302948": {
           "code": "7900415302948",
           "name": "T-shirt off estampa azul marinho LP M",
@@ -6247,7 +6229,7 @@
           "qty": 1
         }
       },
-      "total": 5167,
+      "total": 3752,
       "status": "open"
     },
     "41991536747": {
@@ -14985,6 +14967,27 @@
         "price": 319,
         "qty": 1,
         "lastAt": "2026-07-29T20:14:17.021Z"
+      },
+      "7909746670924": {
+        "code": "7909746670924",
+        "name": "Pijama short doll erica cinza DT P",
+        "price": 389,
+        "qty": 1,
+        "lastAt": "2026-07-29T20:14:18.838Z"
+      },
+      "7909746661441": {
+        "code": "7909746661441",
+        "name": "Pijama short doll bege com off DT M",
+        "price": 439,
+        "qty": 1,
+        "lastAt": "2026-07-29T20:14:19.680Z"
+      },
+      "7900415352103": {
+        "code": "7900415352103",
+        "name": "Moletom decote v rose LP pp",
+        "price": 587,
+        "qty": 1,
+        "lastAt": "2026-07-29T20:14:22.079Z"
       }
     }
   },
@@ -14993,5 +14996,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T20:14:18.365Z"
+  "savedAt": "2026-07-29T20:14:22.080Z"
 }
