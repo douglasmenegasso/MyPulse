@@ -6245,15 +6245,9 @@
           "name": "Calça jeans mol azul LP 36",
           "price": 417,
           "qty": 1
-        },
-        "7909746665470": {
-          "code": "7909746665470",
-          "name": "Pijama serenity curto verde claro DT P",
-          "price": 319,
-          "qty": 1
         }
       },
-      "total": 5486,
+      "total": 5167,
       "status": "open"
     },
     "41991536747": {
@@ -14983,6 +14977,15 @@
         "qty": 4,
         "lastAt": "2026-07-28T20:17:31.890Z"
       }
+    },
+    "c_1785260669357": {
+      "7909746665470": {
+        "code": "7909746665470",
+        "name": "Pijama serenity curto verde claro DT P",
+        "price": 319,
+        "qty": 1,
+        "lastAt": "2026-07-29T20:14:17.021Z"
+      }
     }
   },
   "security": {
@@ -14990,5 +14993,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T20:14:14.568Z"
+  "savedAt": "2026-07-29T20:14:18.365Z"
 }
