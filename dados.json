@@ -6180,18 +6180,6 @@
     "c_1785260669357": {
       "clientId": "c_1785260669357",
       "items": {
-        "7900415199289": {
-          "code": "7900415199289",
-          "name": "Calça balloon de moletom rosa LP pp",
-          "price": 553,
-          "qty": 1
-        },
-        "7900415277154": {
-          "code": "7900415277154",
-          "name": "Moletom over off LP P",
-          "price": 463,
-          "qty": 1
-        },
         "7900415166113": {
           "code": "7900415166113",
           "name": "Shorts couro sintético caramelo LP P",
@@ -6229,7 +6217,7 @@
           "qty": 1
         }
       },
-      "total": 3752,
+      "total": 2736,
       "status": "open"
     },
     "41991536747": {
@@ -14988,6 +14976,20 @@
         "price": 587,
         "qty": 1,
         "lastAt": "2026-07-29T20:14:22.079Z"
+      },
+      "7900415199289": {
+        "code": "7900415199289",
+        "name": "Calça balloon de moletom rosa LP pp",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-29T20:14:23.471Z"
+      },
+      "7900415277154": {
+        "code": "7900415277154",
+        "name": "Moletom over off LP P",
+        "price": 463,
+        "qty": 1,
+        "lastAt": "2026-07-29T20:14:24.821Z"
       }
     }
   },
@@ -14996,5 +14998,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T20:14:22.080Z"
+  "savedAt": "2026-07-29T20:14:24.823Z"
 }
