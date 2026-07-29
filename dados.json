@@ -5486,27 +5486,9 @@
           "name": "Jaqueta bomber marrom live M",
           "price": 549.9,
           "qty": 1
-        },
-        "7900292753918": {
-          "code": "7900292753918",
-          "name": "Moletom ursinho bege LP M",
-          "price": 373,
-          "qty": 1
-        },
-        "7900415002688": {
-          "code": "7900415002688",
-          "name": "Calça wide leg marrom LP M",
-          "price": 563,
-          "qty": 1
-        },
-        "7900292610075": {
-          "code": "7900292610075",
-          "name": "T-shirt off estampa ursinho Lp g",
-          "price": 243,
-          "qty": 1
         }
       },
-      "total": 4076.7000000000003,
+      "total": 2897.7000000000003,
       "status": "open"
     },
     "c_1784049002709": {
@@ -13886,8 +13868,8 @@
         "code": "7900292610075",
         "name": "T-shirt off estampa ursinho Lp g",
         "price": 243,
-        "qty": 1,
-        "lastAt": "2026-07-23T17:19:12.263Z"
+        "qty": 2,
+        "lastAt": "2026-07-29T19:48:03.172Z"
       },
       "7909746620837": {
         "code": "7909746620837",
@@ -13928,8 +13910,15 @@
         "code": "7900292753918",
         "name": "Moletom ursinho bege LP M",
         "price": 373,
+        "qty": 2,
+        "lastAt": "2026-07-29T19:48:04.733Z"
+      },
+      "7900415002688": {
+        "code": "7900415002688",
+        "name": "Calça wide leg marrom LP M",
+        "price": 563,
         "qty": 1,
-        "lastAt": "2026-07-27T18:55:55.277Z"
+        "lastAt": "2026-07-29T19:48:03.892Z"
       }
     },
     "c_1784568449324": {
@@ -14985,5 +14974,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:48:02.206Z"
+  "savedAt": "2026-07-29T19:48:04.734Z"
 }
