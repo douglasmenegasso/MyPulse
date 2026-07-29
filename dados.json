@@ -5430,9 +5430,15 @@
           "name": "T-shirt over preta espírita off Lp M",
           "price": 243,
           "qty": 1
+        },
+        "7900415286941": {
+          "code": "7900415286941",
+          "name": "T-shirt off com rosa LP g",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 7131.400000000001,
+      "total": 7374.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -15002,5 +15008,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T20:45:13.650Z"
+  "savedAt": "2026-07-29T20:45:17.576Z"
 }
