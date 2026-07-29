@@ -6028,25 +6028,6 @@
       "total": 13970.899999999994,
       "status": "waiting"
     },
-    "c_1785176035223": {
-      "clientId": "c_1785176035223",
-      "items": {
-        "03503245910": {
-          "code": "03503245910",
-          "name": "Top canelado com zíper bordo MeC g",
-          "price": 209,
-          "qty": 1
-        },
-        "03403625910": {
-          "code": "03403625910",
-          "name": "Legging canelada bordo MeC g",
-          "price": 299,
-          "qty": 1
-        }
-      },
-      "total": 508,
-      "status": "waiting"
-    },
     "c_1785180680259": {
       "clientId": "c_1785180680259",
       "items": {
@@ -6507,6 +6488,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1785176035223",
+      "clientName": "Emili cunhada",
+      "clientPhone": "",
+      "items": {
+        "03503245910": {
+          "code": "03503245910",
+          "name": "Top canelado com zíper bordo MeC g",
+          "price": 209,
+          "qty": 1
+        },
+        "03403625910": {
+          "code": "03403625910",
+          "name": "Legging canelada bordo MeC g",
+          "price": 299,
+          "qty": 1
+        }
+      },
+      "total": 508,
+      "closedAt": "2026-07-29T19:15:56.189Z"
+    },
     {
       "clientId": "c_1784237432107",
       "clientName": "Fernanda Prima",
@@ -14981,5 +14983,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:15:49.377Z"
+  "savedAt": "2026-07-29T19:15:56.192Z"
 }
