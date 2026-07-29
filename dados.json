@@ -5456,27 +5456,8 @@
     },
     "c_1784049002709": {
       "clientId": "c_1784049002709",
-      "items": {
-        "7901072485869": {
-          "code": "7901072485869",
-          "name": "Legging fuso tex marrom live M",
-          "price": 359.9,
-          "qty": 1
-        },
-        "7901072486439": {
-          "code": "7901072486439",
-          "name": "Top tex marrom live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "014036259100": {
-          "code": "014036259100",
-          "name": "Calça canelada preta flare movimento P",
-          "price": 298,
-          "qty": 1
-        }
-      },
-      "total": 937.8,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c1779306442215": {
@@ -12672,6 +12653,27 @@
         "price": 299,
         "qty": 1,
         "lastAt": "2026-07-27T20:23:15.077Z"
+      },
+      "014036259100": {
+        "code": "014036259100",
+        "name": "Calça canelada preta flare movimento P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:48:25.639Z"
+      },
+      "7901072486439": {
+        "code": "7901072486439",
+        "name": "Top tex marrom live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:48:25.760Z"
+      },
+      "7901072485869": {
+        "code": "7901072485869",
+        "name": "Legging fuso tex marrom live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:48:25.883Z"
       }
     },
     "c_1784237432107": {
@@ -14980,5 +14982,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:48:24.781Z"
+  "savedAt": "2026-07-29T19:48:28.771Z"
 }
