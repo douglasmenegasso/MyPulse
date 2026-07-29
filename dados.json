@@ -5469,12 +5469,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "7890171655405": {
-          "code": "7890171655405",
-          "name": "T-shirt off com detalhes marrom AG M",
-          "price": 259,
-          "qty": 1
-        },
         "7890171645659": {
           "code": "7890171645659",
           "name": "Legging canelada brilhosa marrom AG P",
@@ -5626,7 +5620,7 @@
           "qty": 1
         }
       },
-      "total": 7291.5999999999985,
+      "total": 7032.5999999999985,
       "status": "open"
     },
     "41996113214": {
@@ -8275,6 +8269,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-29T19:49:48.010Z"
+      },
+      "7890171655405": {
+        "code": "7890171655405",
+        "name": "T-shirt off com detalhes marrom AG M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:49:50.754Z"
       }
     },
     "41991098260": {
@@ -14988,5 +14989,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:49:48.011Z"
+  "savedAt": "2026-07-29T19:49:50.755Z"
 }
