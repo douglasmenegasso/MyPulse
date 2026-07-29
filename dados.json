@@ -5469,24 +5469,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "7901072486439": {
-          "code": "7901072486439",
-          "name": "Top tex marrom live M",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7901128603193": {
-          "code": "7901128603193",
-          "name": "Legging marrom live symbol M",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901128603032": {
-          "code": "7901128603032",
-          "name": "Top estampa marrom live symbol M",
-          "price": 239.9,
-          "qty": 1
-        },
         "7901072454346": {
           "code": "7901072454346",
           "name": "Macacão allure adaptiv marrom live M",
@@ -5656,7 +5638,7 @@
           "qty": 1
         }
       },
-      "total": 8791.099999999997,
+      "total": 7941.399999999998,
       "status": "open"
     },
     "41996113214": {
@@ -8270,6 +8252,27 @@
         "price": 359.9,
         "qty": 1,
         "lastAt": "2026-07-29T19:49:38.215Z"
+      },
+      "7901072486439": {
+        "code": "7901072486439",
+        "name": "Top tex marrom live M",
+        "price": 279.9,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:49:39.083Z"
+      },
+      "7901128603193": {
+        "code": "7901128603193",
+        "name": "Legging marrom live symbol M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:49:40.076Z"
+      },
+      "7901128603032": {
+        "code": "7901128603032",
+        "name": "Top estampa marrom live symbol M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:49:41.768Z"
       }
     },
     "41991098260": {
@@ -14983,5 +14986,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:49:38.217Z"
+  "savedAt": "2026-07-29T19:49:41.771Z"
 }
