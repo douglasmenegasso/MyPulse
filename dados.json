@@ -5436,9 +5436,15 @@
           "name": "T-shirt off com rosa LP g",
           "price": 243,
           "qty": 1
+        },
+        "7900415162405": {
+          "code": "7900415162405",
+          "name": "Calça jeans mom azul LP 38",
+          "price": 417,
+          "qty": 1
         }
       },
-      "total": 7374.400000000001,
+      "total": 7791.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -15008,5 +15014,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T20:45:17.576Z"
+  "savedAt": "2026-07-29T20:45:28.106Z"
 }
