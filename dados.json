@@ -6472,9 +6472,13 @@
       },
       "total": 197,
       "status": "waiting"
-    },
-    "c_1779821818362": {
+    }
+  },
+  "closed": [
+    {
       "clientId": "c_1779821818362",
+      "clientName": "Janaína Loren",
+      "clientPhone": "",
       "items": {
         "7900415110284": {
           "code": "7900415110284",
@@ -6484,10 +6488,8 @@
         }
       },
       "total": 197,
-      "status": "waiting"
-    }
-  },
-  "closed": [
+      "closedAt": "2026-07-29T19:16:12.477Z"
+    },
     {
       "clientId": "c_1785176035223",
       "clientName": "Emili cunhada",
@@ -14983,5 +14985,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:15:56.192Z"
+  "savedAt": "2026-07-29T19:16:12.479Z"
 }
