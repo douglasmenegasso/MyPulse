@@ -5299,12 +5299,6 @@
     "c_1783623370358": {
       "clientId": "c_1783623370358",
       "items": {
-        "7909746615857": {
-          "code": "7909746615857",
-          "name": "Regata alça fina preta DT M",
-          "price": 279,
-          "qty": 1
-        },
         "7900415146900": {
           "code": "7900415146900",
           "name": "Shorts saia com bolsos preto LP P",
@@ -5312,7 +5306,7 @@
           "qty": 1
         }
       },
-      "total": 876,
+      "total": 597,
       "status": "open"
     },
     "c_1783624643893": {
@@ -10656,6 +10650,13 @@
         "price": 397,
         "qty": 1,
         "lastAt": "2026-07-27T18:27:24.625Z"
+      },
+      "7909746615857": {
+        "code": "7909746615857",
+        "name": "Regata alça fina preta DT M",
+        "price": 279,
+        "qty": 1,
+        "lastAt": "2026-07-29T19:50:35.782Z"
       }
     },
     "41991536747": {
@@ -14989,5 +14990,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-29T19:50:24.375Z"
+  "savedAt": "2026-07-29T19:50:35.784Z"
 }
