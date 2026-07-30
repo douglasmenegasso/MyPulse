@@ -6345,9 +6345,15 @@
           "name": "Jaqueta seamless preto live M",
           "price": 649.9,
           "qty": 1
+        },
+        "7908754514282": {
+          "code": "7908754514282",
+          "name": "Legging icon preta live M",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 2235.7,
+      "total": 2555.6,
       "status": "open"
     }
   },
@@ -15666,5 +15672,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:35:31.878Z"
+  "savedAt": "2026-07-30T20:35:39.485Z"
 }
