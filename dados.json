@@ -6116,27 +6116,6 @@
   },
   "closed": [
     {
-      "clientId": "c1779306442215",
-      "clientName": "Kharina Dario ",
-      "clientPhone": "",
-      "items": {
-        "7908931949012": {
-          "code": "7908931949012",
-          "name": "Legging allure azul petróleo live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7890171645659": {
-          "code": "7890171645659",
-          "name": "Legging canelada brilhosa marrom AG P",
-          "price": 319,
-          "qty": 1
-        }
-      },
-      "total": 638.9000000000002,
-      "closedAt": "2026-07-30T17:35:25.167Z"
-    },
-    {
       "clientId": "c_1785260669357",
       "clientName": "Mariana Murilo",
       "clientPhone": "",
@@ -15074,5 +15053,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:36:44.531Z"
+  "savedAt": "2026-07-30T17:37:13.051Z"
 }
