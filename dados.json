@@ -6278,9 +6278,15 @@
           "name": "Top curve alllure preto live P",
           "price": 199.9,
           "qty": 1
+        },
+        "7890171656068": {
+          "code": "7890171656068",
+          "name": "Regata de tule preto AG P",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 12560.299999999997,
+      "total": 12779.299999999997,
       "status": "open"
     }
   },
@@ -15583,5 +15589,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T19:00:43.771Z"
+  "savedAt": "2026-07-30T19:01:10.219Z"
 }
