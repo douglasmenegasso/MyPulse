@@ -6052,9 +6052,15 @@
           "name": "Legging marrom live symbol P",
           "price": 329.9,
           "qty": 1
+        },
+        "7901128603049": {
+          "code": "7901128603049",
+          "name": "Top nadador marrom live symbol P",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 1979.4,
+      "total": 2219.3,
       "status": "open"
     }
   },
@@ -15357,5 +15363,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:44:37.134Z"
+  "savedAt": "2026-07-30T18:45:14.434Z"
 }
