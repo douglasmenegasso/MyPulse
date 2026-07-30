@@ -5504,12 +5504,6 @@
           "price": 319,
           "qty": 1
         },
-        "7908835858724": {
-          "code": "7908835858724",
-          "name": "Top curve azul claro live M",
-          "price": 189.9,
-          "qty": 1
-        },
         "7908990975373": {
           "code": "7908990975373",
           "name": "Cropped soft off live M",
@@ -5523,7 +5517,7 @@
           "qty": 1
         }
       },
-      "total": 1326.7000000000003,
+      "total": 1136.8000000000002,
       "status": "open"
     },
     "41996113214": {
@@ -8249,6 +8243,13 @@
         "price": 209,
         "qty": 1,
         "lastAt": "2026-07-30T17:34:47.619Z"
+      },
+      "7908835858724": {
+        "code": "7908835858724",
+        "name": "Top curve azul claro live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:34:56.818Z"
       }
     },
     "41991098260": {
@@ -15069,5 +15070,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:34:47.620Z"
+  "savedAt": "2026-07-30T17:34:56.820Z"
 }
