@@ -5489,25 +5489,6 @@
       "total": 0,
       "status": "open"
     },
-    "41996113214": {
-      "clientId": "41996113214",
-      "items": {
-        "7900292900619": {
-          "code": "7900292900619",
-          "name": "Vestido com zíper mídi marrom LP P",
-          "price": 493,
-          "qty": 1
-        },
-        "7900415110284": {
-          "code": "7900415110284",
-          "name": "Copo térmico preto com off LP",
-          "price": 197,
-          "qty": 1
-        }
-      },
-      "total": 690.0000000000009,
-      "status": "waiting"
-    },
     "c_1785180680259": {
       "clientId": "c_1785180680259",
       "items": {
@@ -5851,6 +5832,27 @@
     }
   },
   "closed": [
+    {
+      "clientId": "41996113214",
+      "clientName": "Ana Carla",
+      "clientPhone": "41996113214",
+      "items": {
+        "7900292900619": {
+          "code": "7900292900619",
+          "name": "Vestido com zíper mídi marrom LP P",
+          "price": 493,
+          "qty": 1
+        },
+        "7900415110284": {
+          "code": "7900415110284",
+          "name": "Copo térmico preto com off LP",
+          "price": 197,
+          "qty": 1
+        }
+      },
+      "total": 690.0000000000009,
+      "closedAt": "2026-07-30T17:42:05.630Z"
+    },
     {
       "clientId": "c1779306442215",
       "clientName": "Kharina Dario ",
@@ -15119,5 +15121,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:58.577Z"
+  "savedAt": "2026-07-30T17:42:05.631Z"
 }
