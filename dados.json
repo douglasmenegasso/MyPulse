@@ -6122,9 +6122,15 @@
           "name": "Jaqueta esportiva bege AG P",
           "price": 449,
           "qty": 1
+        },
+        "7901072421478": {
+          "code": "7901072421478",
+          "name": "Legging camuflada verde live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 5579.200000000001,
+      "total": 5979.1,
       "status": "open"
     }
   },
@@ -15427,5 +15433,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:48:31.923Z"
+  "savedAt": "2026-07-30T18:48:35.617Z"
 }
