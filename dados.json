@@ -6423,9 +6423,15 @@
           "name": "Regata canelada com elástico verde Lp P",
           "price": 297,
           "qty": 1
+        },
+        "7900415277796": {
+          "code": "7900415277796",
+          "name": "Shorts saia jeans azul LP 36",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 6454.2,
+      "total": 6897.2,
       "status": "open"
     }
   },
@@ -15744,5 +15750,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:37:38.892Z"
+  "savedAt": "2026-07-30T20:37:51.254Z"
 }
