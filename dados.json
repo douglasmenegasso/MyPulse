@@ -6441,9 +6441,15 @@
           "name": "Shorts saia com bolsos preto LP P",
           "price": 597,
           "qty": 1
+        },
+        "7909746615857": {
+          "code": "7909746615857",
+          "name": "Regata alça fina preta DT M",
+          "price": 279,
+          "qty": 1
         }
       },
-      "total": 7737.2,
+      "total": 8016.2,
       "status": "open"
     }
   },
@@ -15762,5 +15768,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:38:15.580Z"
+  "savedAt": "2026-07-30T20:38:23.821Z"
 }
