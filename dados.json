@@ -6381,9 +6381,15 @@
           "name": "Blusão pose bege live P",
           "price": 399.9,
           "qty": 1
+        },
+        "7901128603193": {
+          "code": "7901128603193",
+          "name": "Legging marrom live symbol M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 3977.4,
+      "total": 4307.3,
       "status": "open"
     }
   },
@@ -15702,5 +15708,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:36:29.268Z"
+  "savedAt": "2026-07-30T20:36:33.222Z"
 }
