@@ -4774,6 +4774,11 @@
       "code": "7909746615383",
       "name": "Macaquinho com zíper bordo DT P",
       "price": 699
+    },
+    "7908931902819": {
+      "code": "7908931902819",
+      "name": "Legging preta live live P",
+      "price": 329.9
     }
   },
   "clients": {
@@ -15538,5 +15543,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:58:15.360Z"
+  "savedAt": "2026-07-30T18:58:23.892Z"
 }
