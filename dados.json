@@ -5498,34 +5498,10 @@
           "price": 493,
           "qty": 1
         },
-        "7890171616109": {
-          "code": "7890171616109",
-          "name": "Regata elástico preto AG M",
-          "price": 198,
-          "qty": 1
-        },
-        "7908990959755": {
-          "code": "7908990959755",
-          "name": "Camiseta air move verde live M",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7890171652428": {
-          "code": "7890171652428",
-          "name": "Jaqueta com bolso versa claro AG M",
-          "price": 489,
-          "qty": 1
-        },
         "7890171650066": {
           "code": "7890171650066",
           "name": "Bermuda Barra silicone verde claro AG M",
           "price": 259,
-          "qty": 1
-        },
-        "7908011244587": {
-          "code": "7908011244587",
-          "name": "Top curve branco live G",
-          "price": 189.9,
           "qty": 1
         },
         "7890171657782": {
@@ -5547,7 +5523,7 @@
           "qty": 1
         }
       },
-      "total": 2753.800000000001,
+      "total": 1657.000000000001,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14672,6 +14648,34 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-07-30T17:41:44.380Z"
+      },
+      "7890171616109": {
+        "code": "7890171616109",
+        "name": "Regata elástico preto AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:47.186Z"
+      },
+      "7890171652428": {
+        "code": "7890171652428",
+        "name": "Jaqueta com bolso versa claro AG M",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:48.310Z"
+      },
+      "7908990959755": {
+        "code": "7908990959755",
+        "name": "Camiseta air move verde live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:49.059Z"
+      },
+      "7908011244587": {
+        "code": "7908011244587",
+        "name": "Top curve branco live G",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:50.153Z"
       }
     },
     "c_1784992935738": {
@@ -15112,5 +15116,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:46.802Z"
+  "savedAt": "2026-07-30T17:41:50.155Z"
 }
