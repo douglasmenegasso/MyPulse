@@ -6452,9 +6452,15 @@
           "name": "Regata alça fina preta DT M",
           "price": 279,
           "qty": 1
+        },
+        "7908990950837": {
+          "code": "7908990950837",
+          "name": "Shorts moletom off live P",
+          "price": 299.9,
+          "qty": 1
         }
       },
-      "total": 8016.2,
+      "total": 8316.1,
       "status": "open"
     }
   },
@@ -15773,5 +15779,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:38:41.471Z"
+  "savedAt": "2026-07-30T20:38:45.711Z"
 }
