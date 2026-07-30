@@ -6139,9 +6139,15 @@
           "name": "Top race pro camuflado verde live M",
           "price": 299.9,
           "qty": 1
+        },
+        "7909746661434": {
+          "code": "7909746661434",
+          "name": "Pijama short doll marrom com off DT P",
+          "price": 439,
+          "qty": 1
         }
       },
-      "total": 6279,
+      "total": 6718,
       "status": "open"
     }
   },
@@ -15444,5 +15450,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:48:58.114Z"
+  "savedAt": "2026-07-30T18:49:43.141Z"
 }
