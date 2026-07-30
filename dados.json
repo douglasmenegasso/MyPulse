@@ -6375,9 +6375,15 @@
           "name": "Regata cropped mesh off AG M",
           "price": 214,
           "qty": 1
+        },
+        "7901072406383": {
+          "code": "7901072406383",
+          "name": "Blusão pose bege live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 3577.5,
+      "total": 3977.4,
       "status": "open"
     }
   },
@@ -15696,5 +15702,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:36:13.185Z"
+  "savedAt": "2026-07-30T20:36:25.235Z"
 }
