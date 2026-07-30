@@ -6203,9 +6203,15 @@
           "name": "T-shirt com tule roxo malva AG P",
           "price": 239,
           "qty": 1
+        },
+        "7909746615383": {
+          "code": "7909746615383",
+          "name": "Macaquinho com zíper bordo DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 9045.9,
+      "total": 9744.9,
       "status": "open"
     }
   },
@@ -15508,5 +15514,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:52:00.356Z"
+  "savedAt": "2026-07-30T18:52:06.121Z"
 }
