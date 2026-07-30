@@ -5534,12 +5534,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "7908990975403": {
-          "code": "7908990975403",
-          "name": "Camiseta cropped laranja live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7908990975373": {
           "code": "7908990975373",
           "name": "Cropped soft off live M",
@@ -5583,7 +5577,7 @@
           "qty": 1
         }
       },
-      "total": 3999.3000000000006,
+      "total": 3799.4000000000005,
       "status": "open"
     },
     "41996113214": {
@@ -8239,6 +8233,13 @@
         "price": 349.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:33:20.186Z"
+      },
+      "7908990975403": {
+        "code": "7908990975403",
+        "name": "Camiseta cropped laranja live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:33:39.487Z"
       }
     },
     "41991098260": {
@@ -15059,5 +15060,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:33:34.496Z"
+  "savedAt": "2026-07-30T17:33:39.489Z"
 }
