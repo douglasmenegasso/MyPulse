@@ -6227,9 +6227,15 @@
           "name": "Camiseta icon preta live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7908835895491": {
+          "code": "7908835895491",
+          "name": "Top curve preto live live P",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 10912.8,
+      "total": 11132.699999999999,
       "status": "open"
     }
   },
@@ -15532,5 +15538,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:57:44.701Z"
+  "savedAt": "2026-07-30T18:58:11.518Z"
 }
