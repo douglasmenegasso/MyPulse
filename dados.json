@@ -6008,9 +6008,13 @@
       },
       "total": 10372.599999999997,
       "status": "waiting"
-    },
-    "c_1779214900706": {
+    }
+  },
+  "closed": [
+    {
       "clientId": "c_1779214900706",
+      "clientName": "Dinley",
+      "clientPhone": "",
       "items": {
         "7900415348403": {
           "code": "7900415348403",
@@ -6020,10 +6024,8 @@
         }
       },
       "total": 673,
-      "status": "waiting"
-    }
-  },
-  "closed": [
+      "closedAt": "2026-07-30T18:02:01.370Z"
+    },
     {
       "clientId": "c_1779401443905",
       "clientName": "Maryna Lapelle",
@@ -15307,5 +15309,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:01:58.555Z"
+  "savedAt": "2026-07-30T18:02:03.452Z"
 }
