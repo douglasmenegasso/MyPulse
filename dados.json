@@ -6399,9 +6399,15 @@
           "name": "Shorts jeans bege com detalhe couro LP 36",
           "price": 553,
           "qty": 1
+        },
+        "7900415216993": {
+          "code": "7900415216993",
+          "name": "Blusa de alças canelada off Lp P",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 5100.2,
+      "total": 5363.2,
       "status": "open"
     }
   },
@@ -15720,5 +15726,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:37:04.873Z"
+  "savedAt": "2026-07-30T20:37:13.840Z"
 }
