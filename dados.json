@@ -5540,12 +5540,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171646267": {
-          "code": "7890171646267",
-          "name": "Legging salmão com laranja AG P",
-          "price": 449,
-          "qty": 1
-        },
         "7890171648865": {
           "code": "7890171648865",
           "name": "Top eterno liso laranja AG M",
@@ -5577,7 +5571,7 @@
           "qty": 1
         }
       },
-      "total": 3799.4000000000005,
+      "total": 3350.4000000000005,
       "status": "open"
     },
     "41996113214": {
@@ -8240,6 +8234,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:33:39.487Z"
+      },
+      "7890171646267": {
+        "code": "7890171646267",
+        "name": "Legging salmão com laranja AG P",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:33:46.118Z"
       }
     },
     "41991098260": {
@@ -15060,5 +15061,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:33:39.489Z"
+  "savedAt": "2026-07-30T17:33:46.120Z"
 }
