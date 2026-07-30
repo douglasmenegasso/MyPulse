@@ -5821,6 +5821,19 @@
       },
       "total": 197,
       "status": "waiting"
+    },
+    "c_1785433735869": {
+      "clientId": "c_1785433735869",
+      "items": {
+        "7909746670924": {
+          "code": "7909746670924",
+          "name": "Pijama short doll erica cinza DT P",
+          "price": 389,
+          "qty": 1
+        }
+      },
+      "total": 389,
+      "status": "open"
     }
   },
   "closed": [
@@ -15128,5 +15141,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:49:47.459Z"
+  "savedAt": "2026-07-30T17:49:52.638Z"
 }
