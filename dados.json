@@ -6040,9 +6040,15 @@
           "name": "Macaquinho tex marrom live P",
           "price": 399.9,
           "qty": 1
+        },
+        "7908990920267": {
+          "code": "7908990920267",
+          "name": "Regata pima  marrom live P",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 1399.6,
+      "total": 1649.5,
       "status": "open"
     }
   },
@@ -15345,5 +15351,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:43:54.881Z"
+  "savedAt": "2026-07-30T18:44:24.644Z"
 }
