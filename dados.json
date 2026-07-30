@@ -5516,12 +5516,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171648865": {
-          "code": "7890171648865",
-          "name": "Top eterno liso laranja AG M",
-          "price": 209,
-          "qty": 1
-        },
         "7890171643983": {
           "code": "7890171643983",
           "name": "Legging eterna cos liso rosa AG P",
@@ -5529,7 +5523,7 @@
           "qty": 1
         }
       },
-      "total": 1535.7000000000003,
+      "total": 1326.7000000000003,
       "status": "open"
     },
     "41996113214": {
@@ -8248,6 +8242,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:34:39.698Z"
+      },
+      "7890171648865": {
+        "code": "7890171648865",
+        "name": "Top eterno liso laranja AG M",
+        "price": 209,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:34:47.619Z"
       }
     },
     "41991098260": {
@@ -15068,5 +15069,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:34:39.699Z"
+  "savedAt": "2026-07-30T17:34:47.620Z"
 }
