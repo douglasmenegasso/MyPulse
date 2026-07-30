@@ -5492,24 +5492,6 @@
     "41996113214": {
       "clientId": "41996113214",
       "items": {
-        "7909746639068": {
-          "code": "7909746639068",
-          "name": "Lenço conhas marrom com bege DT u",
-          "price": 119,
-          "qty": 1
-        },
-        "7909746639228": {
-          "code": "7909746639228",
-          "name": "Camiseta conchas marrom com bege DT P",
-          "price": 299,
-          "qty": 1
-        },
-        "7909746639136": {
-          "code": "7909746639136",
-          "name": "Vestido franzido marrom com bege DT P",
-          "price": 469,
-          "qty": 1
-        },
         "7909746638184": {
           "code": "7909746638184",
           "name": "Vestido riviera off com preto DT P",
@@ -5739,7 +5721,7 @@
           "qty": 1
         }
       },
-      "total": 12825.299999999996,
+      "total": 11938.299999999996,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14640,6 +14622,27 @@
         "price": 439,
         "qty": 1,
         "lastAt": "2026-07-30T17:41:23.982Z"
+      },
+      "7909746639068": {
+        "code": "7909746639068",
+        "name": "Lenço conhas marrom com bege DT u",
+        "price": 119,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:25.765Z"
+      },
+      "7909746639228": {
+        "code": "7909746639228",
+        "name": "Camiseta conchas marrom com bege DT P",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:26.875Z"
+      },
+      "7909746639136": {
+        "code": "7909746639136",
+        "name": "Vestido franzido marrom com bege DT P",
+        "price": 469,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:27.869Z"
       }
     },
     "c_1784992935738": {
@@ -15080,5 +15083,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:23.983Z"
+  "savedAt": "2026-07-30T17:41:27.871Z"
 }
