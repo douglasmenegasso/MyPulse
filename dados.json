@@ -5932,9 +5932,15 @@
           "name": "Bermuda elástico lilás AG P",
           "price": 259,
           "qty": 1
+        },
+        "7890171653159": {
+          "code": "7890171653159",
+          "name": "Top elástico lilás AG M",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 6902.999999999997,
+      "total": 7121.999999999997,
       "status": "open"
     }
   },
@@ -15243,5 +15249,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:55:30.709Z"
+  "savedAt": "2026-07-30T17:55:42.256Z"
 }
