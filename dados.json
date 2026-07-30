@@ -5528,12 +5528,6 @@
           "price": 209,
           "qty": 1
         },
-        "7908990956891": {
-          "code": "7908990956891",
-          "name": "Legging hydefit verde live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7908990971207": {
           "code": "7908990971207",
           "name": "Top curve verde live live M",
@@ -5547,7 +5541,7 @@
           "qty": 1
         }
       },
-      "total": 2374.5000000000005,
+      "total": 2174.6000000000004,
       "status": "open"
     },
     "41996113214": {
@@ -8245,6 +8239,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:34:12.648Z"
+      },
+      "7908990956891": {
+        "code": "7908990956891",
+        "name": "Legging hydefit verde live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:34:19.530Z"
       }
     },
     "41991098260": {
@@ -15065,5 +15066,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:34:12.650Z"
+  "savedAt": "2026-07-30T17:34:19.532Z"
 }
