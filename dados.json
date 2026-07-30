@@ -4789,6 +4789,11 @@
       "code": "790835402928",
       "name": "Top curve alllure preto live P",
       "price": 199.9
+    },
+    "7908990950837": {
+      "code": "7908990950837",
+      "name": "Shorts moletom off live P",
+      "price": 299.9
     }
   },
   "clients": {
@@ -15768,5 +15773,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:38:27.483Z"
+  "savedAt": "2026-07-30T20:38:41.471Z"
 }
