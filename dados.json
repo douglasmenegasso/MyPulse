@@ -5498,24 +5498,6 @@
           "price": 493,
           "qty": 1
         },
-        "7890171650066": {
-          "code": "7890171650066",
-          "name": "Bermuda Barra silicone verde claro AG M",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171657782": {
-          "code": "7890171657782",
-          "name": "Legging marrom elástico azul AG M",
-          "price": 419,
-          "qty": 1
-        },
-        "7890171657362": {
-          "code": "7890171657362",
-          "name": "Top nadador marrom elástico azul AG g",
-          "price": 289,
-          "qty": 1
-        },
         "7900415110284": {
           "code": "7900415110284",
           "name": "Copo térmico preto com off LP",
@@ -5523,7 +5505,7 @@
           "qty": 1
         }
       },
-      "total": 1657.000000000001,
+      "total": 690.0000000000009,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14676,6 +14658,27 @@
         "price": 189.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:41:50.153Z"
+      },
+      "7890171650066": {
+        "code": "7890171650066",
+        "name": "Bermuda Barra silicone verde claro AG M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:50.803Z"
+      },
+      "7890171657782": {
+        "code": "7890171657782",
+        "name": "Legging marrom elástico azul AG M",
+        "price": 419,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:51.921Z"
+      },
+      "7890171657362": {
+        "code": "7890171657362",
+        "name": "Top nadador marrom elástico azul AG g",
+        "price": 289,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:52.613Z"
       }
     },
     "c_1784992935738": {
@@ -15116,5 +15119,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:50.155Z"
+  "savedAt": "2026-07-30T17:41:54.500Z"
 }
