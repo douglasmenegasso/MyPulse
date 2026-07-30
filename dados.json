@@ -6151,9 +6151,15 @@
           "name": "Vestido canelado longo bege alça vinho LP P",
           "price": 417,
           "qty": 1
+        },
+        "7900415284428": {
+          "code": "7900415284428",
+          "name": "Vestido curto canelado de alças preto LP P",
+          "price": 397,
+          "qty": 1
         }
       },
-      "total": 7135,
+      "total": 7532,
       "status": "open"
     }
   },
@@ -15456,5 +15462,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:49:57.717Z"
+  "savedAt": "2026-07-30T18:50:08.013Z"
 }
