@@ -5498,120 +5498,6 @@
           "price": 493,
           "qty": 1
         },
-        "7909746645830": {
-          "code": "7909746645830",
-          "name": "Legging dash preto DT M",
-          "price": 399,
-          "qty": 1
-        },
-        "7901072483032": {
-          "code": "7901072483032",
-          "name": "Legging icon rosa ametista live g",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7901072451925": {
-          "code": "7901072451925",
-          "name": "Shorts icon rosa live g",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7901072451239": {
-          "code": "7901072451239",
-          "name": "Top icon rosa live g",
-          "price": 249.9,
-          "qty": 1
-        },
-        "7901072462235": {
-          "code": "7901072462235",
-          "name": "Camiseta icon rosa live M",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7908931961137": {
-          "code": "7908931961137",
-          "name": "Legging com bolso vermelho live g",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7908990985945": {
-          "code": "7908990985945",
-          "name": "Top curve vermelho live G",
-          "price": 189.9,
-          "qty": 1
-        },
-        "7901128629841": {
-          "code": "7901128629841",
-          "name": "Camiseta icon branco live g",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072437790": {
-          "code": "7901072437790",
-          "name": "Jaqueta máxi branca live g",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7901072428897": {
-          "code": "7901072428897",
-          "name": "Legging azul petróleo live live g",
-          "price": 329.9,
-          "qty": 1
-        },
-        "7901072429184": {
-          "code": "7901072429184",
-          "name": "Top curve azul petróleo live live g",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7901072434348": {
-          "code": "7901072434348",
-          "name": "Camiseta icon azul petróleo live M ",
-          "price": 199.9,
-          "qty": 1
-        },
-        "7901072425179": {
-          "code": "7901072425179",
-          "name": "Shorts icon azul live g",
-          "price": 239.9,
-          "qty": 1
-        },
-        "7890171663462": {
-          "code": "7890171663462",
-          "name": "Legging elástico lilás AG M",
-          "price": 369,
-          "qty": 1
-        },
-        "7890171654156": {
-          "code": "7890171654156",
-          "name": "Bermuda elástico lilás AG M",
-          "price": 259,
-          "qty": 1
-        },
-        "7890171653142": {
-          "code": "7890171653142",
-          "name": "Top elástico lilás AG g",
-          "price": 219,
-          "qty": 1
-        },
-        "7890171652671": {
-          "code": "7890171652671",
-          "name": "T-shirt com tule branca AG M",
-          "price": 239,
-          "qty": 1
-        },
-        "7890171656211": {
-          "code": "7890171656211",
-          "name": "Legging preta listra verde AG M",
-          "price": 449,
-          "qty": 1
-        },
-        "7890171649633": {
-          "code": "7890171649633",
-          "name": "Top eterno liso verde AG g",
-          "price": 209,
-          "qty": 1
-        },
         "7890171616109": {
           "code": "7890171616109",
           "name": "Regata elástico preto AG M",
@@ -5661,7 +5547,7 @@
           "qty": 1
         }
       },
-      "total": 8105.599999999997,
+      "total": 2753.800000000001,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14653,6 +14539,139 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-07-30T17:41:39.118Z"
+      },
+      "7901072483032": {
+        "code": "7901072483032",
+        "name": "Legging icon rosa ametista live g",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:39.263Z"
+      },
+      "7901072451925": {
+        "code": "7901072451925",
+        "name": "Shorts icon rosa live g",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:39.381Z"
+      },
+      "7901072451239": {
+        "code": "7901072451239",
+        "name": "Top icon rosa live g",
+        "price": 249.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:39.593Z"
+      },
+      "7901072462235": {
+        "code": "7901072462235",
+        "name": "Camiseta icon rosa live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:39.725Z"
+      },
+      "7908931961137": {
+        "code": "7908931961137",
+        "name": "Legging com bolso vermelho live g",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:39.850Z"
+      },
+      "7908990985945": {
+        "code": "7908990985945",
+        "name": "Top curve vermelho live G",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:39.971Z"
+      },
+      "7901128629841": {
+        "code": "7901128629841",
+        "name": "Camiseta icon branco live g",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:40.306Z"
+      },
+      "7901072437790": {
+        "code": "7901072437790",
+        "name": "Jaqueta máxi branca live g",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:40.319Z"
+      },
+      "7901072428897": {
+        "code": "7901072428897",
+        "name": "Legging azul petróleo live live g",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:42.136Z"
+      },
+      "7901072429184": {
+        "code": "7901072429184",
+        "name": "Top curve azul petróleo live live g",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:42.257Z"
+      },
+      "7901072434348": {
+        "code": "7901072434348",
+        "name": "Camiseta icon azul petróleo live M ",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:42.370Z"
+      },
+      "7901072425179": {
+        "code": "7901072425179",
+        "name": "Shorts icon azul live g",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:42.601Z"
+      },
+      "7890171663462": {
+        "code": "7890171663462",
+        "name": "Legging elástico lilás AG M",
+        "price": 369,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:42.748Z"
+      },
+      "7890171654156": {
+        "code": "7890171654156",
+        "name": "Bermuda elástico lilás AG M",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:42.868Z"
+      },
+      "7890171653142": {
+        "code": "7890171653142",
+        "name": "Top elástico lilás AG g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:42.976Z"
+      },
+      "7890171652671": {
+        "code": "7890171652671",
+        "name": "T-shirt com tule branca AG M",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:43.212Z"
+      },
+      "7890171656211": {
+        "code": "7890171656211",
+        "name": "Legging preta listra verde AG M",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:43.470Z"
+      },
+      "7890171649633": {
+        "code": "7890171649633",
+        "name": "Top eterno liso verde AG g",
+        "price": 209,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:43.480Z"
+      },
+      "7909746645830": {
+        "code": "7909746645830",
+        "name": "Legging dash preto DT M",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:44.380Z"
       }
     },
     "c_1784992935738": {
@@ -15093,5 +15112,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:39.119Z"
+  "savedAt": "2026-07-30T17:41:46.802Z"
 }
