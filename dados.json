@@ -6099,9 +6099,15 @@
           "name": "Regata cropped mesh lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "7900415250478": {
+          "code": "7900415250478",
+          "name": "Moletom over rose LP pp",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 4114.200000000001,
+      "total": 4577.200000000001,
       "status": "open"
     }
   },
@@ -15404,5 +15410,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:47:26.259Z"
+  "savedAt": "2026-07-30T18:47:40.292Z"
 }
