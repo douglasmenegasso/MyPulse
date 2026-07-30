@@ -4749,6 +4749,11 @@
       "code": "7900415250478",
       "name": "Moletom over rose LP pp",
       "price": 463
+    },
+    "7890171651537": {
+      "code": "7890171651537",
+      "name": "Legging eterna cos sustenção lilás AG P",
+      "price": 299
     }
   },
   "clients": {
@@ -15381,5 +15386,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:46:47.939Z"
+  "savedAt": "2026-07-30T18:46:55.623Z"
 }
