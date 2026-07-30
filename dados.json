@@ -5804,19 +5804,6 @@
       "total": 1796,
       "status": "waiting"
     },
-    "c_1779401443905": {
-      "clientId": "c_1779401443905",
-      "items": {
-        "7900415110284": {
-          "code": "7900415110284",
-          "name": "Copo térmico preto com off LP",
-          "price": 197,
-          "qty": 1
-        }
-      },
-      "total": 197,
-      "status": "waiting"
-    },
     "c_1785273792576": {
       "clientId": "c_1785273792576",
       "items": {
@@ -5832,6 +5819,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1779401443905",
+      "clientName": "Maryna Lapelle",
+      "clientPhone": "",
+      "items": {
+        "7900415110284": {
+          "code": "7900415110284",
+          "name": "Copo térmico preto com off LP",
+          "price": 197,
+          "qty": 1
+        }
+      },
+      "total": 197,
+      "closedAt": "2026-07-30T17:42:20.895Z"
+    },
     {
       "clientId": "41996113214",
       "clientName": "Ana Carla",
@@ -15121,5 +15123,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:42:11.984Z"
+  "savedAt": "2026-07-30T17:42:20.897Z"
 }
