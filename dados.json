@@ -6405,9 +6405,15 @@
           "name": "Blusa de alças canelada off Lp P",
           "price": 263,
           "qty": 1
+        },
+        "7900415112066": {
+          "code": "7900415112066",
+          "name": "Regata canelada bege LP P",
+          "price": 297,
+          "qty": 1
         }
       },
-      "total": 5363.2,
+      "total": 5660.2,
       "status": "open"
     }
   },
@@ -15726,5 +15732,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:37:13.840Z"
+  "savedAt": "2026-07-30T20:37:20.194Z"
 }
