@@ -6238,9 +6238,15 @@
           "name": "Top curve preto live live P",
           "price": 219.9,
           "qty": 1
+        },
+        "7908931902819": {
+          "code": "7908931902819",
+          "name": "Legging preta live live P",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 11132.699999999999,
+      "total": 11462.599999999999,
       "status": "open"
     }
   },
@@ -15543,5 +15549,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:58:23.892Z"
+  "savedAt": "2026-07-30T18:58:27.548Z"
 }
