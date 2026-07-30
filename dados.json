@@ -4754,6 +4754,11 @@
       "code": "7890171651537",
       "name": "Legging eterna cos sustenção lilás AG P",
       "price": 299
+    },
+    "7901072421478": {
+      "code": "7901072421478",
+      "name": "Legging camuflada verde live P",
+      "price": 399.9
     }
   },
   "clients": {
@@ -15422,5 +15427,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:48:06.928Z"
+  "savedAt": "2026-07-30T18:48:31.923Z"
 }
