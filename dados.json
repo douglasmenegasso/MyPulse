@@ -5442,9 +5442,15 @@
           "name": "Calça jeans mom azul LP 38",
           "price": 417,
           "qty": 1
+        },
+        "7890171628218": {
+          "code": "7890171628218",
+          "name": "Camiseta com dry preto AG men M",
+          "price": 228,
+          "qty": 1
         }
       },
-      "total": 7791.400000000001,
+      "total": 8019.400000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -15014,5 +15020,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T16:54:20.071Z"
+  "savedAt": "2026-07-30T16:54:25.153Z"
 }
