@@ -5920,9 +5920,15 @@
           "name": "Macaquinho allure bege live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7890171663479": {
+          "code": "7890171663479",
+          "name": "Legging elástico lilás AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 6274.999999999997,
+      "total": 6643.999999999997,
       "status": "open"
     }
   },
@@ -15231,5 +15237,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:54:57.578Z"
+  "savedAt": "2026-07-30T17:55:08.417Z"
 }
