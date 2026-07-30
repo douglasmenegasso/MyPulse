@@ -5503,15 +5503,9 @@
           "name": "Legging canelada brilhosa marrom AG P",
           "price": 319,
           "qty": 1
-        },
-        "7890171643983": {
-          "code": "7890171643983",
-          "name": "Legging eterna cos liso rosa AG P",
-          "price": 298,
-          "qty": 1
         }
       },
-      "total": 936.9000000000002,
+      "total": 638.9000000000002,
       "status": "open"
     },
     "41996113214": {
@@ -8251,6 +8245,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:35:06.599Z"
+      },
+      "7890171643983": {
+        "code": "7890171643983",
+        "name": "Legging eterna cos liso rosa AG P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:35:12.681Z"
       }
     },
     "41991098260": {
@@ -15071,5 +15072,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:35:06.601Z"
+  "savedAt": "2026-07-30T17:35:12.682Z"
 }
