@@ -4784,6 +4784,11 @@
       "code": "7908835808088",
       "name": "Top cut out preto live P",
       "price": 279.9
+    },
+    "790835402928": {
+      "code": "790835402928",
+      "name": "Top curve alllure preto live P",
+      "price": 199.9
     }
   },
   "clients": {
@@ -15572,5 +15577,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T19:00:15.006Z"
+  "savedAt": "2026-07-30T19:00:39.497Z"
 }
