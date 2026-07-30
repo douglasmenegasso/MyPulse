@@ -5460,9 +5460,15 @@
           "name": "Camiseta Sport preta AG men M",
           "price": 228,
           "qty": 1
+        },
+        "7890171656426": {
+          "code": "7890171656426",
+          "name": "Camiseta pima bege AG men M",
+          "price": 269,
+          "qty": 1
         }
       },
-      "total": 8447.300000000001,
+      "total": 8716.300000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -15032,5 +15038,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T16:54:44.840Z"
+  "savedAt": "2026-07-30T16:55:04.509Z"
 }
