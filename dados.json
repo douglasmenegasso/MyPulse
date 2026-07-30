@@ -6008,6 +6008,19 @@
       },
       "total": 10372.599999999997,
       "status": "waiting"
+    },
+    "c_1779214900706": {
+      "clientId": "c_1779214900706",
+      "items": {
+        "7900415348403": {
+          "code": "7900415348403",
+          "name": "Calça sarja baggy caramelo LP 38",
+          "price": 673,
+          "qty": 1
+        }
+      },
+      "total": 673,
+      "status": "open"
     }
   },
   "closed": [
@@ -15294,5 +15307,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:01:35.393Z"
+  "savedAt": "2026-07-30T18:01:55.426Z"
 }
