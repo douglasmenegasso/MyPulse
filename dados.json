@@ -5629,15 +5629,9 @@
           "name": "T-shirt com tule roxo malva AG P",
           "price": 239,
           "qty": 1
-        },
-        "7890171628935": {
-          "code": "7890171628935",
-          "name": "Shorts piquet rose AG P",
-          "price": 359,
-          "qty": 1
         }
       },
-      "total": 6256.5999999999985,
+      "total": 5897.5999999999985,
       "status": "open"
     },
     "41996113214": {
@@ -8230,6 +8224,13 @@
         "price": 333,
         "qty": 1,
         "lastAt": "2026-07-30T17:32:05.530Z"
+      },
+      "7890171628935": {
+        "code": "7890171628935",
+        "name": "Shorts piquet rose AG P",
+        "price": 359,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:32:45.014Z"
       }
     },
     "41991098260": {
@@ -15050,5 +15051,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:32:33.947Z"
+  "savedAt": "2026-07-30T17:32:45.015Z"
 }
