@@ -6215,9 +6215,15 @@
           "name": "Jaqueta elite preta DT P",
           "price": 569,
           "qty": 1
+        },
+        "7909746568825": {
+          "code": "7909746568825",
+          "name": "Macaquinho powerli preto DT P",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 10313.9,
+      "total": 10712.9,
       "status": "open"
     }
   },
@@ -15520,5 +15526,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:52:18.027Z"
+  "savedAt": "2026-07-30T18:52:27.329Z"
 }
