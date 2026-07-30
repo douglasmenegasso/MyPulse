@@ -6163,9 +6163,15 @@
           "name": "Camiseta icon azul live P",
           "price": 199.9,
           "qty": 1
+        },
+        "7890171643983": {
+          "code": "7890171643983",
+          "name": "Legging eterna cos liso rosa AG P",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 7731.9,
+      "total": 8029.9,
       "status": "open"
     }
   },
@@ -15468,5 +15474,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:50:24.056Z"
+  "savedAt": "2026-07-30T18:50:33.928Z"
 }
