@@ -5492,30 +5492,6 @@
     "41996113214": {
       "clientId": "41996113214",
       "items": {
-        "7909746638184": {
-          "code": "7909746638184",
-          "name": "Vestido riviera off com preto DT P",
-          "price": 979,
-          "qty": 1
-        },
-        "7900415199272": {
-          "code": "7900415199272",
-          "name": "Calça balloon de moletom rosa LP P",
-          "price": 553,
-          "qty": 1
-        },
-        "7890171628126": {
-          "code": "7890171628126",
-          "name": "Regata canelada rosa AG M",
-          "price": 159,
-          "qty": 1
-        },
-        "7900415277802": {
-          "code": "7900415277802",
-          "name": "Shorts saia jeans azul LP 38",
-          "price": 443,
-          "qty": 1
-        },
         "7900415361020": {
           "code": "7900415361020",
           "name": "Regata canelada marrom bordado azul Lp M",
@@ -5721,7 +5697,7 @@
           "qty": 1
         }
       },
-      "total": 11938.299999999996,
+      "total": 9804.299999999996,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14643,6 +14619,34 @@
         "price": 469,
         "qty": 1,
         "lastAt": "2026-07-30T17:41:27.869Z"
+      },
+      "7909746638184": {
+        "code": "7909746638184",
+        "name": "Vestido riviera off com preto DT P",
+        "price": 979,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:28.997Z"
+      },
+      "7900415199272": {
+        "code": "7900415199272",
+        "name": "Calça balloon de moletom rosa LP P",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:29.919Z"
+      },
+      "7890171628126": {
+        "code": "7890171628126",
+        "name": "Regata canelada rosa AG M",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:31.297Z"
+      },
+      "7900415277802": {
+        "code": "7900415277802",
+        "name": "Shorts saia jeans azul LP 38",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:32.199Z"
       }
     },
     "c_1784992935738": {
@@ -15083,5 +15087,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:27.871Z"
+  "savedAt": "2026-07-30T17:41:32.200Z"
 }
