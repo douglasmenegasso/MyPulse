@@ -6145,9 +6145,15 @@
           "name": "Pijama short doll marrom com off DT P",
           "price": 439,
           "qty": 1
+        },
+        "7900292717484": {
+          "code": "7900292717484",
+          "name": "Vestido canelado longo bege alça vinho LP P",
+          "price": 417,
+          "qty": 1
         }
       },
-      "total": 6718,
+      "total": 7135,
       "status": "open"
     }
   },
@@ -15450,5 +15456,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:49:48.186Z"
+  "savedAt": "2026-07-30T18:49:57.717Z"
 }
