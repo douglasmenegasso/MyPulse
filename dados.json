@@ -6458,9 +6458,15 @@
           "name": "Shorts moletom off live P",
           "price": 299.9,
           "qty": 1
+        },
+        "7900415361037": {
+          "code": "7900415361037",
+          "name": "Regata canelada marrom bordado azul Lp P",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 8316.1,
+      "total": 8579.1,
       "status": "open"
     }
   },
@@ -15779,5 +15785,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:38:45.711Z"
+  "savedAt": "2026-07-30T20:38:48.399Z"
 }
