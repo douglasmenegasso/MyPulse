@@ -5492,28 +5492,10 @@
     "41996113214": {
       "clientId": "41996113214",
       "items": {
-        "7900415361020": {
-          "code": "7900415361020",
-          "name": "Regata canelada marrom bordado azul Lp M",
-          "price": 263,
-          "qty": 1
-        },
-        "7900415150204": {
-          "code": "7900415150204",
-          "name": "T-shirt cinza estampa marrom LP M",
-          "price": 197,
-          "qty": 1
-        },
         "7900292900619": {
           "code": "7900292900619",
           "name": "Vestido com zíper mídi marrom LP P",
           "price": 493,
-          "qty": 1
-        },
-        "7901128619088": {
-          "code": "7901128619088",
-          "name": "Jaqueta marrom live symbol M",
-          "price": 499.9,
           "qty": 1
         },
         "1406084840706": {
@@ -5697,7 +5679,7 @@
           "qty": 1
         }
       },
-      "total": 9804.299999999996,
+      "total": 8844.399999999996,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14647,6 +14629,27 @@
         "price": 443,
         "qty": 1,
         "lastAt": "2026-07-30T17:41:32.199Z"
+      },
+      "7900415361020": {
+        "code": "7900415361020",
+        "name": "Regata canelada marrom bordado azul Lp M",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:33.204Z"
+      },
+      "7900415150204": {
+        "code": "7900415150204",
+        "name": "T-shirt cinza estampa marrom LP M",
+        "price": 197,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:34.477Z"
+      },
+      "7901128619088": {
+        "code": "7901128619088",
+        "name": "Jaqueta marrom live symbol M",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:36.028Z"
       }
     },
     "c_1784992935738": {
@@ -15087,5 +15090,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:32.200Z"
+  "savedAt": "2026-07-30T17:41:36.030Z"
 }
