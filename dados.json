@@ -6034,9 +6034,15 @@
           "name": "Legging fuso tex marrom live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7901072486187": {
+          "code": "7901072486187",
+          "name": "Macaquinho tex marrom live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 999.6999999999999,
+      "total": 1399.6,
       "status": "open"
     }
   },
@@ -15339,5 +15345,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:43:41.665Z"
+  "savedAt": "2026-07-30T18:43:54.881Z"
 }
