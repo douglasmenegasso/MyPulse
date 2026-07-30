@@ -5522,12 +5522,6 @@
           "price": 209,
           "qty": 1
         },
-        "7908990971207": {
-          "code": "7908990971207",
-          "name": "Top curve verde live live M",
-          "price": 219.9,
-          "qty": 1
-        },
         "7890171643983": {
           "code": "7890171643983",
           "name": "Legging eterna cos liso rosa AG P",
@@ -5535,7 +5529,7 @@
           "qty": 1
         }
       },
-      "total": 1755.6000000000004,
+      "total": 1535.7000000000003,
       "status": "open"
     },
     "41996113214": {
@@ -8247,6 +8241,13 @@
         "price": 419,
         "qty": 1,
         "lastAt": "2026-07-30T17:34:27.880Z"
+      },
+      "7908990971207": {
+        "code": "7908990971207",
+        "name": "Top curve verde live live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:34:39.698Z"
       }
     },
     "41991098260": {
@@ -15067,5 +15068,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:34:34.946Z"
+  "savedAt": "2026-07-30T17:34:39.699Z"
 }
