@@ -5944,9 +5944,15 @@
           "name": "Regata cropped mesh lilás AG P",
           "price": 219,
           "qty": 1
+        },
+        "7901128628561": {
+          "code": "7901128628561",
+          "name": "Legging hydefit azul petróleo live M",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 7340.999999999997,
+      "total": 7540.899999999997,
       "status": "open"
     }
   },
@@ -15255,5 +15261,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:56:07.379Z"
+  "savedAt": "2026-07-30T17:56:29.021Z"
 }
