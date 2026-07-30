@@ -5492,24 +5492,6 @@
     "41996113214": {
       "clientId": "41996113214",
       "items": {
-        "7909392494240": {
-          "code": "7909392494240",
-          "name": "Kit 3 meias Lupo 34 a 39",
-          "price": 49.9,
-          "qty": 1
-        },
-        "7900373056259": {
-          "code": "7900373056259",
-          "name": "Meia cano médio branco com verde lupo 34 a 39",
-          "price": 19.9,
-          "qty": 1
-        },
-        "7909392830475": {
-          "code": "7909392830475",
-          "name": "Meia Sport preto lupo 37 a 40",
-          "price": 19.9,
-          "qty": 1
-        },
         "7891186349624": {
           "code": "7891186349624",
           "name": "Meia Sport braço lupo 37 a 40",
@@ -5775,7 +5757,7 @@
           "qty": 1
         }
       },
-      "total": 13970.899999999994,
+      "total": 13881.199999999995,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14634,6 +14616,27 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-07-24T21:40:54.431Z"
+      },
+      "7909392494240": {
+        "code": "7909392494240",
+        "name": "Kit 3 meias Lupo 34 a 39",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:19.701Z"
+      },
+      "7900373056259": {
+        "code": "7900373056259",
+        "name": "Meia cano médio branco com verde lupo 34 a 39",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:20.335Z"
+      },
+      "7909392830475": {
+        "code": "7909392830475",
+        "name": "Meia Sport preto lupo 37 a 40",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:20.937Z"
       }
     },
     "c_1784992935738": {
@@ -15074,5 +15077,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:17.325Z"
+  "savedAt": "2026-07-30T17:41:20.939Z"
 }
