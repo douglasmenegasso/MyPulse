@@ -6013,6 +6013,19 @@
       },
       "total": 10372.599999999997,
       "status": "waiting"
+    },
+    "c_1785436958811": {
+      "clientId": "c_1785436958811",
+      "items": {
+        "7901072485876": {
+          "code": "7901072485876",
+          "name": "Legging fuso link tex marrom live P",
+          "price": 359.9,
+          "qty": 1
+        }
+      },
+      "total": 359.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -15314,5 +15327,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:42:38.814Z"
+  "savedAt": "2026-07-30T18:43:06.254Z"
 }
