@@ -5466,9 +5466,15 @@
           "name": "Camiseta pima bege AG men M",
           "price": 269,
           "qty": 1
+        },
+        "7901072438032": {
+          "code": "7901072438032",
+          "name": "Camiseta pima bege live P",
+          "price": 299.9,
+          "qty": 1
         }
       },
-      "total": 8716.300000000001,
+      "total": 9016.2,
       "status": "open"
     },
     "c_1783444825678": {
@@ -15038,5 +15044,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T16:55:04.509Z"
+  "savedAt": "2026-07-30T16:55:15.297Z"
 }
