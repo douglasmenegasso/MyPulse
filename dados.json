@@ -6435,9 +6435,15 @@
           "name": "T-shirt branca estampa azul escuro LP P",
           "price": 243,
           "qty": 1
+        },
+        "7900415146900": {
+          "code": "7900415146900",
+          "name": "Shorts saia com bolsos preto LP P",
+          "price": 597,
+          "qty": 1
         }
       },
-      "total": 7140.2,
+      "total": 7737.2,
       "status": "open"
     }
   },
@@ -15756,5 +15762,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:38:00.949Z"
+  "savedAt": "2026-07-30T20:38:15.580Z"
 }
