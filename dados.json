@@ -5504,12 +5504,6 @@
           "price": 319,
           "qty": 1
         },
-        "7890171652619": {
-          "code": "7890171652619",
-          "name": "Top shine brilhoso marrom AG M",
-          "price": 198,
-          "qty": 1
-        },
         "7909746620097": {
           "code": "7909746620097",
           "name": "Legging sprint marrom DT P",
@@ -5571,7 +5565,7 @@
           "qty": 1
         }
       },
-      "total": 3350.4000000000005,
+      "total": 3152.4000000000005,
       "status": "open"
     },
     "41996113214": {
@@ -8241,6 +8235,13 @@
         "price": 449,
         "qty": 1,
         "lastAt": "2026-07-30T17:33:46.118Z"
+      },
+      "7890171652619": {
+        "code": "7890171652619",
+        "name": "Top shine brilhoso marrom AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:33:51.855Z"
       }
     },
     "41991098260": {
@@ -15061,5 +15062,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:33:46.120Z"
+  "savedAt": "2026-07-30T17:33:51.857Z"
 }
