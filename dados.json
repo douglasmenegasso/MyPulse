@@ -6284,9 +6284,15 @@
           "name": "Calcinha fio preto lupo P",
           "price": 49.9,
           "qty": 1
+        },
+        "7909392494240": {
+          "code": "7909392494240",
+          "name": "Kit 3 meias Lupo 34 a 39",
+          "price": 49.9,
+          "qty": 1
         }
       },
-      "total": 11863.099999999997,
+      "total": 11912.999999999996,
       "status": "open"
     }
   },
@@ -15605,5 +15611,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T19:02:28.716Z"
+  "savedAt": "2026-07-30T19:02:48.874Z"
 }
