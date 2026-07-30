@@ -4769,6 +4769,11 @@
       "code": "7890171644706",
       "name": "Tô eterno costas decotada rosa AG P",
       "price": 199
+    },
+    "7909746615383": {
+      "code": "7909746615383",
+      "name": "Macaquinho com zíper bordo DT P",
+      "price": 699
     }
   },
   "clients": {
@@ -15503,5 +15508,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:51:48.324Z"
+  "savedAt": "2026-07-30T18:52:00.356Z"
 }
