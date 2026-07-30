@@ -5962,9 +5962,15 @@
           "name": "Camiseta icon azul petróleo live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7909746618933": {
+          "code": "7909746618933",
+          "name": "Legging curve uva listra branca DT P",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 7930.699999999996,
+      "total": 8349.699999999997,
       "status": "open"
     }
   },
@@ -15273,5 +15279,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:57:21.331Z"
+  "savedAt": "2026-07-30T17:57:31.793Z"
 }
