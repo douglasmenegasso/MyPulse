@@ -5587,15 +5587,9 @@
           "name": "Legging jacquard pink live M",
           "price": 349.9,
           "qty": 1
-        },
-        "7901072425162": {
-          "code": "7901072425162",
-          "name": "Shorts icon pink live M",
-          "price": 239.9,
-          "qty": 1
         }
       },
-      "total": 4589.1,
+      "total": 4349.200000000001,
       "status": "open"
     },
     "41996113214": {
@@ -8237,6 +8231,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:33:02.510Z"
+      },
+      "7901072425162": {
+        "code": "7901072425162",
+        "name": "Shorts icon pink live M",
+        "price": 239.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:33:09.084Z"
       }
     },
     "41991098260": {
@@ -15057,5 +15058,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:33:08.204Z"
+  "savedAt": "2026-07-30T17:33:12.591Z"
 }
