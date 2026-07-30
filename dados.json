@@ -6186,9 +6186,15 @@
           "name": "Shorts piquet rose AG P",
           "price": 359,
           "qty": 1
+        },
+        "7890171662236": {
+          "code": "7890171662236",
+          "name": "Top elástico roxo malva AG P",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 8587.9,
+      "total": 8806.9,
       "status": "open"
     }
   },
@@ -15491,5 +15497,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:51:21.452Z"
+  "savedAt": "2026-07-30T18:51:28.111Z"
 }
