@@ -6221,27 +6221,8 @@
     },
     "41991536747": {
       "clientId": "41991536747",
-      "items": {
-        "7901072483056": {
-          "code": "7901072483056",
-          "name": "Legging icon rosa ametista live M",
-          "price": 319.9,
-          "qty": 1
-        },
-        "7900415250478": {
-          "code": "7900415250478",
-          "name": "Moletom over rose LP pp",
-          "price": 463,
-          "qty": 1
-        },
-        "7900415199289": {
-          "code": "7900415199289",
-          "name": "Calça balloon de moletom rosa LP pp",
-          "price": 553,
-          "qty": 1
-        }
-      },
-      "total": 1335.8999999999996,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1785267357739": {
@@ -10818,6 +10799,27 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:30:43.540Z"
+      },
+      "7901072483056": {
+        "code": "7901072483056",
+        "name": "Legging icon rosa ametista live M",
+        "price": 319.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:30:44.414Z"
+      },
+      "7900415250478": {
+        "code": "7900415250478",
+        "name": "Moletom over rose LP pp",
+        "price": 463,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:30:44.929Z"
+      },
+      "7900415199289": {
+        "code": "7900415199289",
+        "name": "Calça balloon de moletom rosa LP pp",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:30:45.628Z"
       }
     },
     "41991694056": {
@@ -15046,5 +15048,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:30:43.542Z"
+  "savedAt": "2026-07-30T17:30:47.725Z"
 }
