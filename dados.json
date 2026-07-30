@@ -6393,9 +6393,15 @@
           "name": "Top estampa marrom live symbol M",
           "price": 239.9,
           "qty": 1
+        },
+        "7900415268572": {
+          "code": "7900415268572",
+          "name": "Shorts jeans bege com detalhe couro LP 36",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 4547.2,
+      "total": 5100.2,
       "status": "open"
     }
   },
@@ -15714,5 +15720,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:36:40.428Z"
+  "savedAt": "2026-07-30T20:37:04.873Z"
 }
