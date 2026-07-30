@@ -6255,9 +6255,15 @@
           "name": "Calça flare preta movimento P",
           "price": 298,
           "qty": 1
+        },
+        "7908835808088": {
+          "code": "7908835808088",
+          "name": "Top cut out preto live P",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 11760.599999999999,
+      "total": 12040.499999999998,
       "status": "open"
     }
   },
@@ -15560,5 +15566,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:59:21.124Z"
+  "savedAt": "2026-07-30T18:59:25.383Z"
 }
