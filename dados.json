@@ -5896,9 +5896,15 @@
           "name": "Regata icon branca live M",
           "price": 189.9,
           "qty": 1
+        },
+        "7908931902826": {
+          "code": "7908931902826",
+          "name": "Legging preto live live M",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 5165.399999999999,
+      "total": 5495.299999999998,
       "status": "open"
     }
   },
@@ -15207,5 +15213,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:53:54.723Z"
+  "savedAt": "2026-07-30T17:54:04.139Z"
 }
