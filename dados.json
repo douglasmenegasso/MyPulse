@@ -6272,9 +6272,15 @@
           "name": "Legging allure preto live P",
           "price": 319.9,
           "qty": 1
+        },
+        "790835402928": {
+          "code": "790835402928",
+          "name": "Top curve alllure preto live P",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 12360.399999999998,
+      "total": 12560.299999999997,
       "status": "open"
     }
   },
@@ -15577,5 +15583,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T19:00:39.497Z"
+  "savedAt": "2026-07-30T19:00:43.771Z"
 }
