@@ -6112,9 +6112,13 @@
       },
       "total": 197,
       "status": "waiting"
-    },
-    "c1779306442215": {
+    }
+  },
+  "closed": [
+    {
       "clientId": "c1779306442215",
+      "clientName": "Kharina Dario ",
+      "clientPhone": "",
       "items": {
         "7901072407571": {
           "code": "7901072407571",
@@ -6124,10 +6128,8 @@
         }
       },
       "total": 329.9,
-      "status": "waiting"
-    }
-  },
-  "closed": [
+      "closedAt": "2026-07-30T17:37:41.403Z"
+    },
     {
       "clientId": "c_1785260669357",
       "clientName": "Mariana Murilo",
@@ -15066,5 +15068,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:37:35.437Z"
+  "savedAt": "2026-07-30T17:37:41.404Z"
 }
