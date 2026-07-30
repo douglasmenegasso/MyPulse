@@ -5492,24 +5492,6 @@
     "41996113214": {
       "clientId": "41996113214",
       "items": {
-        "7891186349624": {
-          "code": "7891186349624",
-          "name": "Meia Sport braço lupo 37 a 40",
-          "price": 19.9,
-          "qty": 1
-        },
-        "7900415109059": {
-          "code": "7900415109059",
-          "name": "Bolsa pequena off com dourado LP",
-          "price": 597,
-          "qty": 1
-        },
-        "7909746639198": {
-          "code": "7909746639198",
-          "name": "Calça conchas marrom com bege DT P",
-          "price": 439,
-          "qty": 1
-        },
         "7909746639068": {
           "code": "7909746639068",
           "name": "Lenço conhas marrom com bege DT u",
@@ -5757,7 +5739,7 @@
           "qty": 1
         }
       },
-      "total": 13881.199999999995,
+      "total": 12825.299999999996,
       "status": "open"
     },
     "c_1785180680259": {
@@ -14637,6 +14619,27 @@
         "price": 19.9,
         "qty": 1,
         "lastAt": "2026-07-30T17:41:20.937Z"
+      },
+      "7891186349624": {
+        "code": "7891186349624",
+        "name": "Meia Sport braço lupo 37 a 40",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:21.886Z"
+      },
+      "7900415109059": {
+        "code": "7900415109059",
+        "name": "Bolsa pequena off com dourado LP",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:23.333Z"
+      },
+      "7909746639198": {
+        "code": "7909746639198",
+        "name": "Calça conchas marrom com bege DT P",
+        "price": 439,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:41:23.982Z"
       }
     },
     "c_1784992935738": {
@@ -15077,5 +15080,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:41:20.939Z"
+  "savedAt": "2026-07-30T17:41:23.983Z"
 }
