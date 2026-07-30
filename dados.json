@@ -6087,9 +6087,15 @@
           "name": "Legging eterna cos sustenção lilás AG P",
           "price": 299,
           "qty": 1
+        },
+        "7890171653166": {
+          "code": "7890171653166",
+          "name": "Top elástico lilás AG P",
+          "price": 219,
+          "qty": 1
         }
       },
-      "total": 3676.2000000000003,
+      "total": 3895.2000000000003,
       "status": "open"
     }
   },
@@ -15392,5 +15398,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:46:59.315Z"
+  "savedAt": "2026-07-30T18:47:18.521Z"
 }
