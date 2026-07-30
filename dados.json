@@ -5534,12 +5534,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7908990981329": {
-          "code": "7908990981329",
-          "name": "Shorts hydefit verde com riscos live M",
-          "price": 219.9,
-          "qty": 1
-        },
         "7908990971207": {
           "code": "7908990971207",
           "name": "Top curve verde live live M",
@@ -5553,7 +5547,7 @@
           "qty": 1
         }
       },
-      "total": 2594.4000000000005,
+      "total": 2374.5000000000005,
       "status": "open"
     },
     "41996113214": {
@@ -8244,6 +8238,13 @@
         "price": 259,
         "qty": 1,
         "lastAt": "2026-07-30T17:34:06.277Z"
+      },
+      "7908990981329": {
+        "code": "7908990981329",
+        "name": "Shorts hydefit verde com riscos live M",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:34:12.648Z"
       }
     },
     "41991098260": {
@@ -15064,5 +15065,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:34:06.278Z"
+  "savedAt": "2026-07-30T17:34:12.650Z"
 }
