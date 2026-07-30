@@ -6333,9 +6333,15 @@
           "name": "Top icon rosa ametista live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7900415199289": {
+          "code": "7900415199289",
+          "name": "Calça balloon de moletom rosa LP pp",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 1032.8,
+      "total": 1585.8,
       "status": "open"
     }
   },
@@ -15654,5 +15660,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:35:09.503Z"
+  "savedAt": "2026-07-30T20:35:21.492Z"
 }
