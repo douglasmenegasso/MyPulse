@@ -6209,9 +6209,15 @@
           "name": "Macaquinho com zíper bordo DT P",
           "price": 699,
           "qty": 1
+        },
+        "7909746571870": {
+          "code": "7909746571870",
+          "name": "Jaqueta elite preta DT P",
+          "price": 569,
+          "qty": 1
         }
       },
-      "total": 9744.9,
+      "total": 10313.9,
       "status": "open"
     }
   },
@@ -15514,5 +15520,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:52:06.121Z"
+  "savedAt": "2026-07-30T18:52:18.027Z"
 }
