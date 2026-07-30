@@ -5914,9 +5914,15 @@
           "name": "Camiseta icon preta live M",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072405447": {
+          "code": "7901072405447",
+          "name": "Macaquinho allure bege live M",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 5915.099999999998,
+      "total": 6274.999999999997,
       "status": "open"
     }
   },
@@ -15225,5 +15231,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:54:33.549Z"
+  "savedAt": "2026-07-30T17:54:53.098Z"
 }
