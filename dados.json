@@ -6357,9 +6357,15 @@
           "name": "Top icon preto live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7909746620097": {
+          "code": "7909746620097",
+          "name": "Legging sprint marrom DT P",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 2805.5,
+      "total": 3064.5,
       "status": "open"
     }
   },
@@ -15678,5 +15684,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T20:35:46.600Z"
+  "savedAt": "2026-07-30T20:35:59.114Z"
 }
