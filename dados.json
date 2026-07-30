@@ -6058,9 +6058,15 @@
           "name": "Top nadador marrom live symbol P",
           "price": 239.9,
           "qty": 1
+        },
+        "7908990960058": {
+          "code": "7908990960058",
+          "name": "Blusão texturizado verde live P",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 2219.3,
+      "total": 2719.2000000000003,
       "status": "open"
     }
   },
@@ -15363,5 +15369,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:45:47.916Z"
+  "savedAt": "2026-07-30T18:46:05.218Z"
 }
