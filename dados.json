@@ -6046,9 +6046,15 @@
           "name": "Regata pima  marrom live P",
           "price": 249.9,
           "qty": 1
+        },
+        "7901128603209": {
+          "code": "7901128603209",
+          "name": "Legging marrom live symbol P",
+          "price": 329.9,
+          "qty": 1
         }
       },
-      "total": 1649.5,
+      "total": 1979.4,
       "status": "open"
     }
   },
@@ -15351,5 +15357,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:44:24.644Z"
+  "savedAt": "2026-07-30T18:44:37.134Z"
 }
