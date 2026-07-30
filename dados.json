@@ -6135,12 +6135,6 @@
           "price": 219,
           "qty": 1
         },
-        "7900415199289": {
-          "code": "7900415199289",
-          "name": "Calça balloon de moletom rosa LP pp",
-          "price": 553,
-          "qty": 1
-        },
         "7890171643488": {
           "code": "7890171643488",
           "name": "Jaqueta esportiva bege AG P",
@@ -6280,7 +6274,7 @@
           "qty": 1
         }
       },
-      "total": 12316.299999999997,
+      "total": 11763.299999999997,
       "status": "open"
     }
   },
@@ -15584,6 +15578,13 @@
         "price": 463,
         "qty": 1,
         "lastAt": "2026-07-30T19:01:56.566Z"
+      },
+      "7900415199289": {
+        "code": "7900415199289",
+        "name": "Calça balloon de moletom rosa LP pp",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-07-30T19:01:57.883Z"
       }
     }
   },
@@ -15592,5 +15593,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T19:01:56.568Z"
+  "savedAt": "2026-07-30T19:02:02.137Z"
 }
