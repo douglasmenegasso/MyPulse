@@ -6261,9 +6261,15 @@
           "name": "Top cut out preto live P",
           "price": 279.9,
           "qty": 1
+        },
+        "7908754515623": {
+          "code": "7908754515623",
+          "name": "Legging allure preto live P",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 12040.499999999998,
+      "total": 12360.399999999998,
       "status": "open"
     }
   },
@@ -15566,5 +15572,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T18:59:25.383Z"
+  "savedAt": "2026-07-30T18:59:56.751Z"
 }
