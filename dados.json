@@ -5623,15 +5623,9 @@
           "name": "Top curve rosa live M",
           "price": 189.9,
           "qty": 1
-        },
-        "7890171645512": {
-          "code": "7890171645512",
-          "name": "T-shirt com tule roxo malva AG P",
-          "price": 239,
-          "qty": 1
         }
       },
-      "total": 5897.5999999999985,
+      "total": 5658.5999999999985,
       "status": "open"
     },
     "41996113214": {
@@ -8231,6 +8225,13 @@
         "price": 359,
         "qty": 1,
         "lastAt": "2026-07-30T17:32:45.014Z"
+      },
+      "7890171645512": {
+        "code": "7890171645512",
+        "name": "T-shirt com tule roxo malva AG P",
+        "price": 239,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:32:48.991Z"
       }
     },
     "41991098260": {
@@ -15051,5 +15052,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:32:45.015Z"
+  "savedAt": "2026-07-30T17:32:48.993Z"
 }
