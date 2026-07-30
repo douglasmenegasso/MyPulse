@@ -5836,9 +5836,15 @@
           "name": "Pijama piquet marrom DT P",
           "price": 399,
           "qty": 1
+        },
+        "7900415352103": {
+          "code": "7900415352103",
+          "name": "Moletom decote v rose LP pp",
+          "price": 587,
+          "qty": 1
         }
       },
-      "total": 788,
+      "total": 1375,
       "status": "open"
     }
   },
@@ -15147,5 +15153,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:51:53.533Z"
+  "savedAt": "2026-07-30T17:51:59.880Z"
 }
