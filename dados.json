@@ -5510,12 +5510,6 @@
           "price": 259,
           "qty": 1
         },
-        "7909746620042": {
-          "code": "7909746620042",
-          "name": "Top sprint alcinha marrom DT M",
-          "price": 299,
-          "qty": 1
-        },
         "7890171645697": {
           "code": "7890171645697",
           "name": "Legging marrom elástico azul AG P",
@@ -5565,7 +5559,7 @@
           "qty": 1
         }
       },
-      "total": 3152.4000000000005,
+      "total": 2853.4000000000005,
       "status": "open"
     },
     "41996113214": {
@@ -8242,6 +8236,13 @@
         "price": 198,
         "qty": 1,
         "lastAt": "2026-07-30T17:33:51.855Z"
+      },
+      "7909746620042": {
+        "code": "7909746620042",
+        "name": "Top sprint alcinha marrom DT M",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-07-30T17:33:58.032Z"
       }
     },
     "41991098260": {
@@ -15062,5 +15063,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T17:33:51.857Z"
+  "savedAt": "2026-07-30T17:33:58.034Z"
 }
