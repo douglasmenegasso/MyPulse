@@ -5448,9 +5448,15 @@
           "name": "Camiseta com dry preto AG men M",
           "price": 228,
           "qty": 1
+        },
+        "7901072491259": {
+          "code": "7901072491259",
+          "name": "Camiseta run slim preta live men g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 8019.400000000001,
+      "total": 8219.300000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -15020,5 +15026,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-30T16:54:25.153Z"
+  "savedAt": "2026-07-30T16:54:34.928Z"
 }
