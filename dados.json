@@ -4824,6 +4824,11 @@
       "code": "7900415296520",
       "name": "Shorts com linho rose LP M",
       "price": 333
+    },
+    "7900415323486": {
+      "code": "7900415323486",
+      "name": "Shorts com linho marrom LP P",
+      "price": 333
     }
   },
   "clients": {
@@ -15938,5 +15943,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:38:31.776Z"
+  "savedAt": "2026-07-31T18:38:55.512Z"
 }
