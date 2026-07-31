@@ -4909,6 +4909,11 @@
       "code": "7900415217792",
       "name": "Body canelado com zíper marrom LP pp",
       "price": 353
+    },
+    "7900415217785": {
+      "code": "7900415217785",
+      "name": "Body canelado com zíper marrom LP P",
+      "price": 353
     }
   },
   "clients": {
@@ -16090,5 +16095,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T20:26:26.368Z"
+  "savedAt": "2026-07-31T20:26:30.245Z"
 }
