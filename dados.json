@@ -5383,12 +5383,6 @@
           "price": 259.9,
           "qty": 1
         },
-        "7900415166106": {
-          "code": "7900415166106",
-          "name": "Shorts camurça caramelo LP M",
-          "price": 723,
-          "qty": 1
-        },
         "7900415284107": {
           "code": "7900415284107",
           "name": "T-shirt over marrom escrita off Lp M",
@@ -5402,7 +5396,7 @@
           "qty": 1
         }
       },
-      "total": 1925.700000000002,
+      "total": 1202.700000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11357,6 +11351,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-07-31T17:04:53.398Z"
+      },
+      "7900415166106": {
+        "code": "7900415166106",
+        "name": "Shorts camurça caramelo LP M",
+        "price": 723,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:05:16.794Z"
       }
     },
     "c_1779382988768": {
@@ -15867,5 +15868,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:05:15.635Z"
+  "savedAt": "2026-07-31T17:05:19.543Z"
 }
