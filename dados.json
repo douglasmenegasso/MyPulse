@@ -5460,15 +5460,9 @@
           "name": "Camiseta run slim preta live men g",
           "price": 199.9,
           "qty": 1
-        },
-        "7901072438032": {
-          "code": "7901072438032",
-          "name": "Camiseta pima bege live P",
-          "price": 299.9,
-          "qty": 1
         }
       },
-      "total": 5694.500000000002,
+      "total": 5394.600000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11346,6 +11340,13 @@
         "price": 269,
         "qty": 1,
         "lastAt": "2026-07-31T17:03:01.589Z"
+      },
+      "7901072438032": {
+        "code": "7901072438032",
+        "name": "Camiseta pima bege live P",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:03:11.110Z"
       }
     },
     "c_1779382988768": {
@@ -15856,5 +15857,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:03:01.590Z"
+  "savedAt": "2026-07-31T17:03:11.112Z"
 }
