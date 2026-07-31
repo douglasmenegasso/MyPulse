@@ -5383,12 +5383,6 @@
           "price": 259.9,
           "qty": 1
         },
-        "7901072484107": {
-          "code": "7901072484107",
-          "name": "Shorts Fit art marrom live g",
-          "price": 219.9,
-          "qty": 1
-        },
         "7900415166106": {
           "code": "7900415166106",
           "name": "Shorts camurça caramelo LP M",
@@ -5408,7 +5402,7 @@
           "qty": 1
         }
       },
-      "total": 2145.600000000002,
+      "total": 1925.700000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11356,6 +11350,13 @@
         "price": 463,
         "qty": 1,
         "lastAt": "2026-07-31T17:04:40.595Z"
+      },
+      "7901072484107": {
+        "code": "7901072484107",
+        "name": "Shorts Fit art marrom live g",
+        "price": 219.9,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:04:53.398Z"
       }
     },
     "c_1779382988768": {
@@ -15866,5 +15867,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:04:40.596Z"
+  "savedAt": "2026-07-31T17:04:53.399Z"
 }
