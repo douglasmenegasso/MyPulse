@@ -4934,6 +4934,11 @@
       "code": "7900415318123",
       "name": "Jaqueta manga média rose LP P",
       "price": 637
+    },
+    "7900415345495": {
+      "code": "7900415345495",
+      "name": "Blusa curta de alças cinza LP pp",
+      "price": 373
     }
   },
   "clients": {
@@ -16115,5 +16120,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T20:32:13.663Z"
+  "savedAt": "2026-07-31T20:33:06.937Z"
 }
