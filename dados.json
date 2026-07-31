@@ -4834,6 +4834,11 @@
       "code": "7900415346249",
       "name": "Jaqueta linho marrom manga média Lp P",
       "price": 637
+    },
+    "7900358033251": {
+      "code": "7900358033251",
+      "name": "Blusa de tule preta com flores rosa CCM M",
+      "price": 249
     }
   },
   "clients": {
@@ -15960,5 +15965,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:39:34.688Z"
+  "savedAt": "2026-07-31T18:39:51.061Z"
 }
