@@ -4844,6 +4844,11 @@
       "code": "7900358027762",
       "name": "Camiseta rapel preta escrita rosa CCM M",
       "price": 189
+    },
+    "7900358026444": {
+      "code": "7900358026444",
+      "name": "Jaqueta bela bege com preto CCM M",
+      "price": 589
     }
   },
   "clients": {
@@ -15982,5 +15987,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:50:55.882Z"
+  "savedAt": "2026-07-31T18:51:05.625Z"
 }
