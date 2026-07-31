@@ -6468,6 +6468,19 @@
       },
       "total": 8579.1,
       "status": "waiting"
+    },
+    "5541984520730": {
+      "clientId": "5541984520730",
+      "items": {
+        "7900415109059": {
+          "code": "7900415109059",
+          "name": "Bolsa pequena off com dourado LP",
+          "price": 597,
+          "qty": 1
+        }
+      },
+      "total": 597,
+      "status": "open"
     }
   },
   "closed": [
@@ -15785,5 +15798,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T16:48:47.708Z"
+  "savedAt": "2026-07-31T16:49:01.816Z"
 }
