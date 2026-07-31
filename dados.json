@@ -5371,12 +5371,6 @@
     "41991694056": {
       "clientId": "41991694056",
       "items": {
-        "7900292699247": {
-          "code": "7900292699247",
-          "name": "Tênis caramelo Lp 37",
-          "price": 497,
-          "qty": 1
-        },
         "7901128619095": {
           "code": "7901128619095",
           "name": "Jaqueta marrom live symbol P",
@@ -5456,7 +5450,7 @@
           "qty": 1
         }
       },
-      "total": 5166.600000000002,
+      "total": 4669.600000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11348,6 +11342,13 @@
         "price": 228,
         "qty": 1,
         "lastAt": "2026-07-31T17:03:17.680Z"
+      },
+      "7900292699247": {
+        "code": "7900292699247",
+        "name": "Tênis caramelo Lp 37",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:03:22.162Z"
       }
     },
     "c_1779382988768": {
@@ -15858,5 +15859,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:03:19.566Z"
+  "savedAt": "2026-07-31T17:03:23.694Z"
 }
