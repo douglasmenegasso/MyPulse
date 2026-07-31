@@ -6348,9 +6348,15 @@
           "name": "Moletom marrom escrita off LP M",
           "price": 587,
           "qty": 1
+        },
+        "7900415035587": {
+          "code": "7900415035587",
+          "name": "Calça sarja jeans marrom LP 38",
+          "price": 767,
+          "qty": 1
         }
       },
-      "total": 850,
+      "total": 1617,
       "status": "open"
     }
   },
@@ -15899,5 +15905,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:08:48.804Z"
+  "savedAt": "2026-07-31T17:08:53.528Z"
 }
