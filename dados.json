@@ -5377,12 +5377,6 @@
           "price": 497,
           "qty": 1
         },
-        "7900415250461": {
-          "code": "7900415250461",
-          "name": "Moletom over rose LP P",
-          "price": 463,
-          "qty": 1
-        },
         "7908931944727": {
           "code": "7908931944727",
           "name": "Legging neopren roxo malva live g",
@@ -5504,7 +5498,7 @@
           "qty": 1
         }
       },
-      "total": 7651.300000000001,
+      "total": 7188.300000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11340,6 +11334,13 @@
         "price": 197,
         "qty": 1,
         "lastAt": "2026-07-31T17:01:49.776Z"
+      },
+      "7900415250461": {
+        "code": "7900415250461",
+        "name": "Moletom over rose LP P",
+        "price": 463,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:02:01.295Z"
       }
     },
     "c_1779382988768": {
@@ -15850,5 +15851,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:01:49.777Z"
+  "savedAt": "2026-07-31T17:02:01.297Z"
 }
