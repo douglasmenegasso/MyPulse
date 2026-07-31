@@ -5431,12 +5431,6 @@
           "price": 243,
           "qty": 1
         },
-        "7900415284053": {
-          "code": "7900415284053",
-          "name": "T-shirt over preta espírita off Lp M",
-          "price": 243,
-          "qty": 1
-        },
         "7901072491259": {
           "code": "7901072491259",
           "name": "Camiseta run slim preta live men g",
@@ -5444,7 +5438,7 @@
           "qty": 1
         }
       },
-      "total": 3970.600000000002,
+      "total": 3727.600000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11350,6 +11344,13 @@
         "price": 699,
         "qty": 1,
         "lastAt": "2026-07-31T17:03:29.353Z"
+      },
+      "7900415284053": {
+        "code": "7900415284053",
+        "name": "T-shirt over preta espírita off Lp M",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:03:38.269Z"
       }
     },
     "c_1779382988768": {
@@ -15860,5 +15861,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:03:29.354Z"
+  "savedAt": "2026-07-31T17:03:38.271Z"
 }
