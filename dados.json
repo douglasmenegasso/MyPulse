@@ -4939,6 +4939,11 @@
       "code": "7900415345495",
       "name": "Blusa curta de alças cinza LP pp",
       "price": 373
+    },
+    "7900415345488": {
+      "code": "7900415345488",
+      "name": "Blusa curta de alças cinza LP P",
+      "price": 373
     }
   },
   "clients": {
@@ -16120,5 +16125,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T20:33:13.804Z"
+  "savedAt": "2026-07-31T20:33:31.731Z"
 }
