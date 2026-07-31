@@ -6381,9 +6381,15 @@
           "name": "Jaqueta manga média com linho rose LP M",
           "price": 637,
           "qty": 1
+        },
+        "7900415296520": {
+          "code": "7900415296520",
+          "name": "Shorts com linho rose LP M",
+          "price": 333,
+          "qty": 1
         }
       },
-      "total": 2607,
+      "total": 2940,
       "status": "open"
     }
   },
@@ -15932,5 +15938,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:38:10.874Z"
+  "savedAt": "2026-07-31T18:38:17.354Z"
 }
