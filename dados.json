@@ -6477,9 +6477,15 @@
           "name": "Bolsa pequena off com dourado LP",
           "price": 597,
           "qty": 1
+        },
+        "7900415199272": {
+          "code": "7900415199272",
+          "name": "Calça balloon de moletom rosa LP P",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 597,
+      "total": 1150,
       "status": "open"
     }
   },
@@ -15798,5 +15804,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T16:49:01.816Z"
+  "savedAt": "2026-07-31T16:49:49.964Z"
 }
