@@ -4899,6 +4899,11 @@
       "code": "7900415390341",
       "name": "T-shirt regular marrom LP M",
       "price": 223
+    },
+    "7900358022484": {
+      "code": "7900358022484",
+      "name": "Camiseta rapel off escrita marrom CCM M",
+      "price": 189
     }
   },
   "clients": {
@@ -16080,5 +16085,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T20:25:26.274Z"
+  "savedAt": "2026-07-31T20:25:45.514Z"
 }
