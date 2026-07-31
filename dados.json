@@ -5833,31 +5833,6 @@
       "total": 0,
       "status": "open"
     },
-    "c_1785267357739": {
-      "clientId": "c_1785267357739",
-      "items": {
-        "7900292935932": {
-          "code": "7900292935932",
-          "name": "Moletom marrom bordado off Lp P",
-          "price": 587,
-          "qty": 1
-        },
-        "7900292947577": {
-          "code": "7900292947577",
-          "name": "Regata canelada preta logo couro LP P",
-          "price": 243,
-          "qty": 1
-        },
-        "7890171645659": {
-          "code": "7890171645659",
-          "name": "Legging canelada brilhosa marrom AG P",
-          "price": 319,
-          "qty": 1
-        }
-      },
-      "total": 1149,
-      "status": "waiting"
-    },
     "c_1785273792576": {
       "clientId": "c_1785273792576",
       "items": {
@@ -6495,6 +6470,33 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1785267357739",
+      "clientName": "Dhyuli Erasto",
+      "clientPhone": "",
+      "items": {
+        "7900292935932": {
+          "code": "7900292935932",
+          "name": "Moletom marrom bordado off Lp P",
+          "price": 587,
+          "qty": 1
+        },
+        "7900292947577": {
+          "code": "7900292947577",
+          "name": "Regata canelada preta logo couro LP P",
+          "price": 243,
+          "qty": 1
+        },
+        "7890171645659": {
+          "code": "7890171645659",
+          "name": "Legging canelada brilhosa marrom AG P",
+          "price": 319,
+          "qty": 1
+        }
+      },
+      "total": 1149,
+      "closedAt": "2026-07-31T16:52:29.317Z"
+    },
     {
       "clientId": "c_1779214900706",
       "clientName": "Dinley",
@@ -15818,5 +15820,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T16:52:24.638Z"
+  "savedAt": "2026-07-31T16:52:29.318Z"
 }
