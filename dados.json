@@ -6323,6 +6323,19 @@
       },
       "total": 1737,
       "status": "waiting"
+    },
+    "41991694056": {
+      "clientId": "41991694056",
+      "items": {
+        "7900415029708": {
+          "code": "7900415029708",
+          "name": "T-shirt off escrita marrom Lp g",
+          "price": 263,
+          "qty": 1
+        }
+      },
+      "total": 263,
+      "status": "open"
     }
   },
   "closed": [
@@ -15870,5 +15883,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:06:17.380Z"
+  "savedAt": "2026-07-31T17:07:03.408Z"
 }
