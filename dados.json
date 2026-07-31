@@ -4849,6 +4849,11 @@
       "code": "7900358026444",
       "name": "Jaqueta bela bege com preto CCM M",
       "price": 589
+    },
+    "7900358033275": {
+      "code": "7900358033275",
+      "name": "Blusa de tule bege com preto CCM M",
+      "price": 249
     }
   },
   "clients": {
@@ -15993,5 +15998,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:51:09.823Z"
+  "savedAt": "2026-07-31T18:51:29.570Z"
 }
