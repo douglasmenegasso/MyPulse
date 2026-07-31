@@ -5497,12 +5497,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171616055": {
-          "code": "7890171616055",
-          "name": "Camiseta Sport preta AG men M",
-          "price": 228,
-          "qty": 1
-        },
         "7890171656426": {
           "code": "7890171656426",
           "name": "Camiseta pima bege AG men M",
@@ -5516,7 +5510,7 @@
           "qty": 1
         }
       },
-      "total": 8076.300000000001,
+      "total": 7848.300000000001,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11338,6 +11332,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-07-31T17:00:54.237Z"
+      },
+      "7890171616055": {
+        "code": "7890171616055",
+        "name": "Camiseta Sport preta AG men M",
+        "price": 228,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:01:38.761Z"
       }
     },
     "c_1779382988768": {
@@ -15848,5 +15849,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:01:15.160Z"
+  "savedAt": "2026-07-31T17:01:38.763Z"
 }
