@@ -5829,8 +5829,15 @@
     },
     "41991536747": {
       "clientId": "41991536747",
-      "items": {},
-      "total": 0,
+      "items": {
+        "7900415301545": {
+          "code": "7900415301545",
+          "name": "Calça sarja baggy rosa LP 36",
+          "price": 673,
+          "qty": 1
+        }
+      },
+      "total": 673,
       "status": "open"
     },
     "c_1785273792576": {
@@ -15820,5 +15827,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T16:52:50.697Z"
+  "savedAt": "2026-07-31T16:53:00.968Z"
 }
