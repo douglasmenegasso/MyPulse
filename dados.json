@@ -5377,12 +5377,6 @@
           "price": 497,
           "qty": 1
         },
-        "7908931944727": {
-          "code": "7908931944727",
-          "name": "Legging neopren roxo malva live g",
-          "price": 359.9,
-          "qty": 1
-        },
         "7908931945106": {
           "code": "7908931945106",
           "name": "Top neopren roxo malva live g",
@@ -5498,7 +5492,7 @@
           "qty": 1
         }
       },
-      "total": 7188.300000000001,
+      "total": 6828.4000000000015,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11341,6 +11335,13 @@
         "price": 463,
         "qty": 1,
         "lastAt": "2026-07-31T17:02:01.295Z"
+      },
+      "7908931944727": {
+        "code": "7908931944727",
+        "name": "Legging neopren roxo malva live g",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:02:12.525Z"
       }
     },
     "c_1779382988768": {
@@ -15851,5 +15852,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:02:01.297Z"
+  "savedAt": "2026-07-31T17:02:12.527Z"
 }
