@@ -5449,12 +5449,6 @@
           "price": 243,
           "qty": 1
         },
-        "7890171628218": {
-          "code": "7890171628218",
-          "name": "Camiseta com dry preto AG men M",
-          "price": 228,
-          "qty": 1
-        },
         "7901072491259": {
           "code": "7901072491259",
           "name": "Camiseta run slim preta live men g",
@@ -5462,7 +5456,7 @@
           "qty": 1
         }
       },
-      "total": 5394.600000000002,
+      "total": 5166.600000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11347,6 +11341,13 @@
         "price": 299.9,
         "qty": 1,
         "lastAt": "2026-07-31T17:03:11.110Z"
+      },
+      "7890171628218": {
+        "code": "7890171628218",
+        "name": "Camiseta com dry preto AG men M",
+        "price": 228,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:03:17.680Z"
       }
     },
     "c_1779382988768": {
@@ -15857,5 +15858,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:03:15.401Z"
+  "savedAt": "2026-07-31T17:03:19.566Z"
 }
