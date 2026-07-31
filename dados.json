@@ -5461,12 +5461,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171656426": {
-          "code": "7890171656426",
-          "name": "Camiseta pima bege AG men M",
-          "price": 269,
-          "qty": 1
-        },
         "7901072438032": {
           "code": "7901072438032",
           "name": "Camiseta pima bege live P",
@@ -5474,7 +5468,7 @@
           "qty": 1
         }
       },
-      "total": 5963.500000000002,
+      "total": 5694.500000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11345,6 +11339,13 @@
         "price": 417,
         "qty": 1,
         "lastAt": "2026-07-31T17:02:40.073Z"
+      },
+      "7890171656426": {
+        "code": "7890171656426",
+        "name": "Camiseta pima bege AG men M",
+        "price": 269,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:03:01.589Z"
       }
     },
     "c_1779382988768": {
@@ -15855,5 +15856,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:02:40.075Z"
+  "savedAt": "2026-07-31T17:03:01.590Z"
 }
