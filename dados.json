@@ -5395,12 +5395,6 @@
           "price": 723,
           "qty": 1
         },
-        "7900415277154": {
-          "code": "7900415277154",
-          "name": "Moletom over off LP P",
-          "price": 463,
-          "qty": 1
-        },
         "7900415284107": {
           "code": "7900415284107",
           "name": "T-shirt over marrom escrita off Lp M",
@@ -5414,7 +5408,7 @@
           "qty": 1
         }
       },
-      "total": 2608.600000000002,
+      "total": 2145.600000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11355,6 +11349,13 @@
         "price": 243,
         "qty": 1,
         "lastAt": "2026-07-31T17:04:28.318Z"
+      },
+      "7900415277154": {
+        "code": "7900415277154",
+        "name": "Moletom over off LP P",
+        "price": 463,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:04:40.595Z"
       }
     },
     "c_1779382988768": {
@@ -15865,5 +15866,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:04:28.319Z"
+  "savedAt": "2026-07-31T17:04:40.596Z"
 }
