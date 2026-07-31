@@ -4839,6 +4839,11 @@
       "code": "7900358033251",
       "name": "Blusa de tule preta com flores rosa CCM M",
       "price": 249
+    },
+    "7900358027762": {
+      "code": "7900358027762",
+      "name": "Camiseta rapel preta escrita rosa CCM M",
+      "price": 189
     }
   },
   "clients": {
@@ -15971,5 +15976,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:48:59.635Z"
+  "savedAt": "2026-07-31T18:49:33.404Z"
 }
