@@ -5377,12 +5377,6 @@
           "price": 497,
           "qty": 1
         },
-        "7890171617328": {
-          "code": "7890171617328",
-          "name": "T-shirt cropped rosa AG M",
-          "price": 198,
-          "qty": 1
-        },
         "7901128619095": {
           "code": "7901128619095",
           "name": "Jaqueta marrom live symbol P",
@@ -5486,7 +5480,7 @@
           "qty": 1
         }
       },
-      "total": 6578.500000000002,
+      "total": 6380.500000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11343,6 +11337,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-31T17:02:25.568Z"
+      },
+      "7890171617328": {
+        "code": "7890171617328",
+        "name": "T-shirt cropped rosa AG M",
+        "price": 198,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:02:32.402Z"
       }
     },
     "c_1779382988768": {
@@ -15853,5 +15854,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:02:25.570Z"
+  "savedAt": "2026-07-31T17:02:32.404Z"
 }
