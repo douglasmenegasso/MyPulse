@@ -5848,12 +5848,6 @@
           "price": 243,
           "qty": 1
         },
-        "7900292729609": {
-          "code": "7900292729609",
-          "name": "Calça baggy off LP pp",
-          "price": 647,
-          "qty": 1
-        },
         "7890171645659": {
           "code": "7890171645659",
           "name": "Legging canelada brilhosa marrom AG P",
@@ -5861,7 +5855,7 @@
           "qty": 1
         }
       },
-      "total": 1796,
+      "total": 1149,
       "status": "open"
     },
     "c_1785273792576": {
@@ -15808,6 +15802,15 @@
         "qty": 1,
         "lastAt": "2026-07-30T19:01:57.883Z"
       }
+    },
+    "c_1785267357739": {
+      "7900292729609": {
+        "code": "7900292729609",
+        "name": "Calça baggy off LP pp",
+        "price": 647,
+        "qty": 1,
+        "lastAt": "2026-07-31T16:52:19.907Z"
+      }
     }
   },
   "security": {
@@ -15815,5 +15818,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T16:52:17.666Z"
+  "savedAt": "2026-07-31T16:52:21.386Z"
 }
