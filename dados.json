@@ -6359,9 +6359,15 @@
           "name": "Calça sarja jeans marrom LP 38",
           "price": 767,
           "qty": 1
+        },
+        "7900415217778": {
+          "code": "7900415217778",
+          "name": "Body canelado com zíper marrom LP M",
+          "price": 353,
+          "qty": 1
         }
       },
-      "total": 1617,
+      "total": 1970,
       "status": "open"
     }
   },
@@ -15910,5 +15916,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:36:18.963Z"
+  "savedAt": "2026-07-31T18:36:29.672Z"
 }
