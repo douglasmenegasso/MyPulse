@@ -5413,12 +5413,6 @@
           "price": 369,
           "qty": 1
         },
-        "7909746619480": {
-          "code": "7909746619480",
-          "name": "Top boost bege com off DT g",
-          "price": 219,
-          "qty": 1
-        },
         "7900415284107": {
           "code": "7900415284107",
           "name": "T-shirt over marrom escrita off Lp M",
@@ -5438,7 +5432,7 @@
           "qty": 1
         }
       },
-      "total": 3727.600000000002,
+      "total": 3508.600000000002,
       "status": "open"
     },
     "c_1783444825678": {
@@ -11351,6 +11345,13 @@
         "price": 243,
         "qty": 1,
         "lastAt": "2026-07-31T17:03:38.269Z"
+      },
+      "7909746619480": {
+        "code": "7909746619480",
+        "name": "Top boost bege com off DT g",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-07-31T17:03:46.950Z"
       }
     },
     "c_1779382988768": {
@@ -15861,5 +15862,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T17:03:38.271Z"
+  "savedAt": "2026-07-31T17:03:46.951Z"
 }
