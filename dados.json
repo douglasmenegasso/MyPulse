@@ -4914,6 +4914,11 @@
       "code": "7900415217785",
       "name": "Body canelado com zíper marrom LP P",
       "price": 353
+    },
+    "7900415296537": {
+      "code": "7900415296537",
+      "name": "Shorts com linho rose LP P",
+      "price": 333
     }
   },
   "clients": {
@@ -16095,5 +16100,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T20:30:13.608Z"
+  "savedAt": "2026-07-31T20:30:58.162Z"
 }
