@@ -6370,9 +6370,15 @@
           "name": "Body canelado com zíper marrom LP M",
           "price": 353,
           "qty": 1
+        },
+        "7900415322489": {
+          "code": "7900415322489",
+          "name": "Jaqueta manga média com linho rose LP M",
+          "price": 637,
+          "qty": 1
         }
       },
-      "total": 1970,
+      "total": 2607,
       "status": "open"
     }
   },
@@ -15921,5 +15927,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-07-31T18:37:16.859Z"
+  "savedAt": "2026-07-31T18:37:29.465Z"
 }
