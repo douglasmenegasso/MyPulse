@@ -5878,12 +5878,6 @@
     "c_1785436958811": {
       "clientId": "c_1785436958811",
       "items": {
-        "7908990960058": {
-          "code": "7908990960058",
-          "name": "Blusão texturizado verde live P",
-          "price": 499.9,
-          "qty": 1
-        },
         "7890171628935": {
           "code": "7890171628935",
           "name": "Shorts piquet rose AG P",
@@ -5933,7 +5927,7 @@
           "qty": 1
         }
       },
-      "total": 1805.3999999999996,
+      "total": 1305.4999999999995,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15994,6 +15988,13 @@
         "price": 399,
         "qty": 1,
         "lastAt": "2026-08-01T14:49:42.975Z"
+      },
+      "7908990960058": {
+        "code": "7908990960058",
+        "name": "Blusão texturizado verde live P",
+        "price": 499.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:49:52.308Z"
       }
     },
     "c_1785267357739": {
@@ -16027,5 +16028,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:49:42.977Z"
+  "savedAt": "2026-08-01T14:49:52.310Z"
 }
