@@ -5950,12 +5950,6 @@
           "price": 219.9,
           "qty": 1
         },
-        "7908931902819": {
-          "code": "7908931902819",
-          "name": "Legging preta live live P",
-          "price": 329.9,
-          "qty": 1
-        },
         "01403620243": {
           "code": "01403620243",
           "name": "Calça flare preta movimento P",
@@ -5999,7 +5993,7 @@
           "qty": 1
         }
       },
-      "total": 5368.799999999999,
+      "total": 5038.9,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15983,6 +15977,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:47:25.951Z"
+      },
+      "7908931902819": {
+        "code": "7908931902819",
+        "name": "Legging preta live live P",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:47:33.088Z"
       }
     },
     "c_1785267357739": {
@@ -16016,5 +16017,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:47:25.953Z"
+  "savedAt": "2026-08-01T14:47:33.089Z"
 }
