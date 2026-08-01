@@ -5691,12 +5691,6 @@
     "c_1785433735869": {
       "clientId": "c_1785433735869",
       "items": {
-        "7909746670924": {
-          "code": "7909746670924",
-          "name": "Pijama short doll erica cinza DT P",
-          "price": 389,
-          "qty": 1
-        },
         "7909746646523": {
           "code": "7909746646523",
           "name": "Jaqueta flex corta vento bege DT P",
@@ -5752,7 +5746,7 @@
           "qty": 1
         }
       },
-      "total": 3462.7,
+      "total": 3073.7,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16049,6 +16043,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:54:15.109Z"
+      },
+      "7909746670924": {
+        "code": "7909746670924",
+        "name": "Pijama short doll erica cinza DT P",
+        "price": 389,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:54:23.634Z"
       }
     }
   },
@@ -16057,5 +16058,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:54:15.111Z"
+  "savedAt": "2026-08-01T14:54:23.636Z"
 }
