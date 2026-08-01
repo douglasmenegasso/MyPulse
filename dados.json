@@ -6397,19 +6397,6 @@
       "total": 5186,
       "status": "waiting"
     },
-    "c_1784135024747": {
-      "clientId": "c_1784135024747",
-      "items": {
-        "7901072434393": {
-          "code": "7901072434393",
-          "name": "Camiseta icon verde oliva live M",
-          "price": 199.9,
-          "qty": 1
-        }
-      },
-      "total": 199.9,
-      "status": "waiting"
-    },
     "c_1785524771302": {
       "clientId": "c_1785524771302",
       "items": {
@@ -6425,6 +6412,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1784135024747",
+      "clientName": "Day pilates estivadores",
+      "clientPhone": "",
+      "items": {
+        "7901072434393": {
+          "code": "7901072434393",
+          "name": "Camiseta icon verde oliva live M",
+          "price": 199.9,
+          "qty": 1
+        }
+      },
+      "total": 199.9,
+      "closedAt": "2026-08-01T13:02:58.243Z"
+    },
     {
       "clientId": "41991694056",
       "clientName": "Deyse",
@@ -15985,5 +15987,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T13:02:52.622Z"
+  "savedAt": "2026-08-01T13:02:58.245Z"
 }
