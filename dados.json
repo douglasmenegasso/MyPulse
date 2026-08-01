@@ -5441,9 +5441,15 @@
           "name": "Shorts couro sintético caramelo LP P",
           "price": 723,
           "qty": 1
+        },
+        "7890171615409": {
+          "code": "7890171615409",
+          "name": "Regata um ombro off AG M",
+          "price": 288,
+          "qty": 1
         }
       },
-      "total": 5291.8,
+      "total": 5579.8,
       "status": "open"
     },
     "c1779296356399": {
@@ -16198,5 +16204,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T12:34:48.938Z"
+  "savedAt": "2026-08-01T12:35:01.739Z"
 }
