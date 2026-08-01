@@ -5901,15 +5901,9 @@
           "name": "Legging allure preto live P",
           "price": 319.9,
           "qty": 1
-        },
-        "7909392810088": {
-          "code": "7909392810088",
-          "name": "Meia Sport branco lupo 33 a 36",
-          "price": 19.9,
-          "qty": 1
         }
       },
-      "total": 1215.7999999999993,
+      "total": 1195.8999999999992,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15998,6 +15992,13 @@
         "price": 49.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:50:30.634Z"
+      },
+      "7909392810088": {
+        "code": "7909392810088",
+        "name": "Meia Sport branco lupo 33 a 36",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:50:36.307Z"
       }
     },
     "c_1785267357739": {
@@ -16031,5 +16032,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:50:32.020Z"
+  "savedAt": "2026-08-01T14:50:36.309Z"
 }
