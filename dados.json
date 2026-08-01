@@ -5920,12 +5920,6 @@
           "price": 399,
           "qty": 1
         },
-        "7909746616366": {
-          "code": "7909746616366",
-          "name": "Top nadador oliva vivame P",
-          "price": 259,
-          "qty": 1
-        },
         "7890171651537": {
           "code": "7890171651537",
           "name": "Legging eterna cos sustenção lilás AG P",
@@ -6089,7 +6083,7 @@
           "qty": 1
         }
       },
-      "total": 10486.099999999997,
+      "total": 10227.099999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15968,6 +15962,13 @@
         "price": 49.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:45:47.323Z"
+      },
+      "7909746616366": {
+        "code": "7909746616366",
+        "name": "Top nadador oliva vivame P",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:45:53.009Z"
       }
     },
     "c_1785267357739": {
@@ -16001,5 +16002,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:45:47.325Z"
+  "savedAt": "2026-08-01T14:45:53.011Z"
 }
