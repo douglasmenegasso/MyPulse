@@ -5859,12 +5859,6 @@
           "price": 189.9,
           "qty": 1
         },
-        "7900415058616": {
-          "code": "7900415058616",
-          "name": "Calça marrom com elástico LP P",
-          "price": 443,
-          "qty": 1
-        },
         "7900415011420": {
           "code": "7900415011420",
           "name": "Top Sport duplo marrom com elástico LP M",
@@ -5872,7 +5866,7 @@
           "qty": 1
         }
       },
-      "total": 10372.599999999997,
+      "total": 9929.599999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16028,6 +16022,15 @@
         "qty": 1,
         "lastAt": "2026-08-01T12:37:38.490Z"
       }
+    },
+    "c_1785433735869": {
+      "7900415058616": {
+        "code": "7900415058616",
+        "name": "Calça marrom com elástico LP P",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:51:34.116Z"
+      }
     }
   },
   "security": {
@@ -16035,5 +16038,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:51:31.650Z"
+  "savedAt": "2026-08-01T14:51:35.481Z"
 }
