@@ -5890,12 +5890,6 @@
           "price": 399,
           "qty": 1
         },
-        "7908931963377": {
-          "code": "7908931963377",
-          "name": "Camiseta icon azul live P",
-          "price": 199.9,
-          "qty": 1
-        },
         "7890171644706": {
           "code": "7890171644706",
           "name": "Tô eterno costas decotada rosa AG P",
@@ -5951,7 +5945,7 @@
           "qty": 1
         }
       },
-      "total": 2603.2999999999997,
+      "total": 2403.3999999999996,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15991,6 +15985,13 @@
         "price": 298,
         "qty": 1,
         "lastAt": "2026-08-01T14:49:15.565Z"
+      },
+      "7908931963377": {
+        "code": "7908931963377",
+        "name": "Camiseta icon azul live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:49:25.563Z"
       }
     },
     "c_1785267357739": {
@@ -16024,5 +16025,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:49:15.566Z"
+  "savedAt": "2026-08-01T14:49:25.565Z"
 }
