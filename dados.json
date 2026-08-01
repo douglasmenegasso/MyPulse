@@ -5387,9 +5387,15 @@
           "name": "Blusa de tule preta com flores rosa CCM M",
           "price": 249,
           "qty": 1
+        },
+        "7900415322496": {
+          "code": "7900415322496",
+          "name": "Jaqueta manga média em linho rose LP pp",
+          "price": 637,
+          "qty": 1
         }
       },
-      "total": 1219,
+      "total": 1856,
       "status": "open"
     },
     "c1779296356399": {
@@ -16144,5 +16150,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T12:32:09.573Z"
+  "savedAt": "2026-08-01T12:32:28.104Z"
 }
