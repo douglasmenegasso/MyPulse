@@ -5890,12 +5890,6 @@
           "price": 399,
           "qty": 1
         },
-        "7890171644706": {
-          "code": "7890171644706",
-          "name": "Tô eterno costas decotada rosa AG P",
-          "price": 199,
-          "qty": 1
-        },
         "7890171628935": {
           "code": "7890171628935",
           "name": "Shorts piquet rose AG P",
@@ -5945,7 +5939,7 @@
           "qty": 1
         }
       },
-      "total": 2403.3999999999996,
+      "total": 2204.3999999999996,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15992,6 +15986,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:49:25.563Z"
+      },
+      "7890171644706": {
+        "code": "7890171644706",
+        "name": "Tô eterno costas decotada rosa AG P",
+        "price": 199,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:49:32.853Z"
       }
     },
     "c_1785267357739": {
@@ -16025,5 +16026,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:49:25.565Z"
+  "savedAt": "2026-08-01T14:49:32.855Z"
 }
