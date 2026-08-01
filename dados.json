@@ -5926,12 +5926,6 @@
           "price": 299,
           "qty": 1
         },
-        "7890171645062": {
-          "code": "7890171645062",
-          "name": "Regata cropped mesh lilás AG P",
-          "price": 219,
-          "qty": 1
-        },
         "7890171643488": {
           "code": "7890171643488",
           "name": "Jaqueta esportiva bege AG P",
@@ -6065,7 +6059,7 @@
           "qty": 1
         }
       },
-      "total": 9171.199999999997,
+      "total": 8952.199999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15972,6 +15966,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:46:14.450Z"
+      },
+      "7890171645062": {
+        "code": "7890171645062",
+        "name": "Regata cropped mesh lilás AG P",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:46:19.981Z"
       }
     },
     "c_1785267357739": {
@@ -16005,5 +16006,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:46:14.451Z"
+  "savedAt": "2026-08-01T14:46:19.983Z"
 }
