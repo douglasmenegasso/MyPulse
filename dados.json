@@ -5890,12 +5890,6 @@
           "price": 399,
           "qty": 1
         },
-        "7901072421478": {
-          "code": "7901072421478",
-          "name": "Legging camuflada verde live P",
-          "price": 399.9,
-          "qty": 1
-        },
         "7908931963377": {
           "code": "7908931963377",
           "name": "Camiseta icon azul live P",
@@ -5963,7 +5957,7 @@
           "qty": 1
         }
       },
-      "total": 3301.2,
+      "total": 2901.2999999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15989,6 +15983,13 @@
         "price": 299.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:49:01.754Z"
+      },
+      "7901072421478": {
+        "code": "7901072421478",
+        "name": "Legging camuflada verde live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:49:10.307Z"
       }
     },
     "c_1785267357739": {
@@ -16022,5 +16023,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:49:06.263Z"
+  "savedAt": "2026-08-01T14:49:10.309Z"
 }
