@@ -6064,12 +6064,6 @@
           "price": 219,
           "qty": 1
         },
-        "7891186222675": {
-          "code": "7891186222675",
-          "name": "Calcinha fio nude lupo P",
-          "price": 49.9,
-          "qty": 1
-        },
         "7891186222699": {
           "code": "7891186222699",
           "name": "Calcinha fio preto lupo P",
@@ -6101,7 +6095,7 @@
           "qty": 1
         }
       },
-      "total": 10585.899999999996,
+      "total": 10535.999999999996,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15966,6 +15960,13 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:45:36.372Z"
+      },
+      "7891186222675": {
+        "code": "7891186222675",
+        "name": "Calcinha fio nude lupo P",
+        "price": 49.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:45:42.840Z"
       }
     },
     "c_1785267357739": {
@@ -15999,5 +16000,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:45:36.374Z"
+  "savedAt": "2026-08-01T14:45:42.842Z"
 }
