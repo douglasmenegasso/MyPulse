@@ -5423,9 +5423,15 @@
           "name": "Calça balloon de moletom rosa LP pp",
           "price": 553,
           "qty": 1
+        },
+        "7900415164997": {
+          "code": "7900415164997",
+          "name": "Shorts furadinho bege com verde LP P",
+          "price": 497,
+          "qty": 1
         }
       },
-      "total": 3774.8,
+      "total": 4271.8,
       "status": "open"
     },
     "c1779296356399": {
@@ -16180,5 +16186,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T12:33:29.971Z"
+  "savedAt": "2026-08-01T12:33:44.070Z"
 }
