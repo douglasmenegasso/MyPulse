@@ -5896,12 +5896,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171643983": {
-          "code": "7890171643983",
-          "name": "Legging eterna cos liso rosa AG P",
-          "price": 298,
-          "qty": 1
-        },
         "7890171644706": {
           "code": "7890171644706",
           "name": "Tô eterno costas decotada rosa AG P",
@@ -5957,7 +5951,7 @@
           "qty": 1
         }
       },
-      "total": 2901.2999999999997,
+      "total": 2603.2999999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15990,6 +15984,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:49:10.307Z"
+      },
+      "7890171643983": {
+        "code": "7890171643983",
+        "name": "Legging eterna cos liso rosa AG P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:49:15.565Z"
       }
     },
     "c_1785267357739": {
@@ -16023,5 +16024,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:49:10.309Z"
+  "savedAt": "2026-08-01T14:49:15.566Z"
 }
