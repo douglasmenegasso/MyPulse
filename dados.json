@@ -5465,9 +5465,15 @@
           "name": "Macacão allure adaptiv marrom live M",
           "price": 449.9,
           "qty": 1
+        },
+        "7901072406383": {
+          "code": "7901072406383",
+          "name": "Blusão pose bege live P",
+          "price": 399.9,
+          "qty": 1
         }
       },
-      "total": 6905.7,
+      "total": 7305.599999999999,
       "status": "open"
     },
     "c1779296356399": {
@@ -16222,5 +16228,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T12:35:54.088Z"
+  "savedAt": "2026-08-01T12:36:03.535Z"
 }
