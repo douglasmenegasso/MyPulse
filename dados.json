@@ -5890,12 +5890,6 @@
           "price": 219,
           "qty": 1
         },
-        "01403620243": {
-          "code": "01403620243",
-          "name": "Calça flare preta movimento P",
-          "price": 298,
-          "qty": 1
-        },
         "7908754515623": {
           "code": "7908754515623",
           "name": "Legging allure preto live P",
@@ -5903,7 +5897,7 @@
           "qty": 1
         }
       },
-      "total": 1195.8999999999992,
+      "total": 897.8999999999992,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15999,6 +15993,13 @@
         "price": 19.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:50:36.307Z"
+      },
+      "01403620243": {
+        "code": "01403620243",
+        "name": "Calça flare preta movimento P",
+        "price": 298,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:50:52.916Z"
       }
     },
     "c_1785267357739": {
@@ -16032,5 +16033,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:50:36.309Z"
+  "savedAt": "2026-08-01T14:50:52.918Z"
 }
