@@ -5703,12 +5703,6 @@
           "price": 589,
           "qty": 1
         },
-        "7890171654262": {
-          "code": "7890171654262",
-          "name": "Bermuda elástico lilás AG P",
-          "price": 259,
-          "qty": 1
-        },
         "7901128628561": {
           "code": "7901128628561",
           "name": "Legging hydefit azul petróleo live M",
@@ -5722,7 +5716,7 @@
           "qty": 1
         }
       },
-      "total": 1936.7999999999997,
+      "total": 1677.7999999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16054,6 +16048,13 @@
         "price": 369,
         "qty": 1,
         "lastAt": "2026-08-01T14:54:56.566Z"
+      },
+      "7890171654262": {
+        "code": "7890171654262",
+        "name": "Bermuda elástico lilás AG P",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:55:03.878Z"
       }
     }
   },
@@ -16062,5 +16063,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:54:56.568Z"
+  "savedAt": "2026-08-01T14:55:03.880Z"
 }
