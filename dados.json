@@ -5703,12 +5703,6 @@
           "price": 399,
           "qty": 1
         },
-        "7900415352103": {
-          "code": "7900415352103",
-          "name": "Moletom decote v rose LP pp",
-          "price": 587,
-          "qty": 1
-        },
         "7900415199289": {
           "code": "7900415199289",
           "name": "Calça balloon de moletom rosa LP pp",
@@ -5830,7 +5824,7 @@
           "qty": 1
         }
       },
-      "total": 7608.899999999998,
+      "total": 7021.899999999998,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16036,6 +16030,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:52:31.563Z"
+      },
+      "7900415352103": {
+        "code": "7900415352103",
+        "name": "Moletom decote v rose LP pp",
+        "price": 587,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:52:39.553Z"
       }
     }
   },
@@ -16044,5 +16045,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:52:31.565Z"
+  "savedAt": "2026-08-01T14:52:39.555Z"
 }
