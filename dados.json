@@ -5703,12 +5703,6 @@
           "price": 399,
           "qty": 1
         },
-        "7900415199289": {
-          "code": "7900415199289",
-          "name": "Calça balloon de moletom rosa LP pp",
-          "price": 553,
-          "qty": 1
-        },
         "7909746646523": {
           "code": "7909746646523",
           "name": "Jaqueta flex corta vento bege DT P",
@@ -5824,7 +5818,7 @@
           "qty": 1
         }
       },
-      "total": 7021.899999999998,
+      "total": 6468.899999999998,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16037,6 +16031,13 @@
         "price": 587,
         "qty": 1,
         "lastAt": "2026-08-01T14:52:39.553Z"
+      },
+      "7900415199289": {
+        "code": "7900415199289",
+        "name": "Calça balloon de moletom rosa LP pp",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:52:55.441Z"
       }
     }
   },
@@ -16045,5 +16046,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:52:39.555Z"
+  "savedAt": "2026-08-01T14:52:55.443Z"
 }
