@@ -5998,12 +5998,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7890171656068": {
-          "code": "7890171656068",
-          "name": "Regata de tule preto AG P",
-          "price": 219,
-          "qty": 1
-        },
         "7909392494240": {
           "code": "7909392494240",
           "name": "Kit 3 meias Lupo 34 a 39",
@@ -6029,7 +6023,7 @@
           "qty": 1
         }
       },
-      "total": 7024.499999999998,
+      "total": 6805.499999999998,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15978,6 +15972,13 @@
         "price": 299,
         "qty": 1,
         "lastAt": "2026-08-01T14:46:53.272Z"
+      },
+      "7890171656068": {
+        "code": "7890171656068",
+        "name": "Regata de tule preto AG P",
+        "price": 219,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:47:00.837Z"
       }
     },
     "c_1785267357739": {
@@ -16011,5 +16012,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:46:53.275Z"
+  "savedAt": "2026-08-01T14:47:00.839Z"
 }
