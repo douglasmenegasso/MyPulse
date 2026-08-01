@@ -5902,12 +5902,6 @@
           "price": 399,
           "qty": 1
         },
-        "7890171651537": {
-          "code": "7890171651537",
-          "name": "Legging eterna cos sustenção lilás AG P",
-          "price": 299,
-          "qty": 1
-        },
         "7890171643488": {
           "code": "7890171643488",
           "name": "Jaqueta esportiva bege AG P",
@@ -6035,7 +6029,7 @@
           "qty": 1
         }
       },
-      "total": 7323.499999999998,
+      "total": 7024.499999999998,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15977,6 +15971,13 @@
         "price": 359.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:46:47.984Z"
+      },
+      "7890171651537": {
+        "code": "7890171651537",
+        "name": "Legging eterna cos sustenção lilás AG P",
+        "price": 299,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:46:53.272Z"
       }
     },
     "c_1785267357739": {
@@ -16010,5 +16011,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:46:47.985Z"
+  "savedAt": "2026-08-01T14:46:53.275Z"
 }
