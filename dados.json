@@ -5878,12 +5878,6 @@
     "c_1785436958811": {
       "clientId": "c_1785436958811",
       "items": {
-        "7901072485869": {
-          "code": "7901072485869",
-          "name": "Legging fuso tex marrom live M",
-          "price": 359.9,
-          "qty": 1
-        },
         "7908990960058": {
           "code": "7908990960058",
           "name": "Blusão texturizado verde live P",
@@ -6017,7 +6011,7 @@
           "qty": 1
         }
       },
-      "total": 6405.5999999999985,
+      "total": 6045.699999999999,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15980,6 +15974,13 @@
         "price": 399.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:47:05.866Z"
+      },
+      "7901072485869": {
+        "code": "7901072485869",
+        "name": "Legging fuso tex marrom live M",
+        "price": 359.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:47:11.073Z"
       }
     },
     "c_1785267357739": {
@@ -16013,5 +16014,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:47:09.001Z"
+  "savedAt": "2026-08-01T14:47:13.398Z"
 }
