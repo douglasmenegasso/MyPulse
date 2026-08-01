@@ -5763,12 +5763,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7908754570479": {
-          "code": "7908754570479",
-          "name": "Top curve azul petróleo live M",
-          "price": 189.9,
-          "qty": 1
-        },
         "7908011244686": {
           "code": "7908011244686",
           "name": "Top curve branco live M",
@@ -5776,7 +5770,7 @@
           "qty": 1
         }
       },
-      "total": 4471.4,
+      "total": 4281.5,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16045,6 +16039,13 @@
         "price": 199.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:53:47.189Z"
+      },
+      "7908754570479": {
+        "code": "7908754570479",
+        "name": "Top curve azul petróleo live M",
+        "price": 189.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:53:52.642Z"
       }
     }
   },
@@ -16053,5 +16054,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:53:47.191Z"
+  "savedAt": "2026-08-01T14:53:52.644Z"
 }
