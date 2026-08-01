@@ -5399,9 +5399,15 @@
           "name": "Shorts com linho rose LP pp",
           "price": 333,
           "qty": 1
+        },
+        "7900415250478": {
+          "code": "7900415250478",
+          "name": "Moletom over rose LP pp",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 2189,
+      "total": 2652,
       "status": "open"
     },
     "c1779296356399": {
@@ -16156,5 +16162,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T12:32:40.411Z"
+  "savedAt": "2026-08-01T12:33:00.217Z"
 }
