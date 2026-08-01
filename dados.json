@@ -5683,19 +5683,6 @@
       "total": 2122,
       "status": "waiting"
     },
-    "c_1785273792576": {
-      "clientId": "c_1785273792576",
-      "items": {
-        "7900415110284": {
-          "code": "7900415110284",
-          "name": "Copo térmico preto com off LP",
-          "price": 197,
-          "qty": 1
-        }
-      },
-      "total": 197,
-      "status": "waiting"
-    },
     "c_1785433735869": {
       "clientId": "c_1785433735869",
       "items": {
@@ -6412,6 +6399,21 @@
     }
   },
   "closed": [
+    {
+      "clientId": "c_1785273792576",
+      "clientName": "Matheus deyse",
+      "clientPhone": "",
+      "items": {
+        "7900415110284": {
+          "code": "7900415110284",
+          "name": "Copo térmico preto com off LP",
+          "price": 197,
+          "qty": 1
+        }
+      },
+      "total": 197,
+      "closedAt": "2026-08-01T13:03:03.666Z"
+    },
     {
       "clientId": "c_1784135024747",
       "clientName": "Day pilates estivadores",
@@ -15987,5 +15989,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T13:02:58.245Z"
+  "savedAt": "2026-08-01T13:03:03.668Z"
 }
