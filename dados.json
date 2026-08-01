@@ -5890,12 +5890,6 @@
           "price": 399,
           "qty": 1
         },
-        "7890171643488": {
-          "code": "7890171643488",
-          "name": "Jaqueta esportiva bege AG P",
-          "price": 449,
-          "qty": 1
-        },
         "7901072421478": {
           "code": "7901072421478",
           "name": "Legging camuflada verde live P",
@@ -5975,7 +5969,7 @@
           "qty": 1
         }
       },
-      "total": 4050.1,
+      "total": 3601.1,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15987,6 +15981,13 @@
         "price": 219.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:48:28.002Z"
+      },
+      "7890171643488": {
+        "code": "7890171643488",
+        "name": "Jaqueta esportiva bege AG P",
+        "price": 449,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:48:53.221Z"
       }
     },
     "c_1785267357739": {
@@ -16020,5 +16021,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:48:28.004Z"
+  "savedAt": "2026-08-01T14:48:53.223Z"
 }
