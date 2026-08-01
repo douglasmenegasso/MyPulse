@@ -6028,12 +6028,6 @@
           "price": 569,
           "qty": 1
         },
-        "7909746568825": {
-          "code": "7909746568825",
-          "name": "Macaquinho powerli preto DT P",
-          "price": 399,
-          "qty": 1
-        },
         "7908754537908": {
           "code": "7908754537908",
           "name": "Camiseta icon preta live M",
@@ -6119,7 +6113,7 @@
           "qty": 1
         }
       },
-      "total": 11453.799999999996,
+      "total": 11054.799999999996,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15963,6 +15957,13 @@
         "price": 279.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:45:18.075Z"
+      },
+      "7909746568825": {
+        "code": "7909746568825",
+        "name": "Macaquinho powerli preto DT P",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:45:24.300Z"
       }
     },
     "c_1785267357739": {
@@ -15996,5 +15997,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:45:18.077Z"
+  "savedAt": "2026-08-01T14:45:24.302Z"
 }
