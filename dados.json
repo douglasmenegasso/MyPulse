@@ -5858,15 +5858,9 @@
           "name": "Top curve branco live M",
           "price": 189.9,
           "qty": 1
-        },
-        "7900415011420": {
-          "code": "7900415011420",
-          "name": "Top Sport duplo marrom com elástico LP M",
-          "price": 333,
-          "qty": 1
         }
       },
-      "total": 9929.599999999997,
+      "total": 9596.599999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16030,6 +16024,13 @@
         "price": 443,
         "qty": 1,
         "lastAt": "2026-08-01T14:51:34.116Z"
+      },
+      "7900415011420": {
+        "code": "7900415011420",
+        "name": "Top Sport duplo marrom com elástico LP M",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:51:47.759Z"
       }
     }
   },
@@ -16038,5 +16039,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:51:35.481Z"
+  "savedAt": "2026-08-01T14:51:47.760Z"
 }
