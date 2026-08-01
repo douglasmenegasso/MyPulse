@@ -5884,12 +5884,6 @@
           "price": 359.9,
           "qty": 1
         },
-        "7901072486187": {
-          "code": "7901072486187",
-          "name": "Macaquinho tex marrom live P",
-          "price": 399.9,
-          "qty": 1
-        },
         "7908990960058": {
           "code": "7908990960058",
           "name": "Blusão texturizado verde live P",
@@ -6023,7 +6017,7 @@
           "qty": 1
         }
       },
-      "total": 6805.499999999998,
+      "total": 6405.5999999999985,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15979,6 +15973,13 @@
         "price": 219,
         "qty": 1,
         "lastAt": "2026-08-01T14:47:00.837Z"
+      },
+      "7901072486187": {
+        "code": "7901072486187",
+        "name": "Macaquinho tex marrom live P",
+        "price": 399.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:47:05.866Z"
       }
     },
     "c_1785267357739": {
@@ -16012,5 +16013,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:47:04.769Z"
+  "savedAt": "2026-08-01T14:47:09.001Z"
 }
