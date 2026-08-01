@@ -5956,12 +5956,6 @@
           "price": 319.9,
           "qty": 1
         },
-        "790835402928": {
-          "code": "790835402928",
-          "name": "Top curve alllure preto live P",
-          "price": 199.9,
-          "qty": 1
-        },
         "7909392494240": {
           "code": "7909392494240",
           "name": "Kit 3 meias Lupo 34 a 39",
@@ -5987,7 +5981,7 @@
           "qty": 1
         }
       },
-      "total": 4469.9,
+      "total": 4270,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15985,6 +15979,13 @@
         "price": 569,
         "qty": 1,
         "lastAt": "2026-08-01T14:47:38.187Z"
+      },
+      "790835402928": {
+        "code": "790835402928",
+        "name": "Top curve alllure preto live P",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:48:21.636Z"
       }
     },
     "c_1785267357739": {
@@ -16018,5 +16019,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:48:03.656Z"
+  "savedAt": "2026-08-01T14:48:21.638Z"
 }
