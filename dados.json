@@ -5938,12 +5938,6 @@
           "price": 219,
           "qty": 1
         },
-        "7909746571870": {
-          "code": "7909746571870",
-          "name": "Jaqueta elite preta DT P",
-          "price": 569,
-          "qty": 1
-        },
         "7908835895491": {
           "code": "7908835895491",
           "name": "Top curve preto live live P",
@@ -5993,7 +5987,7 @@
           "qty": 1
         }
       },
-      "total": 5038.9,
+      "total": 4469.9,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15984,6 +15978,13 @@
         "price": 329.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:47:33.088Z"
+      },
+      "7909746571870": {
+        "code": "7909746571870",
+        "name": "Jaqueta elite preta DT P",
+        "price": 569,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:47:38.187Z"
       }
     },
     "c_1785267357739": {
@@ -16017,5 +16018,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:47:33.089Z"
+  "savedAt": "2026-08-01T14:47:38.189Z"
 }
