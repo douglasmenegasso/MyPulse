@@ -5703,12 +5703,6 @@
           "price": 589,
           "qty": 1
         },
-        "7908931902826": {
-          "code": "7908931902826",
-          "name": "Legging preto live live M",
-          "price": 329.9,
-          "qty": 1
-        },
         "7890171663479": {
           "code": "7890171663479",
           "name": "Legging elástico lilás AG P",
@@ -5746,7 +5740,7 @@
           "qty": 1
         }
       },
-      "total": 3073.7,
+      "total": 2743.7999999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16050,6 +16044,13 @@
         "price": 389,
         "qty": 1,
         "lastAt": "2026-08-01T14:54:23.634Z"
+      },
+      "7908931902826": {
+        "code": "7908931902826",
+        "name": "Legging preto live live M",
+        "price": 329.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:54:32.502Z"
       }
     }
   },
@@ -16058,5 +16059,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:54:23.636Z"
+  "savedAt": "2026-08-01T14:54:32.505Z"
 }
