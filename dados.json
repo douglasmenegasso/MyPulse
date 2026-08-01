@@ -5998,12 +5998,6 @@
           "price": 569,
           "qty": 1
         },
-        "7908754537908": {
-          "code": "7908754537908",
-          "name": "Camiseta icon preta live M",
-          "price": 199.9,
-          "qty": 1
-        },
         "7908835895491": {
           "code": "7908835895491",
           "name": "Top curve preto live live P",
@@ -6071,7 +6065,7 @@
           "qty": 1
         }
       },
-      "total": 9371.099999999997,
+      "total": 9171.199999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15971,6 +15965,13 @@
         "price": 417,
         "qty": 1,
         "lastAt": "2026-08-01T14:46:06.869Z"
+      },
+      "7908754537908": {
+        "code": "7908754537908",
+        "name": "Camiseta icon preta live M",
+        "price": 199.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:46:14.450Z"
       }
     },
     "c_1785267357739": {
@@ -16004,5 +16005,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:46:06.871Z"
+  "savedAt": "2026-08-01T14:46:14.451Z"
 }
