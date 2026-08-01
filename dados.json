@@ -5945,15 +5945,8 @@
     },
     "c_1785524771302": {
       "clientId": "c_1785524771302",
-      "items": {
-        "3099": {
-          "code": "3099",
-          "name": "Biquíni marrom café âncora LP M",
-          "price": 397,
-          "qty": 1
-        }
-      },
-      "total": 397,
+      "items": {},
+      "total": 0,
       "status": "open"
     }
   },
@@ -16058,6 +16051,15 @@
         "qty": 1,
         "lastAt": "2026-08-01T14:55:03.878Z"
       }
+    },
+    "c_1785524771302": {
+      "3099": {
+        "code": "3099",
+        "name": "Biquíni marrom café âncora LP M",
+        "price": 397,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:55:17.322Z"
+      }
     }
   },
   "security": {
@@ -16065,5 +16067,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:55:16.504Z"
+  "savedAt": "2026-08-01T14:55:19.888Z"
 }
