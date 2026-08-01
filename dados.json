@@ -5841,12 +5841,6 @@
           "price": 259,
           "qty": 1
         },
-        "7890171646748": {
-          "code": "7890171646748",
-          "name": "Jaqueta com bolso verde claro AG P",
-          "price": 489,
-          "qty": 1
-        },
         "7908011244686": {
           "code": "7908011244686",
           "name": "Top curve branco live M",
@@ -5854,7 +5848,7 @@
           "qty": 1
         }
       },
-      "total": 9287.599999999997,
+      "total": 8798.599999999997,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16032,6 +16026,13 @@
         "price": 309,
         "qty": 1,
         "lastAt": "2026-08-01T14:51:52.747Z"
+      },
+      "7890171646748": {
+        "code": "7890171646748",
+        "name": "Jaqueta com bolso verde claro AG P",
+        "price": 489,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:52:05.811Z"
       }
     }
   },
@@ -16040,5 +16041,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:52:04.249Z"
+  "savedAt": "2026-08-01T14:52:08.734Z"
 }
