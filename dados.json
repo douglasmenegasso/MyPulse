@@ -5908,12 +5908,6 @@
           "price": 299.9,
           "qty": 1
         },
-        "7900415284428": {
-          "code": "7900415284428",
-          "name": "Vestido curto canelado de alças preto LP P",
-          "price": 397,
-          "qty": 1
-        },
         "7908931963377": {
           "code": "7908931963377",
           "name": "Camiseta icon azul live P",
@@ -6011,7 +6005,7 @@
           "qty": 1
         }
       },
-      "total": 6045.699999999999,
+      "total": 5648.699999999999,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15981,6 +15975,13 @@
         "price": 359.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:47:11.073Z"
+      },
+      "7900415284428": {
+        "code": "7900415284428",
+        "name": "Vestido curto canelado de alças preto LP P",
+        "price": 397,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:47:16.976Z"
       }
     },
     "c_1785267357739": {
@@ -16014,5 +16015,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:47:13.398Z"
+  "savedAt": "2026-08-01T14:47:16.978Z"
 }
