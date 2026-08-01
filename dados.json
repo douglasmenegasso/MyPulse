@@ -4944,6 +4944,11 @@
       "code": "7900415345488",
       "name": "Blusa curta de alças cinza LP P",
       "price": 373
+    },
+    "7900415134686": {
+      "code": "7900415134686",
+      "name": "Biquíni sem alça marrom âncora LP M",
+      "price": 397
     }
   },
   "clients": {
@@ -15989,5 +15994,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:42:52.245Z"
+  "savedAt": "2026-08-01T14:43:25.977Z"
 }
