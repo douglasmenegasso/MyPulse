@@ -5919,15 +5919,9 @@
           "name": "Meia Sport branco lupo 33 a 36",
           "price": 19.9,
           "qty": 1
-        },
-        "7909392830451": {
-          "code": "7909392830451",
-          "name": "Meia cano curto preto lupo 33 a 36",
-          "price": 19.9,
-          "qty": 1
         }
       },
-      "total": 1305.4999999999995,
+      "total": 1285.5999999999995,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15995,6 +15989,13 @@
         "price": 499.9,
         "qty": 1,
         "lastAt": "2026-08-01T14:49:52.308Z"
+      },
+      "7909392830451": {
+        "code": "7909392830451",
+        "name": "Meia cano curto preto lupo 33 a 36",
+        "price": 19.9,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:50:22.866Z"
       }
     },
     "c_1785267357739": {
@@ -16028,5 +16029,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:50:04.023Z"
+  "savedAt": "2026-08-01T14:50:22.868Z"
 }
