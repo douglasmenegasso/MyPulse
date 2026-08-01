@@ -5781,12 +5781,6 @@
           "price": 199.9,
           "qty": 1
         },
-        "7909746618919": {
-          "code": "7909746618919",
-          "name": "Top curve uva listra branca vivame M ",
-          "price": 259,
-          "qty": 1
-        },
         "7908011244686": {
           "code": "7908011244686",
           "name": "Top curve branco live M",
@@ -5794,7 +5788,7 @@
           "qty": 1
         }
       },
-      "total": 5290.199999999999,
+      "total": 5031.199999999999,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16042,6 +16036,13 @@
         "price": 419,
         "qty": 1,
         "lastAt": "2026-08-01T14:53:25.986Z"
+      },
+      "7909746618919": {
+        "code": "7909746618919",
+        "name": "Top curve uva listra branca vivame M ",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:53:33.844Z"
       }
     }
   },
@@ -16050,5 +16051,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:53:25.988Z"
+  "savedAt": "2026-08-01T14:53:33.846Z"
 }
