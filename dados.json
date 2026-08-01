@@ -5884,12 +5884,6 @@
           "price": 499.9,
           "qty": 1
         },
-        "7909746616397": {
-          "code": "7909746616397",
-          "name": "Legging oliva vivem P",
-          "price": 399,
-          "qty": 1
-        },
         "7890171628935": {
           "code": "7890171628935",
           "name": "Shorts piquet rose AG P",
@@ -5939,7 +5933,7 @@
           "qty": 1
         }
       },
-      "total": 2204.3999999999996,
+      "total": 1805.3999999999996,
       "status": "open"
     },
     "c_1783701666054": {
@@ -15993,6 +15987,13 @@
         "price": 199,
         "qty": 1,
         "lastAt": "2026-08-01T14:49:32.853Z"
+      },
+      "7909746616397": {
+        "code": "7909746616397",
+        "name": "Legging oliva vivem P",
+        "price": 399,
+        "qty": 1,
+        "lastAt": "2026-08-01T14:49:42.975Z"
       }
     },
     "c_1785267357739": {
@@ -16026,5 +16027,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-01T14:49:32.855Z"
+  "savedAt": "2026-08-01T14:49:42.977Z"
 }
