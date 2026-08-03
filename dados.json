@@ -5670,9 +5670,15 @@
           "name": "Top icon rosa ametista live M",
           "price": 249.9,
           "qty": 1
+        },
+        "7900415268572": {
+          "code": "7900415268572",
+          "name": "Shorts jeans bege com detalhe couro LP 36",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 2403.6000000000004,
+      "total": 2956.6000000000004,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16157,5 +16163,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:42:11.418Z"
+  "savedAt": "2026-08-03T17:42:59.295Z"
 }
