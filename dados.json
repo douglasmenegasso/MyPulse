@@ -6238,9 +6238,15 @@
           "name": "T-shirt off escrita marrom Lp g",
           "price": 263,
           "qty": 1
+        },
+        "7900358022484": {
+          "code": "7900358022484",
+          "name": "Camiseta rapel off escrita marrom CCM M",
+          "price": 189,
+          "qty": 1
         }
       },
-      "total": 4484.9,
+      "total": 4673.9,
       "status": "open"
     }
   },
@@ -16361,5 +16367,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:50:04.414Z"
+  "savedAt": "2026-08-03T18:50:15.015Z"
 }
