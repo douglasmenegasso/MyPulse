@@ -6078,31 +6078,6 @@
       "total": 8579.1,
       "status": "waiting"
     },
-    "5541984520730": {
-      "clientId": "5541984520730",
-      "items": {
-        "7900415109059": {
-          "code": "7900415109059",
-          "name": "Bolsa pequena off com dourado LP",
-          "price": 597,
-          "qty": 1
-        },
-        "7900415199272": {
-          "code": "7900415199272",
-          "name": "Calça balloon de moletom rosa LP P",
-          "price": 553,
-          "qty": 1
-        },
-        "7900415352097": {
-          "code": "7900415352097",
-          "name": "Moletom gola V rose Lp P",
-          "price": 587,
-          "qty": 1
-        }
-      },
-      "total": 1737,
-      "status": "waiting"
-    },
     "41991694056": {
       "clientId": "41991694056",
       "items": {
@@ -6359,6 +6334,33 @@
     }
   },
   "closed": [
+    {
+      "clientId": "5541984520730",
+      "clientName": "Tati Migoto",
+      "clientPhone": "+55 41 98452-0730",
+      "items": {
+        "7900415109059": {
+          "code": "7900415109059",
+          "name": "Bolsa pequena off com dourado LP",
+          "price": 597,
+          "qty": 1
+        },
+        "7900415199272": {
+          "code": "7900415199272",
+          "name": "Calça balloon de moletom rosa LP P",
+          "price": 553,
+          "qty": 1
+        },
+        "7900415352097": {
+          "code": "7900415352097",
+          "name": "Moletom gola V rose Lp P",
+          "price": 587,
+          "qty": 1
+        }
+      },
+      "total": 1737,
+      "closedAt": "2026-08-03T19:18:31.680Z"
+    },
     {
       "clientId": "c_1785433735869",
       "clientName": "Greicy Cleu",
@@ -16475,5 +16477,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:59:56.946Z"
+  "savedAt": "2026-08-03T19:18:31.682Z"
 }
