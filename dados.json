@@ -5706,9 +5706,15 @@
           "name": "Calça rivieira preta com off DT P",
           "price": 269,
           "qty": 1
+        },
+        "7909746638085": {
+          "code": "7909746638085",
+          "name": "Blusa rivera off com preto DT P",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 5295.6,
+      "total": 5594.6,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16193,5 +16199,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:44:11.661Z"
+  "savedAt": "2026-08-03T17:44:24.240Z"
 }
