@@ -6191,9 +6191,15 @@
           "name": "Jaqueta seamless preto live M",
           "price": 649.9,
           "qty": 1
+        },
+        "7890171654064": {
+          "code": "7890171654064",
+          "name": "Calça reta com franzido preto AG M",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 649.9,
+      "total": 1048.9,
       "status": "open"
     }
   },
@@ -16314,5 +16320,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:47:42.844Z"
+  "savedAt": "2026-08-03T18:47:53.153Z"
 }
