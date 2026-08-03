@@ -6278,9 +6278,15 @@
           "name": "Shorts icon azul live g",
           "price": 239.9,
           "qty": 1
+        },
+        "7908931977435": {
+          "code": "7908931977435",
+          "name": "Regata cropped branco live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 4045.8,
+      "total": 4245.7,
       "status": "open"
     }
   },
@@ -16571,5 +16577,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:47:04.789Z"
+  "savedAt": "2026-08-03T21:47:15.389Z"
 }
