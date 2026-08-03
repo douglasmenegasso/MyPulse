@@ -6324,9 +6324,15 @@
           "name": "Regata halter verde oliva claro live g",
           "price": 179.9,
           "qty": 1
+        },
+        "7908990956792": {
+          "code": "7908990956792",
+          "name": "Shorts Groove verde com riscos live g",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 5555.199999999998,
+      "total": 5755.099999999998,
       "status": "open"
     }
   },
@@ -16617,5 +16623,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:49:26.079Z"
+  "savedAt": "2026-08-03T21:49:29.674Z"
 }
