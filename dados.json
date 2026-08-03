@@ -5712,9 +5712,15 @@
           "name": "Blusa rivera off com preto DT P",
           "price": 299,
           "qty": 1
+        },
+        "7909746639136": {
+          "code": "7909746639136",
+          "name": "Vestido franzido marrom com bege DT P",
+          "price": 469,
+          "qty": 1
         }
       },
-      "total": 5594.6,
+      "total": 6063.6,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16199,5 +16205,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:44:24.240Z"
+  "savedAt": "2026-08-03T17:44:34.234Z"
 }
