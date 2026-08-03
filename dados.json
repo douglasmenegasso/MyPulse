@@ -6310,9 +6310,15 @@
           "name": "Regata canelada rosa AG M",
           "price": 159,
           "qty": 1
+        },
+        "7900358027762": {
+          "code": "7900358027762",
+          "name": "Camiseta rapel preta escrita rosa CCM M",
+          "price": 189,
+          "qty": 1
         }
       },
-      "total": 9978.9,
+      "total": 10167.9,
       "status": "open"
     }
   },
@@ -16433,5 +16439,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:54:42.564Z"
+  "savedAt": "2026-08-03T18:54:52.736Z"
 }
