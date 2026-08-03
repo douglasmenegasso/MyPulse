@@ -6370,9 +6370,15 @@
           "name": "Top neopren preto live g",
           "price": 299.9,
           "qty": 1
+        },
+        "7908931912016": {
+          "code": "7908931912016",
+          "name": "Macaquinho allure azul petróleo live g",
+          "price": 349.9,
+          "qty": 1
         }
       },
-      "total": 7134.599999999996,
+      "total": 7484.499999999995,
       "status": "open"
     }
   },
@@ -16663,5 +16669,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:51:39.216Z"
+  "savedAt": "2026-08-03T21:51:43.579Z"
 }
