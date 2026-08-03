@@ -6203,6 +6203,19 @@
       },
       "total": 12579.9,
       "status": "waiting"
+    },
+    "41991098260": {
+      "clientId": "41991098260",
+      "items": {
+        "7900415274993": {
+          "code": "7900415274993",
+          "name": "Vestido curto canelado de alça azul LP M",
+          "price": 397,
+          "qty": 1
+        }
+      },
+      "total": 397,
+      "status": "open"
     }
   },
   "closed": [
@@ -16492,5 +16505,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:43:21.391Z"
+  "savedAt": "2026-08-03T21:43:34.582Z"
 }
