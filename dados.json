@@ -6328,9 +6328,15 @@
           "name": "Blusa de tule preta com flores rosa CCM M",
           "price": 249,
           "qty": 1
+        },
+        "7900415296520": {
+          "code": "7900415296520",
+          "name": "Shorts com linho rose LP M",
+          "price": 333,
+          "qty": 1
         }
       },
-      "total": 11053.9,
+      "total": 11386.9,
       "status": "open"
     }
   },
@@ -16451,5 +16457,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:55:42.687Z"
+  "savedAt": "2026-08-03T18:55:59.279Z"
 }
