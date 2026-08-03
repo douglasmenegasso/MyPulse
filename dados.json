@@ -6393,9 +6393,15 @@
           "name": "Shorts Fit art marrom live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7890171617328": {
+          "code": "7890171617328",
+          "name": "T-shirt cropped rosa AG M",
+          "price": 198,
+          "qty": 1
         }
       },
-      "total": 7944.299999999995,
+      "total": 8142.299999999995,
       "status": "open"
     }
   },
@@ -16686,5 +16692,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:52:16.746Z"
+  "savedAt": "2026-08-03T21:52:41.009Z"
 }
