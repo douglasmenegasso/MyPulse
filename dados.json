@@ -5658,9 +5658,15 @@
           "name": "Legging icon rosa ametista live M",
           "price": 319.9,
           "qty": 1
+        },
+        "6918071451901": {
+          "code": "6918071451901",
+          "name": "Shorts icon rosa ametista live M",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 1913.8000000000002,
+      "total": 2153.7000000000003,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16145,5 +16151,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:40:25.403Z"
+  "savedAt": "2026-08-03T17:40:42.511Z"
 }
