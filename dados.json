@@ -6307,9 +6307,15 @@
           "name": "Shorts neopren verde oliva claro live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7908011244587": {
+          "code": "7908011244587",
+          "name": "Top curve branco live G",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 5185.399999999999,
+      "total": 5375.299999999998,
       "status": "open"
     }
   },
@@ -16600,5 +16606,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:48:06.923Z"
+  "savedAt": "2026-08-03T21:48:27.486Z"
 }
