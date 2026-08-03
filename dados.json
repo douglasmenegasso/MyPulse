@@ -5682,9 +5682,15 @@
           "name": "Blusa de alças canelada off Lp P",
           "price": 263,
           "qty": 1
+        },
+        "7909746661434": {
+          "code": "7909746661434",
+          "name": "Pijama short doll marrom com off DT P",
+          "price": 439,
+          "qty": 1
         }
       },
-      "total": 3219.6000000000004,
+      "total": 3658.6000000000004,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16169,5 +16175,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:43:11.532Z"
+  "savedAt": "2026-08-03T17:43:23.845Z"
 }
