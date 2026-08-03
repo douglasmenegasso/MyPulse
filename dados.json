@@ -5837,18 +5837,6 @@
     "41991536747": {
       "clientId": "41991536747",
       "items": {
-        "7900415301545": {
-          "code": "7900415301545",
-          "name": "Calça sarja baggy rosa LP 36",
-          "price": 673,
-          "qty": 1
-        },
-        "7890171628119": {
-          "code": "7890171628119",
-          "name": "Regata canelada rosa AG P",
-          "price": 159,
-          "qty": 1
-        },
         "7900415110925": {
           "code": "7900415110925",
           "name": "Mala de mão preta com off LP",
@@ -5904,7 +5892,7 @@
           "qty": 1
         }
       },
-      "total": 4577,
+      "total": 3745,
       "status": "open"
     },
     "c_1783701666054": {
@@ -11425,6 +11413,20 @@
         "price": 553,
         "qty": 1,
         "lastAt": "2026-07-30T17:30:45.628Z"
+      },
+      "7900415301545": {
+        "code": "7900415301545",
+        "name": "Calça sarja baggy rosa LP 36",
+        "price": 673,
+        "qty": 1,
+        "lastAt": "2026-08-03T21:57:04.762Z"
+      },
+      "7890171628119": {
+        "code": "7890171628119",
+        "name": "Regata canelada rosa AG P",
+        "price": 159,
+        "qty": 1,
+        "lastAt": "2026-08-03T21:57:05.945Z"
       }
     },
     "41991694056": {
@@ -16720,5 +16722,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:57:02.141Z"
+  "savedAt": "2026-08-03T21:57:05.947Z"
 }
