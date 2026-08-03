@@ -6387,9 +6387,15 @@
           "name": "Shorts tex marrom live g",
           "price": 239.9,
           "qty": 1
+        },
+        "7901072484107": {
+          "code": "7901072484107",
+          "name": "Shorts Fit art marrom live g",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 7724.399999999995,
+      "total": 7944.299999999995,
       "status": "open"
     }
   },
@@ -16680,5 +16686,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:52:09.888Z"
+  "savedAt": "2026-08-03T21:52:16.746Z"
 }
