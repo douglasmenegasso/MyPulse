@@ -5558,49 +5558,6 @@
       "total": 0,
       "status": "open"
     },
-    "41991098260": {
-      "clientId": "41991098260",
-      "items": {
-        "7901072429160": {
-          "code": "7901072429160",
-          "name": "Top curve marrom live live g",
-          "price": 219.9,
-          "qty": 1
-        },
-        "7909746620592": {
-          "code": "7909746620592",
-          "name": "Calça cargo marrom DT P",
-          "price": 689,
-          "qty": 1
-        },
-        "7901072485852": {
-          "code": "7901072485852",
-          "name": "Legging tex marrom live g",
-          "price": 359.9,
-          "qty": 1
-        },
-        "7901072486422": {
-          "code": "7901072486422",
-          "name": "Top tex marrom live g",
-          "price": 279.9,
-          "qty": 1
-        },
-        "7901128619095": {
-          "code": "7901128619095",
-          "name": "Jaqueta marrom live symbol P",
-          "price": 499.9,
-          "qty": 1
-        },
-        "7909746646523": {
-          "code": "7909746646523",
-          "name": "Jaqueta flex corta vento bege DT P",
-          "price": 699,
-          "qty": 1
-        }
-      },
-      "total": 2747.6,
-      "status": "open"
-    },
     "c_1783458513348": {
       "clientId": "c_1783458513348",
       "items": {},
@@ -6249,6 +6206,51 @@
     }
   },
   "closed": [
+    {
+      "clientId": "41991098260",
+      "clientName": "Cleu estivadores",
+      "clientPhone": "41 991098260",
+      "items": {
+        "7901072429160": {
+          "code": "7901072429160",
+          "name": "Top curve marrom live live g",
+          "price": 219.9,
+          "qty": 1
+        },
+        "7909746620592": {
+          "code": "7909746620592",
+          "name": "Calça cargo marrom DT P",
+          "price": 689,
+          "qty": 1
+        },
+        "7901072485852": {
+          "code": "7901072485852",
+          "name": "Legging tex marrom live g",
+          "price": 359.9,
+          "qty": 1
+        },
+        "7901072486422": {
+          "code": "7901072486422",
+          "name": "Top tex marrom live g",
+          "price": 279.9,
+          "qty": 1
+        },
+        "7901128619095": {
+          "code": "7901128619095",
+          "name": "Jaqueta marrom live symbol P",
+          "price": 499.9,
+          "qty": 1
+        },
+        "7909746646523": {
+          "code": "7909746646523",
+          "name": "Jaqueta flex corta vento bege DT P",
+          "price": 699,
+          "qty": 1
+        }
+      },
+      "total": 2747.6,
+      "closedAt": "2026-08-03T21:43:17.777Z"
+    },
     {
       "clientId": "5541984520730",
       "clientName": "Tati Migoto",
@@ -16490,5 +16492,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:43:13.977Z"
+  "savedAt": "2026-08-03T21:43:17.779Z"
 }
