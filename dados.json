@@ -6250,9 +6250,15 @@
           "name": "Jaqueta flex corta v vento bege DT M",
           "price": 699,
           "qty": 1
+        },
+        "7900415164980": {
+          "code": "7900415164980",
+          "name": "Shorts furadinho bege com verde LP M",
+          "price": 497,
+          "qty": 1
         }
       },
-      "total": 5372.9,
+      "total": 5869.9,
       "status": "open"
     }
   },
@@ -16373,5 +16379,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:50:49.204Z"
+  "savedAt": "2026-08-03T18:51:03.620Z"
 }
