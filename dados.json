@@ -4969,6 +4969,11 @@
       "code": "7908990956792",
       "name": "Shorts Groove verde com riscos live g",
       "price": 199.9
+    },
+    "7901072413633": {
+      "code": "7901072413633",
+      "name": "Shorts neopren preto live g",
+      "price": 219.9
     }
   },
   "clients": {
@@ -6348,9 +6353,15 @@
           "name": "Jaqueta harmony preta live M",
           "price": 379.9,
           "qty": 1
+        },
+        "7901072413633": {
+          "code": "7901072413633",
+          "name": "Shorts neopren preto live g",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 6614.7999999999965,
+      "total": 6834.699999999996,
       "status": "open"
     }
   },
@@ -16641,5 +16652,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:50:45.428Z"
+  "savedAt": "2026-08-03T21:50:48.357Z"
 }
