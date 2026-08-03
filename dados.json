@@ -5778,9 +5778,15 @@
           "name": "Macaquinho allure roxo live M",
           "price": 359.9,
           "qty": 1
+        },
+        "7908990985440": {
+          "code": "7908990985440",
+          "name": "Macaquinho allure marrom live M",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 9657.099999999999,
+      "total": 10016.999999999998,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16265,5 +16271,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:46:24.632Z"
+  "savedAt": "2026-08-03T17:46:37.461Z"
 }
