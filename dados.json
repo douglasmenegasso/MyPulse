@@ -6230,9 +6230,15 @@
           "name": "Shorts saia jeans azul LP 38",
           "price": 443,
           "qty": 1
+        },
+        "7900415361020": {
+          "code": "7900415361020",
+          "name": "Regata canelada marrom bordado azul Lp M",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 1580,
+      "total": 1843,
       "status": "open"
     }
   },
@@ -16523,5 +16529,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:44:28.710Z"
+  "savedAt": "2026-08-03T21:44:40.459Z"
 }
