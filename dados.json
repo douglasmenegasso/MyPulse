@@ -6330,9 +6330,15 @@
           "name": "Shorts Groove verde com riscos live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7908990954507": {
+          "code": "7908990954507",
+          "name": "Top v nadador verde live g",
+          "price": 279.9,
+          "qty": 1
         }
       },
-      "total": 5755.099999999998,
+      "total": 6034.999999999997,
       "status": "open"
     }
   },
@@ -16623,5 +16629,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:49:29.674Z"
+  "savedAt": "2026-08-03T21:49:37.027Z"
 }
