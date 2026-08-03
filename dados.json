@@ -5683,9 +5683,15 @@
           "name": "Lancheira térmica preta com off LP",
           "price": 393,
           "qty": 1
+        },
+        "7900415301538": {
+          "code": "7900415301538",
+          "name": "Calça sarja baggy rosa LP 34",
+          "price": 673,
+          "qty": 1
         }
       },
-      "total": 2122,
+      "total": 2795,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16067,5 +16073,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T16:50:52.328Z"
+  "savedAt": "2026-08-03T16:51:01.153Z"
 }
