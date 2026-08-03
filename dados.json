@@ -5706,9 +5706,15 @@
           "name": "Regata de alças off com bege LP P",
           "price": 263,
           "qty": 1
+        },
+        "7900415110000": {
+          "code": "7900415110000",
+          "name": "Regata listrada cinza em linho LP P",
+          "price": 223,
+          "qty": 1
         }
       },
-      "total": 3307,
+      "total": 3530,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16090,5 +16096,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T16:51:49.443Z"
+  "savedAt": "2026-08-03T16:52:01.893Z"
 }
