@@ -6292,9 +6292,15 @@
           "name": "Regata canelada amarela Lp M",
           "price": 297,
           "qty": 1
+        },
+        "7900358026444": {
+          "code": "7900358026444",
+          "name": "Jaqueta bela bege com preto CCM M",
+          "price": 589,
+          "qty": 1
         }
       },
-      "total": 8557.9,
+      "total": 9146.9,
       "status": "open"
     }
   },
@@ -16415,5 +16421,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:53:33.958Z"
+  "savedAt": "2026-08-03T18:54:04.521Z"
 }
