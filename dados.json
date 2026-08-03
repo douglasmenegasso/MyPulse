@@ -6342,9 +6342,15 @@
           "name": "Regata cropped verde live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7908990921301": {
+          "code": "7908990921301",
+          "name": "Jaqueta harmony preta live M",
+          "price": 379.9,
+          "qty": 1
         }
       },
-      "total": 6234.899999999997,
+      "total": 6614.7999999999965,
       "status": "open"
     }
   },
@@ -16635,5 +16641,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:50:04.873Z"
+  "savedAt": "2026-08-03T21:50:24.316Z"
 }
