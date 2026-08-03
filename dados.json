@@ -6272,9 +6272,15 @@
           "name": "Legging azul petróleo live live g",
           "price": 329.9,
           "qty": 1
+        },
+        "7901072425179": {
+          "code": "7901072425179",
+          "name": "Shorts icon azul live g",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 3805.9,
+      "total": 4045.8,
       "status": "open"
     }
   },
@@ -16565,5 +16571,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:46:56.754Z"
+  "savedAt": "2026-08-03T21:47:04.789Z"
 }
