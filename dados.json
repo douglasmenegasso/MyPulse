@@ -5730,9 +5730,15 @@
           "name": "Legging dashi preto DT P",
           "price": 399,
           "qty": 1
+        },
+        "7901072412483": {
+          "code": "7901072412483",
+          "name": "Top alças fina preto live M",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 6951.6,
+      "total": 7171.5,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16217,5 +16223,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:44:55.283Z"
+  "savedAt": "2026-08-03T17:45:08.696Z"
 }
