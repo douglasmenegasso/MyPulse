@@ -6244,9 +6244,15 @@
           "name": "Camiseta rapel off escrita marrom CCM M",
           "price": 189,
           "qty": 1
+        },
+        "7909746646530": {
+          "code": "7909746646530",
+          "name": "Jaqueta flex corta v vento bege DT M",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 4673.9,
+      "total": 5372.9,
       "status": "open"
     }
   },
@@ -16367,5 +16373,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:50:15.015Z"
+  "savedAt": "2026-08-03T18:50:49.204Z"
 }
