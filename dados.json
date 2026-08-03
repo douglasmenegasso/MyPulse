@@ -6359,9 +6359,15 @@
           "name": "Shorts neopren preto live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7901072413930": {
+          "code": "7901072413930",
+          "name": "Top neopren preto live g",
+          "price": 299.9,
+          "qty": 1
         }
       },
-      "total": 6834.699999999996,
+      "total": 7134.599999999996,
       "status": "open"
     }
   },
@@ -16652,5 +16658,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:50:52.755Z"
+  "savedAt": "2026-08-03T21:50:56.746Z"
 }
