@@ -6268,9 +6268,15 @@
           "name": "Jaqueta bloom listras bege off CCM P",
           "price": 569,
           "qty": 1
+        },
+        "7900415166106": {
+          "code": "7900415166106",
+          "name": "Shorts camurça caramelo LP M",
+          "price": 723,
+          "qty": 1
         }
       },
-      "total": 6735.9,
+      "total": 7458.9,
       "status": "open"
     }
   },
@@ -16391,5 +16397,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:51:51.393Z"
+  "savedAt": "2026-08-03T18:52:00.988Z"
 }
