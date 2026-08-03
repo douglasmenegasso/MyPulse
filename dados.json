@@ -5700,9 +5700,15 @@
           "name": "Blusa de tule preta com flores rosa CCM M",
           "price": 249,
           "qty": 1
+        },
+        "7900292387120": {
+          "code": "7900292387120",
+          "name": "Regata de alças off com bege LP P",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 3044,
+      "total": 3307,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16084,5 +16090,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T16:51:44.206Z"
+  "savedAt": "2026-08-03T16:51:49.443Z"
 }
