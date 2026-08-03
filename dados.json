@@ -6080,81 +6080,8 @@
     },
     "41991694056": {
       "clientId": "41991694056",
-      "items": {
-        "7900415029708": {
-          "code": "7900415029708",
-          "name": "T-shirt off escrita marrom Lp g",
-          "price": 263,
-          "qty": 1
-        },
-        "7900292935925": {
-          "code": "7900292935925",
-          "name": "Moletom marrom escrita off LP M",
-          "price": 587,
-          "qty": 1
-        },
-        "7900415035587": {
-          "code": "7900415035587",
-          "name": "Calça sarja jeans marrom LP 38",
-          "price": 767,
-          "qty": 1
-        },
-        "7900415217778": {
-          "code": "7900415217778",
-          "name": "Body canelado com zíper marrom LP M",
-          "price": 353,
-          "qty": 1
-        },
-        "7900415322489": {
-          "code": "7900415322489",
-          "name": "Jaqueta manga média com linho rose LP M",
-          "price": 637,
-          "qty": 1
-        },
-        "7900415296520": {
-          "code": "7900415296520",
-          "name": "Shorts com linho rose LP M",
-          "price": 333,
-          "qty": 1
-        },
-        "7900415323486": {
-          "code": "7900415323486",
-          "name": "Shorts com linho marrom LP P",
-          "price": 333,
-          "qty": 1
-        },
-        "7900415346249": {
-          "code": "7900415346249",
-          "name": "Jaqueta linho marrom manga média Lp P",
-          "price": 637,
-          "qty": 1
-        },
-        "7900358033251": {
-          "code": "7900358033251",
-          "name": "Blusa de tule preta com flores rosa CCM M",
-          "price": 249,
-          "qty": 1
-        },
-        "7900358027762": {
-          "code": "7900358027762",
-          "name": "Camiseta rapel preta escrita rosa CCM M",
-          "price": 189,
-          "qty": 1
-        },
-        "7900358026444": {
-          "code": "7900358026444",
-          "name": "Jaqueta bela bege com preto CCM M",
-          "price": 589,
-          "qty": 1
-        },
-        "7900358033275": {
-          "code": "7900358033275",
-          "name": "Blusa de tule bege com preto CCM M",
-          "price": 249,
-          "qty": 1
-        }
-      },
-      "total": 5186,
+      "items": {},
+      "total": 0,
       "status": "open"
     },
     "c_1785524771302": {
@@ -11485,6 +11412,90 @@
         "price": 723,
         "qty": 1,
         "lastAt": "2026-07-31T17:05:16.794Z"
+      },
+      "7900358033275": {
+        "code": "7900358033275",
+        "name": "Blusa de tule bege com preto CCM M",
+        "price": 249,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:09.186Z"
+      },
+      "7900358026444": {
+        "code": "7900358026444",
+        "name": "Jaqueta bela bege com preto CCM M",
+        "price": 589,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:09.308Z"
+      },
+      "7900358027762": {
+        "code": "7900358027762",
+        "name": "Camiseta rapel preta escrita rosa CCM M",
+        "price": 189,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:09.436Z"
+      },
+      "7900358033251": {
+        "code": "7900358033251",
+        "name": "Blusa de tule preta com flores rosa CCM M",
+        "price": 249,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:09.559Z"
+      },
+      "7900415346249": {
+        "code": "7900415346249",
+        "name": "Jaqueta linho marrom manga média Lp P",
+        "price": 637,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:09.804Z"
+      },
+      "7900415323486": {
+        "code": "7900415323486",
+        "name": "Shorts com linho marrom LP P",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:09.912Z"
+      },
+      "7900415296520": {
+        "code": "7900415296520",
+        "name": "Shorts com linho rose LP M",
+        "price": 333,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:10.032Z"
+      },
+      "7900415322489": {
+        "code": "7900415322489",
+        "name": "Jaqueta manga média com linho rose LP M",
+        "price": 637,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:10.160Z"
+      },
+      "7900415217778": {
+        "code": "7900415217778",
+        "name": "Body canelado com zíper marrom LP M",
+        "price": 353,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:10.398Z"
+      },
+      "7900415035587": {
+        "code": "7900415035587",
+        "name": "Calça sarja jeans marrom LP 38",
+        "price": 767,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:10.515Z"
+      },
+      "7900292935925": {
+        "code": "7900292935925",
+        "name": "Moletom marrom escrita off LP M",
+        "price": 587,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:10.767Z"
+      },
+      "7900415029708": {
+        "code": "7900415029708",
+        "name": "T-shirt off escrita marrom Lp g",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-08-03T20:51:10.888Z"
       }
     },
     "c_1779382988768": {
@@ -16477,5 +16488,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T20:51:08.332Z"
+  "savedAt": "2026-08-03T20:51:12.700Z"
 }
