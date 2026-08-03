@@ -6236,9 +6236,15 @@
           "name": "Regata canelada marrom bordado azul Lp M",
           "price": 263,
           "qty": 1
+        },
+        "7900415153892": {
+          "code": "7900415153892",
+          "name": "Shorts saia marrom LP M",
+          "price": 443,
+          "qty": 1
         }
       },
-      "total": 1843,
+      "total": 2286,
       "status": "open"
     }
   },
@@ -16529,5 +16535,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:44:43.997Z"
+  "savedAt": "2026-08-03T21:45:09.914Z"
 }
