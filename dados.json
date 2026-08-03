@@ -5748,9 +5748,15 @@
           "name": "Top nadador preto AG m",
           "price": 298,
           "qty": 1
+        },
+        "7909746646523": {
+          "code": "7909746646523",
+          "name": "Jaqueta flex corta vento bege DT P",
+          "price": 699,
+          "qty": 1
         }
       },
-      "total": 7838.5,
+      "total": 8537.5,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16235,5 +16241,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:45:27.871Z"
+  "savedAt": "2026-08-03T17:45:40.501Z"
 }
