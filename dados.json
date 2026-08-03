@@ -6209,9 +6209,15 @@
           "name": "Calça jogger com elástico preto LP P",
           "price": 527,
           "qty": 1
+        },
+        "7900292896639": {
+          "code": "7900292896639",
+          "name": "Calça pantalona preta moletom lp P",
+          "price": 563,
+          "qty": 1
         }
       },
-      "total": 2428.9,
+      "total": 2991.9,
       "status": "open"
     }
   },
@@ -16332,5 +16338,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:48:18.648Z"
+  "savedAt": "2026-08-03T18:48:39.144Z"
 }
