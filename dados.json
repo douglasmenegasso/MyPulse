@@ -6313,9 +6313,15 @@
           "name": "Top curve branco live G",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072408707": {
+          "code": "7901072408707",
+          "name": "Regata halter verde oliva claro live g",
+          "price": 179.9,
+          "qty": 1
         }
       },
-      "total": 5375.299999999998,
+      "total": 5555.199999999998,
       "status": "open"
     }
   },
@@ -16606,5 +16612,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:48:44.978Z"
+  "savedAt": "2026-08-03T21:48:51.085Z"
 }
