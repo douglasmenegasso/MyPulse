@@ -4954,6 +4954,11 @@
       "code": "7900292387120",
       "name": "Regata de alças off com bege LP P",
       "price": 263
+    },
+    "7900415277215": {
+      "code": "7900415277215",
+      "name": "Moletom over preto LP pp",
+      "price": 463
     }
   },
   "clients": {
@@ -16338,5 +16343,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:48:39.144Z"
+  "savedAt": "2026-08-03T18:49:03.136Z"
 }
