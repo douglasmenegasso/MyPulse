@@ -5724,9 +5724,15 @@
           "name": "Moletom decote v rose LP pp",
           "price": 587,
           "qty": 1
+        },
+        "7900415216986": {
+          "code": "7900415216986",
+          "name": "Regata de alças canelada off Lp m",
+          "price": 263,
+          "qty": 1
         }
       },
-      "total": 4314,
+      "total": 4577,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16108,5 +16114,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:03:11.957Z"
+  "savedAt": "2026-08-03T17:03:19.644Z"
 }
