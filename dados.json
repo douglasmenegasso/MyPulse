@@ -6284,9 +6284,15 @@
           "name": "Regata cropped branco live g",
           "price": 199.9,
           "qty": 1
+        },
+        "7901072429184": {
+          "code": "7901072429184",
+          "name": "Top curve azul petróleo live live g",
+          "price": 219.9,
+          "qty": 1
         }
       },
-      "total": 4245.7,
+      "total": 4465.599999999999,
       "status": "open"
     }
   },
@@ -16577,5 +16583,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:47:15.389Z"
+  "savedAt": "2026-08-03T21:47:25.001Z"
 }
