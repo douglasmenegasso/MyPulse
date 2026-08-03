@@ -5694,9 +5694,15 @@
           "name": "Pijama short doll erica cinza DT P",
           "price": 389,
           "qty": 1
+        },
+        "7909746638184": {
+          "code": "7909746638184",
+          "name": "Vestido riviera off com preto DT P",
+          "price": 979,
+          "qty": 1
         }
       },
-      "total": 4047.6000000000004,
+      "total": 5026.6,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16181,5 +16187,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:43:37.887Z"
+  "savedAt": "2026-08-03T17:43:55.406Z"
 }
