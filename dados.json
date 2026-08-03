@@ -5742,9 +5742,15 @@
           "name": "Bermuda elástico off com preto AG P",
           "price": 369,
           "qty": 1
+        },
+        "7890171657393": {
+          "code": "7890171657393",
+          "name": "Top nadador preto AG m",
+          "price": 298,
+          "qty": 1
         }
       },
-      "total": 7540.5,
+      "total": 7838.5,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16229,5 +16235,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:45:19.777Z"
+  "savedAt": "2026-08-03T17:45:27.871Z"
 }
