@@ -6248,9 +6248,15 @@
           "name": "Regata listrada cinza Lp M",
           "price": 223,
           "qty": 1
+        },
+        "7890171657782": {
+          "code": "7890171657782",
+          "name": "Legging marrom elástico azul AG M",
+          "price": 419,
+          "qty": 1
         }
       },
-      "total": 2509,
+      "total": 2928,
       "status": "open"
     }
   },
@@ -16541,5 +16547,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:45:46.869Z"
+  "savedAt": "2026-08-03T21:46:11.601Z"
 }
