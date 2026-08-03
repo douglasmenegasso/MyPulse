@@ -6262,9 +6262,15 @@
           "name": "Regata canelada verde LP M",
           "price": 297,
           "qty": 1
+        },
+        "7900358025010": {
+          "code": "7900358025010",
+          "name": "Jaqueta bloom listras bege off CCM P",
+          "price": 569,
+          "qty": 1
         }
       },
-      "total": 6166.9,
+      "total": 6735.9,
       "status": "open"
     }
   },
@@ -16385,5 +16391,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:51:16.612Z"
+  "savedAt": "2026-08-03T18:51:51.393Z"
 }
