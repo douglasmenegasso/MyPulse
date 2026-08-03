@@ -6197,9 +6197,15 @@
           "name": "Calça reta com franzido preto AG M",
           "price": 399,
           "qty": 1
+        },
+        "7900415030421": {
+          "code": "7900415030421",
+          "name": "Jaqueta preta com elástico Lp M",
+          "price": 853,
+          "qty": 1
         }
       },
-      "total": 1048.9,
+      "total": 1901.9,
       "status": "open"
     }
   },
@@ -16320,5 +16326,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:47:53.153Z"
+  "savedAt": "2026-08-03T18:48:06.663Z"
 }
