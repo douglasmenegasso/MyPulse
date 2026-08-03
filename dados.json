@@ -5718,9 +5718,15 @@
           "name": "T-shirt cropped marrom escrita off LP P",
           "price": 197,
           "qty": 1
+        },
+        "7900415352103": {
+          "code": "7900415352103",
+          "name": "Moletom decote v rose LP pp",
+          "price": 587,
+          "qty": 1
         }
       },
-      "total": 3727,
+      "total": 4314,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16102,5 +16108,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T16:52:43.849Z"
+  "savedAt": "2026-08-03T16:52:57.469Z"
 }
