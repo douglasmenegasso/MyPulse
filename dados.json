@@ -6256,9 +6256,15 @@
           "name": "Shorts furadinho bege com verde LP M",
           "price": 497,
           "qty": 1
+        },
+        "7900415122447": {
+          "code": "7900415122447",
+          "name": "Regata canelada verde LP M",
+          "price": 297,
+          "qty": 1
         }
       },
-      "total": 5869.9,
+      "total": 6166.9,
       "status": "open"
     }
   },
@@ -16379,5 +16385,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:51:03.620Z"
+  "savedAt": "2026-08-03T18:51:16.612Z"
 }
