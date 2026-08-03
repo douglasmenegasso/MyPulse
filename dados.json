@@ -6226,9 +6226,15 @@
           "name": "Moletom over preto LP pp",
           "price": 463,
           "qty": 1
+        },
+        "7900415035587": {
+          "code": "7900415035587",
+          "name": "Calça sarja jeans marrom LP 38",
+          "price": 767,
+          "qty": 1
         }
       },
-      "total": 3454.9,
+      "total": 4221.9,
       "status": "open"
     }
   },
@@ -16349,5 +16355,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:49:11.529Z"
+  "savedAt": "2026-08-03T18:49:37.372Z"
 }
