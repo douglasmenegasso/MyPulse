@@ -6340,9 +6340,15 @@
           "name": "Jaqueta linho marrom manga média Lp P",
           "price": 637,
           "qty": 1
+        },
+        "7900415323486": {
+          "code": "7900415323486",
+          "name": "Shorts com linho marrom LP P",
+          "price": 333,
+          "qty": 1
         }
       },
-      "total": 12023.9,
+      "total": 12356.9,
       "status": "open"
     }
   },
@@ -16463,5 +16469,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:57:42.899Z"
+  "savedAt": "2026-08-03T18:58:39.737Z"
 }
