@@ -4959,6 +4959,11 @@
       "code": "7900415277215",
       "name": "Moletom over preto LP pp",
       "price": 463
+    },
+    "7901072413664": {
+      "code": "7901072413664",
+      "name": "Shorts neopren verde oliva claro live g",
+      "price": 219.9
     }
   },
   "clients": {
@@ -16589,5 +16594,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:47:44.736Z"
+  "savedAt": "2026-08-03T21:48:02.697Z"
 }
