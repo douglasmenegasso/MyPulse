@@ -5596,21 +5596,9 @@
           "name": "Jaqueta flex corta vento bege DT P",
           "price": 699,
           "qty": 1
-        },
-        "7900415277819": {
-          "code": "7900415277819",
-          "name": "Shorts saia jeans azul LP 40",
-          "price": 443,
-          "qty": 1
-        },
-        "7909746614386": {
-          "code": "7909746614386",
-          "name": "Regata canelada azul DT g",
-          "price": 259,
-          "qty": 1
         }
       },
-      "total": 3449.6,
+      "total": 2747.6,
       "status": "open"
     },
     "c_1783458513348": {
@@ -8680,6 +8668,20 @@
         "price": 249.9,
         "qty": 1,
         "lastAt": "2026-07-24T20:16:43.661Z"
+      },
+      "7900415277819": {
+        "code": "7900415277819",
+        "name": "Shorts saia jeans azul LP 40",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-08-03T21:43:12.896Z"
+      },
+      "7909746614386": {
+        "code": "7909746614386",
+        "name": "Regata canelada azul DT g",
+        "price": 259,
+        "qty": 1,
+        "lastAt": "2026-08-03T21:43:13.976Z"
       }
     },
     "c_1779389649186": {
@@ -16488,5 +16490,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:43:10.378Z"
+  "savedAt": "2026-08-03T21:43:13.977Z"
 }
