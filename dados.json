@@ -5640,9 +5640,15 @@
           "name": "Top cut out preto live M",
           "price": 279.9,
           "qty": 1
+        },
+        "7900415199289": {
+          "code": "7900415199289",
+          "name": "Calça balloon de moletom rosa LP pp",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 577.9,
+      "total": 1130.9,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16127,5 +16133,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:39:04.059Z"
+  "savedAt": "2026-08-03T17:39:30.441Z"
 }
