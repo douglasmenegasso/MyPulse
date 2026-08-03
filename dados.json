@@ -6212,9 +6212,15 @@
           "name": "Vestido curto canelado de alça azul LP M",
           "price": 397,
           "qty": 1
+        },
+        "7900415274979": {
+          "code": "7900415274979",
+          "name": "Vestido curto canelado azul escuro Lp g",
+          "price": 397,
+          "qty": 1
         }
       },
-      "total": 397,
+      "total": 794,
       "status": "open"
     }
   },
@@ -16505,5 +16511,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:43:43.825Z"
+  "savedAt": "2026-08-03T21:43:52.406Z"
 }
