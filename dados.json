@@ -6274,9 +6274,15 @@
           "name": "Shorts camurça caramelo LP M",
           "price": 723,
           "qty": 1
+        },
+        "7900415268589": {
+          "code": "7900415268589",
+          "name": "Shorts sarja bege Lp 38",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 7458.9,
+      "total": 8011.9,
       "status": "open"
     }
   },
@@ -16397,5 +16403,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:52:00.988Z"
+  "savedAt": "2026-08-03T18:52:51.124Z"
 }
