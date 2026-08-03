@@ -6346,9 +6346,15 @@
           "name": "Shorts com linho marrom LP P",
           "price": 333,
           "qty": 1
+        },
+        "7900292955398": {
+          "code": "7900292955398",
+          "name": "Regata listrada marrom Lp M",
+          "price": 223,
+          "qty": 1
         }
       },
-      "total": 12356.9,
+      "total": 12579.9,
       "status": "open"
     }
   },
@@ -16469,5 +16475,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:58:43.227Z"
+  "savedAt": "2026-08-03T18:59:07.350Z"
 }
