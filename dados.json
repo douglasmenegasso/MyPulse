@@ -4989,6 +4989,11 @@
       "code": "7908931976827",
       "name": "Shorts icon vermelho live g",
       "price": 239.9
+    },
+    "7890171649213": {
+      "code": "7890171649213",
+      "name": "Regata cropped refletivo branco AG g",
+      "price": 219
     }
   },
   "clients": {
@@ -16703,5 +16708,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:53:46.047Z"
+  "savedAt": "2026-08-03T21:54:01.810Z"
 }
