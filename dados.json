@@ -5664,9 +5664,15 @@
           "name": "Shorts icon rosa ametista live M",
           "price": 239.9,
           "qty": 1
+        },
+        "7901072451222": {
+          "code": "7901072451222",
+          "name": "Top icon rosa ametista live M",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 2153.7000000000003,
+      "total": 2403.6000000000004,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16151,5 +16157,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:40:42.511Z"
+  "savedAt": "2026-08-03T17:40:56.210Z"
 }
