@@ -5724,9 +5724,15 @@
           "name": "Jaqueta ajustada com bolso preto AG M",
           "price": 489,
           "qty": 1
+        },
+        "7909746645823": {
+          "code": "7909746645823",
+          "name": "Legging dashi preto DT P",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 6552.6,
+      "total": 6951.6,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16211,5 +16217,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:44:48.461Z"
+  "savedAt": "2026-08-03T17:44:55.283Z"
 }
