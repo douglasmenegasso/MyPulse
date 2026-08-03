@@ -6242,9 +6242,15 @@
           "name": "Shorts saia marrom LP M",
           "price": 443,
           "qty": 1
+        },
+        "7900415109998": {
+          "code": "7900415109998",
+          "name": "Regata listrada cinza Lp M",
+          "price": 223,
+          "qty": 1
         }
       },
-      "total": 2286,
+      "total": 2509,
       "status": "open"
     }
   },
@@ -16535,5 +16541,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:45:09.914Z"
+  "savedAt": "2026-08-03T21:45:43.216Z"
 }
