@@ -6404,9 +6404,15 @@
           "name": "T-shirt cropped rosa AG M",
           "price": 198,
           "qty": 1
+        },
+        "7908931976827": {
+          "code": "7908931976827",
+          "name": "Shorts icon vermelho live g",
+          "price": 239.9,
+          "qty": 1
         }
       },
-      "total": 8142.299999999995,
+      "total": 8382.199999999995,
       "status": "open"
     }
   },
@@ -16697,5 +16703,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:53:34.128Z"
+  "savedAt": "2026-08-03T21:53:37.949Z"
 }
