@@ -5700,9 +5700,15 @@
           "name": "Vestido riviera off com preto DT P",
           "price": 979,
           "qty": 1
+        },
+        "7909746638115": {
+          "code": "7909746638115",
+          "name": "Calça rivieira preta com off DT P",
+          "price": 269,
+          "qty": 1
         }
       },
-      "total": 5026.6,
+      "total": 5295.6,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16187,5 +16193,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:43:55.406Z"
+  "savedAt": "2026-08-03T17:44:08.041Z"
 }
