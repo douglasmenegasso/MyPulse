@@ -6220,9 +6220,15 @@
           "name": "Calça pantalona preta moletom lp P",
           "price": 563,
           "qty": 1
+        },
+        "7900415277215": {
+          "code": "7900415277215",
+          "name": "Moletom over preto LP pp",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 2991.9,
+      "total": 3454.9,
       "status": "open"
     }
   },
@@ -16343,5 +16349,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:49:03.136Z"
+  "savedAt": "2026-08-03T18:49:07.155Z"
 }
