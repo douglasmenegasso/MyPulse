@@ -6421,9 +6421,15 @@
           "name": "Regata cropped refletivo branco AG g",
           "price": 219,
           "qty": 1
+        },
+        "7908990985945": {
+          "code": "7908990985945",
+          "name": "Top curve vermelho live G",
+          "price": 189.9,
+          "qty": 1
         }
       },
-      "total": 8601.199999999995,
+      "total": 8791.099999999995,
       "status": "open"
     }
   },
@@ -16714,5 +16720,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:54:05.800Z"
+  "savedAt": "2026-08-03T21:54:18.214Z"
 }
