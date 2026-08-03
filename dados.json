@@ -5796,9 +5796,15 @@
           "name": "Calça bailarina live M",
           "price": 399.9,
           "qty": 1
+        },
+        "7901072485869": {
+          "code": "7901072485869",
+          "name": "Legging fuso tex marrom live M",
+          "price": 359.9,
+          "qty": 1
         }
       },
-      "total": 10966.799999999997,
+      "total": 11326.699999999997,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16283,5 +16289,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:46:58.315Z"
+  "savedAt": "2026-08-03T17:47:06.596Z"
 }
