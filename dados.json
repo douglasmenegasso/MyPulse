@@ -6260,9 +6260,15 @@
           "name": "Top nadador marrom elástico azul AG g",
           "price": 289,
           "qty": 1
+        },
+        "7890171655405": {
+          "code": "7890171655405",
+          "name": "T-shirt off com detalhes marrom AG M",
+          "price": 259,
+          "qty": 1
         }
       },
-      "total": 3217,
+      "total": 3476,
       "status": "open"
     }
   },
@@ -16553,5 +16559,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:46:28.866Z"
+  "savedAt": "2026-08-03T21:46:41.218Z"
 }
