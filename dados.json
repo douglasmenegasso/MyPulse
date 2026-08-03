@@ -6304,9 +6304,15 @@
           "name": "Calça sarja baggy rosa LP 36",
           "price": 673,
           "qty": 1
+        },
+        "7890171628126": {
+          "code": "7890171628126",
+          "name": "Regata canelada rosa AG M",
+          "price": 159,
+          "qty": 1
         }
       },
-      "total": 9819.9,
+      "total": 9978.9,
       "status": "open"
     }
   },
@@ -16427,5 +16433,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:54:22.627Z"
+  "savedAt": "2026-08-03T18:54:37.677Z"
 }
