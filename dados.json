@@ -5712,9 +5712,15 @@
           "name": "Regata listrada cinza em linho LP P",
           "price": 223,
           "qty": 1
+        },
+        "7900415074401": {
+          "code": "7900415074401",
+          "name": "T-shirt cropped marrom escrita off LP P",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 3530,
+      "total": 3727,
       "status": "open"
     },
     "c_1783701666054": {
@@ -16096,5 +16102,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T16:52:01.893Z"
+  "savedAt": "2026-08-03T16:52:43.849Z"
 }
