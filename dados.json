@@ -6286,9 +6286,15 @@
           "name": "Blusa de tule bege com preto CCM M",
           "price": 249,
           "qty": 1
+        },
+        "7900415112059": {
+          "code": "7900415112059",
+          "name": "Regata canelada amarela Lp M",
+          "price": 297,
+          "qty": 1
         }
       },
-      "total": 8260.9,
+      "total": 8557.9,
       "status": "open"
     }
   },
@@ -16409,5 +16415,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:53:01.742Z"
+  "savedAt": "2026-08-03T18:53:14.620Z"
 }
