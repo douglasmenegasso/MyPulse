@@ -5736,9 +5736,15 @@
           "name": "Top alças fina preto live M",
           "price": 219.9,
           "qty": 1
+        },
+        "7890171656945": {
+          "code": "7890171656945",
+          "name": "Bermuda elástico off com preto AG P",
+          "price": 369,
+          "qty": 1
         }
       },
-      "total": 7171.5,
+      "total": 7540.5,
       "status": "open"
     },
     "c_1783623370358": {
@@ -16223,5 +16229,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T17:45:11.776Z"
+  "savedAt": "2026-08-03T17:45:19.777Z"
 }
