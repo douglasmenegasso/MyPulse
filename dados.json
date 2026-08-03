@@ -6316,9 +6316,15 @@
           "name": "Camiseta rapel preta escrita rosa CCM M",
           "price": 189,
           "qty": 1
+        },
+        "7900415322489": {
+          "code": "7900415322489",
+          "name": "Jaqueta manga média com linho rose LP M",
+          "price": 637,
+          "qty": 1
         }
       },
-      "total": 10167.9,
+      "total": 10804.9,
       "status": "open"
     }
   },
@@ -16439,5 +16445,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:54:52.736Z"
+  "savedAt": "2026-08-03T18:55:15.355Z"
 }
