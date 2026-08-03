@@ -4979,6 +4979,11 @@
       "code": "7908931912016",
       "name": "Macaquinho allure azul petróleo live g",
       "price": 349.9
+    },
+    "7901072484640": {
+      "code": "7901072484640",
+      "name": "Shorts tex marrom live g",
+      "price": 239.9
     }
   },
   "clients": {
@@ -16669,5 +16674,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:51:47.509Z"
+  "savedAt": "2026-08-03T21:52:06.196Z"
 }
