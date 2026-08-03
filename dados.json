@@ -6290,9 +6290,15 @@
           "name": "Top curve azul petróleo live live g",
           "price": 219.9,
           "qty": 1
+        },
+        "7901072423571": {
+          "code": "7901072423571",
+          "name": "Jaqueta harmony verde oliva live M",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 4465.599999999999,
+      "total": 4965.499999999999,
       "status": "open"
     }
   },
@@ -16583,5 +16589,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T21:47:25.001Z"
+  "savedAt": "2026-08-03T21:47:39.480Z"
 }
