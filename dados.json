@@ -6203,9 +6203,15 @@
           "name": "Jaqueta preta com elástico Lp M",
           "price": 853,
           "qty": 1
+        },
+        "7900415273279": {
+          "code": "7900415273279",
+          "name": "Calça jogger com elástico preto LP P",
+          "price": 527,
+          "qty": 1
         }
       },
-      "total": 1901.9,
+      "total": 2428.9,
       "status": "open"
     }
   },
@@ -16326,5 +16332,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-03T18:48:11.093Z"
+  "savedAt": "2026-08-03T18:48:18.648Z"
 }
