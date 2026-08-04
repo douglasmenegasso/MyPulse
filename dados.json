@@ -5019,6 +5019,11 @@
       "code": "7909746661403",
       "name": "Shorts doll pink DT P",
       "price": 439
+    },
+    "7909746679255": {
+      "code": "7909746679255",
+      "name": "Short doll bege com azul DT P",
+      "price": 399
     }
   },
   "clients": {
@@ -16747,5 +16752,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T16:52:22.987Z"
+  "savedAt": "2026-08-04T16:52:44.922Z"
 }
