@@ -5069,6 +5069,11 @@
       "code": "7908754514275",
       "name": "Legging icon preto live gg",
       "price": 319.9
+    },
+    "7908754527831": {
+      "code": "7908754527831",
+      "name": "Top icon preto live gg",
+      "price": 249.9
     }
   },
   "clients": {
@@ -16893,5 +16898,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:06:28.835Z"
+  "savedAt": "2026-08-04T20:06:49.183Z"
 }
