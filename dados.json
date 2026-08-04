@@ -6580,9 +6580,15 @@
           "name": "Legging icon preto live gg",
           "price": 319.9,
           "qty": 1
+        },
+        "7908754537885": {
+          "code": "7908754537885",
+          "name": "Camiseta icon preta live g ",
+          "price": 199.9,
+          "qty": 1
         }
       },
-      "total": 4958.4,
+      "total": 5158.299999999999,
       "status": "open"
     }
   },
@@ -16887,5 +16893,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:06:22.894Z"
+  "savedAt": "2026-08-04T20:06:28.835Z"
 }
