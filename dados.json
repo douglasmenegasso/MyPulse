@@ -6506,6 +6506,19 @@
       },
       "total": 9299.099999999995,
       "status": "waiting"
+    },
+    "c_1785873804870": {
+      "clientId": "c_1785873804870",
+      "items": {
+        "7908990960201": {
+          "code": "7908990960201",
+          "name": "Calça texturizada verde live G",
+          "price": 599.9,
+          "qty": 1
+        }
+      },
+      "total": 599.9,
+      "status": "open"
     }
   },
   "closed": [
@@ -16809,5 +16822,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:03:24.872Z"
+  "savedAt": "2026-08-04T20:03:45.979Z"
 }
