@@ -6633,9 +6633,15 @@
           "name": "T-shirt over preta espírita off Lp M",
           "price": 243,
           "qty": 1
+        },
+        "7900415162412": {
+          "code": "7900415162412",
+          "name": "Calça jeans azul mol LP 40",
+          "price": 417,
+          "qty": 1
         }
       },
-      "total": 7378.899999999998,
+      "total": 7795.899999999998,
       "status": "open"
     }
   },
@@ -16940,5 +16946,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:09:01.139Z"
+  "savedAt": "2026-08-04T20:09:16.572Z"
 }
