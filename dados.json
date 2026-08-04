@@ -4999,6 +4999,11 @@
       "code": "7909746641719",
       "name": "Calça barolo furadinho vinho DT P",
       "price": 839
+    },
+    "7909746676568": {
+      "code": "7909746676568",
+      "name": "Camiseta barolo furadinho vinho DT P",
+      "price": 369
     }
   },
   "clients": {
@@ -16727,5 +16732,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T16:49:58.693Z"
+  "savedAt": "2026-08-04T16:50:46.293Z"
 }
