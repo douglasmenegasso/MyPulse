@@ -6615,9 +6615,15 @@
           "name": "Top icon azul petróleo live gg",
           "price": 249.9,
           "qty": 1
+        },
+        "7900358025003": {
+          "code": "7900358025003",
+          "name": "Jaqueta boom listras off com preto CCM P",
+          "price": 569,
+          "qty": 1
         }
       },
-      "total": 6167.899999999998,
+      "total": 6736.899999999998,
       "status": "open"
     }
   },
@@ -16922,5 +16928,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:08:08.979Z"
+  "savedAt": "2026-08-04T20:08:37.983Z"
 }
