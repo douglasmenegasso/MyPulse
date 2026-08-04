@@ -6639,9 +6639,15 @@
           "name": "Calça jeans azul mol LP 40",
           "price": 417,
           "qty": 1
+        },
+        "7900415150181": {
+          "code": "7900415150181",
+          "name": "T-shirt cinza estampa marrom LP g",
+          "price": 197,
+          "qty": 1
         }
       },
-      "total": 7795.899999999998,
+      "total": 7992.899999999998,
       "status": "open"
     }
   },
@@ -16946,5 +16952,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:09:16.572Z"
+  "savedAt": "2026-08-04T20:09:26.704Z"
 }
