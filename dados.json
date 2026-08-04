@@ -6485,9 +6485,15 @@
           "name": "Top curve vermelho live G",
           "price": 189.9,
           "qty": 1
+        },
+        "03403625910": {
+          "code": "03403625910",
+          "name": "Legging canelada bordo MeC g",
+          "price": 299,
+          "qty": 1
         }
       },
-      "total": 8791.099999999995,
+      "total": 9090.099999999995,
       "status": "open"
     }
   },
@@ -16792,5 +16798,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T18:25:52.507Z"
+  "savedAt": "2026-08-04T18:25:59.494Z"
 }
