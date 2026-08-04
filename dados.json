@@ -5029,6 +5029,11 @@
       "code": "7909746648169",
       "name": "Legging player preto com branco DT P",
       "price": 449
+    },
+    "7909746641528": {
+      "code": "7909746641528",
+      "name": "Regata barolo vinho DT M",
+      "price": 289
     }
   },
   "clients": {
@@ -16757,5 +16762,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T16:53:10.258Z"
+  "savedAt": "2026-08-04T16:53:48.015Z"
 }
