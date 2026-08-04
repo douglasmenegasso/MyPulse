@@ -6574,9 +6574,15 @@
           "name": "Jaqueta marrom live symbol g",
           "price": 499.9,
           "qty": 1
+        },
+        "7908754514275": {
+          "code": "7908754514275",
+          "name": "Legging icon preto live gg",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 4638.5,
+      "total": 4958.4,
       "status": "open"
     }
   },
@@ -16881,5 +16887,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:06:18.332Z"
+  "savedAt": "2026-08-04T20:06:22.894Z"
 }
