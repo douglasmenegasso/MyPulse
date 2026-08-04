@@ -6521,9 +6521,15 @@
           "name": "Camiseta texturizada live verde M",
           "price": 349.9,
           "qty": 1
+        },
+        "7908990960041": {
+          "code": "7908990960041",
+          "name": "Blusão texturizado verde live g",
+          "price": 499.9,
+          "qty": 1
         }
       },
-      "total": 949.8,
+      "total": 1449.6999999999998,
       "status": "open"
     }
   },
@@ -16828,5 +16834,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:04:07.723Z"
+  "savedAt": "2026-08-04T20:04:12.048Z"
 }
