@@ -6627,9 +6627,15 @@
           "name": "Calça flare preto DT g",
           "price": 399,
           "qty": 1
+        },
+        "7900415284053": {
+          "code": "7900415284053",
+          "name": "T-shirt over preta espírita off Lp M",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 7135.899999999998,
+      "total": 7378.899999999998,
       "status": "open"
     }
   },
@@ -16934,5 +16940,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:08:54.908Z"
+  "savedAt": "2026-08-04T20:09:01.139Z"
 }
