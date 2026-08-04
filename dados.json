@@ -5044,6 +5044,11 @@
       "code": "7909746641689",
       "name": "Calça barolo furadinha off DT P",
       "price": 839
+    },
+    "7909746646127": {
+      "code": "7909746646127",
+      "name": "Regata curve geladinha bege DT M",
+      "price": 289
     }
   },
   "clients": {
@@ -16772,5 +16777,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T16:54:36.082Z"
+  "savedAt": "2026-08-04T16:54:58.047Z"
 }
