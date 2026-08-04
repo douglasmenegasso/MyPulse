@@ -6491,9 +6491,15 @@
           "name": "Legging canelada bordo MeC g",
           "price": 299,
           "qty": 1
+        },
+        "03503245910": {
+          "code": "03503245910",
+          "name": "Top canelado com zíper bordo MeC g",
+          "price": 209,
+          "qty": 1
         }
       },
-      "total": 9090.099999999995,
+      "total": 9299.099999999995,
       "status": "open"
     }
   },
@@ -16798,5 +16804,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T18:25:59.494Z"
+  "savedAt": "2026-08-04T18:26:09.304Z"
 }
