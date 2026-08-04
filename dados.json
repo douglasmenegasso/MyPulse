@@ -6551,9 +6551,15 @@
           "name": "Calça balloon de moletom rosa Lp M",
           "price": 553,
           "qty": 1
+        },
+        "7900415250454": {
+          "code": "7900415250454",
+          "name": "Moletom oversized rosa LP M",
+          "price": 463,
+          "qty": 1
         }
       },
-      "total": 3432.6,
+      "total": 3895.6,
       "status": "open"
     }
   },
@@ -16858,5 +16864,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:05:18.966Z"
+  "savedAt": "2026-08-04T20:05:28.247Z"
 }
