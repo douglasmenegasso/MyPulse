@@ -6060,75 +6060,9 @@
           "name": "Top estampa marrom live symbol M",
           "price": 239.9,
           "qty": 1
-        },
-        "7900415268572": {
-          "code": "7900415268572",
-          "name": "Shorts jeans bege com detalhe couro LP 36",
-          "price": 553,
-          "qty": 1
-        },
-        "7900415216993": {
-          "code": "7900415216993",
-          "name": "Blusa de alças canelada off Lp P",
-          "price": 263,
-          "qty": 1
-        },
-        "7900415112066": {
-          "code": "7900415112066",
-          "name": "Regata canelada bege LP P",
-          "price": 297,
-          "qty": 1
-        },
-        "7900415164997": {
-          "code": "7900415164997",
-          "name": "Shorts furadinho bege com verde LP P",
-          "price": 497,
-          "qty": 1
-        },
-        "7900415222994": {
-          "code": "7900415222994",
-          "name": "Regata canelada com elástico verde Lp P",
-          "price": 297,
-          "qty": 1
-        },
-        "7900415277796": {
-          "code": "7900415277796",
-          "name": "Shorts saia jeans azul LP 36",
-          "price": 443,
-          "qty": 1
-        },
-        "7900415302955": {
-          "code": "7900415302955",
-          "name": "T-shirt branca estampa azul escuro LP P",
-          "price": 243,
-          "qty": 1
-        },
-        "7900415146900": {
-          "code": "7900415146900",
-          "name": "Shorts saia com bolsos preto LP P",
-          "price": 597,
-          "qty": 1
-        },
-        "7909746615857": {
-          "code": "7909746615857",
-          "name": "Regata alça fina preta DT M",
-          "price": 279,
-          "qty": 1
-        },
-        "7908990950837": {
-          "code": "7908990950837",
-          "name": "Shorts moletom off live P",
-          "price": 299.9,
-          "qty": 1
-        },
-        "7900415361037": {
-          "code": "7900415361037",
-          "name": "Regata canelada marrom bordado azul Lp P",
-          "price": 263,
-          "qty": 1
         }
       },
-      "total": 8579.1,
+      "total": 4547.200000000001,
       "status": "open"
     },
     "41991694056": {
@@ -11206,6 +11140,83 @@
         "price": 449.9,
         "qty": 1,
         "lastAt": "2026-07-17T18:36:23.947Z"
+      },
+      "7900415361037": {
+        "code": "7900415361037",
+        "name": "Regata canelada marrom bordado azul Lp P",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:51.171Z"
+      },
+      "7908990950837": {
+        "code": "7908990950837",
+        "name": "Shorts moletom off live P",
+        "price": 299.9,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:51.504Z"
+      },
+      "7909746615857": {
+        "code": "7909746615857",
+        "name": "Regata alça fina preta DT M",
+        "price": 279,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:51.518Z"
+      },
+      "7900415146900": {
+        "code": "7900415146900",
+        "name": "Shorts saia com bolsos preto LP P",
+        "price": 597,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:51.685Z"
+      },
+      "7900415302955": {
+        "code": "7900415302955",
+        "name": "T-shirt branca estampa azul escuro LP P",
+        "price": 243,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:51.850Z"
+      },
+      "7900415277796": {
+        "code": "7900415277796",
+        "name": "Shorts saia jeans azul LP 36",
+        "price": 443,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:52.535Z"
+      },
+      "7900415222994": {
+        "code": "7900415222994",
+        "name": "Regata canelada com elástico verde Lp P",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:52.541Z"
+      },
+      "7900415164997": {
+        "code": "7900415164997",
+        "name": "Shorts furadinho bege com verde LP P",
+        "price": 497,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:52.546Z"
+      },
+      "7900415112066": {
+        "code": "7900415112066",
+        "name": "Regata canelada bege LP P",
+        "price": 297,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:52.550Z"
+      },
+      "7900415216993": {
+        "code": "7900415216993",
+        "name": "Blusa de alças canelada off Lp P",
+        "price": 263,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:52.561Z"
+      },
+      "7900415268572": {
+        "code": "7900415268572",
+        "name": "Shorts jeans bege com detalhe couro LP 36",
+        "price": 553,
+        "qty": 1,
+        "lastAt": "2026-08-04T20:10:52.736Z"
       }
     },
     "c_1779210400273": {
@@ -16952,5 +16963,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:10:50.223Z"
+  "savedAt": "2026-08-04T20:10:52.737Z"
 }
