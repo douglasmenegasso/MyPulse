@@ -6609,9 +6609,15 @@
           "name": "Camiseta V action branca live g",
           "price": 189.9,
           "qty": 1
+        },
+        "7901072413381": {
+          "code": "7901072413381",
+          "name": "Top icon azul petróleo live gg",
+          "price": 249.9,
+          "qty": 1
         }
       },
-      "total": 5917.999999999998,
+      "total": 6167.899999999998,
       "status": "open"
     }
   },
@@ -16916,5 +16922,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:07:42.235Z"
+  "savedAt": "2026-08-04T20:08:08.979Z"
 }
