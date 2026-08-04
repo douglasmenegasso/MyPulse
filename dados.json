@@ -6557,9 +6557,15 @@
           "name": "Moletom oversized rosa LP M",
           "price": 463,
           "qty": 1
+        },
+        "7900415286941": {
+          "code": "7900415286941",
+          "name": "T-shirt off com rosa LP g",
+          "price": 243,
+          "qty": 1
         }
       },
-      "total": 3895.6,
+      "total": 4138.6,
       "status": "open"
     }
   },
@@ -16864,5 +16870,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:05:28.247Z"
+  "savedAt": "2026-08-04T20:05:37.541Z"
 }
