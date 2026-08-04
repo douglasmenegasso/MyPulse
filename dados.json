@@ -5034,6 +5034,11 @@
       "code": "7909746641528",
       "name": "Regata barolo vinho DT M",
       "price": 289
+    },
+    "7909746676537": {
+      "code": "7909746676537",
+      "name": "Camiseta barolo furadinha off DT P",
+      "price": 369
     }
   },
   "clients": {
@@ -16762,5 +16767,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T16:53:59.132Z"
+  "savedAt": "2026-08-04T16:54:15.217Z"
 }
