@@ -6545,9 +6545,15 @@
           "name": "Moletom marrom escrita off LP M",
           "price": 587,
           "qty": 1
+        },
+        "7900415199265": {
+          "code": "7900415199265",
+          "name": "Calça balloon de moletom rosa Lp M",
+          "price": 553,
+          "qty": 1
         }
       },
-      "total": 2879.6,
+      "total": 3432.6,
       "status": "open"
     }
   },
@@ -16852,5 +16858,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:05:07.868Z"
+  "savedAt": "2026-08-04T20:05:18.966Z"
 }
