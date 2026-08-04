@@ -6621,9 +6621,15 @@
           "name": "Jaqueta boom listras off com preto CCM P",
           "price": 569,
           "qty": 1
+        },
+        "7909746613693": {
+          "code": "7909746613693",
+          "name": "Calça flare preto DT g",
+          "price": 399,
+          "qty": 1
         }
       },
-      "total": 6736.899999999998,
+      "total": 7135.899999999998,
       "status": "open"
     }
   },
@@ -16928,5 +16934,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:08:37.983Z"
+  "savedAt": "2026-08-04T20:08:48.512Z"
 }
