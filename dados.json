@@ -6597,9 +6597,15 @@
           "name": "Top icon preto live gg",
           "price": 249.9,
           "qty": 1
+        },
+        "7901072413596": {
+          "code": "7901072413596",
+          "name": "Legging icon azul petróleo live gg",
+          "price": 319.9,
+          "qty": 1
         }
       },
-      "total": 5408.199999999999,
+      "total": 5728.0999999999985,
       "status": "open"
     }
   },
@@ -16904,5 +16910,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T20:07:08.320Z"
+  "savedAt": "2026-08-04T20:07:34.986Z"
 }
