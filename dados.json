@@ -5039,6 +5039,11 @@
       "code": "7909746676537",
       "name": "Camiseta barolo furadinha off DT P",
       "price": 369
+    },
+    "7909746641689": {
+      "code": "7909746641689",
+      "name": "Calça barolo furadinha off DT P",
+      "price": 839
     }
   },
   "clients": {
@@ -16767,5 +16772,5 @@
     "recoveryKey": "0VN2UEWW-YCJ4",
     "recoveryEmail": "contatomypulse@gmail.com"
   },
-  "savedAt": "2026-08-04T16:54:15.217Z"
+  "savedAt": "2026-08-04T16:54:36.082Z"
 }
